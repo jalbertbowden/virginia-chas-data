@@ -1,0 +1,2 @@
+"Note"
+"The Description column in this tab explains what the ESTIMATE in a certain row is counting. This information matches to the data files by TBLID and ORDER. Column C, ""Column Heading for Transposed File"" is a unique identifier that combines TBLID and ORDER; using this variable, the raw data files can be transposed so that each jurisdiction has only one observation (row). The Description column has each criteria separated by a semicolon, which will allow you to split it into multiple columns."
