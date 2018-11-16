@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Chesapeake city, Virginia",670.0,306.0,1.0,05000US51550,51,550,T,All,All,All
+"Chesapeake city, Virginia",75.0,95.0,2.0,05000US51550,51,550,S,Substandard,All,All
+"Chesapeake city, Virginia",595.0,283.0,3.0,05000US51550,51,550,S,Standard,All,All
+"Chesapeake city, Virginia",0.0,161.0,4.0,05000US51550,51,550,S,Standard,VHUD50,All
+"Chesapeake city, Virginia",0.0,161.0,5.0,05000US51550,51,550,D,Standard,VHUD50,0 or 1
+"Chesapeake city, Virginia",0.0,161.0,6.0,05000US51550,51,550,D,Standard,VHUD50,2
+"Chesapeake city, Virginia",0.0,161.0,7.0,05000US51550,51,550,D,Standard,VHUD50,3 or more
+"Chesapeake city, Virginia",95.0,78.0,8.0,05000US51550,51,550,S,Standard,VHUD80,All
+"Chesapeake city, Virginia",0.0,161.0,9.0,05000US51550,51,550,D,Standard,VHUD80,0 or 1
+"Chesapeake city, Virginia",0.0,161.0,10.0,05000US51550,51,550,D,Standard,VHUD80,2
+"Chesapeake city, Virginia",95.0,78.0,11.0,05000US51550,51,550,D,Standard,VHUD80,3 or more
+"Chesapeake city, Virginia",20.0,34.0,12.0,05000US51550,51,550,S,Standard,VHUD100,All
+"Chesapeake city, Virginia",0.0,161.0,13.0,05000US51550,51,550,D,Standard,VHUD100,0 or 1
+"Chesapeake city, Virginia",0.0,161.0,14.0,05000US51550,51,550,D,Standard,VHUD100,2
+"Chesapeake city, Virginia",20.0,34.0,15.0,05000US51550,51,550,D,Standard,VHUD100,3 or more
+"Chesapeake city, Virginia",475.0,277.0,16.0,05000US51550,51,550,S,Standard,Greater than VHUD100,All
+"Chesapeake city, Virginia",0.0,161.0,17.0,05000US51550,51,550,D,Standard,Greater than VHUD100,0 or 1
+"Chesapeake city, Virginia",55.0,88.0,18.0,05000US51550,51,550,D,Standard,Greater than VHUD100,2
+"Chesapeake city, Virginia",425.0,262.0,19.0,05000US51550,51,550,D,Standard,Greater than VHUD100,3 or more

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Alexandria city, Virginia",2375.0,642.0,1.0,05000US51510,51,510,T,All,All,All
+"Alexandria city, Virginia",45.0,75.0,2.0,05000US51510,51,510,S,Substandard,All,All
+"Alexandria city, Virginia",2330.0,639.0,3.0,05000US51510,51,510,S,Standard,All,All
+"Alexandria city, Virginia",40.0,66.0,4.0,05000US51510,51,510,S,Standard,RHUD30,All
+"Alexandria city, Virginia",40.0,66.0,5.0,05000US51510,51,510,D,Standard,RHUD30,0 or 1
+"Alexandria city, Virginia",0.0,161.0,6.0,05000US51510,51,510,D,Standard,RHUD30,2
+"Alexandria city, Virginia",0.0,161.0,7.0,05000US51510,51,510,D,Standard,RHUD30,3 or more
+"Alexandria city, Virginia",470.0,372.0,8.0,05000US51510,51,510,S,Standard,RHUD50,All
+"Alexandria city, Virginia",110.0,107.0,9.0,05000US51510,51,510,D,Standard,RHUD50,0 or 1
+"Alexandria city, Virginia",305.0,343.0,10.0,05000US51510,51,510,D,Standard,RHUD50,2
+"Alexandria city, Virginia",55.0,94.0,11.0,05000US51510,51,510,D,Standard,RHUD50,3 or more
+"Alexandria city, Virginia",1500.0,455.0,12.0,05000US51510,51,510,S,Standard,RHUD80,All
+"Alexandria city, Virginia",540.0,276.0,13.0,05000US51510,51,510,D,Standard,RHUD80,0 or 1
+"Alexandria city, Virginia",685.0,305.0,14.0,05000US51510,51,510,D,Standard,RHUD80,2
+"Alexandria city, Virginia",280.0,205.0,15.0,05000US51510,51,510,D,Standard,RHUD80,3 or more
+"Alexandria city, Virginia",315.0,234.0,16.0,05000US51510,51,510,S,Standard,Greater than RHUD80,All
+"Alexandria city, Virginia",65.0,109.0,17.0,05000US51510,51,510,D,Standard,Greater than RHUD80,0 or 1
+"Alexandria city, Virginia",210.0,200.0,18.0,05000US51510,51,510,D,Standard,Greater than RHUD80,2
+"Alexandria city, Virginia",40.0,67.0,19.0,05000US51510,51,510,D,Standard,Greater than RHUD80,3 or more

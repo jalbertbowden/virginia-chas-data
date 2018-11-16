@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Accomack County, Virginia",240.0,132.0,1.0,05000US51001,51,001,T,All,All,All
+"Accomack County, Virginia",35.0,48.0,2.0,05000US51001,51,001,S,Substandard,All,All
+"Accomack County, Virginia",205.0,122.0,3.0,05000US51001,51,001,S,Standard,All,All
+"Accomack County, Virginia",30.0,39.0,4.0,05000US51001,51,001,S,Standard,VHUD50,All
+"Accomack County, Virginia",0.0,161.0,5.0,05000US51001,51,001,D,Standard,VHUD50,0 or 1
+"Accomack County, Virginia",30.0,39.0,6.0,05000US51001,51,001,D,Standard,VHUD50,2
+"Accomack County, Virginia",0.0,161.0,7.0,05000US51001,51,001,D,Standard,VHUD50,3 or more
+"Accomack County, Virginia",4.0,10.0,8.0,05000US51001,51,001,S,Standard,VHUD80,All
+"Accomack County, Virginia",0.0,161.0,9.0,05000US51001,51,001,D,Standard,VHUD80,0 or 1
+"Accomack County, Virginia",0.0,161.0,10.0,05000US51001,51,001,D,Standard,VHUD80,2
+"Accomack County, Virginia",4.0,10.0,11.0,05000US51001,51,001,D,Standard,VHUD80,3 or more
+"Accomack County, Virginia",35.0,39.0,12.0,05000US51001,51,001,S,Standard,VHUD100,All
+"Accomack County, Virginia",0.0,161.0,13.0,05000US51001,51,001,D,Standard,VHUD100,0 or 1
+"Accomack County, Virginia",0.0,161.0,14.0,05000US51001,51,001,D,Standard,VHUD100,2
+"Accomack County, Virginia",35.0,39.0,15.0,05000US51001,51,001,D,Standard,VHUD100,3 or more
+"Accomack County, Virginia",140.0,114.0,16.0,05000US51001,51,001,S,Standard,Greater than VHUD100,All
+"Accomack County, Virginia",0.0,161.0,17.0,05000US51001,51,001,D,Standard,Greater than VHUD100,0 or 1
+"Accomack County, Virginia",0.0,161.0,18.0,05000US51001,51,001,D,Standard,Greater than VHUD100,2
+"Accomack County, Virginia",140.0,114.0,19.0,05000US51001,51,001,D,Standard,Greater than VHUD100,3 or more

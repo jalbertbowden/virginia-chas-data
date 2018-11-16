@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Page County, Virginia",9755.0,361.0,1.0,05000US51139,51,139,T,All,All,All
+"Page County, Virginia",7060.0,470.0,2.0,05000US51139,51,139,S,Owner,All,All
+"Page County, Virginia",500.0,238.0,3.0,05000US51139,51,139,S,Owner,2000+,All
+"Page County, Virginia",190.0,135.0,4.0,05000US51139,51,139,D,Owner,2000+,Yes
+"Page County, Virginia",310.0,171.0,5.0,05000US51139,51,139,D,Owner,2000+,No
+"Page County, Virginia",1745.0,320.0,6.0,05000US51139,51,139,S,Owner,1980 to 1999,All
+"Page County, Virginia",280.0,151.0,7.0,05000US51139,51,139,D,Owner,1980 to 1999,Yes
+"Page County, Virginia",1465.0,292.0,8.0,05000US51139,51,139,D,Owner,1980 to 1999,No
+"Page County, Virginia",2345.0,382.0,9.0,05000US51139,51,139,S,Owner,1960 to 1979,All
+"Page County, Virginia",320.0,172.0,10.0,05000US51139,51,139,D,Owner,1960 to 1979,Yes
+"Page County, Virginia",2025.0,367.0,11.0,05000US51139,51,139,D,Owner,1960 to 1979,No
+"Page County, Virginia",930.0,209.0,12.0,05000US51139,51,139,S,Owner,1940 to 1959,All
+"Page County, Virginia",135.0,117.0,13.0,05000US51139,51,139,D,Owner,1940 to 1959,Yes
+"Page County, Virginia",800.0,180.0,14.0,05000US51139,51,139,D,Owner,1940 to 1959,No
+"Page County, Virginia",1545.0,282.0,15.0,05000US51139,51,139,S,Owner,1939-,All
+"Page County, Virginia",165.0,101.0,16.0,05000US51139,51,139,D,Owner,1939-,Yes
+"Page County, Virginia",1380.0,265.0,17.0,05000US51139,51,139,D,Owner,1939-,No
+"Page County, Virginia",2695.0,435.0,18.0,05000US51139,51,139,S,Renter,All,All
+"Page County, Virginia",60.0,93.0,19.0,05000US51139,51,139,S,Renter,2000+,All
+"Page County, Virginia",0.0,161.0,20.0,05000US51139,51,139,D,Renter,2000+,Yes
+"Page County, Virginia",60.0,93.0,21.0,05000US51139,51,139,D,Renter,2000+,No
+"Page County, Virginia",840.0,294.0,22.0,05000US51139,51,139,S,Renter,1980 to 1999,All
+"Page County, Virginia",75.0,77.0,23.0,05000US51139,51,139,D,Renter,1980 to 1999,Yes
+"Page County, Virginia",765.0,283.0,24.0,05000US51139,51,139,D,Renter,1980 to 1999,No
+"Page County, Virginia",890.0,293.0,25.0,05000US51139,51,139,S,Renter,1960 to 1979,All
+"Page County, Virginia",250.0,156.0,26.0,05000US51139,51,139,D,Renter,1960 to 1979,Yes
+"Page County, Virginia",640.0,233.0,27.0,05000US51139,51,139,D,Renter,1960 to 1979,No
+"Page County, Virginia",445.0,169.0,28.0,05000US51139,51,139,S,Renter,1940 to 1959,All
+"Page County, Virginia",40.0,43.0,29.0,05000US51139,51,139,D,Renter,1940 to 1959,Yes
+"Page County, Virginia",405.0,172.0,30.0,05000US51139,51,139,D,Renter,1940 to 1959,No
+"Page County, Virginia",460.0,185.0,31.0,05000US51139,51,139,S,Renter,1939-,All
+"Page County, Virginia",80.0,62.0,32.0,05000US51139,51,139,D,Renter,1939-,Yes
+"Page County, Virginia",380.0,171.0,33.0,05000US51139,51,139,D,Renter,1939-,No

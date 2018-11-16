@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Roanoke city, Virginia",1110.0,414.0,1.0,05000US51770,51,770,T,All,All,All
+"Roanoke city, Virginia",70.0,118.0,2.0,05000US51770,51,770,S,Substandard,All,All
+"Roanoke city, Virginia",1040.0,385.0,3.0,05000US51770,51,770,S,Standard,All,All
+"Roanoke city, Virginia",260.0,188.0,4.0,05000US51770,51,770,S,Standard,RHUD30,All
+"Roanoke city, Virginia",185.0,164.0,5.0,05000US51770,51,770,D,Standard,RHUD30,0 or 1
+"Roanoke city, Virginia",75.0,89.0,6.0,05000US51770,51,770,D,Standard,RHUD30,2
+"Roanoke city, Virginia",0.0,161.0,7.0,05000US51770,51,770,D,Standard,RHUD30,3 or more
+"Roanoke city, Virginia",740.0,356.0,8.0,05000US51770,51,770,S,Standard,RHUD50,All
+"Roanoke city, Virginia",175.0,144.0,9.0,05000US51770,51,770,D,Standard,RHUD50,0 or 1
+"Roanoke city, Virginia",325.0,206.0,10.0,05000US51770,51,770,D,Standard,RHUD50,2
+"Roanoke city, Virginia",240.0,179.0,11.0,05000US51770,51,770,D,Standard,RHUD50,3 or more
+"Roanoke city, Virginia",40.0,70.0,12.0,05000US51770,51,770,S,Standard,RHUD80,All
+"Roanoke city, Virginia",0.0,161.0,13.0,05000US51770,51,770,D,Standard,RHUD80,0 or 1
+"Roanoke city, Virginia",40.0,70.0,14.0,05000US51770,51,770,D,Standard,RHUD80,2
+"Roanoke city, Virginia",0.0,161.0,15.0,05000US51770,51,770,D,Standard,RHUD80,3 or more
+"Roanoke city, Virginia",0.0,161.0,16.0,05000US51770,51,770,S,Standard,Greater than RHUD80,All
+"Roanoke city, Virginia",0.0,161.0,17.0,05000US51770,51,770,D,Standard,Greater than RHUD80,0 or 1
+"Roanoke city, Virginia",0.0,161.0,18.0,05000US51770,51,770,D,Standard,Greater than RHUD80,2
+"Roanoke city, Virginia",0.0,161.0,19.0,05000US51770,51,770,D,Standard,Greater than RHUD80,3 or more

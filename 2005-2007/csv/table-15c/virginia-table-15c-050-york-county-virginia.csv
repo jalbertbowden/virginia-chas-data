@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"York County, Virginia",5280.0,624.0,1.0,05000US51199,51,199,T,All,All,All,All
+"York County, Virginia",25.0,43.0,2.0,05000US51199,51,199,S,Substandard,All,All,All
+"York County, Virginia",5255.0,620.0,3.0,05000US51199,51,199,S,Standard,All,All,All
+"York County, Virginia",1015.0,292.0,4.0,05000US51199,51,199,S,Standard,RHUD30,All,All
+"York County, Virginia",50.0,56.0,5.0,05000US51199,51,199,S,Standard,RHUD30,30% AMI or less,All
+"York County, Virginia",0.0,161.0,6.0,05000US51199,51,199,D,Standard,RHUD30,30% AMI or less,0 or 1
+"York County, Virginia",50.0,56.0,7.0,05000US51199,51,199,D,Standard,RHUD30,30% AMI or less,2
+"York County, Virginia",0.0,161.0,8.0,05000US51199,51,199,D,Standard,RHUD30,30% AMI or less,3 or more
+"York County, Virginia",160.0,111.0,9.0,05000US51199,51,199,S,Standard,RHUD30,30.1-50% AMI,All
+"York County, Virginia",0.0,161.0,10.0,05000US51199,51,199,D,Standard,RHUD30,30.1-50% AMI,0 or 1
+"York County, Virginia",45.0,50.0,11.0,05000US51199,51,199,D,Standard,RHUD30,30.1-50% AMI,2
+"York County, Virginia",115.0,103.0,12.0,05000US51199,51,199,D,Standard,RHUD30,30.1-50% AMI,3 or more
+"York County, Virginia",415.0,226.0,13.0,05000US51199,51,199,S,Standard,RHUD30,50.1-80% AMI,All
+"York County, Virginia",0.0,161.0,14.0,05000US51199,51,199,D,Standard,RHUD30,50.1-80% AMI,0 or 1
+"York County, Virginia",80.0,69.0,15.0,05000US51199,51,199,D,Standard,RHUD30,50.1-80% AMI,2
+"York County, Virginia",335.0,214.0,16.0,05000US51199,51,199,D,Standard,RHUD30,50.1-80% AMI,3 or more
+"York County, Virginia",95.0,98.0,17.0,05000US51199,51,199,S,Standard,RHUD30,80.1-95% AMI,All
+"York County, Virginia",0.0,161.0,18.0,05000US51199,51,199,D,Standard,RHUD30,80.1-95% AMI,0 or 1
+"York County, Virginia",0.0,161.0,19.0,05000US51199,51,199,D,Standard,RHUD30,80.1-95% AMI,2
+"York County, Virginia",95.0,98.0,20.0,05000US51199,51,199,D,Standard,RHUD30,80.1-95% AMI,3 or more
+"York County, Virginia",295.0,139.0,21.0,05000US51199,51,199,S,Standard,RHUD30,95.1% AMI and above,All
+"York County, Virginia",0.0,161.0,22.0,05000US51199,51,199,D,Standard,RHUD30,95.1% AMI and above,0 or 1
+"York County, Virginia",15.0,31.0,23.0,05000US51199,51,199,D,Standard,RHUD30,95.1% AMI and above,2
+"York County, Virginia",280.0,144.0,24.0,05000US51199,51,199,D,Standard,RHUD30,95.1% AMI and above,3 or more
+"York County, Virginia",845.0,308.0,25.0,05000US51199,51,199,S,Standard,RHUD50,All,All
+"York County, Virginia",285.0,198.0,26.0,05000US51199,51,199,S,Standard,RHUD50,30% AMI or less,All
+"York County, Virginia",80.0,132.0,27.0,05000US51199,51,199,D,Standard,RHUD50,30% AMI or less,0 or 1
+"York County, Virginia",165.0,147.0,28.0,05000US51199,51,199,D,Standard,RHUD50,30% AMI or less,2
+"York County, Virginia",40.0,61.0,29.0,05000US51199,51,199,D,Standard,RHUD50,30% AMI or less,3 or more
+"York County, Virginia",120.0,76.0,30.0,05000US51199,51,199,S,Standard,RHUD50,30.1-50% AMI,All
+"York County, Virginia",0.0,161.0,31.0,05000US51199,51,199,D,Standard,RHUD50,30.1-50% AMI,0 or 1
+"York County, Virginia",50.0,52.0,32.0,05000US51199,51,199,D,Standard,RHUD50,30.1-50% AMI,2
+"York County, Virginia",70.0,68.0,33.0,05000US51199,51,199,D,Standard,RHUD50,30.1-50% AMI,3 or more
+"York County, Virginia",50.0,59.0,34.0,05000US51199,51,199,S,Standard,RHUD50,50.1-80% AMI,All
+"York County, Virginia",0.0,161.0,35.0,05000US51199,51,199,D,Standard,RHUD50,50.1-80% AMI,0 or 1
+"York County, Virginia",50.0,59.0,36.0,05000US51199,51,199,D,Standard,RHUD50,50.1-80% AMI,2
+"York County, Virginia",0.0,161.0,37.0,05000US51199,51,199,D,Standard,RHUD50,50.1-80% AMI,3 or more
+"York County, Virginia",230.0,192.0,38.0,05000US51199,51,199,S,Standard,RHUD50,80.1-95% AMI,All
+"York County, Virginia",0.0,161.0,39.0,05000US51199,51,199,D,Standard,RHUD50,80.1-95% AMI,0 or 1
+"York County, Virginia",75.0,98.0,40.0,05000US51199,51,199,D,Standard,RHUD50,80.1-95% AMI,2
+"York County, Virginia",155.0,167.0,41.0,05000US51199,51,199,D,Standard,RHUD50,80.1-95% AMI,3 or more
+"York County, Virginia",165.0,114.0,42.0,05000US51199,51,199,S,Standard,RHUD50,95.1% AMI and above,All
+"York County, Virginia",0.0,161.0,43.0,05000US51199,51,199,D,Standard,RHUD50,95.1% AMI and above,0 or 1
+"York County, Virginia",105.0,98.0,44.0,05000US51199,51,199,D,Standard,RHUD50,95.1% AMI and above,2
+"York County, Virginia",60.0,58.0,45.0,05000US51199,51,199,D,Standard,RHUD50,95.1% AMI and above,3 or more
+"York County, Virginia",2545.0,498.0,46.0,05000US51199,51,199,S,Standard,RHUD80,All,All
+"York County, Virginia",135.0,190.0,47.0,05000US51199,51,199,S,Standard,RHUD80,30% AMI or less,All
+"York County, Virginia",0.0,161.0,48.0,05000US51199,51,199,D,Standard,RHUD80,30% AMI or less,0 or 1
+"York County, Virginia",0.0,161.0,49.0,05000US51199,51,199,D,Standard,RHUD80,30% AMI or less,2
+"York County, Virginia",135.0,190.0,50.0,05000US51199,51,199,D,Standard,RHUD80,30% AMI or less,3 or more
+"York County, Virginia",205.0,120.0,51.0,05000US51199,51,199,S,Standard,RHUD80,30.1-50% AMI,All
+"York County, Virginia",20.0,38.0,52.0,05000US51199,51,199,D,Standard,RHUD80,30.1-50% AMI,0 or 1
+"York County, Virginia",80.0,73.0,53.0,05000US51199,51,199,D,Standard,RHUD80,30.1-50% AMI,2
+"York County, Virginia",105.0,100.0,54.0,05000US51199,51,199,D,Standard,RHUD80,30.1-50% AMI,3 or more
+"York County, Virginia",455.0,224.0,55.0,05000US51199,51,199,S,Standard,RHUD80,50.1-80% AMI,All
+"York County, Virginia",85.0,72.0,56.0,05000US51199,51,199,D,Standard,RHUD80,50.1-80% AMI,0 or 1
+"York County, Virginia",190.0,131.0,57.0,05000US51199,51,199,D,Standard,RHUD80,50.1-80% AMI,2
+"York County, Virginia",180.0,171.0,58.0,05000US51199,51,199,D,Standard,RHUD80,50.1-80% AMI,3 or more
+"York County, Virginia",405.0,252.0,59.0,05000US51199,51,199,S,Standard,RHUD80,80.1-95% AMI,All
+"York County, Virginia",0.0,161.0,60.0,05000US51199,51,199,D,Standard,RHUD80,80.1-95% AMI,0 or 1
+"York County, Virginia",235.0,208.0,61.0,05000US51199,51,199,D,Standard,RHUD80,80.1-95% AMI,2
+"York County, Virginia",170.0,142.0,62.0,05000US51199,51,199,D,Standard,RHUD80,80.1-95% AMI,3 or more
+"York County, Virginia",1345.0,347.0,63.0,05000US51199,51,199,S,Standard,RHUD80,95.1% AMI and above,All
+"York County, Virginia",95.0,92.0,64.0,05000US51199,51,199,D,Standard,RHUD80,95.1% AMI and above,0 or 1
+"York County, Virginia",545.0,218.0,65.0,05000US51199,51,199,D,Standard,RHUD80,95.1% AMI and above,2
+"York County, Virginia",705.0,274.0,66.0,05000US51199,51,199,D,Standard,RHUD80,95.1% AMI and above,3 or more
+"York County, Virginia",845.0,274.0,67.0,05000US51199,51,199,S,Standard,Greater than RHUD80,All,All
+"York County, Virginia",20.0,34.0,68.0,05000US51199,51,199,S,Standard,Greater than RHUD80,30% AMI or less,All
+"York County, Virginia",0.0,161.0,69.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30% AMI or less,0 or 1
+"York County, Virginia",20.0,34.0,70.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30% AMI or less,2
+"York County, Virginia",0.0,161.0,71.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30% AMI or less,3 or more
+"York County, Virginia",0.0,161.0,72.0,05000US51199,51,199,S,Standard,Greater than RHUD80,30.1-50% AMI,All
+"York County, Virginia",0.0,161.0,73.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30.1-50% AMI,0 or 1
+"York County, Virginia",0.0,161.0,74.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30.1-50% AMI,2
+"York County, Virginia",0.0,161.0,75.0,05000US51199,51,199,D,Standard,Greater than RHUD80,30.1-50% AMI,3 or more
+"York County, Virginia",105.0,117.0,76.0,05000US51199,51,199,S,Standard,Greater than RHUD80,50.1-80% AMI,All
+"York County, Virginia",0.0,161.0,77.0,05000US51199,51,199,D,Standard,Greater than RHUD80,50.1-80% AMI,0 or 1
+"York County, Virginia",85.0,112.0,78.0,05000US51199,51,199,D,Standard,Greater than RHUD80,50.1-80% AMI,2
+"York County, Virginia",20.0,32.0,79.0,05000US51199,51,199,D,Standard,Greater than RHUD80,50.1-80% AMI,3 or more
+"York County, Virginia",145.0,109.0,80.0,05000US51199,51,199,S,Standard,Greater than RHUD80,80.1-95% AMI,All
+"York County, Virginia",45.0,57.0,81.0,05000US51199,51,199,D,Standard,Greater than RHUD80,80.1-95% AMI,0 or 1
+"York County, Virginia",85.0,90.0,82.0,05000US51199,51,199,D,Standard,Greater than RHUD80,80.1-95% AMI,2
+"York County, Virginia",15.0,24.0,83.0,05000US51199,51,199,D,Standard,Greater than RHUD80,80.1-95% AMI,3 or more
+"York County, Virginia",580.0,198.0,84.0,05000US51199,51,199,S,Standard,Greater than RHUD80,95.1% AMI and above,All
+"York County, Virginia",80.0,94.0,85.0,05000US51199,51,199,D,Standard,Greater than RHUD80,95.1% AMI and above,0 or 1
+"York County, Virginia",190.0,115.0,86.0,05000US51199,51,199,D,Standard,Greater than RHUD80,95.1% AMI and above,2
+"York County, Virginia",310.0,144.0,87.0,05000US51199,51,199,D,Standard,Greater than RHUD80,95.1% AMI and above,3 or more

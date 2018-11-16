@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income
+"Roanoke city, Virginia",41820.0,717.0,1.0,05000US51770,51,770,T,All,All,All
+"Roanoke city, Virginia",24765.0,983.0,2.0,05000US51770,51,770,S,Owner,All,All
+"Roanoke city, Virginia",6065.0,699.0,3.0,05000US51770,51,770,S,Owner,Yes,All
+"Roanoke city, Virginia",740.0,202.0,4.0,05000US51770,51,770,D,Owner,Yes,<=20% AMI
+"Roanoke city, Virginia",635.0,205.0,5.0,05000US51770,51,770,D,Owner,Yes,20.1-30% AMI
+"Roanoke city, Virginia",805.0,254.0,6.0,05000US51770,51,770,D,Owner,Yes,30.1-40% AMI
+"Roanoke city, Virginia",515.0,158.0,7.0,05000US51770,51,770,D,Owner,Yes,40.1-50% AMI
+"Roanoke city, Virginia",785.0,291.0,8.0,05000US51770,51,770,D,Owner,Yes,50.1-60% AMI
+"Roanoke city, Virginia",405.0,130.0,9.0,05000US51770,51,770,D,Owner,Yes,60.1-65% AMI
+"Roanoke city, Virginia",770.0,322.0,10.0,05000US51770,51,770,D,Owner,Yes,65.1-80% AMI
+"Roanoke city, Virginia",550.0,209.0,11.0,05000US51770,51,770,D,Owner,Yes,80.1-95% AMI
+"Roanoke city, Virginia",80.0,75.0,12.0,05000US51770,51,770,D,Owner,Yes,95.1-100% AMI
+"Roanoke city, Virginia",370.0,203.0,13.0,05000US51770,51,770,D,Owner,Yes,100.1-115% AMI
+"Roanoke city, Virginia",45.0,44.0,14.0,05000US51770,51,770,D,Owner,Yes,115.1-120% AMI
+"Roanoke city, Virginia",105.0,81.0,15.0,05000US51770,51,770,D,Owner,Yes,120.1-140% AMI
+"Roanoke city, Virginia",260.0,120.0,16.0,05000US51770,51,770,D,Owner,Yes,>140% AMI
+"Roanoke city, Virginia",18570.0,896.0,17.0,05000US51770,51,770,S,Owner,No,All
+"Roanoke city, Virginia",60.0,58.0,18.0,05000US51770,51,770,D,Owner,No,<=20% AMI
+"Roanoke city, Virginia",500.0,219.0,19.0,05000US51770,51,770,D,Owner,No,20.1-30% AMI
+"Roanoke city, Virginia",760.0,238.0,20.0,05000US51770,51,770,D,Owner,No,30.1-40% AMI
+"Roanoke city, Virginia",600.0,219.0,21.0,05000US51770,51,770,D,Owner,No,40.1-50% AMI
+"Roanoke city, Virginia",765.0,272.0,22.0,05000US51770,51,770,D,Owner,No,50.1-60% AMI
+"Roanoke city, Virginia",530.0,172.0,23.0,05000US51770,51,770,D,Owner,No,60.1-65% AMI
+"Roanoke city, Virginia",1700.0,343.0,24.0,05000US51770,51,770,D,Owner,No,65.1-80% AMI
+"Roanoke city, Virginia",1710.0,369.0,25.0,05000US51770,51,770,D,Owner,No,80.1-95% AMI
+"Roanoke city, Virginia",490.0,182.0,26.0,05000US51770,51,770,D,Owner,No,95.1-100% AMI
+"Roanoke city, Virginia",2400.0,454.0,27.0,05000US51770,51,770,D,Owner,No,100.1-115% AMI
+"Roanoke city, Virginia",425.0,171.0,28.0,05000US51770,51,770,D,Owner,No,115.1-120% AMI
+"Roanoke city, Virginia",2040.0,462.0,29.0,05000US51770,51,770,D,Owner,No,120.1-140% AMI
+"Roanoke city, Virginia",6590.0,603.0,30.0,05000US51770,51,770,D,Owner,No,>140% AMI
+"Roanoke city, Virginia",130.0,99.0,31.0,05000US51770,51,770,S,Owner,N/A,All
+"Roanoke city, Virginia",130.0,99.0,32.0,05000US51770,51,770,D,Owner,N/A,<=20% AMI
+"Roanoke city, Virginia",0.0,161.0,33.0,05000US51770,51,770,D,Owner,N/A,20.1-30% AMI
+"Roanoke city, Virginia",0.0,161.0,34.0,05000US51770,51,770,D,Owner,N/A,30.1-40% AMI
+"Roanoke city, Virginia",0.0,161.0,35.0,05000US51770,51,770,D,Owner,N/A,40.1-50% AMI
+"Roanoke city, Virginia",0.0,161.0,36.0,05000US51770,51,770,D,Owner,N/A,50.1-60% AMI
+"Roanoke city, Virginia",0.0,161.0,37.0,05000US51770,51,770,D,Owner,N/A,60.1-65% AMI
+"Roanoke city, Virginia",0.0,161.0,38.0,05000US51770,51,770,D,Owner,N/A,65.1-80% AMI
+"Roanoke city, Virginia",0.0,161.0,39.0,05000US51770,51,770,D,Owner,N/A,80.1-95% AMI
+"Roanoke city, Virginia",0.0,161.0,40.0,05000US51770,51,770,D,Owner,N/A,95.1-100% AMI
+"Roanoke city, Virginia",0.0,161.0,41.0,05000US51770,51,770,D,Owner,N/A,100.1-115% AMI
+"Roanoke city, Virginia",0.0,161.0,42.0,05000US51770,51,770,D,Owner,N/A,115.1-120% AMI
+"Roanoke city, Virginia",0.0,161.0,43.0,05000US51770,51,770,D,Owner,N/A,120.1-140% AMI
+"Roanoke city, Virginia",0.0,161.0,44.0,05000US51770,51,770,D,Owner,N/A,>140% AMI
+"Roanoke city, Virginia",17055.0,960.0,45.0,05000US51770,51,770,S,Renter,All,All
+"Roanoke city, Virginia",7410.0,770.0,46.0,05000US51770,51,770,S,Renter,Yes,All
+"Roanoke city, Virginia",2125.0,477.0,47.0,05000US51770,51,770,D,Renter,Yes,<=20% AMI
+"Roanoke city, Virginia",1385.0,378.0,48.0,05000US51770,51,770,D,Renter,Yes,20.1-30% AMI
+"Roanoke city, Virginia",1575.0,432.0,49.0,05000US51770,51,770,D,Renter,Yes,30.1-40% AMI
+"Roanoke city, Virginia",870.0,359.0,50.0,05000US51770,51,770,D,Renter,Yes,40.1-50% AMI
+"Roanoke city, Virginia",605.0,291.0,51.0,05000US51770,51,770,D,Renter,Yes,50.1-60% AMI
+"Roanoke city, Virginia",120.0,82.0,52.0,05000US51770,51,770,D,Renter,Yes,60.1-65% AMI
+"Roanoke city, Virginia",220.0,139.0,53.0,05000US51770,51,770,D,Renter,Yes,65.1-80% AMI
+"Roanoke city, Virginia",125.0,92.0,54.0,05000US51770,51,770,D,Renter,Yes,80.1-95% AMI
+"Roanoke city, Virginia",20.0,34.0,55.0,05000US51770,51,770,D,Renter,Yes,95.1-100% AMI
+"Roanoke city, Virginia",220.0,171.0,56.0,05000US51770,51,770,D,Renter,Yes,100.1-115% AMI
+"Roanoke city, Virginia",0.0,161.0,57.0,05000US51770,51,770,D,Renter,Yes,115.1-120% AMI
+"Roanoke city, Virginia",0.0,161.0,58.0,05000US51770,51,770,D,Renter,Yes,120.1-140% AMI
+"Roanoke city, Virginia",145.0,75.0,59.0,05000US51770,51,770,D,Renter,Yes,>140% AMI
+"Roanoke city, Virginia",8625.0,796.0,60.0,05000US51770,51,770,S,Renter,No,All
+"Roanoke city, Virginia",305.0,177.0,61.0,05000US51770,51,770,D,Renter,No,<=20% AMI
+"Roanoke city, Virginia",340.0,145.0,62.0,05000US51770,51,770,D,Renter,No,20.1-30% AMI
+"Roanoke city, Virginia",325.0,158.0,63.0,05000US51770,51,770,D,Renter,No,30.1-40% AMI
+"Roanoke city, Virginia",690.0,282.0,64.0,05000US51770,51,770,D,Renter,No,40.1-50% AMI
+"Roanoke city, Virginia",675.0,292.0,65.0,05000US51770,51,770,D,Renter,No,50.1-60% AMI
+"Roanoke city, Virginia",560.0,199.0,66.0,05000US51770,51,770,D,Renter,No,60.1-65% AMI
+"Roanoke city, Virginia",1700.0,453.0,67.0,05000US51770,51,770,D,Renter,No,65.1-80% AMI
+"Roanoke city, Virginia",835.0,230.0,68.0,05000US51770,51,770,D,Renter,No,80.1-95% AMI
+"Roanoke city, Virginia",375.0,208.0,69.0,05000US51770,51,770,D,Renter,No,95.1-100% AMI
+"Roanoke city, Virginia",955.0,295.0,70.0,05000US51770,51,770,D,Renter,No,100.1-115% AMI
+"Roanoke city, Virginia",130.0,85.0,71.0,05000US51770,51,770,D,Renter,No,115.1-120% AMI
+"Roanoke city, Virginia",480.0,229.0,72.0,05000US51770,51,770,D,Renter,No,120.1-140% AMI
+"Roanoke city, Virginia",1250.0,381.0,73.0,05000US51770,51,770,D,Renter,No,>140% AMI
+"Roanoke city, Virginia",1020.0,340.0,74.0,05000US51770,51,770,S,Renter,N/A,All
+"Roanoke city, Virginia",635.0,297.0,75.0,05000US51770,51,770,D,Renter,N/A,<=20% AMI
+"Roanoke city, Virginia",0.0,161.0,76.0,05000US51770,51,770,D,Renter,N/A,20.1-30% AMI
+"Roanoke city, Virginia",95.0,101.0,77.0,05000US51770,51,770,D,Renter,N/A,30.1-40% AMI
+"Roanoke city, Virginia",15.0,27.0,78.0,05000US51770,51,770,D,Renter,N/A,40.1-50% AMI
+"Roanoke city, Virginia",15.0,26.0,79.0,05000US51770,51,770,D,Renter,N/A,50.1-60% AMI
+"Roanoke city, Virginia",45.0,54.0,80.0,05000US51770,51,770,D,Renter,N/A,60.1-65% AMI
+"Roanoke city, Virginia",40.0,65.0,81.0,05000US51770,51,770,D,Renter,N/A,65.1-80% AMI
+"Roanoke city, Virginia",35.0,45.0,82.0,05000US51770,51,770,D,Renter,N/A,80.1-95% AMI
+"Roanoke city, Virginia",0.0,161.0,83.0,05000US51770,51,770,D,Renter,N/A,95.1-100% AMI
+"Roanoke city, Virginia",65.0,77.0,84.0,05000US51770,51,770,D,Renter,N/A,100.1-115% AMI
+"Roanoke city, Virginia",25.0,40.0,85.0,05000US51770,51,770,D,Renter,N/A,115.1-120% AMI
+"Roanoke city, Virginia",15.0,22.0,86.0,05000US51770,51,770,D,Renter,N/A,120.1-140% AMI
+"Roanoke city, Virginia",35.0,44.0,87.0,05000US51770,51,770,D,Renter,N/A,>140% AMI

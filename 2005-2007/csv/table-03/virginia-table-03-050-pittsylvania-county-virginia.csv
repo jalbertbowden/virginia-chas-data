@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Pittsylvania County, Virginia",25420.0,633.0,1.0,05000US51143,51,143,T,All,All,All
+"Pittsylvania County, Virginia",20255.0,794.0,2.0,05000US51143,51,143,S,Owner,All,All
+"Pittsylvania County, Virginia",110.0,101.0,3.0,05000US51143,51,143,S,Owner,Substandard,All
+"Pittsylvania County, Virginia",110.0,101.0,4.0,05000US51143,51,143,D,Owner,Substandard,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,5.0,05000US51143,51,143,D,Owner,Substandard,30.1-50% AMI
+"Pittsylvania County, Virginia",0.0,161.0,6.0,05000US51143,51,143,D,Owner,Substandard,50.1-60% AMI
+"Pittsylvania County, Virginia",0.0,161.0,7.0,05000US51143,51,143,D,Owner,Substandard,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,8.0,05000US51143,51,143,D,Owner,Substandard,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,9.0,05000US51143,51,143,D,Owner,Substandard,>95% AMI
+"Pittsylvania County, Virginia",60.0,68.0,10.0,05000US51143,51,143,S,Owner,Severely overcrowded,All
+"Pittsylvania County, Virginia",0.0,161.0,11.0,05000US51143,51,143,D,Owner,Severely overcrowded,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,12.0,05000US51143,51,143,D,Owner,Severely overcrowded,30.1-50% AMI
+"Pittsylvania County, Virginia",0.0,161.0,13.0,05000US51143,51,143,D,Owner,Severely overcrowded,50.1-60% AMI
+"Pittsylvania County, Virginia",60.0,68.0,14.0,05000US51143,51,143,D,Owner,Severely overcrowded,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,15.0,05000US51143,51,143,D,Owner,Severely overcrowded,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,16.0,05000US51143,51,143,D,Owner,Severely overcrowded,>95% AMI
+"Pittsylvania County, Virginia",215.0,124.0,17.0,05000US51143,51,143,S,Owner,Overcrowded,All
+"Pittsylvania County, Virginia",0.0,161.0,18.0,05000US51143,51,143,D,Owner,Overcrowded,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,19.0,05000US51143,51,143,D,Owner,Overcrowded,30.1-50% AMI
+"Pittsylvania County, Virginia",20.0,35.0,20.0,05000US51143,51,143,D,Owner,Overcrowded,50.1-60% AMI
+"Pittsylvania County, Virginia",15.0,26.0,21.0,05000US51143,51,143,D,Owner,Overcrowded,60.1-80% AMI
+"Pittsylvania County, Virginia",20.0,39.0,22.0,05000US51143,51,143,D,Owner,Overcrowded,80.1-95% AMI
+"Pittsylvania County, Virginia",160.0,117.0,23.0,05000US51143,51,143,D,Owner,Overcrowded,>95% AMI
+"Pittsylvania County, Virginia",1610.0,331.0,24.0,05000US51143,51,143,S,Owner,Severely cost burdened,All
+"Pittsylvania County, Virginia",955.0,279.0,25.0,05000US51143,51,143,D,Owner,Severely cost burdened,<=30% AMI
+"Pittsylvania County, Virginia",275.0,130.0,26.0,05000US51143,51,143,D,Owner,Severely cost burdened,30.1-50% AMI
+"Pittsylvania County, Virginia",140.0,87.0,27.0,05000US51143,51,143,D,Owner,Severely cost burdened,50.1-60% AMI
+"Pittsylvania County, Virginia",150.0,100.0,28.0,05000US51143,51,143,D,Owner,Severely cost burdened,60.1-80% AMI
+"Pittsylvania County, Virginia",35.0,45.0,29.0,05000US51143,51,143,D,Owner,Severely cost burdened,80.1-95% AMI
+"Pittsylvania County, Virginia",55.0,52.0,30.0,05000US51143,51,143,D,Owner,Severely cost burdened,>95% AMI
+"Pittsylvania County, Virginia",2930.0,394.0,31.0,05000US51143,51,143,S,Owner,Cost burdened,All
+"Pittsylvania County, Virginia",605.0,206.0,32.0,05000US51143,51,143,D,Owner,Cost burdened,<=30% AMI
+"Pittsylvania County, Virginia",550.0,170.0,33.0,05000US51143,51,143,D,Owner,Cost burdened,30.1-50% AMI
+"Pittsylvania County, Virginia",375.0,155.0,34.0,05000US51143,51,143,D,Owner,Cost burdened,50.1-60% AMI
+"Pittsylvania County, Virginia",540.0,179.0,35.0,05000US51143,51,143,D,Owner,Cost burdened,60.1-80% AMI
+"Pittsylvania County, Virginia",205.0,104.0,36.0,05000US51143,51,143,D,Owner,Cost burdened,80.1-95% AMI
+"Pittsylvania County, Virginia",650.0,180.0,37.0,05000US51143,51,143,D,Owner,Cost burdened,>95% AMI
+"Pittsylvania County, Virginia",55.0,61.0,38.0,05000US51143,51,143,S,Owner,No income or no cash rent,All
+"Pittsylvania County, Virginia",55.0,61.0,39.0,05000US51143,51,143,D,Owner,No income or no cash rent,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,40.0,05000US51143,51,143,D,Owner,No income or no cash rent,30.1-50% AMI
+"Pittsylvania County, Virginia",0.0,161.0,41.0,05000US51143,51,143,D,Owner,No income or no cash rent,50.1-60% AMI
+"Pittsylvania County, Virginia",0.0,161.0,42.0,05000US51143,51,143,D,Owner,No income or no cash rent,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,43.0,05000US51143,51,143,D,Owner,No income or no cash rent,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,44.0,05000US51143,51,143,D,Owner,No income or no cash rent,>95% AMI
+"Pittsylvania County, Virginia",15270.0,728.0,45.0,05000US51143,51,143,S,Owner,No housing problems,All
+"Pittsylvania County, Virginia",440.0,185.0,46.0,05000US51143,51,143,D,Owner,No housing problems,<=30% AMI
+"Pittsylvania County, Virginia",1020.0,216.0,47.0,05000US51143,51,143,D,Owner,No housing problems,30.1-50% AMI
+"Pittsylvania County, Virginia",680.0,161.0,48.0,05000US51143,51,143,D,Owner,No housing problems,50.1-60% AMI
+"Pittsylvania County, Virginia",1690.0,288.0,49.0,05000US51143,51,143,D,Owner,No housing problems,60.1-80% AMI
+"Pittsylvania County, Virginia",1555.0,298.0,50.0,05000US51143,51,143,D,Owner,No housing problems,80.1-95% AMI
+"Pittsylvania County, Virginia",9885.0,660.0,51.0,05000US51143,51,143,D,Owner,No housing problems,>95% AMI
+"Pittsylvania County, Virginia",5165.0,717.0,52.0,05000US51143,51,143,S,Renter,All,All
+"Pittsylvania County, Virginia",220.0,162.0,53.0,05000US51143,51,143,S,Renter,Substandard,All
+"Pittsylvania County, Virginia",110.0,98.0,54.0,05000US51143,51,143,D,Renter,Substandard,<=30% AMI
+"Pittsylvania County, Virginia",20.0,33.0,55.0,05000US51143,51,143,D,Renter,Substandard,30.1-50% AMI
+"Pittsylvania County, Virginia",0.0,161.0,56.0,05000US51143,51,143,D,Renter,Substandard,50.1-60% AMI
+"Pittsylvania County, Virginia",90.0,118.0,57.0,05000US51143,51,143,D,Renter,Substandard,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,58.0,05000US51143,51,143,D,Renter,Substandard,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,59.0,05000US51143,51,143,D,Renter,Substandard,>95% AMI
+"Pittsylvania County, Virginia",75.0,74.0,60.0,05000US51143,51,143,S,Renter,Severely overcrowded,All
+"Pittsylvania County, Virginia",0.0,161.0,61.0,05000US51143,51,143,D,Renter,Severely overcrowded,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,62.0,05000US51143,51,143,D,Renter,Severely overcrowded,30.1-50% AMI
+"Pittsylvania County, Virginia",0.0,161.0,63.0,05000US51143,51,143,D,Renter,Severely overcrowded,50.1-60% AMI
+"Pittsylvania County, Virginia",60.0,64.0,64.0,05000US51143,51,143,D,Renter,Severely overcrowded,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,65.0,05000US51143,51,143,D,Renter,Severely overcrowded,80.1-95% AMI
+"Pittsylvania County, Virginia",15.0,33.0,66.0,05000US51143,51,143,D,Renter,Severely overcrowded,>95% AMI
+"Pittsylvania County, Virginia",30.0,46.0,67.0,05000US51143,51,143,S,Renter,Overcrowded,All
+"Pittsylvania County, Virginia",0.0,161.0,68.0,05000US51143,51,143,D,Renter,Overcrowded,<=30% AMI
+"Pittsylvania County, Virginia",0.0,161.0,69.0,05000US51143,51,143,D,Renter,Overcrowded,30.1-50% AMI
+"Pittsylvania County, Virginia",30.0,46.0,70.0,05000US51143,51,143,D,Renter,Overcrowded,50.1-60% AMI
+"Pittsylvania County, Virginia",0.0,161.0,71.0,05000US51143,51,143,D,Renter,Overcrowded,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,72.0,05000US51143,51,143,D,Renter,Overcrowded,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,73.0,05000US51143,51,143,D,Renter,Overcrowded,>95% AMI
+"Pittsylvania County, Virginia",1020.0,416.0,74.0,05000US51143,51,143,S,Renter,Severely cost burdened,All
+"Pittsylvania County, Virginia",855.0,410.0,75.0,05000US51143,51,143,D,Renter,Severely cost burdened,<=30% AMI
+"Pittsylvania County, Virginia",140.0,97.0,76.0,05000US51143,51,143,D,Renter,Severely cost burdened,30.1-50% AMI
+"Pittsylvania County, Virginia",25.0,47.0,77.0,05000US51143,51,143,D,Renter,Severely cost burdened,50.1-60% AMI
+"Pittsylvania County, Virginia",0.0,161.0,78.0,05000US51143,51,143,D,Renter,Severely cost burdened,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,79.0,05000US51143,51,143,D,Renter,Severely cost burdened,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,80.0,05000US51143,51,143,D,Renter,Severely cost burdened,>95% AMI
+"Pittsylvania County, Virginia",585.0,231.0,81.0,05000US51143,51,143,S,Renter,Cost burdened,All
+"Pittsylvania County, Virginia",70.0,61.0,82.0,05000US51143,51,143,D,Renter,Cost burdened,<=30% AMI
+"Pittsylvania County, Virginia",445.0,215.0,83.0,05000US51143,51,143,D,Renter,Cost burdened,30.1-50% AMI
+"Pittsylvania County, Virginia",55.0,45.0,84.0,05000US51143,51,143,D,Renter,Cost burdened,50.1-60% AMI
+"Pittsylvania County, Virginia",15.0,27.0,85.0,05000US51143,51,143,D,Renter,Cost burdened,60.1-80% AMI
+"Pittsylvania County, Virginia",0.0,161.0,86.0,05000US51143,51,143,D,Renter,Cost burdened,80.1-95% AMI
+"Pittsylvania County, Virginia",0.0,161.0,87.0,05000US51143,51,143,D,Renter,Cost burdened,>95% AMI
+"Pittsylvania County, Virginia",1095.0,256.0,88.0,05000US51143,51,143,S,Renter,No income or no cash rent,All
+"Pittsylvania County, Virginia",315.0,140.0,89.0,05000US51143,51,143,D,Renter,No income or no cash rent,<=30% AMI
+"Pittsylvania County, Virginia",220.0,137.0,90.0,05000US51143,51,143,D,Renter,No income or no cash rent,30.1-50% AMI
+"Pittsylvania County, Virginia",40.0,43.0,91.0,05000US51143,51,143,D,Renter,No income or no cash rent,50.1-60% AMI
+"Pittsylvania County, Virginia",100.0,87.0,92.0,05000US51143,51,143,D,Renter,No income or no cash rent,60.1-80% AMI
+"Pittsylvania County, Virginia",150.0,123.0,93.0,05000US51143,51,143,D,Renter,No income or no cash rent,80.1-95% AMI
+"Pittsylvania County, Virginia",270.0,127.0,94.0,05000US51143,51,143,D,Renter,No income or no cash rent,>95% AMI
+"Pittsylvania County, Virginia",2140.0,443.0,95.0,05000US51143,51,143,S,Renter,No housing problems,All
+"Pittsylvania County, Virginia",15.0,16.0,96.0,05000US51143,51,143,D,Renter,No housing problems,<=30% AMI
+"Pittsylvania County, Virginia",105.0,77.0,97.0,05000US51143,51,143,D,Renter,No housing problems,30.1-50% AMI
+"Pittsylvania County, Virginia",125.0,93.0,98.0,05000US51143,51,143,D,Renter,No housing problems,50.1-60% AMI
+"Pittsylvania County, Virginia",475.0,237.0,99.0,05000US51143,51,143,D,Renter,No housing problems,60.1-80% AMI
+"Pittsylvania County, Virginia",420.0,188.0,100.0,05000US51143,51,143,D,Renter,No housing problems,80.1-95% AMI
+"Pittsylvania County, Virginia",1005.0,340.0,101.0,05000US51143,51,143,D,Renter,No housing problems,>95% AMI

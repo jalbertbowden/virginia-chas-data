@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Wise County, Virginia",16025.0,492.0,1.0,05000US51195,51,195,T,All,All,All,All
+"Wise County, Virginia",11095.0,578.0,2.0,05000US51195,51,195,S,Owner,All,All,All
+"Wise County, Virginia",1780.0,322.0,3.0,05000US51195,51,195,S,Owner,Yes,All,All
+"Wise County, Virginia",335.0,202.0,4.0,05000US51195,51,195,S,Owner,Yes,"Family, 1 parent",All
+"Wise County, Virginia",275.0,180.0,5.0,05000US51195,51,195,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",55.0,95.0,6.0,05000US51195,51,195,D,Owner,Yes,"Family, 1 parent",5 or more
+"Wise County, Virginia",820.0,224.0,7.0,05000US51195,51,195,S,Owner,Yes,"Family, 2 parents",All
+"Wise County, Virginia",790.0,218.0,8.0,05000US51195,51,195,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",30.0,37.0,9.0,05000US51195,51,195,D,Owner,Yes,"Family, 2 parents",5 or more
+"Wise County, Virginia",625.0,218.0,10.0,05000US51195,51,195,S,Owner,Yes,Non-family,All
+"Wise County, Virginia",625.0,218.0,11.0,05000US51195,51,195,D,Owner,Yes,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,12.0,05000US51195,51,195,D,Owner,Yes,Non-family,5 or more
+"Wise County, Virginia",9315.0,569.0,13.0,05000US51195,51,195,S,Owner,No,All,All
+"Wise County, Virginia",805.0,251.0,14.0,05000US51195,51,195,S,Owner,No,"Family, 1 parent",All
+"Wise County, Virginia",790.0,246.0,15.0,05000US51195,51,195,D,Owner,No,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",15.0,33.0,16.0,05000US51195,51,195,D,Owner,No,"Family, 1 parent",5 or more
+"Wise County, Virginia",6335.0,618.0,17.0,05000US51195,51,195,S,Owner,No,"Family, 2 parents",All
+"Wise County, Virginia",5930.0,614.0,18.0,05000US51195,51,195,D,Owner,No,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",405.0,135.0,19.0,05000US51195,51,195,D,Owner,No,"Family, 2 parents",5 or more
+"Wise County, Virginia",2175.0,363.0,20.0,05000US51195,51,195,S,Owner,No,Non-family,All
+"Wise County, Virginia",2175.0,363.0,21.0,05000US51195,51,195,D,Owner,No,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,22.0,05000US51195,51,195,D,Owner,No,Non-family,5 or more
+"Wise County, Virginia",0.0,161.0,23.0,05000US51195,51,195,S,Owner,N/A,All,All
+"Wise County, Virginia",0.0,161.0,24.0,05000US51195,51,195,S,Owner,N/A,"Family, 1 parent",All
+"Wise County, Virginia",0.0,161.0,25.0,05000US51195,51,195,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",0.0,161.0,26.0,05000US51195,51,195,D,Owner,N/A,"Family, 1 parent",5 or more
+"Wise County, Virginia",0.0,161.0,27.0,05000US51195,51,195,S,Owner,N/A,"Family, 2 parents",All
+"Wise County, Virginia",0.0,161.0,28.0,05000US51195,51,195,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",0.0,161.0,29.0,05000US51195,51,195,D,Owner,N/A,"Family, 2 parents",5 or more
+"Wise County, Virginia",0.0,161.0,30.0,05000US51195,51,195,S,Owner,N/A,Non-family,All
+"Wise County, Virginia",0.0,161.0,31.0,05000US51195,51,195,D,Owner,N/A,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,32.0,05000US51195,51,195,D,Owner,N/A,Non-family,5 or more
+"Wise County, Virginia",4930.0,608.0,33.0,05000US51195,51,195,S,Renter,All,All,All
+"Wise County, Virginia",2040.0,434.0,34.0,05000US51195,51,195,S,Renter,Yes,All,All
+"Wise County, Virginia",780.0,220.0,35.0,05000US51195,51,195,S,Renter,Yes,"Family, 1 parent",All
+"Wise County, Virginia",730.0,237.0,36.0,05000US51195,51,195,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",50.0,49.0,37.0,05000US51195,51,195,D,Renter,Yes,"Family, 1 parent",5 or more
+"Wise County, Virginia",345.0,201.0,38.0,05000US51195,51,195,S,Renter,Yes,"Family, 2 parents",All
+"Wise County, Virginia",280.0,178.0,39.0,05000US51195,51,195,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",65.0,78.0,40.0,05000US51195,51,195,D,Renter,Yes,"Family, 2 parents",5 or more
+"Wise County, Virginia",920.0,319.0,41.0,05000US51195,51,195,S,Renter,Yes,Non-family,All
+"Wise County, Virginia",920.0,319.0,42.0,05000US51195,51,195,D,Renter,Yes,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,43.0,05000US51195,51,195,D,Renter,Yes,Non-family,5 or more
+"Wise County, Virginia",2055.0,383.0,44.0,05000US51195,51,195,S,Renter,No,All,All
+"Wise County, Virginia",250.0,129.0,45.0,05000US51195,51,195,S,Renter,No,"Family, 1 parent",All
+"Wise County, Virginia",245.0,131.0,46.0,05000US51195,51,195,D,Renter,No,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",4.0,2.0,47.0,05000US51195,51,195,D,Renter,No,"Family, 1 parent",5 or more
+"Wise County, Virginia",990.0,295.0,48.0,05000US51195,51,195,S,Renter,No,"Family, 2 parents",All
+"Wise County, Virginia",875.0,276.0,49.0,05000US51195,51,195,D,Renter,No,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",115.0,102.0,50.0,05000US51195,51,195,D,Renter,No,"Family, 2 parents",5 or more
+"Wise County, Virginia",820.0,263.0,51.0,05000US51195,51,195,S,Renter,No,Non-family,All
+"Wise County, Virginia",820.0,263.0,52.0,05000US51195,51,195,D,Renter,No,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,53.0,05000US51195,51,195,D,Renter,No,Non-family,5 or more
+"Wise County, Virginia",830.0,308.0,54.0,05000US51195,51,195,S,Renter,N/A,All,All
+"Wise County, Virginia",95.0,74.0,55.0,05000US51195,51,195,S,Renter,N/A,"Family, 1 parent",All
+"Wise County, Virginia",95.0,74.0,56.0,05000US51195,51,195,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Wise County, Virginia",0.0,161.0,57.0,05000US51195,51,195,D,Renter,N/A,"Family, 1 parent",5 or more
+"Wise County, Virginia",285.0,200.0,58.0,05000US51195,51,195,S,Renter,N/A,"Family, 2 parents",All
+"Wise County, Virginia",270.0,197.0,59.0,05000US51195,51,195,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Wise County, Virginia",15.0,25.0,60.0,05000US51195,51,195,D,Renter,N/A,"Family, 2 parents",5 or more
+"Wise County, Virginia",450.0,219.0,61.0,05000US51195,51,195,S,Renter,N/A,Non-family,All
+"Wise County, Virginia",450.0,219.0,62.0,05000US51195,51,195,D,Renter,N/A,Non-family,4 or fewer
+"Wise County, Virginia",0.0,161.0,63.0,05000US51195,51,195,D,Renter,N/A,Non-family,5 or more

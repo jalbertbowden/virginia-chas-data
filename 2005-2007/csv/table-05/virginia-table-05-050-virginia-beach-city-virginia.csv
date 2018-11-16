@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Elderly_Status
+"Virginia Beach city, Virginia",161815.0,1317.0,1.0,05000US51810,51,810,T,All,All,All,All
+"Virginia Beach city, Virginia",111055.0,1430.0,2.0,05000US51810,51,810,S,Owner,All,All,All
+"Virginia Beach city, Virginia",34550.0,1618.0,3.0,05000US51810,51,810,S,Owner,yes,All,All
+"Virginia Beach city, Virginia",3240.0,468.0,4.0,05000US51810,51,810,S,Owner,yes,30% AMI or less,All
+"Virginia Beach city, Virginia",690.0,202.0,5.0,05000US51810,51,810,D,Owner,yes,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",740.0,253.0,6.0,05000US51810,51,810,D,Owner,yes,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",1805.0,367.0,7.0,05000US51810,51,810,D,Owner,yes,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",3620.0,539.0,8.0,05000US51810,51,810,S,Owner,yes,30.1-50% AMI,All
+"Virginia Beach city, Virginia",665.0,197.0,9.0,05000US51810,51,810,D,Owner,yes,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",570.0,181.0,10.0,05000US51810,51,810,D,Owner,yes,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",2385.0,430.0,11.0,05000US51810,51,810,D,Owner,yes,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",8565.0,926.0,12.0,05000US51810,51,810,S,Owner,yes,50.1-80% AMI,All
+"Virginia Beach city, Virginia",1030.0,251.0,13.0,05000US51810,51,810,D,Owner,yes,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",890.0,231.0,14.0,05000US51810,51,810,D,Owner,yes,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",6645.0,775.0,15.0,05000US51810,51,810,D,Owner,yes,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",4655.0,585.0,16.0,05000US51810,51,810,S,Owner,yes,80.1-95% AMI,All
+"Virginia Beach city, Virginia",470.0,164.0,17.0,05000US51810,51,810,D,Owner,yes,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",175.0,86.0,18.0,05000US51810,51,810,D,Owner,yes,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",4010.0,561.0,19.0,05000US51810,51,810,D,Owner,yes,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",14470.0,1194.0,20.0,05000US51810,51,810,S,Owner,yes,95.1% AMI and above,All
+"Virginia Beach city, Virginia",1900.0,363.0,21.0,05000US51810,51,810,D,Owner,yes,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",680.0,192.0,22.0,05000US51810,51,810,D,Owner,yes,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",11890.0,1076.0,23.0,05000US51810,51,810,D,Owner,yes,95.1% AMI and above,Non-elderly
+"Virginia Beach city, Virginia",76065.0,1798.0,24.0,05000US51810,51,810,S,Owner,no,All,All
+"Virginia Beach city, Virginia",290.0,111.0,25.0,05000US51810,51,810,S,Owner,no,30% AMI or less,All
+"Virginia Beach city, Virginia",140.0,79.0,26.0,05000US51810,51,810,D,Owner,no,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",140.0,81.0,27.0,05000US51810,51,810,D,Owner,no,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",15.0,29.0,28.0,05000US51810,51,810,D,Owner,no,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",1475.0,323.0,29.0,05000US51810,51,810,S,Owner,no,30.1-50% AMI,All
+"Virginia Beach city, Virginia",440.0,155.0,30.0,05000US51810,51,810,D,Owner,no,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",665.0,180.0,31.0,05000US51810,51,810,D,Owner,no,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",370.0,192.0,32.0,05000US51810,51,810,D,Owner,no,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",5220.0,596.0,33.0,05000US51810,51,810,S,Owner,no,50.1-80% AMI,All
+"Virginia Beach city, Virginia",1220.0,260.0,34.0,05000US51810,51,810,D,Owner,no,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",1750.0,328.0,35.0,05000US51810,51,810,D,Owner,no,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",2255.0,446.0,36.0,05000US51810,51,810,D,Owner,no,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",4855.0,615.0,37.0,05000US51810,51,810,S,Owner,no,80.1-95% AMI,All
+"Virginia Beach city, Virginia",1035.0,244.0,38.0,05000US51810,51,810,D,Owner,no,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",1015.0,229.0,39.0,05000US51810,51,810,D,Owner,no,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",2800.0,465.0,40.0,05000US51810,51,810,D,Owner,no,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",64220.0,1714.0,41.0,05000US51810,51,810,S,Owner,no,95.1% AMI and above,All
+"Virginia Beach city, Virginia",10285.0,755.0,42.0,05000US51810,51,810,D,Owner,no,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",4960.0,390.0,43.0,05000US51810,51,810,D,Owner,no,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",48975.0,1472.0,44.0,05000US51810,51,810,D,Owner,no,95.1% AMI and above,Non-elderly
+"Virginia Beach city, Virginia",440.0,221.0,45.0,05000US51810,51,810,S,Owner,N/A,All,All
+"Virginia Beach city, Virginia",440.0,221.0,46.0,05000US51810,51,810,S,Owner,N/A,30% AMI or less,All
+"Virginia Beach city, Virginia",30.0,38.0,47.0,05000US51810,51,810,D,Owner,N/A,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",0.0,161.0,48.0,05000US51810,51,810,D,Owner,N/A,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",410.0,220.0,49.0,05000US51810,51,810,D,Owner,N/A,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",0.0,161.0,50.0,05000US51810,51,810,S,Owner,N/A,30.1-50% AMI,All
+"Virginia Beach city, Virginia",0.0,161.0,51.0,05000US51810,51,810,D,Owner,N/A,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",0.0,161.0,52.0,05000US51810,51,810,D,Owner,N/A,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",0.0,161.0,53.0,05000US51810,51,810,D,Owner,N/A,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",0.0,161.0,54.0,05000US51810,51,810,S,Owner,N/A,50.1-80% AMI,All
+"Virginia Beach city, Virginia",0.0,161.0,55.0,05000US51810,51,810,D,Owner,N/A,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",0.0,161.0,56.0,05000US51810,51,810,D,Owner,N/A,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",0.0,161.0,57.0,05000US51810,51,810,D,Owner,N/A,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",0.0,161.0,58.0,05000US51810,51,810,S,Owner,N/A,80.1-95% AMI,All
+"Virginia Beach city, Virginia",0.0,161.0,59.0,05000US51810,51,810,D,Owner,N/A,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",0.0,161.0,60.0,05000US51810,51,810,D,Owner,N/A,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",0.0,161.0,61.0,05000US51810,51,810,D,Owner,N/A,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",0.0,161.0,62.0,05000US51810,51,810,S,Owner,N/A,95.1% AMI and above,All
+"Virginia Beach city, Virginia",0.0,161.0,63.0,05000US51810,51,810,D,Owner,N/A,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",0.0,161.0,64.0,05000US51810,51,810,D,Owner,N/A,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",0.0,161.0,65.0,05000US51810,51,810,D,Owner,N/A,95.1% AMI and above,Non-elderly
+"Virginia Beach city, Virginia",50760.0,1583.0,66.0,05000US51810,51,810,S,Renter,All,All,All
+"Virginia Beach city, Virginia",23480.0,1190.0,67.0,05000US51810,51,810,S,Renter,Yes,All,All
+"Virginia Beach city, Virginia",4800.0,625.0,68.0,05000US51810,51,810,S,Renter,Yes,30% AMI or less,All
+"Virginia Beach city, Virginia",470.0,186.0,69.0,05000US51810,51,810,D,Renter,Yes,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",540.0,197.0,70.0,05000US51810,51,810,D,Renter,Yes,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",3790.0,585.0,71.0,05000US51810,51,810,D,Renter,Yes,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",6085.0,843.0,72.0,05000US51810,51,810,S,Renter,Yes,30.1-50% AMI,All
+"Virginia Beach city, Virginia",580.0,236.0,73.0,05000US51810,51,810,D,Renter,Yes,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",710.0,198.0,74.0,05000US51810,51,810,D,Renter,Yes,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",4795.0,745.0,75.0,05000US51810,51,810,D,Renter,Yes,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",8815.0,888.0,76.0,05000US51810,51,810,S,Renter,Yes,50.1-80% AMI,All
+"Virginia Beach city, Virginia",540.0,223.0,77.0,05000US51810,51,810,D,Renter,Yes,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",555.0,250.0,78.0,05000US51810,51,810,D,Renter,Yes,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",7720.0,845.0,79.0,05000US51810,51,810,D,Renter,Yes,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",1750.0,384.0,80.0,05000US51810,51,810,S,Renter,Yes,80.1-95% AMI,All
+"Virginia Beach city, Virginia",40.0,48.0,81.0,05000US51810,51,810,D,Renter,Yes,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",50.0,58.0,82.0,05000US51810,51,810,D,Renter,Yes,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",1665.0,372.0,83.0,05000US51810,51,810,D,Renter,Yes,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",2035.0,490.0,84.0,05000US51810,51,810,S,Renter,Yes,95.1% AMI and above,All
+"Virginia Beach city, Virginia",310.0,179.0,85.0,05000US51810,51,810,D,Renter,Yes,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",130.0,84.0,86.0,05000US51810,51,810,D,Renter,Yes,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",1595.0,452.0,87.0,05000US51810,51,810,D,Renter,Yes,95.1% AMI and above,Non-elderly
+"Virginia Beach city, Virginia",25370.0,1475.0,88.0,05000US51810,51,810,S,Renter,No,All,All
+"Virginia Beach city, Virginia",585.0,288.0,89.0,05000US51810,51,810,S,Renter,No,30% AMI or less,All
+"Virginia Beach city, Virginia",235.0,237.0,90.0,05000US51810,51,810,D,Renter,No,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",150.0,76.0,91.0,05000US51810,51,810,D,Renter,No,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",200.0,165.0,92.0,05000US51810,51,810,D,Renter,No,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",665.0,260.0,93.0,05000US51810,51,810,S,Renter,No,30.1-50% AMI,All
+"Virginia Beach city, Virginia",85.0,86.0,94.0,05000US51810,51,810,D,Renter,No,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",40.0,47.0,95.0,05000US51810,51,810,D,Renter,No,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",540.0,249.0,96.0,05000US51810,51,810,D,Renter,No,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",2750.0,511.0,97.0,05000US51810,51,810,S,Renter,No,50.1-80% AMI,All
+"Virginia Beach city, Virginia",230.0,155.0,98.0,05000US51810,51,810,D,Renter,No,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",125.0,87.0,99.0,05000US51810,51,810,D,Renter,No,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",2390.0,436.0,100.0,05000US51810,51,810,D,Renter,No,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",3720.0,629.0,101.0,05000US51810,51,810,S,Renter,No,80.1-95% AMI,All
+"Virginia Beach city, Virginia",280.0,161.0,102.0,05000US51810,51,810,D,Renter,No,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",75.0,51.0,103.0,05000US51810,51,810,D,Renter,No,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",3365.0,591.0,104.0,05000US51810,51,810,D,Renter,No,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",17655.0,1307.0,105.0,05000US51810,51,810,S,Renter,No,95.1% AMI and above,All
+"Virginia Beach city, Virginia",910.0,270.0,106.0,05000US51810,51,810,D,Renter,No,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",430.0,140.0,107.0,05000US51810,51,810,D,Renter,No,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",16315.0,1229.0,108.0,05000US51810,51,810,D,Renter,No,95.1% AMI and above,Non-elderly
+"Virginia Beach city, Virginia",1910.0,387.0,109.0,05000US51810,51,810,S,Renter,N/A,All,All
+"Virginia Beach city, Virginia",700.0,246.0,110.0,05000US51810,51,810,S,Renter,N/A,30% AMI or less,All
+"Virginia Beach city, Virginia",85.0,98.0,111.0,05000US51810,51,810,D,Renter,N/A,30% AMI or less,Elderly
+"Virginia Beach city, Virginia",75.0,71.0,112.0,05000US51810,51,810,D,Renter,N/A,30% AMI or less,Extra-elderly
+"Virginia Beach city, Virginia",535.0,211.0,113.0,05000US51810,51,810,D,Renter,N/A,30% AMI or less,Non-elderly
+"Virginia Beach city, Virginia",155.0,87.0,114.0,05000US51810,51,810,S,Renter,N/A,30.1-50% AMI,All
+"Virginia Beach city, Virginia",25.0,44.0,115.0,05000US51810,51,810,D,Renter,N/A,30.1-50% AMI,Elderly
+"Virginia Beach city, Virginia",15.0,29.0,116.0,05000US51810,51,810,D,Renter,N/A,30.1-50% AMI,Extra-elderly
+"Virginia Beach city, Virginia",115.0,86.0,117.0,05000US51810,51,810,D,Renter,N/A,30.1-50% AMI,Non-elderly
+"Virginia Beach city, Virginia",430.0,219.0,118.0,05000US51810,51,810,S,Renter,N/A,50.1-80% AMI,All
+"Virginia Beach city, Virginia",120.0,99.0,119.0,05000US51810,51,810,D,Renter,N/A,50.1-80% AMI,Elderly
+"Virginia Beach city, Virginia",35.0,46.0,120.0,05000US51810,51,810,D,Renter,N/A,50.1-80% AMI,Extra-elderly
+"Virginia Beach city, Virginia",275.0,192.0,121.0,05000US51810,51,810,D,Renter,N/A,50.1-80% AMI,Non-elderly
+"Virginia Beach city, Virginia",195.0,120.0,122.0,05000US51810,51,810,S,Renter,N/A,80.1-95% AMI,All
+"Virginia Beach city, Virginia",15.0,31.0,123.0,05000US51810,51,810,D,Renter,N/A,80.1-95% AMI,Elderly
+"Virginia Beach city, Virginia",30.0,36.0,124.0,05000US51810,51,810,D,Renter,N/A,80.1-95% AMI,Extra-elderly
+"Virginia Beach city, Virginia",145.0,120.0,125.0,05000US51810,51,810,D,Renter,N/A,80.1-95% AMI,Non-elderly
+"Virginia Beach city, Virginia",430.0,180.0,126.0,05000US51810,51,810,S,Renter,N/A,95.1% AMI and above,All
+"Virginia Beach city, Virginia",130.0,88.0,127.0,05000US51810,51,810,D,Renter,N/A,95.1% AMI and above,Elderly
+"Virginia Beach city, Virginia",15.0,27.0,128.0,05000US51810,51,810,D,Renter,N/A,95.1% AMI and above,Extra-elderly
+"Virginia Beach city, Virginia",290.0,148.0,129.0,05000US51810,51,810,D,Renter,N/A,95.1% AMI and above,Non-elderly

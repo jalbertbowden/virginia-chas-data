@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Amherst County, Virginia",12730.0,370.0,1.0,05000US51009,51,009,T,All,All,All,All
+"Amherst County, Virginia",9680.0,490.0,2.0,05000US51009,51,009,S,Owner,All,All,All
+"Amherst County, Virginia",1655.0,311.0,3.0,05000US51009,51,009,S,Owner,Yes,All,All
+"Amherst County, Virginia",345.0,155.0,4.0,05000US51009,51,009,S,Owner,Yes,"Family, 1 parent",All
+"Amherst County, Virginia",275.0,129.0,5.0,05000US51009,51,009,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",70.0,77.0,6.0,05000US51009,51,009,D,Owner,Yes,"Family, 1 parent",5 or more
+"Amherst County, Virginia",555.0,195.0,7.0,05000US51009,51,009,S,Owner,Yes,"Family, 2 parents",All
+"Amherst County, Virginia",505.0,184.0,8.0,05000US51009,51,009,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",55.0,58.0,9.0,05000US51009,51,009,D,Owner,Yes,"Family, 2 parents",5 or more
+"Amherst County, Virginia",755.0,230.0,10.0,05000US51009,51,009,S,Owner,Yes,Non-family,All
+"Amherst County, Virginia",755.0,230.0,11.0,05000US51009,51,009,D,Owner,Yes,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,12.0,05000US51009,51,009,D,Owner,Yes,Non-family,5 or more
+"Amherst County, Virginia",7935.0,460.0,13.0,05000US51009,51,009,S,Owner,No,All,All
+"Amherst County, Virginia",995.0,264.0,14.0,05000US51009,51,009,S,Owner,No,"Family, 1 parent",All
+"Amherst County, Virginia",955.0,265.0,15.0,05000US51009,51,009,D,Owner,No,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",40.0,50.0,16.0,05000US51009,51,009,D,Owner,No,"Family, 1 parent",5 or more
+"Amherst County, Virginia",5305.0,426.0,17.0,05000US51009,51,009,S,Owner,No,"Family, 2 parents",All
+"Amherst County, Virginia",4865.0,445.0,18.0,05000US51009,51,009,D,Owner,No,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",445.0,158.0,19.0,05000US51009,51,009,D,Owner,No,"Family, 2 parents",5 or more
+"Amherst County, Virginia",1630.0,258.0,20.0,05000US51009,51,009,S,Owner,No,Non-family,All
+"Amherst County, Virginia",1630.0,258.0,21.0,05000US51009,51,009,D,Owner,No,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,22.0,05000US51009,51,009,D,Owner,No,Non-family,5 or more
+"Amherst County, Virginia",90.0,81.0,23.0,05000US51009,51,009,S,Owner,N/A,All,All
+"Amherst County, Virginia",25.0,44.0,24.0,05000US51009,51,009,S,Owner,N/A,"Family, 1 parent",All
+"Amherst County, Virginia",25.0,44.0,25.0,05000US51009,51,009,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",0.0,161.0,26.0,05000US51009,51,009,D,Owner,N/A,"Family, 1 parent",5 or more
+"Amherst County, Virginia",30.0,51.0,27.0,05000US51009,51,009,S,Owner,N/A,"Family, 2 parents",All
+"Amherst County, Virginia",30.0,51.0,28.0,05000US51009,51,009,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",0.0,161.0,29.0,05000US51009,51,009,D,Owner,N/A,"Family, 2 parents",5 or more
+"Amherst County, Virginia",35.0,45.0,30.0,05000US51009,51,009,S,Owner,N/A,Non-family,All
+"Amherst County, Virginia",35.0,45.0,31.0,05000US51009,51,009,D,Owner,N/A,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,32.0,05000US51009,51,009,D,Owner,N/A,Non-family,5 or more
+"Amherst County, Virginia",3050.0,476.0,33.0,05000US51009,51,009,S,Renter,All,All,All
+"Amherst County, Virginia",995.0,296.0,34.0,05000US51009,51,009,S,Renter,Yes,All,All
+"Amherst County, Virginia",335.0,165.0,35.0,05000US51009,51,009,S,Renter,Yes,"Family, 1 parent",All
+"Amherst County, Virginia",270.0,142.0,36.0,05000US51009,51,009,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",65.0,99.0,37.0,05000US51009,51,009,D,Renter,Yes,"Family, 1 parent",5 or more
+"Amherst County, Virginia",190.0,165.0,38.0,05000US51009,51,009,S,Renter,Yes,"Family, 2 parents",All
+"Amherst County, Virginia",170.0,163.0,39.0,05000US51009,51,009,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",20.0,34.0,40.0,05000US51009,51,009,D,Renter,Yes,"Family, 2 parents",5 or more
+"Amherst County, Virginia",470.0,214.0,41.0,05000US51009,51,009,S,Renter,Yes,Non-family,All
+"Amherst County, Virginia",470.0,214.0,42.0,05000US51009,51,009,D,Renter,Yes,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,43.0,05000US51009,51,009,D,Renter,Yes,Non-family,5 or more
+"Amherst County, Virginia",1795.0,450.0,44.0,05000US51009,51,009,S,Renter,No,All,All
+"Amherst County, Virginia",565.0,298.0,45.0,05000US51009,51,009,S,Renter,No,"Family, 1 parent",All
+"Amherst County, Virginia",530.0,293.0,46.0,05000US51009,51,009,D,Renter,No,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",35.0,43.0,47.0,05000US51009,51,009,D,Renter,No,"Family, 1 parent",5 or more
+"Amherst County, Virginia",375.0,179.0,48.0,05000US51009,51,009,S,Renter,No,"Family, 2 parents",All
+"Amherst County, Virginia",345.0,177.0,49.0,05000US51009,51,009,D,Renter,No,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",30.0,47.0,50.0,05000US51009,51,009,D,Renter,No,"Family, 2 parents",5 or more
+"Amherst County, Virginia",855.0,317.0,51.0,05000US51009,51,009,S,Renter,No,Non-family,All
+"Amherst County, Virginia",855.0,317.0,52.0,05000US51009,51,009,D,Renter,No,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,53.0,05000US51009,51,009,D,Renter,No,Non-family,5 or more
+"Amherst County, Virginia",260.0,143.0,54.0,05000US51009,51,009,S,Renter,N/A,All,All
+"Amherst County, Virginia",130.0,123.0,55.0,05000US51009,51,009,S,Renter,N/A,"Family, 1 parent",All
+"Amherst County, Virginia",130.0,123.0,56.0,05000US51009,51,009,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Amherst County, Virginia",0.0,161.0,57.0,05000US51009,51,009,D,Renter,N/A,"Family, 1 parent",5 or more
+"Amherst County, Virginia",30.0,47.0,58.0,05000US51009,51,009,S,Renter,N/A,"Family, 2 parents",All
+"Amherst County, Virginia",30.0,47.0,59.0,05000US51009,51,009,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Amherst County, Virginia",0.0,161.0,60.0,05000US51009,51,009,D,Renter,N/A,"Family, 2 parents",5 or more
+"Amherst County, Virginia",100.0,71.0,61.0,05000US51009,51,009,S,Renter,N/A,Non-family,All
+"Amherst County, Virginia",100.0,71.0,62.0,05000US51009,51,009,D,Renter,N/A,Non-family,4 or fewer
+"Amherst County, Virginia",0.0,161.0,63.0,05000US51009,51,009,D,Renter,N/A,Non-family,5 or more

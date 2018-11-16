@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Winchester city, Virginia",885.0,327.0,1.0,05000US51840,51,840,T,All,All,All
+"Winchester city, Virginia",135.0,151.0,2.0,05000US51840,51,840,S,Substandard,All,All
+"Winchester city, Virginia",750.0,293.0,3.0,05000US51840,51,840,S,Standard,All,All
+"Winchester city, Virginia",0.0,161.0,4.0,05000US51840,51,840,S,Standard,RHUD30,All
+"Winchester city, Virginia",0.0,161.0,5.0,05000US51840,51,840,D,Standard,RHUD30,0 or 1
+"Winchester city, Virginia",0.0,161.0,6.0,05000US51840,51,840,D,Standard,RHUD30,2
+"Winchester city, Virginia",0.0,161.0,7.0,05000US51840,51,840,D,Standard,RHUD30,3 or more
+"Winchester city, Virginia",275.0,190.0,8.0,05000US51840,51,840,S,Standard,RHUD50,All
+"Winchester city, Virginia",45.0,69.0,9.0,05000US51840,51,840,D,Standard,RHUD50,0 or 1
+"Winchester city, Virginia",135.0,146.0,10.0,05000US51840,51,840,D,Standard,RHUD50,2
+"Winchester city, Virginia",90.0,105.0,11.0,05000US51840,51,840,D,Standard,RHUD50,3 or more
+"Winchester city, Virginia",480.0,225.0,12.0,05000US51840,51,840,S,Standard,RHUD80,All
+"Winchester city, Virginia",150.0,169.0,13.0,05000US51840,51,840,D,Standard,RHUD80,0 or 1
+"Winchester city, Virginia",285.0,182.0,14.0,05000US51840,51,840,D,Standard,RHUD80,2
+"Winchester city, Virginia",45.0,67.0,15.0,05000US51840,51,840,D,Standard,RHUD80,3 or more
+"Winchester city, Virginia",0.0,161.0,16.0,05000US51840,51,840,S,Standard,Greater than RHUD80,All
+"Winchester city, Virginia",0.0,161.0,17.0,05000US51840,51,840,D,Standard,Greater than RHUD80,0 or 1
+"Winchester city, Virginia",0.0,161.0,18.0,05000US51840,51,840,D,Standard,Greater than RHUD80,2
+"Winchester city, Virginia",0.0,161.0,19.0,05000US51840,51,840,D,Standard,Greater than RHUD80,3 or more

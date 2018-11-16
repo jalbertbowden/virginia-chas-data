@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Manassas city, Virginia",375.0,244.0,1.0,05000US51683,51,683,T,All,All,All
+"Manassas city, Virginia",0.0,161.0,2.0,05000US51683,51,683,S,Substandard,All,All
+"Manassas city, Virginia",375.0,244.0,3.0,05000US51683,51,683,S,Standard,All,All
+"Manassas city, Virginia",65.0,101.0,4.0,05000US51683,51,683,S,Standard,RHUD30,All
+"Manassas city, Virginia",0.0,161.0,5.0,05000US51683,51,683,D,Standard,RHUD30,0 or 1
+"Manassas city, Virginia",0.0,161.0,6.0,05000US51683,51,683,D,Standard,RHUD30,2
+"Manassas city, Virginia",65.0,101.0,7.0,05000US51683,51,683,D,Standard,RHUD30,3 or more
+"Manassas city, Virginia",250.0,202.0,8.0,05000US51683,51,683,S,Standard,RHUD50,All
+"Manassas city, Virginia",55.0,93.0,9.0,05000US51683,51,683,D,Standard,RHUD50,0 or 1
+"Manassas city, Virginia",130.0,152.0,10.0,05000US51683,51,683,D,Standard,RHUD50,2
+"Manassas city, Virginia",60.0,100.0,11.0,05000US51683,51,683,D,Standard,RHUD50,3 or more
+"Manassas city, Virginia",60.0,100.0,12.0,05000US51683,51,683,S,Standard,RHUD80,All
+"Manassas city, Virginia",0.0,161.0,13.0,05000US51683,51,683,D,Standard,RHUD80,0 or 1
+"Manassas city, Virginia",0.0,161.0,14.0,05000US51683,51,683,D,Standard,RHUD80,2
+"Manassas city, Virginia",60.0,100.0,15.0,05000US51683,51,683,D,Standard,RHUD80,3 or more
+"Manassas city, Virginia",0.0,161.0,16.0,05000US51683,51,683,S,Standard,Greater than RHUD80,All
+"Manassas city, Virginia",0.0,161.0,17.0,05000US51683,51,683,D,Standard,Greater than RHUD80,0 or 1
+"Manassas city, Virginia",0.0,161.0,18.0,05000US51683,51,683,D,Standard,Greater than RHUD80,2
+"Manassas city, Virginia",0.0,161.0,19.0,05000US51683,51,683,D,Standard,Greater than RHUD80,3 or more

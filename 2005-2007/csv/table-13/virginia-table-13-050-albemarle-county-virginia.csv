@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Albemarle County, Virginia",37010.0,638.0,1.0,05000US51003,51,003,T,All,All,All
+"Albemarle County, Virginia",23625.0,860.0,2.0,05000US51003,51,003,S,Owner,All,All
+"Albemarle County, Virginia",3465.0,462.0,3.0,05000US51003,51,003,S,Owner,2000+,All
+"Albemarle County, Virginia",1020.0,241.0,4.0,05000US51003,51,003,D,Owner,2000+,Yes
+"Albemarle County, Virginia",2445.0,370.0,5.0,05000US51003,51,003,D,Owner,2000+,No
+"Albemarle County, Virginia",10470.0,746.0,6.0,05000US51003,51,003,S,Owner,1980 to 1999,All
+"Albemarle County, Virginia",1340.0,328.0,7.0,05000US51003,51,003,D,Owner,1980 to 1999,Yes
+"Albemarle County, Virginia",9130.0,743.0,8.0,05000US51003,51,003,D,Owner,1980 to 1999,No
+"Albemarle County, Virginia",6510.0,587.0,9.0,05000US51003,51,003,S,Owner,1960 to 1979,All
+"Albemarle County, Virginia",730.0,226.0,10.0,05000US51003,51,003,D,Owner,1960 to 1979,Yes
+"Albemarle County, Virginia",5785.0,591.0,11.0,05000US51003,51,003,D,Owner,1960 to 1979,No
+"Albemarle County, Virginia",1800.0,348.0,12.0,05000US51003,51,003,S,Owner,1940 to 1959,All
+"Albemarle County, Virginia",130.0,119.0,13.0,05000US51003,51,003,D,Owner,1940 to 1959,Yes
+"Albemarle County, Virginia",1670.0,318.0,14.0,05000US51003,51,003,D,Owner,1940 to 1959,No
+"Albemarle County, Virginia",1380.0,304.0,15.0,05000US51003,51,003,S,Owner,1939-,All
+"Albemarle County, Virginia",95.0,63.0,16.0,05000US51003,51,003,D,Owner,1939-,Yes
+"Albemarle County, Virginia",1285.0,298.0,17.0,05000US51003,51,003,D,Owner,1939-,No
+"Albemarle County, Virginia",13385.0,916.0,18.0,05000US51003,51,003,S,Renter,All,All
+"Albemarle County, Virginia",3280.0,526.0,19.0,05000US51003,51,003,S,Renter,2000+,All
+"Albemarle County, Virginia",685.0,286.0,20.0,05000US51003,51,003,D,Renter,2000+,Yes
+"Albemarle County, Virginia",2595.0,492.0,21.0,05000US51003,51,003,D,Renter,2000+,No
+"Albemarle County, Virginia",4795.0,695.0,22.0,05000US51003,51,003,S,Renter,1980 to 1999,All
+"Albemarle County, Virginia",790.0,350.0,23.0,05000US51003,51,003,D,Renter,1980 to 1999,Yes
+"Albemarle County, Virginia",4005.0,628.0,24.0,05000US51003,51,003,D,Renter,1980 to 1999,No
+"Albemarle County, Virginia",3795.0,726.0,25.0,05000US51003,51,003,S,Renter,1960 to 1979,All
+"Albemarle County, Virginia",345.0,220.0,26.0,05000US51003,51,003,D,Renter,1960 to 1979,Yes
+"Albemarle County, Virginia",3445.0,713.0,27.0,05000US51003,51,003,D,Renter,1960 to 1979,No
+"Albemarle County, Virginia",650.0,288.0,28.0,05000US51003,51,003,S,Renter,1940 to 1959,All
+"Albemarle County, Virginia",200.0,181.0,29.0,05000US51003,51,003,D,Renter,1940 to 1959,Yes
+"Albemarle County, Virginia",450.0,188.0,30.0,05000US51003,51,003,D,Renter,1940 to 1959,No
+"Albemarle County, Virginia",860.0,265.0,31.0,05000US51003,51,003,S,Renter,1939-,All
+"Albemarle County, Virginia",65.0,61.0,32.0,05000US51003,51,003,D,Renter,1939-,Yes
+"Albemarle County, Virginia",800.0,252.0,33.0,05000US51003,51,003,D,Renter,1939-,No

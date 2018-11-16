@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Fairfax city, Virginia",220.0,166.0,1.0,05000US51600,51,600,T,All,All,All
+"Fairfax city, Virginia",0.0,161.0,2.0,05000US51600,51,600,S,Substandard,All,All
+"Fairfax city, Virginia",220.0,166.0,3.0,05000US51600,51,600,S,Standard,All,All
+"Fairfax city, Virginia",0.0,161.0,4.0,05000US51600,51,600,S,Standard,RHUD30,All
+"Fairfax city, Virginia",0.0,161.0,5.0,05000US51600,51,600,D,Standard,RHUD30,0 or 1
+"Fairfax city, Virginia",0.0,161.0,6.0,05000US51600,51,600,D,Standard,RHUD30,2
+"Fairfax city, Virginia",0.0,161.0,7.0,05000US51600,51,600,D,Standard,RHUD30,3 or more
+"Fairfax city, Virginia",0.0,161.0,8.0,05000US51600,51,600,S,Standard,RHUD50,All
+"Fairfax city, Virginia",0.0,161.0,9.0,05000US51600,51,600,D,Standard,RHUD50,0 or 1
+"Fairfax city, Virginia",0.0,161.0,10.0,05000US51600,51,600,D,Standard,RHUD50,2
+"Fairfax city, Virginia",0.0,161.0,11.0,05000US51600,51,600,D,Standard,RHUD50,3 or more
+"Fairfax city, Virginia",120.0,116.0,12.0,05000US51600,51,600,S,Standard,RHUD80,All
+"Fairfax city, Virginia",0.0,161.0,13.0,05000US51600,51,600,D,Standard,RHUD80,0 or 1
+"Fairfax city, Virginia",105.0,112.0,14.0,05000US51600,51,600,D,Standard,RHUD80,2
+"Fairfax city, Virginia",15.0,30.0,15.0,05000US51600,51,600,D,Standard,RHUD80,3 or more
+"Fairfax city, Virginia",100.0,114.0,16.0,05000US51600,51,600,S,Standard,Greater than RHUD80,All
+"Fairfax city, Virginia",45.0,72.0,17.0,05000US51600,51,600,D,Standard,Greater than RHUD80,0 or 1
+"Fairfax city, Virginia",55.0,85.0,18.0,05000US51600,51,600,D,Standard,Greater than RHUD80,2
+"Fairfax city, Virginia",0.0,161.0,19.0,05000US51600,51,600,D,Standard,Greater than RHUD80,3 or more

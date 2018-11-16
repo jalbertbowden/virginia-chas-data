@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Virginia Beach city, Virginia",161815.0,1317.0,1.0,05000US51810,51,810,T,All,All,All
+"Virginia Beach city, Virginia",111055.0,1430.0,2.0,05000US51810,51,810,S,Owner,All,All
+"Virginia Beach city, Virginia",9210.0,674.0,3.0,05000US51810,51,810,S,Owner,2000+,All
+"Virginia Beach city, Virginia",2235.0,399.0,4.0,05000US51810,51,810,D,Owner,2000+,Yes
+"Virginia Beach city, Virginia",6970.0,573.0,5.0,05000US51810,51,810,D,Owner,2000+,No
+"Virginia Beach city, Virginia",51000.0,1515.0,6.0,05000US51810,51,810,S,Owner,1980 to 1999,All
+"Virginia Beach city, Virginia",8040.0,883.0,7.0,05000US51810,51,810,D,Owner,1980 to 1999,Yes
+"Virginia Beach city, Virginia",42960.0,1658.0,8.0,05000US51810,51,810,D,Owner,1980 to 1999,No
+"Virginia Beach city, Virginia",39400.0,1275.0,9.0,05000US51810,51,810,S,Owner,1960 to 1979,All
+"Virginia Beach city, Virginia",5625.0,570.0,10.0,05000US51810,51,810,D,Owner,1960 to 1979,Yes
+"Virginia Beach city, Virginia",33775.0,1217.0,11.0,05000US51810,51,810,D,Owner,1960 to 1979,No
+"Virginia Beach city, Virginia",10560.0,740.0,12.0,05000US51810,51,810,S,Owner,1940 to 1959,All
+"Virginia Beach city, Virginia",1225.0,231.0,13.0,05000US51810,51,810,D,Owner,1940 to 1959,Yes
+"Virginia Beach city, Virginia",9335.0,719.0,14.0,05000US51810,51,810,D,Owner,1940 to 1959,No
+"Virginia Beach city, Virginia",885.0,218.0,15.0,05000US51810,51,810,S,Owner,1939-,All
+"Virginia Beach city, Virginia",75.0,62.0,16.0,05000US51810,51,810,D,Owner,1939-,Yes
+"Virginia Beach city, Virginia",810.0,216.0,17.0,05000US51810,51,810,D,Owner,1939-,No
+"Virginia Beach city, Virginia",50760.0,1583.0,18.0,05000US51810,51,810,S,Renter,All,All
+"Virginia Beach city, Virginia",4270.0,511.0,19.0,05000US51810,51,810,S,Renter,2000+,All
+"Virginia Beach city, Virginia",760.0,277.0,20.0,05000US51810,51,810,D,Renter,2000+,Yes
+"Virginia Beach city, Virginia",3510.0,440.0,21.0,05000US51810,51,810,D,Renter,2000+,No
+"Virginia Beach city, Virginia",18905.0,1243.0,22.0,05000US51810,51,810,S,Renter,1980 to 1999,All
+"Virginia Beach city, Virginia",4020.0,700.0,23.0,05000US51810,51,810,D,Renter,1980 to 1999,Yes
+"Virginia Beach city, Virginia",14885.0,1150.0,24.0,05000US51810,51,810,D,Renter,1980 to 1999,No
+"Virginia Beach city, Virginia",22495.0,1472.0,25.0,05000US51810,51,810,S,Renter,1960 to 1979,All
+"Virginia Beach city, Virginia",5300.0,732.0,26.0,05000US51810,51,810,D,Renter,1960 to 1979,Yes
+"Virginia Beach city, Virginia",17190.0,1345.0,27.0,05000US51810,51,810,D,Renter,1960 to 1979,No
+"Virginia Beach city, Virginia",4270.0,585.0,28.0,05000US51810,51,810,S,Renter,1940 to 1959,All
+"Virginia Beach city, Virginia",860.0,282.0,29.0,05000US51810,51,810,D,Renter,1940 to 1959,Yes
+"Virginia Beach city, Virginia",3410.0,556.0,30.0,05000US51810,51,810,D,Renter,1940 to 1959,No
+"Virginia Beach city, Virginia",820.0,287.0,31.0,05000US51810,51,810,S,Renter,1939-,All
+"Virginia Beach city, Virginia",215.0,150.0,32.0,05000US51810,51,810,D,Renter,1939-,Yes
+"Virginia Beach city, Virginia",605.0,219.0,33.0,05000US51810,51,810,D,Renter,1939-,No

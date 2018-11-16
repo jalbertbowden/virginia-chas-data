@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Isle of Wight County, Virginia",13575.0,252.0,1.0,05000US51093,51,093,T,All,All,All
+"Isle of Wight County, Virginia",11025.0,445.0,2.0,05000US51093,51,093,S,Owner,All,All
+"Isle of Wight County, Virginia",2030.0,295.0,3.0,05000US51093,51,093,S,Owner,2000+,All
+"Isle of Wight County, Virginia",575.0,193.0,4.0,05000US51093,51,093,D,Owner,2000+,Yes
+"Isle of Wight County, Virginia",1450.0,246.0,5.0,05000US51093,51,093,D,Owner,2000+,No
+"Isle of Wight County, Virginia",4830.0,460.0,6.0,05000US51093,51,093,S,Owner,1980 to 1999,All
+"Isle of Wight County, Virginia",870.0,239.0,7.0,05000US51093,51,093,D,Owner,1980 to 1999,Yes
+"Isle of Wight County, Virginia",3960.0,425.0,8.0,05000US51093,51,093,D,Owner,1980 to 1999,No
+"Isle of Wight County, Virginia",2600.0,422.0,9.0,05000US51093,51,093,S,Owner,1960 to 1979,All
+"Isle of Wight County, Virginia",300.0,181.0,10.0,05000US51093,51,093,D,Owner,1960 to 1979,Yes
+"Isle of Wight County, Virginia",2300.0,384.0,11.0,05000US51093,51,093,D,Owner,1960 to 1979,No
+"Isle of Wight County, Virginia",1180.0,300.0,12.0,05000US51093,51,093,S,Owner,1940 to 1959,All
+"Isle of Wight County, Virginia",115.0,108.0,13.0,05000US51093,51,093,D,Owner,1940 to 1959,Yes
+"Isle of Wight County, Virginia",1065.0,275.0,14.0,05000US51093,51,093,D,Owner,1940 to 1959,No
+"Isle of Wight County, Virginia",380.0,129.0,15.0,05000US51093,51,093,S,Owner,1939-,All
+"Isle of Wight County, Virginia",50.0,81.0,16.0,05000US51093,51,093,D,Owner,1939-,Yes
+"Isle of Wight County, Virginia",330.0,117.0,17.0,05000US51093,51,093,D,Owner,1939-,No
+"Isle of Wight County, Virginia",2550.0,457.0,18.0,05000US51093,51,093,S,Renter,All,All
+"Isle of Wight County, Virginia",250.0,104.0,19.0,05000US51093,51,093,S,Renter,2000+,All
+"Isle of Wight County, Virginia",30.0,54.0,20.0,05000US51093,51,093,D,Renter,2000+,Yes
+"Isle of Wight County, Virginia",220.0,106.0,21.0,05000US51093,51,093,D,Renter,2000+,No
+"Isle of Wight County, Virginia",1130.0,357.0,22.0,05000US51093,51,093,S,Renter,1980 to 1999,All
+"Isle of Wight County, Virginia",225.0,143.0,23.0,05000US51093,51,093,D,Renter,1980 to 1999,Yes
+"Isle of Wight County, Virginia",905.0,317.0,24.0,05000US51093,51,093,D,Renter,1980 to 1999,No
+"Isle of Wight County, Virginia",735.0,238.0,25.0,05000US51093,51,093,S,Renter,1960 to 1979,All
+"Isle of Wight County, Virginia",285.0,136.0,26.0,05000US51093,51,093,D,Renter,1960 to 1979,Yes
+"Isle of Wight County, Virginia",455.0,207.0,27.0,05000US51093,51,093,D,Renter,1960 to 1979,No
+"Isle of Wight County, Virginia",195.0,121.0,28.0,05000US51093,51,093,S,Renter,1940 to 1959,All
+"Isle of Wight County, Virginia",15.0,27.0,29.0,05000US51093,51,093,D,Renter,1940 to 1959,Yes
+"Isle of Wight County, Virginia",180.0,123.0,30.0,05000US51093,51,093,D,Renter,1940 to 1959,No
+"Isle of Wight County, Virginia",240.0,115.0,31.0,05000US51093,51,093,S,Renter,1939-,All
+"Isle of Wight County, Virginia",65.0,76.0,32.0,05000US51093,51,093,D,Renter,1939-,Yes
+"Isle of Wight County, Virginia",175.0,91.0,33.0,05000US51093,51,093,D,Renter,1939-,No

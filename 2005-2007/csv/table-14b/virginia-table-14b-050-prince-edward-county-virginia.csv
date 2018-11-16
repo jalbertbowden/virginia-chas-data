@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Prince Edward County, Virginia",160.0,151.0,1.0,05000US51147,51,147,T,All,All,All
+"Prince Edward County, Virginia",55.0,88.0,2.0,05000US51147,51,147,S,Substandard,All,All
+"Prince Edward County, Virginia",105.0,127.0,3.0,05000US51147,51,147,S,Standard,All,All
+"Prince Edward County, Virginia",105.0,127.0,4.0,05000US51147,51,147,S,Standard,RHUD30,All
+"Prince Edward County, Virginia",0.0,161.0,5.0,05000US51147,51,147,D,Standard,RHUD30,0 or 1
+"Prince Edward County, Virginia",105.0,127.0,6.0,05000US51147,51,147,D,Standard,RHUD30,2
+"Prince Edward County, Virginia",0.0,161.0,7.0,05000US51147,51,147,D,Standard,RHUD30,3 or more
+"Prince Edward County, Virginia",0.0,161.0,8.0,05000US51147,51,147,S,Standard,RHUD50,All
+"Prince Edward County, Virginia",0.0,161.0,9.0,05000US51147,51,147,D,Standard,RHUD50,0 or 1
+"Prince Edward County, Virginia",0.0,161.0,10.0,05000US51147,51,147,D,Standard,RHUD50,2
+"Prince Edward County, Virginia",0.0,161.0,11.0,05000US51147,51,147,D,Standard,RHUD50,3 or more
+"Prince Edward County, Virginia",0.0,161.0,12.0,05000US51147,51,147,S,Standard,RHUD80,All
+"Prince Edward County, Virginia",0.0,161.0,13.0,05000US51147,51,147,D,Standard,RHUD80,0 or 1
+"Prince Edward County, Virginia",0.0,161.0,14.0,05000US51147,51,147,D,Standard,RHUD80,2
+"Prince Edward County, Virginia",0.0,161.0,15.0,05000US51147,51,147,D,Standard,RHUD80,3 or more
+"Prince Edward County, Virginia",0.0,161.0,16.0,05000US51147,51,147,S,Standard,Greater than RHUD80,All
+"Prince Edward County, Virginia",0.0,161.0,17.0,05000US51147,51,147,D,Standard,Greater than RHUD80,0 or 1
+"Prince Edward County, Virginia",0.0,161.0,18.0,05000US51147,51,147,D,Standard,Greater than RHUD80,2
+"Prince Edward County, Virginia",0.0,161.0,19.0,05000US51147,51,147,D,Standard,Greater than RHUD80,3 or more

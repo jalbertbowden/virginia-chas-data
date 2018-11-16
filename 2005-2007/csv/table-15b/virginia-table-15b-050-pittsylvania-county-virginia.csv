@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Pittsylvania County, Virginia",8725.0,607.0,1.0,05000US51143,51,143,T,All,All,All,All
+"Pittsylvania County, Virginia",110.0,101.0,2.0,05000US51143,51,143,S,Substandard,All,All,All
+"Pittsylvania County, Virginia",8615.0,586.0,3.0,05000US51143,51,143,S,Standard,All,All,All
+"Pittsylvania County, Virginia",4770.0,603.0,4.0,05000US51143,51,143,S,Standard,VHUD50,All,All
+"Pittsylvania County, Virginia",1080.0,298.0,5.0,05000US51143,51,143,S,Standard,VHUD50,30% AMI or less,All
+"Pittsylvania County, Virginia",30.0,34.0,6.0,05000US51143,51,143,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Pittsylvania County, Virginia",485.0,220.0,7.0,05000US51143,51,143,D,Standard,VHUD50,30% AMI or less,2
+"Pittsylvania County, Virginia",565.0,223.0,8.0,05000US51143,51,143,D,Standard,VHUD50,30% AMI or less,3 or more
+"Pittsylvania County, Virginia",905.0,243.0,9.0,05000US51143,51,143,S,Standard,VHUD50,30.1-50% AMI,All
+"Pittsylvania County, Virginia",65.0,55.0,10.0,05000US51143,51,143,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Pittsylvania County, Virginia",260.0,99.0,11.0,05000US51143,51,143,D,Standard,VHUD50,30.1-50% AMI,2
+"Pittsylvania County, Virginia",580.0,186.0,12.0,05000US51143,51,143,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Pittsylvania County, Virginia",1005.0,253.0,13.0,05000US51143,51,143,S,Standard,VHUD50,50.1-80% AMI,All
+"Pittsylvania County, Virginia",10.0,21.0,14.0,05000US51143,51,143,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Pittsylvania County, Virginia",465.0,166.0,15.0,05000US51143,51,143,D,Standard,VHUD50,50.1-80% AMI,2
+"Pittsylvania County, Virginia",530.0,186.0,16.0,05000US51143,51,143,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Pittsylvania County, Virginia",370.0,146.0,17.0,05000US51143,51,143,S,Standard,VHUD50,80.1-95% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,18.0,05000US51143,51,143,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Pittsylvania County, Virginia",90.0,74.0,19.0,05000US51143,51,143,D,Standard,VHUD50,80.1-95% AMI,2
+"Pittsylvania County, Virginia",285.0,127.0,20.0,05000US51143,51,143,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Pittsylvania County, Virginia",1415.0,321.0,21.0,05000US51143,51,143,S,Standard,VHUD50,95.1% AMI and above,All
+"Pittsylvania County, Virginia",0.0,161.0,22.0,05000US51143,51,143,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Pittsylvania County, Virginia",430.0,188.0,23.0,05000US51143,51,143,D,Standard,VHUD50,95.1% AMI and above,2
+"Pittsylvania County, Virginia",985.0,294.0,24.0,05000US51143,51,143,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Pittsylvania County, Virginia",2405.0,375.0,25.0,05000US51143,51,143,S,Standard,VHUD80,All,All
+"Pittsylvania County, Virginia",265.0,133.0,26.0,05000US51143,51,143,S,Standard,VHUD80,30% AMI or less,All
+"Pittsylvania County, Virginia",0.0,161.0,27.0,05000US51143,51,143,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Pittsylvania County, Virginia",125.0,97.0,28.0,05000US51143,51,143,D,Standard,VHUD80,30% AMI or less,2
+"Pittsylvania County, Virginia",140.0,84.0,29.0,05000US51143,51,143,D,Standard,VHUD80,30% AMI or less,3 or more
+"Pittsylvania County, Virginia",345.0,113.0,30.0,05000US51143,51,143,S,Standard,VHUD80,30.1-50% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,31.0,05000US51143,51,143,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Pittsylvania County, Virginia",110.0,48.0,32.0,05000US51143,51,143,D,Standard,VHUD80,30.1-50% AMI,2
+"Pittsylvania County, Virginia",230.0,104.0,33.0,05000US51143,51,143,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Pittsylvania County, Virginia",470.0,170.0,34.0,05000US51143,51,143,S,Standard,VHUD80,50.1-80% AMI,All
+"Pittsylvania County, Virginia",75.0,74.0,35.0,05000US51143,51,143,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Pittsylvania County, Virginia",135.0,127.0,36.0,05000US51143,51,143,D,Standard,VHUD80,50.1-80% AMI,2
+"Pittsylvania County, Virginia",260.0,111.0,37.0,05000US51143,51,143,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Pittsylvania County, Virginia",365.0,162.0,38.0,05000US51143,51,143,S,Standard,VHUD80,80.1-95% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,39.0,05000US51143,51,143,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Pittsylvania County, Virginia",155.0,126.0,40.0,05000US51143,51,143,D,Standard,VHUD80,80.1-95% AMI,2
+"Pittsylvania County, Virginia",210.0,103.0,41.0,05000US51143,51,143,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Pittsylvania County, Virginia",960.0,205.0,42.0,05000US51143,51,143,S,Standard,VHUD80,95.1% AMI and above,All
+"Pittsylvania County, Virginia",0.0,161.0,43.0,05000US51143,51,143,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Pittsylvania County, Virginia",150.0,85.0,44.0,05000US51143,51,143,D,Standard,VHUD80,95.1% AMI and above,2
+"Pittsylvania County, Virginia",810.0,193.0,45.0,05000US51143,51,143,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Pittsylvania County, Virginia",505.0,163.0,46.0,05000US51143,51,143,S,Standard,VHUD100,All,All
+"Pittsylvania County, Virginia",65.0,49.0,47.0,05000US51143,51,143,S,Standard,VHUD100,30% AMI or less,All
+"Pittsylvania County, Virginia",15.0,31.0,48.0,05000US51143,51,143,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Pittsylvania County, Virginia",15.0,26.0,49.0,05000US51143,51,143,D,Standard,VHUD100,30% AMI or less,2
+"Pittsylvania County, Virginia",30.0,33.0,50.0,05000US51143,51,143,D,Standard,VHUD100,30% AMI or less,3 or more
+"Pittsylvania County, Virginia",40.0,36.0,51.0,05000US51143,51,143,S,Standard,VHUD100,30.1-50% AMI,All
+"Pittsylvania County, Virginia",4.0,10.0,52.0,05000US51143,51,143,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Pittsylvania County, Virginia",4.0,9.0,53.0,05000US51143,51,143,D,Standard,VHUD100,30.1-50% AMI,2
+"Pittsylvania County, Virginia",30.0,33.0,54.0,05000US51143,51,143,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Pittsylvania County, Virginia",120.0,79.0,55.0,05000US51143,51,143,S,Standard,VHUD100,50.1-80% AMI,All
+"Pittsylvania County, Virginia",20.0,35.0,56.0,05000US51143,51,143,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Pittsylvania County, Virginia",15.0,28.0,57.0,05000US51143,51,143,D,Standard,VHUD100,50.1-80% AMI,2
+"Pittsylvania County, Virginia",85.0,69.0,58.0,05000US51143,51,143,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Pittsylvania County, Virginia",15.0,23.0,59.0,05000US51143,51,143,S,Standard,VHUD100,80.1-95% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,60.0,05000US51143,51,143,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Pittsylvania County, Virginia",0.0,161.0,61.0,05000US51143,51,143,D,Standard,VHUD100,80.1-95% AMI,2
+"Pittsylvania County, Virginia",15.0,23.0,62.0,05000US51143,51,143,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Pittsylvania County, Virginia",265.0,123.0,63.0,05000US51143,51,143,S,Standard,VHUD100,95.1% AMI and above,All
+"Pittsylvania County, Virginia",0.0,161.0,64.0,05000US51143,51,143,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Pittsylvania County, Virginia",15.0,23.0,65.0,05000US51143,51,143,D,Standard,VHUD100,95.1% AMI and above,2
+"Pittsylvania County, Virginia",250.0,121.0,66.0,05000US51143,51,143,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Pittsylvania County, Virginia",940.0,226.0,67.0,05000US51143,51,143,S,Standard,Greater than VHUD100,All,All
+"Pittsylvania County, Virginia",35.0,45.0,68.0,05000US51143,51,143,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Pittsylvania County, Virginia",0.0,161.0,69.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Pittsylvania County, Virginia",15.0,31.0,70.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Pittsylvania County, Virginia",20.0,34.0,71.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Pittsylvania County, Virginia",110.0,57.0,72.0,05000US51143,51,143,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,73.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Pittsylvania County, Virginia",65.0,49.0,74.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Pittsylvania County, Virginia",45.0,43.0,75.0,05000US51143,51,143,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Pittsylvania County, Virginia",240.0,117.0,76.0,05000US51143,51,143,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Pittsylvania County, Virginia",15.0,30.0,77.0,05000US51143,51,143,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Pittsylvania County, Virginia",120.0,85.0,78.0,05000US51143,51,143,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Pittsylvania County, Virginia",100.0,105.0,79.0,05000US51143,51,143,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Pittsylvania County, Virginia",0.0,161.0,80.0,05000US51143,51,143,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Pittsylvania County, Virginia",0.0,161.0,81.0,05000US51143,51,143,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Pittsylvania County, Virginia",0.0,161.0,82.0,05000US51143,51,143,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Pittsylvania County, Virginia",0.0,161.0,83.0,05000US51143,51,143,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Pittsylvania County, Virginia",550.0,184.0,84.0,05000US51143,51,143,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Pittsylvania County, Virginia",0.0,161.0,85.0,05000US51143,51,143,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Pittsylvania County, Virginia",45.0,44.0,86.0,05000US51143,51,143,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Pittsylvania County, Virginia",505.0,178.0,87.0,05000US51143,51,143,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

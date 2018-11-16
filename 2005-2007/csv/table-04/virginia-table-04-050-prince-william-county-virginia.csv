@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Prince William County, Virginia",121995.0,1161.0,1.0,05000US51153,51,153,T,All,All,All,All
+"Prince William County, Virginia",91665.0,1514.0,2.0,05000US51153,51,153,S,Owner,All,All,All
+"Prince William County, Virginia",34245.0,1496.0,3.0,05000US51153,51,153,S,Owner,Yes,All,All
+"Prince William County, Virginia",6430.0,787.0,4.0,05000US51153,51,153,S,Owner,Yes,"Family, 1 parent",All
+"Prince William County, Virginia",5235.0,719.0,5.0,05000US51153,51,153,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",1200.0,387.0,6.0,05000US51153,51,153,D,Owner,Yes,"Family, 1 parent",5 or more
+"Prince William County, Virginia",20585.0,1283.0,7.0,05000US51153,51,153,S,Owner,Yes,"Family, 2 parents",All
+"Prince William County, Virginia",15005.0,1061.0,8.0,05000US51153,51,153,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",5580.0,747.0,9.0,05000US51153,51,153,D,Owner,Yes,"Family, 2 parents",5 or more
+"Prince William County, Virginia",7230.0,744.0,10.0,05000US51153,51,153,S,Owner,Yes,Non-family,All
+"Prince William County, Virginia",7230.0,744.0,11.0,05000US51153,51,153,D,Owner,Yes,Non-family,4 or fewer
+"Prince William County, Virginia",0.0,161.0,12.0,05000US51153,51,153,D,Owner,Yes,Non-family,5 or more
+"Prince William County, Virginia",57240.0,1658.0,13.0,05000US51153,51,153,S,Owner,No,All,All
+"Prince William County, Virginia",6455.0,905.0,14.0,05000US51153,51,153,S,Owner,No,"Family, 1 parent",All
+"Prince William County, Virginia",5280.0,806.0,15.0,05000US51153,51,153,D,Owner,No,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",1175.0,383.0,16.0,05000US51153,51,153,D,Owner,No,"Family, 1 parent",5 or more
+"Prince William County, Virginia",40620.0,1402.0,17.0,05000US51153,51,153,S,Owner,No,"Family, 2 parents",All
+"Prince William County, Virginia",33840.0,1304.0,18.0,05000US51153,51,153,D,Owner,No,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",6780.0,793.0,19.0,05000US51153,51,153,D,Owner,No,"Family, 2 parents",5 or more
+"Prince William County, Virginia",10170.0,1014.0,20.0,05000US51153,51,153,S,Owner,No,Non-family,All
+"Prince William County, Virginia",10080.0,1002.0,21.0,05000US51153,51,153,D,Owner,No,Non-family,4 or fewer
+"Prince William County, Virginia",85.0,90.0,22.0,05000US51153,51,153,D,Owner,No,Non-family,5 or more
+"Prince William County, Virginia",180.0,141.0,23.0,05000US51153,51,153,S,Owner,N/A,All,All
+"Prince William County, Virginia",30.0,47.0,24.0,05000US51153,51,153,S,Owner,N/A,"Family, 1 parent",All
+"Prince William County, Virginia",30.0,47.0,25.0,05000US51153,51,153,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",0.0,161.0,26.0,05000US51153,51,153,D,Owner,N/A,"Family, 1 parent",5 or more
+"Prince William County, Virginia",45.0,55.0,27.0,05000US51153,51,153,S,Owner,N/A,"Family, 2 parents",All
+"Prince William County, Virginia",45.0,55.0,28.0,05000US51153,51,153,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",0.0,161.0,29.0,05000US51153,51,153,D,Owner,N/A,"Family, 2 parents",5 or more
+"Prince William County, Virginia",100.0,121.0,30.0,05000US51153,51,153,S,Owner,N/A,Non-family,All
+"Prince William County, Virginia",100.0,121.0,31.0,05000US51153,51,153,D,Owner,N/A,Non-family,4 or fewer
+"Prince William County, Virginia",0.0,161.0,32.0,05000US51153,51,153,D,Owner,N/A,Non-family,5 or more
+"Prince William County, Virginia",30325.0,1453.0,33.0,05000US51153,51,153,S,Renter,All,All,All
+"Prince William County, Virginia",14420.0,1373.0,34.0,05000US51153,51,153,S,Renter,Yes,All,All
+"Prince William County, Virginia",5295.0,1006.0,35.0,05000US51153,51,153,S,Renter,Yes,"Family, 1 parent",All
+"Prince William County, Virginia",3755.0,831.0,36.0,05000US51153,51,153,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",1545.0,520.0,37.0,05000US51153,51,153,D,Renter,Yes,"Family, 1 parent",5 or more
+"Prince William County, Virginia",4200.0,692.0,38.0,05000US51153,51,153,S,Renter,Yes,"Family, 2 parents",All
+"Prince William County, Virginia",2810.0,537.0,39.0,05000US51153,51,153,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",1385.0,385.0,40.0,05000US51153,51,153,D,Renter,Yes,"Family, 2 parents",5 or more
+"Prince William County, Virginia",4925.0,714.0,41.0,05000US51153,51,153,S,Renter,Yes,Non-family,All
+"Prince William County, Virginia",4885.0,709.0,42.0,05000US51153,51,153,D,Renter,Yes,Non-family,4 or fewer
+"Prince William County, Virginia",40.0,47.0,43.0,05000US51153,51,153,D,Renter,Yes,Non-family,5 or more
+"Prince William County, Virginia",14955.0,1369.0,44.0,05000US51153,51,153,S,Renter,No,All,All
+"Prince William County, Virginia",4150.0,873.0,45.0,05000US51153,51,153,S,Renter,No,"Family, 1 parent",All
+"Prince William County, Virginia",3745.0,858.0,46.0,05000US51153,51,153,D,Renter,No,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",405.0,257.0,47.0,05000US51153,51,153,D,Renter,No,"Family, 1 parent",5 or more
+"Prince William County, Virginia",4985.0,863.0,48.0,05000US51153,51,153,S,Renter,No,"Family, 2 parents",All
+"Prince William County, Virginia",4315.0,754.0,49.0,05000US51153,51,153,D,Renter,No,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",670.0,325.0,50.0,05000US51153,51,153,D,Renter,No,"Family, 2 parents",5 or more
+"Prince William County, Virginia",5825.0,923.0,51.0,05000US51153,51,153,S,Renter,No,Non-family,All
+"Prince William County, Virginia",5790.0,929.0,52.0,05000US51153,51,153,D,Renter,No,Non-family,4 or fewer
+"Prince William County, Virginia",35.0,60.0,53.0,05000US51153,51,153,D,Renter,No,Non-family,5 or more
+"Prince William County, Virginia",950.0,271.0,54.0,05000US51153,51,153,S,Renter,N/A,All,All
+"Prince William County, Virginia",135.0,153.0,55.0,05000US51153,51,153,S,Renter,N/A,"Family, 1 parent",All
+"Prince William County, Virginia",105.0,146.0,56.0,05000US51153,51,153,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Prince William County, Virginia",30.0,50.0,57.0,05000US51153,51,153,D,Renter,N/A,"Family, 1 parent",5 or more
+"Prince William County, Virginia",515.0,224.0,58.0,05000US51153,51,153,S,Renter,N/A,"Family, 2 parents",All
+"Prince William County, Virginia",415.0,208.0,59.0,05000US51153,51,153,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Prince William County, Virginia",95.0,70.0,60.0,05000US51153,51,153,D,Renter,N/A,"Family, 2 parents",5 or more
+"Prince William County, Virginia",300.0,161.0,61.0,05000US51153,51,153,S,Renter,N/A,Non-family,All
+"Prince William County, Virginia",300.0,161.0,62.0,05000US51153,51,153,D,Renter,N/A,Non-family,4 or fewer
+"Prince William County, Virginia",0.0,161.0,63.0,05000US51153,51,153,D,Renter,N/A,Non-family,5 or more

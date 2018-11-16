@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Albemarle County, Virginia",395.0,241.0,1.0,05000US51003,51,003,T,All,All,All
+"Albemarle County, Virginia",0.0,161.0,2.0,05000US51003,51,003,S,Substandard,All,All
+"Albemarle County, Virginia",395.0,241.0,3.0,05000US51003,51,003,S,Standard,All,All
+"Albemarle County, Virginia",15.0,27.0,4.0,05000US51003,51,003,S,Standard,VHUD50,All
+"Albemarle County, Virginia",0.0,161.0,5.0,05000US51003,51,003,D,Standard,VHUD50,0 or 1
+"Albemarle County, Virginia",0.0,161.0,6.0,05000US51003,51,003,D,Standard,VHUD50,2
+"Albemarle County, Virginia",15.0,27.0,7.0,05000US51003,51,003,D,Standard,VHUD50,3 or more
+"Albemarle County, Virginia",205.0,192.0,8.0,05000US51003,51,003,S,Standard,VHUD80,All
+"Albemarle County, Virginia",0.0,161.0,9.0,05000US51003,51,003,D,Standard,VHUD80,0 or 1
+"Albemarle County, Virginia",70.0,114.0,10.0,05000US51003,51,003,D,Standard,VHUD80,2
+"Albemarle County, Virginia",135.0,153.0,11.0,05000US51003,51,003,D,Standard,VHUD80,3 or more
+"Albemarle County, Virginia",40.0,50.0,12.0,05000US51003,51,003,S,Standard,VHUD100,All
+"Albemarle County, Virginia",0.0,161.0,13.0,05000US51003,51,003,D,Standard,VHUD100,0 or 1
+"Albemarle County, Virginia",0.0,161.0,14.0,05000US51003,51,003,D,Standard,VHUD100,2
+"Albemarle County, Virginia",40.0,50.0,15.0,05000US51003,51,003,D,Standard,VHUD100,3 or more
+"Albemarle County, Virginia",135.0,125.0,16.0,05000US51003,51,003,S,Standard,Greater than VHUD100,All
+"Albemarle County, Virginia",0.0,161.0,17.0,05000US51003,51,003,D,Standard,Greater than VHUD100,0 or 1
+"Albemarle County, Virginia",85.0,108.0,18.0,05000US51003,51,003,D,Standard,Greater than VHUD100,2
+"Albemarle County, Virginia",50.0,65.0,19.0,05000US51003,51,003,D,Standard,Greater than VHUD100,3 or more

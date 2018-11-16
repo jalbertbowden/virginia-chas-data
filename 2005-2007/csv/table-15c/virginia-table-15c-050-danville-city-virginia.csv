@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Danville city, Virginia",8870.0,658.0,1.0,05000US51590,51,590,T,All,All,All,All
+"Danville city, Virginia",240.0,125.0,2.0,05000US51590,51,590,S,Substandard,All,All,All
+"Danville city, Virginia",8635.0,637.0,3.0,05000US51590,51,590,S,Standard,All,All,All
+"Danville city, Virginia",1820.0,372.0,4.0,05000US51590,51,590,S,Standard,RHUD30,All,All
+"Danville city, Virginia",1275.0,355.0,5.0,05000US51590,51,590,S,Standard,RHUD30,30% AMI or less,All
+"Danville city, Virginia",390.0,165.0,6.0,05000US51590,51,590,D,Standard,RHUD30,30% AMI or less,0 or 1
+"Danville city, Virginia",410.0,261.0,7.0,05000US51590,51,590,D,Standard,RHUD30,30% AMI or less,2
+"Danville city, Virginia",475.0,199.0,8.0,05000US51590,51,590,D,Standard,RHUD30,30% AMI or less,3 or more
+"Danville city, Virginia",345.0,158.0,9.0,05000US51590,51,590,S,Standard,RHUD30,30.1-50% AMI,All
+"Danville city, Virginia",195.0,93.0,10.0,05000US51590,51,590,D,Standard,RHUD30,30.1-50% AMI,0 or 1
+"Danville city, Virginia",50.0,48.0,11.0,05000US51590,51,590,D,Standard,RHUD30,30.1-50% AMI,2
+"Danville city, Virginia",105.0,113.0,12.0,05000US51590,51,590,D,Standard,RHUD30,30.1-50% AMI,3 or more
+"Danville city, Virginia",80.0,60.0,13.0,05000US51590,51,590,S,Standard,RHUD30,50.1-80% AMI,All
+"Danville city, Virginia",35.0,45.0,14.0,05000US51590,51,590,D,Standard,RHUD30,50.1-80% AMI,0 or 1
+"Danville city, Virginia",15.0,26.0,15.0,05000US51590,51,590,D,Standard,RHUD30,50.1-80% AMI,2
+"Danville city, Virginia",25.0,34.0,16.0,05000US51590,51,590,D,Standard,RHUD30,50.1-80% AMI,3 or more
+"Danville city, Virginia",35.0,46.0,17.0,05000US51590,51,590,S,Standard,RHUD30,80.1-95% AMI,All
+"Danville city, Virginia",0.0,161.0,18.0,05000US51590,51,590,D,Standard,RHUD30,80.1-95% AMI,0 or 1
+"Danville city, Virginia",20.0,41.0,19.0,05000US51590,51,590,D,Standard,RHUD30,80.1-95% AMI,2
+"Danville city, Virginia",15.0,23.0,20.0,05000US51590,51,590,D,Standard,RHUD30,80.1-95% AMI,3 or more
+"Danville city, Virginia",80.0,61.0,21.0,05000US51590,51,590,S,Standard,RHUD30,95.1% AMI and above,All
+"Danville city, Virginia",0.0,161.0,22.0,05000US51590,51,590,D,Standard,RHUD30,95.1% AMI and above,0 or 1
+"Danville city, Virginia",30.0,41.0,23.0,05000US51590,51,590,D,Standard,RHUD30,95.1% AMI and above,2
+"Danville city, Virginia",50.0,46.0,24.0,05000US51590,51,590,D,Standard,RHUD30,95.1% AMI and above,3 or more
+"Danville city, Virginia",3650.0,551.0,25.0,05000US51590,51,590,S,Standard,RHUD50,All,All
+"Danville city, Virginia",1275.0,343.0,26.0,05000US51590,51,590,S,Standard,RHUD50,30% AMI or less,All
+"Danville city, Virginia",335.0,157.0,27.0,05000US51590,51,590,D,Standard,RHUD50,30% AMI or less,0 or 1
+"Danville city, Virginia",645.0,250.0,28.0,05000US51590,51,590,D,Standard,RHUD50,30% AMI or less,2
+"Danville city, Virginia",295.0,173.0,29.0,05000US51590,51,590,D,Standard,RHUD50,30% AMI or less,3 or more
+"Danville city, Virginia",665.0,231.0,30.0,05000US51590,51,590,S,Standard,RHUD50,30.1-50% AMI,All
+"Danville city, Virginia",165.0,130.0,31.0,05000US51590,51,590,D,Standard,RHUD50,30.1-50% AMI,0 or 1
+"Danville city, Virginia",295.0,140.0,32.0,05000US51590,51,590,D,Standard,RHUD50,30.1-50% AMI,2
+"Danville city, Virginia",205.0,149.0,33.0,05000US51590,51,590,D,Standard,RHUD50,30.1-50% AMI,3 or more
+"Danville city, Virginia",740.0,248.0,34.0,05000US51590,51,590,S,Standard,RHUD50,50.1-80% AMI,All
+"Danville city, Virginia",75.0,77.0,35.0,05000US51590,51,590,D,Standard,RHUD50,50.1-80% AMI,0 or 1
+"Danville city, Virginia",425.0,197.0,36.0,05000US51590,51,590,D,Standard,RHUD50,50.1-80% AMI,2
+"Danville city, Virginia",240.0,129.0,37.0,05000US51590,51,590,D,Standard,RHUD50,50.1-80% AMI,3 or more
+"Danville city, Virginia",235.0,154.0,38.0,05000US51590,51,590,S,Standard,RHUD50,80.1-95% AMI,All
+"Danville city, Virginia",20.0,36.0,39.0,05000US51590,51,590,D,Standard,RHUD50,80.1-95% AMI,0 or 1
+"Danville city, Virginia",70.0,72.0,40.0,05000US51590,51,590,D,Standard,RHUD50,80.1-95% AMI,2
+"Danville city, Virginia",145.0,134.0,41.0,05000US51590,51,590,D,Standard,RHUD50,80.1-95% AMI,3 or more
+"Danville city, Virginia",735.0,261.0,42.0,05000US51590,51,590,S,Standard,RHUD50,95.1% AMI and above,All
+"Danville city, Virginia",0.0,161.0,43.0,05000US51590,51,590,D,Standard,RHUD50,95.1% AMI and above,0 or 1
+"Danville city, Virginia",550.0,222.0,44.0,05000US51590,51,590,D,Standard,RHUD50,95.1% AMI and above,2
+"Danville city, Virginia",190.0,115.0,45.0,05000US51590,51,590,D,Standard,RHUD50,95.1% AMI and above,3 or more
+"Danville city, Virginia",2675.0,491.0,46.0,05000US51590,51,590,S,Standard,RHUD80,All,All
+"Danville city, Virginia",575.0,229.0,47.0,05000US51590,51,590,S,Standard,RHUD80,30% AMI or less,All
+"Danville city, Virginia",165.0,112.0,48.0,05000US51590,51,590,D,Standard,RHUD80,30% AMI or less,0 or 1
+"Danville city, Virginia",195.0,122.0,49.0,05000US51590,51,590,D,Standard,RHUD80,30% AMI or less,2
+"Danville city, Virginia",215.0,133.0,50.0,05000US51590,51,590,D,Standard,RHUD80,30% AMI or less,3 or more
+"Danville city, Virginia",375.0,185.0,51.0,05000US51590,51,590,S,Standard,RHUD80,30.1-50% AMI,All
+"Danville city, Virginia",35.0,43.0,52.0,05000US51590,51,590,D,Standard,RHUD80,30.1-50% AMI,0 or 1
+"Danville city, Virginia",95.0,86.0,53.0,05000US51590,51,590,D,Standard,RHUD80,30.1-50% AMI,2
+"Danville city, Virginia",245.0,153.0,54.0,05000US51590,51,590,D,Standard,RHUD80,30.1-50% AMI,3 or more
+"Danville city, Virginia",535.0,209.0,55.0,05000US51590,51,590,S,Standard,RHUD80,50.1-80% AMI,All
+"Danville city, Virginia",60.0,59.0,56.0,05000US51590,51,590,D,Standard,RHUD80,50.1-80% AMI,0 or 1
+"Danville city, Virginia",280.0,142.0,57.0,05000US51590,51,590,D,Standard,RHUD80,50.1-80% AMI,2
+"Danville city, Virginia",190.0,123.0,58.0,05000US51590,51,590,D,Standard,RHUD80,50.1-80% AMI,3 or more
+"Danville city, Virginia",275.0,179.0,59.0,05000US51590,51,590,S,Standard,RHUD80,80.1-95% AMI,All
+"Danville city, Virginia",0.0,161.0,60.0,05000US51590,51,590,D,Standard,RHUD80,80.1-95% AMI,0 or 1
+"Danville city, Virginia",65.0,76.0,61.0,05000US51590,51,590,D,Standard,RHUD80,80.1-95% AMI,2
+"Danville city, Virginia",210.0,161.0,62.0,05000US51590,51,590,D,Standard,RHUD80,80.1-95% AMI,3 or more
+"Danville city, Virginia",915.0,320.0,63.0,05000US51590,51,590,S,Standard,RHUD80,95.1% AMI and above,All
+"Danville city, Virginia",50.0,49.0,64.0,05000US51590,51,590,D,Standard,RHUD80,95.1% AMI and above,0 or 1
+"Danville city, Virginia",440.0,204.0,65.0,05000US51590,51,590,D,Standard,RHUD80,95.1% AMI and above,2
+"Danville city, Virginia",425.0,240.0,66.0,05000US51590,51,590,D,Standard,RHUD80,95.1% AMI and above,3 or more
+"Danville city, Virginia",485.0,227.0,67.0,05000US51590,51,590,S,Standard,Greater than RHUD80,All,All
+"Danville city, Virginia",120.0,83.0,68.0,05000US51590,51,590,S,Standard,Greater than RHUD80,30% AMI or less,All
+"Danville city, Virginia",35.0,42.0,69.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30% AMI or less,0 or 1
+"Danville city, Virginia",50.0,62.0,70.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30% AMI or less,2
+"Danville city, Virginia",30.0,36.0,71.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30% AMI or less,3 or more
+"Danville city, Virginia",30.0,37.0,72.0,05000US51590,51,590,S,Standard,Greater than RHUD80,30.1-50% AMI,All
+"Danville city, Virginia",0.0,161.0,73.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30.1-50% AMI,0 or 1
+"Danville city, Virginia",30.0,37.0,74.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30.1-50% AMI,2
+"Danville city, Virginia",0.0,161.0,75.0,05000US51590,51,590,D,Standard,Greater than RHUD80,30.1-50% AMI,3 or more
+"Danville city, Virginia",75.0,96.0,76.0,05000US51590,51,590,S,Standard,Greater than RHUD80,50.1-80% AMI,All
+"Danville city, Virginia",0.0,161.0,77.0,05000US51590,51,590,D,Standard,Greater than RHUD80,50.1-80% AMI,0 or 1
+"Danville city, Virginia",75.0,96.0,78.0,05000US51590,51,590,D,Standard,Greater than RHUD80,50.1-80% AMI,2
+"Danville city, Virginia",0.0,161.0,79.0,05000US51590,51,590,D,Standard,Greater than RHUD80,50.1-80% AMI,3 or more
+"Danville city, Virginia",15.0,23.0,80.0,05000US51590,51,590,S,Standard,Greater than RHUD80,80.1-95% AMI,All
+"Danville city, Virginia",0.0,161.0,81.0,05000US51590,51,590,D,Standard,Greater than RHUD80,80.1-95% AMI,0 or 1
+"Danville city, Virginia",0.0,161.0,82.0,05000US51590,51,590,D,Standard,Greater than RHUD80,80.1-95% AMI,2
+"Danville city, Virginia",15.0,23.0,83.0,05000US51590,51,590,D,Standard,Greater than RHUD80,80.1-95% AMI,3 or more
+"Danville city, Virginia",250.0,164.0,84.0,05000US51590,51,590,S,Standard,Greater than RHUD80,95.1% AMI and above,All
+"Danville city, Virginia",0.0,161.0,85.0,05000US51590,51,590,D,Standard,Greater than RHUD80,95.1% AMI and above,0 or 1
+"Danville city, Virginia",75.0,68.0,86.0,05000US51590,51,590,D,Standard,Greater than RHUD80,95.1% AMI and above,2
+"Danville city, Virginia",175.0,157.0,87.0,05000US51590,51,590,D,Standard,Greater than RHUD80,95.1% AMI and above,3 or more

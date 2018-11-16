@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"James City County, Virginia",24570.0,515.0,1.0,05000US51095,51,095,T,All,All,All
+"James City County, Virginia",18500.0,556.0,2.0,05000US51095,51,095,S,Owner,All,All
+"James City County, Virginia",4890.0,387.0,3.0,05000US51095,51,095,S,Owner,2000+,All
+"James City County, Virginia",740.0,225.0,4.0,05000US51095,51,095,D,Owner,2000+,Yes
+"James City County, Virginia",4150.0,387.0,5.0,05000US51095,51,095,D,Owner,2000+,No
+"James City County, Virginia",9505.0,588.0,6.0,05000US51095,51,095,S,Owner,1980 to 1999,All
+"James City County, Virginia",1230.0,339.0,7.0,05000US51095,51,095,D,Owner,1980 to 1999,Yes
+"James City County, Virginia",8275.0,579.0,8.0,05000US51095,51,095,D,Owner,1980 to 1999,No
+"James City County, Virginia",3200.0,422.0,9.0,05000US51095,51,095,S,Owner,1960 to 1979,All
+"James City County, Virginia",480.0,225.0,10.0,05000US51095,51,095,D,Owner,1960 to 1979,Yes
+"James City County, Virginia",2720.0,417.0,11.0,05000US51095,51,095,D,Owner,1960 to 1979,No
+"James City County, Virginia",675.0,216.0,12.0,05000US51095,51,095,S,Owner,1940 to 1959,All
+"James City County, Virginia",95.0,127.0,13.0,05000US51095,51,095,D,Owner,1940 to 1959,Yes
+"James City County, Virginia",585.0,165.0,14.0,05000US51095,51,095,D,Owner,1940 to 1959,No
+"James City County, Virginia",230.0,147.0,15.0,05000US51095,51,095,S,Owner,1939-,All
+"James City County, Virginia",55.0,90.0,16.0,05000US51095,51,095,D,Owner,1939-,Yes
+"James City County, Virginia",175.0,102.0,17.0,05000US51095,51,095,D,Owner,1939-,No
+"James City County, Virginia",6070.0,581.0,18.0,05000US51095,51,095,S,Renter,All,All
+"James City County, Virginia",1020.0,254.0,19.0,05000US51095,51,095,S,Renter,2000+,All
+"James City County, Virginia",175.0,104.0,20.0,05000US51095,51,095,D,Renter,2000+,Yes
+"James City County, Virginia",845.0,255.0,21.0,05000US51095,51,095,D,Renter,2000+,No
+"James City County, Virginia",3335.0,563.0,22.0,05000US51095,51,095,S,Renter,1980 to 1999,All
+"James City County, Virginia",695.0,348.0,23.0,05000US51095,51,095,D,Renter,1980 to 1999,Yes
+"James City County, Virginia",2640.0,515.0,24.0,05000US51095,51,095,D,Renter,1980 to 1999,No
+"James City County, Virginia",1340.0,375.0,25.0,05000US51095,51,095,S,Renter,1960 to 1979,All
+"James City County, Virginia",240.0,216.0,26.0,05000US51095,51,095,D,Renter,1960 to 1979,Yes
+"James City County, Virginia",1105.0,339.0,27.0,05000US51095,51,095,D,Renter,1960 to 1979,No
+"James City County, Virginia",275.0,172.0,28.0,05000US51095,51,095,S,Renter,1940 to 1959,All
+"James City County, Virginia",80.0,81.0,29.0,05000US51095,51,095,D,Renter,1940 to 1959,Yes
+"James City County, Virginia",195.0,136.0,30.0,05000US51095,51,095,D,Renter,1940 to 1959,No
+"James City County, Virginia",95.0,111.0,31.0,05000US51095,51,095,S,Renter,1939-,All
+"James City County, Virginia",0.0,161.0,32.0,05000US51095,51,095,D,Renter,1939-,Yes
+"James City County, Virginia",95.0,111.0,33.0,05000US51095,51,095,D,Renter,1939-,No

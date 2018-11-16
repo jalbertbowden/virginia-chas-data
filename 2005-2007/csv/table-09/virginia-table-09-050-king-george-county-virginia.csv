@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"King George County, Virginia",7695.0,321.0,1.0,05000US51099,51,099,T,All,All,All
+"King George County, Virginia",5925.0,377.0,2.0,05000US51099,51,099,S,Owner,All,All
+"King George County, Virginia",4875.0,322.0,3.0,05000US51099,51,099,S,Owner,White,All
+"King George County, Virginia",3650.0,290.0,4.0,05000US51099,51,099,D,Owner,White,No cost burden
+"King George County, Virginia",735.0,204.0,5.0,05000US51099,51,099,D,Owner,White,Moderate cost burden
+"King George County, Virginia",480.0,168.0,6.0,05000US51099,51,099,D,Owner,White,Severe cost burden
+"King George County, Virginia",15.0,30.0,7.0,05000US51099,51,099,D,Owner,White,N/A
+"King George County, Virginia",820.0,169.0,8.0,05000US51099,51,099,S,Owner,Black,All
+"King George County, Virginia",545.0,175.0,9.0,05000US51099,51,099,D,Owner,Black,No cost burden
+"King George County, Virginia",195.0,118.0,10.0,05000US51099,51,099,D,Owner,Black,Moderate cost burden
+"King George County, Virginia",80.0,78.0,11.0,05000US51099,51,099,D,Owner,Black,Severe cost burden
+"King George County, Virginia",0.0,161.0,12.0,05000US51099,51,099,D,Owner,Black,N/A
+"King George County, Virginia",75.0,56.0,13.0,05000US51099,51,099,S,Owner,Asian,All
+"King George County, Virginia",45.0,53.0,14.0,05000US51099,51,099,D,Owner,Asian,No cost burden
+"King George County, Virginia",30.0,41.0,15.0,05000US51099,51,099,D,Owner,Asian,Moderate cost burden
+"King George County, Virginia",0.0,161.0,16.0,05000US51099,51,099,D,Owner,Asian,Severe cost burden
+"King George County, Virginia",0.0,161.0,17.0,05000US51099,51,099,D,Owner,Asian,N/A
+"King George County, Virginia",20.0,37.0,18.0,05000US51099,51,099,S,Owner,American Indian,All
+"King George County, Virginia",20.0,37.0,19.0,05000US51099,51,099,D,Owner,American Indian,No cost burden
+"King George County, Virginia",0.0,161.0,20.0,05000US51099,51,099,D,Owner,American Indian,Moderate cost burden
+"King George County, Virginia",0.0,161.0,21.0,05000US51099,51,099,D,Owner,American Indian,Severe cost burden
+"King George County, Virginia",0.0,161.0,22.0,05000US51099,51,099,D,Owner,American Indian,N/A
+"King George County, Virginia",0.0,161.0,23.0,05000US51099,51,099,S,Owner,Pacific Islander,All
+"King George County, Virginia",0.0,161.0,24.0,05000US51099,51,099,D,Owner,Pacific Islander,No cost burden
+"King George County, Virginia",0.0,161.0,25.0,05000US51099,51,099,D,Owner,Pacific Islander,Moderate cost burden
+"King George County, Virginia",0.0,161.0,26.0,05000US51099,51,099,D,Owner,Pacific Islander,Severe cost burden
+"King George County, Virginia",0.0,161.0,27.0,05000US51099,51,099,D,Owner,Pacific Islander,N/A
+"King George County, Virginia",65.0,70.0,28.0,05000US51099,51,099,S,Owner,Hispanic,All
+"King George County, Virginia",45.0,57.0,29.0,05000US51099,51,099,D,Owner,Hispanic,No cost burden
+"King George County, Virginia",20.0,39.0,30.0,05000US51099,51,099,D,Owner,Hispanic,Moderate cost burden
+"King George County, Virginia",0.0,161.0,31.0,05000US51099,51,099,D,Owner,Hispanic,Severe cost burden
+"King George County, Virginia",0.0,161.0,32.0,05000US51099,51,099,D,Owner,Hispanic,N/A
+"King George County, Virginia",70.0,75.0,33.0,05000US51099,51,099,S,Owner,Other,All
+"King George County, Virginia",70.0,75.0,34.0,05000US51099,51,099,D,Owner,Other,No cost burden
+"King George County, Virginia",0.0,161.0,35.0,05000US51099,51,099,D,Owner,Other,Moderate cost burden
+"King George County, Virginia",0.0,161.0,36.0,05000US51099,51,099,D,Owner,Other,Severe cost burden
+"King George County, Virginia",0.0,161.0,37.0,05000US51099,51,099,D,Owner,Other,N/A
+"King George County, Virginia",1765.0,318.0,38.0,05000US51099,51,099,S,Renter,All,All
+"King George County, Virginia",1110.0,293.0,39.0,05000US51099,51,099,S,Renter,White,All
+"King George County, Virginia",530.0,181.0,40.0,05000US51099,51,099,D,Renter,White,No cost burden
+"King George County, Virginia",280.0,123.0,41.0,05000US51099,51,099,D,Renter,White,Moderate cost burden
+"King George County, Virginia",180.0,144.0,42.0,05000US51099,51,099,D,Renter,White,Severe cost burden
+"King George County, Virginia",120.0,94.0,43.0,05000US51099,51,099,D,Renter,White,N/A
+"King George County, Virginia",405.0,168.0,44.0,05000US51099,51,099,S,Renter,Black,All
+"King George County, Virginia",165.0,111.0,45.0,05000US51099,51,099,D,Renter,Black,No cost burden
+"King George County, Virginia",115.0,121.0,46.0,05000US51099,51,099,D,Renter,Black,Moderate cost burden
+"King George County, Virginia",120.0,134.0,47.0,05000US51099,51,099,D,Renter,Black,Severe cost burden
+"King George County, Virginia",4.0,13.0,48.0,05000US51099,51,099,D,Renter,Black,N/A
+"King George County, Virginia",10.0,17.0,49.0,05000US51099,51,099,S,Renter,Asian,All
+"King George County, Virginia",0.0,161.0,50.0,05000US51099,51,099,D,Renter,Asian,No cost burden
+"King George County, Virginia",10.0,17.0,51.0,05000US51099,51,099,D,Renter,Asian,Moderate cost burden
+"King George County, Virginia",0.0,161.0,52.0,05000US51099,51,099,D,Renter,Asian,Severe cost burden
+"King George County, Virginia",0.0,161.0,53.0,05000US51099,51,099,D,Renter,Asian,N/A
+"King George County, Virginia",0.0,161.0,54.0,05000US51099,51,099,S,Renter,American Indian,All
+"King George County, Virginia",0.0,161.0,55.0,05000US51099,51,099,D,Renter,American Indian,No cost burden
+"King George County, Virginia",0.0,161.0,56.0,05000US51099,51,099,D,Renter,American Indian,Moderate cost burden
+"King George County, Virginia",0.0,161.0,57.0,05000US51099,51,099,D,Renter,American Indian,Severe cost burden
+"King George County, Virginia",0.0,161.0,58.0,05000US51099,51,099,D,Renter,American Indian,N/A
+"King George County, Virginia",0.0,161.0,59.0,05000US51099,51,099,S,Renter,Pacific Islander,All
+"King George County, Virginia",0.0,161.0,60.0,05000US51099,51,099,D,Renter,Pacific Islander,No cost burden
+"King George County, Virginia",0.0,161.0,61.0,05000US51099,51,099,D,Renter,Pacific Islander,Moderate cost burden
+"King George County, Virginia",0.0,161.0,62.0,05000US51099,51,099,D,Renter,Pacific Islander,Severe cost burden
+"King George County, Virginia",0.0,161.0,63.0,05000US51099,51,099,D,Renter,Pacific Islander,N/A
+"King George County, Virginia",210.0,103.0,64.0,05000US51099,51,099,S,Renter,Hispanic,All
+"King George County, Virginia",145.0,127.0,65.0,05000US51099,51,099,D,Renter,Hispanic,No cost burden
+"King George County, Virginia",0.0,161.0,66.0,05000US51099,51,099,D,Renter,Hispanic,Moderate cost burden
+"King George County, Virginia",65.0,53.0,67.0,05000US51099,51,099,D,Renter,Hispanic,Severe cost burden
+"King George County, Virginia",0.0,161.0,68.0,05000US51099,51,099,D,Renter,Hispanic,N/A
+"King George County, Virginia",30.0,53.0,69.0,05000US51099,51,099,S,Renter,Other,All
+"King George County, Virginia",30.0,53.0,70.0,05000US51099,51,099,D,Renter,Other,No cost burden
+"King George County, Virginia",0.0,161.0,71.0,05000US51099,51,099,D,Renter,Other,Moderate cost burden
+"King George County, Virginia",0.0,161.0,72.0,05000US51099,51,099,D,Renter,Other,Severe cost burden
+"King George County, Virginia",0.0,161.0,73.0,05000US51099,51,099,D,Renter,Other,N/A

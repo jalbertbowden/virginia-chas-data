@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Overcrowding,Household_Income,Family_Structure
+"Wise County, Virginia",16025.0,492.0,1.0,05000US51195,51,195,T,All,All,All,All
+"Wise County, Virginia",11095.0,578.0,2.0,05000US51195,51,195,S,Owner,All,All,All
+"Wise County, Virginia",11095.0,578.0,3.0,05000US51195,51,195,S,Owner,No overcrowding,All,All
+"Wise County, Virginia",1085.0,304.0,4.0,05000US51195,51,195,S,Owner,No overcrowding,30% AMI or less,All
+"Wise County, Virginia",580.0,236.0,5.0,05000US51195,51,195,D,Owner,No overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",0.0,161.0,6.0,05000US51195,51,195,D,Owner,No overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",505.0,171.0,7.0,05000US51195,51,195,D,Owner,No overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",1365.0,294.0,8.0,05000US51195,51,195,S,Owner,No overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",775.0,229.0,9.0,05000US51195,51,195,D,Owner,No overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",50.0,78.0,10.0,05000US51195,51,195,D,Owner,No overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",540.0,191.0,11.0,05000US51195,51,195,D,Owner,No overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",2435.0,364.0,12.0,05000US51195,51,195,S,Owner,No overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",1510.0,259.0,13.0,05000US51195,51,195,D,Owner,No overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",85.0,102.0,14.0,05000US51195,51,195,D,Owner,No overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",835.0,243.0,15.0,05000US51195,51,195,D,Owner,No overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",965.0,312.0,16.0,05000US51195,51,195,S,Owner,No overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",585.0,210.0,17.0,05000US51195,51,195,D,Owner,No overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",40.0,48.0,18.0,05000US51195,51,195,D,Owner,No overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",335.0,191.0,19.0,05000US51195,51,195,D,Owner,No overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",5250.0,548.0,20.0,05000US51195,51,195,S,Owner,No overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",4545.0,555.0,21.0,05000US51195,51,195,D,Owner,No overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",125.0,92.0,22.0,05000US51195,51,195,D,Owner,No overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",585.0,192.0,23.0,05000US51195,51,195,D,Owner,No overcrowding,95.1% AMI and above,Non-family household
+"Wise County, Virginia",0.0,161.0,24.0,05000US51195,51,195,S,Owner,Moderate overcrowding,All,All
+"Wise County, Virginia",0.0,161.0,25.0,05000US51195,51,195,S,Owner,Moderate overcrowding,30% AMI or less,All
+"Wise County, Virginia",0.0,161.0,26.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",0.0,161.0,27.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",0.0,161.0,28.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",0.0,161.0,29.0,05000US51195,51,195,S,Owner,Moderate overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",0.0,161.0,30.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,31.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,32.0,05000US51195,51,195,D,Owner,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,33.0,05000US51195,51,195,S,Owner,Moderate overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",0.0,161.0,34.0,05000US51195,51,195,D,Owner,Moderate overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,35.0,05000US51195,51,195,D,Owner,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,36.0,05000US51195,51,195,D,Owner,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,37.0,05000US51195,51,195,S,Owner,Moderate overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",0.0,161.0,38.0,05000US51195,51,195,D,Owner,Moderate overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,39.0,05000US51195,51,195,D,Owner,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,40.0,05000US51195,51,195,D,Owner,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,41.0,05000US51195,51,195,S,Owner,Moderate overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",0.0,161.0,42.0,05000US51195,51,195,D,Owner,Moderate overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",0.0,161.0,43.0,05000US51195,51,195,D,Owner,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",0.0,161.0,44.0,05000US51195,51,195,D,Owner,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Wise County, Virginia",0.0,161.0,45.0,05000US51195,51,195,S,Owner,Severe overcrowding,All,All
+"Wise County, Virginia",0.0,161.0,46.0,05000US51195,51,195,S,Owner,Severe overcrowding,30% AMI or less,All
+"Wise County, Virginia",0.0,161.0,47.0,05000US51195,51,195,D,Owner,Severe overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",0.0,161.0,48.0,05000US51195,51,195,D,Owner,Severe overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",0.0,161.0,49.0,05000US51195,51,195,D,Owner,Severe overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",0.0,161.0,50.0,05000US51195,51,195,S,Owner,Severe overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",0.0,161.0,51.0,05000US51195,51,195,D,Owner,Severe overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,52.0,05000US51195,51,195,D,Owner,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,53.0,05000US51195,51,195,D,Owner,Severe overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,54.0,05000US51195,51,195,S,Owner,Severe overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",0.0,161.0,55.0,05000US51195,51,195,D,Owner,Severe overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,56.0,05000US51195,51,195,D,Owner,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,57.0,05000US51195,51,195,D,Owner,Severe overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,58.0,05000US51195,51,195,S,Owner,Severe overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",0.0,161.0,59.0,05000US51195,51,195,D,Owner,Severe overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,60.0,05000US51195,51,195,D,Owner,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,61.0,05000US51195,51,195,D,Owner,Severe overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,62.0,05000US51195,51,195,S,Owner,Severe overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",0.0,161.0,63.0,05000US51195,51,195,D,Owner,Severe overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",0.0,161.0,64.0,05000US51195,51,195,D,Owner,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",0.0,161.0,65.0,05000US51195,51,195,D,Owner,Severe overcrowding,95.1% AMI and above,Non-family household
+"Wise County, Virginia",4930.0,608.0,66.0,05000US51195,51,195,S,Renter,All,All,All
+"Wise County, Virginia",4820.0,580.0,67.0,05000US51195,51,195,S,Renter,No overcrowding,All,All
+"Wise County, Virginia",1625.0,378.0,68.0,05000US51195,51,195,S,Renter,No overcrowding,30% AMI or less,All
+"Wise County, Virginia",670.0,228.0,69.0,05000US51195,51,195,D,Renter,No overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",0.0,161.0,70.0,05000US51195,51,195,D,Renter,No overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",955.0,324.0,71.0,05000US51195,51,195,D,Renter,No overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",1090.0,302.0,72.0,05000US51195,51,195,S,Renter,No overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",595.0,228.0,73.0,05000US51195,51,195,D,Renter,No overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",15.0,25.0,74.0,05000US51195,51,195,D,Renter,No overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",480.0,219.0,75.0,05000US51195,51,195,D,Renter,No overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",895.0,281.0,76.0,05000US51195,51,195,S,Renter,No overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",475.0,198.0,77.0,05000US51195,51,195,D,Renter,No overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",45.0,75.0,78.0,05000US51195,51,195,D,Renter,No overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",375.0,187.0,79.0,05000US51195,51,195,D,Renter,No overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",305.0,178.0,80.0,05000US51195,51,195,S,Renter,No overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",290.0,180.0,81.0,05000US51195,51,195,D,Renter,No overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,82.0,05000US51195,51,195,D,Renter,No overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",15.0,26.0,83.0,05000US51195,51,195,D,Renter,No overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",905.0,320.0,84.0,05000US51195,51,195,S,Renter,No overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",545.0,255.0,85.0,05000US51195,51,195,D,Renter,No overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",0.0,161.0,86.0,05000US51195,51,195,D,Renter,No overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",360.0,209.0,87.0,05000US51195,51,195,D,Renter,No overcrowding,95.1% AMI and above,Non-family household
+"Wise County, Virginia",110.0,89.0,88.0,05000US51195,51,195,S,Renter,Moderate overcrowding,All,All
+"Wise County, Virginia",70.0,78.0,89.0,05000US51195,51,195,S,Renter,Moderate overcrowding,30% AMI or less,All
+"Wise County, Virginia",25.0,32.0,90.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",45.0,73.0,91.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",0.0,161.0,92.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",0.0,161.0,93.0,05000US51195,51,195,S,Renter,Moderate overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",0.0,161.0,94.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,95.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,96.0,05000US51195,51,195,D,Renter,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,97.0,05000US51195,51,195,S,Renter,Moderate overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",0.0,161.0,98.0,05000US51195,51,195,D,Renter,Moderate overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,99.0,05000US51195,51,195,D,Renter,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,100.0,05000US51195,51,195,D,Renter,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",35.0,44.0,101.0,05000US51195,51,195,S,Renter,Moderate overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",35.0,44.0,102.0,05000US51195,51,195,D,Renter,Moderate overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,103.0,05000US51195,51,195,D,Renter,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,104.0,05000US51195,51,195,D,Renter,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,105.0,05000US51195,51,195,S,Renter,Moderate overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",0.0,161.0,106.0,05000US51195,51,195,D,Renter,Moderate overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",0.0,161.0,107.0,05000US51195,51,195,D,Renter,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",0.0,161.0,108.0,05000US51195,51,195,D,Renter,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Wise County, Virginia",0.0,161.0,109.0,05000US51195,51,195,S,Renter,Severe overcrowding,All,All
+"Wise County, Virginia",0.0,161.0,110.0,05000US51195,51,195,S,Renter,Severe overcrowding,30% AMI or less,All
+"Wise County, Virginia",0.0,161.0,111.0,05000US51195,51,195,D,Renter,Severe overcrowding,30% AMI or less,1 family household
+"Wise County, Virginia",0.0,161.0,112.0,05000US51195,51,195,D,Renter,Severe overcrowding,30% AMI or less,2+ families in household
+"Wise County, Virginia",0.0,161.0,113.0,05000US51195,51,195,D,Renter,Severe overcrowding,30% AMI or less,Non-family household
+"Wise County, Virginia",0.0,161.0,114.0,05000US51195,51,195,S,Renter,Severe overcrowding,30.1-50% AMI,All
+"Wise County, Virginia",0.0,161.0,115.0,05000US51195,51,195,D,Renter,Severe overcrowding,30.1-50% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,116.0,05000US51195,51,195,D,Renter,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,117.0,05000US51195,51,195,D,Renter,Severe overcrowding,30.1-50% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,118.0,05000US51195,51,195,S,Renter,Severe overcrowding,50.1-80% AMI,All
+"Wise County, Virginia",0.0,161.0,119.0,05000US51195,51,195,D,Renter,Severe overcrowding,50.1-80% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,120.0,05000US51195,51,195,D,Renter,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,121.0,05000US51195,51,195,D,Renter,Severe overcrowding,50.1-80% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,122.0,05000US51195,51,195,S,Renter,Severe overcrowding,80.1-95% AMI,All
+"Wise County, Virginia",0.0,161.0,123.0,05000US51195,51,195,D,Renter,Severe overcrowding,80.1-95% AMI,1 family household
+"Wise County, Virginia",0.0,161.0,124.0,05000US51195,51,195,D,Renter,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Wise County, Virginia",0.0,161.0,125.0,05000US51195,51,195,D,Renter,Severe overcrowding,80.1-95% AMI,Non-family household
+"Wise County, Virginia",0.0,161.0,126.0,05000US51195,51,195,S,Renter,Severe overcrowding,95.1% AMI and above,All
+"Wise County, Virginia",0.0,161.0,127.0,05000US51195,51,195,D,Renter,Severe overcrowding,95.1% AMI and above,1 family household
+"Wise County, Virginia",0.0,161.0,128.0,05000US51195,51,195,D,Renter,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Wise County, Virginia",0.0,161.0,129.0,05000US51195,51,195,D,Renter,Severe overcrowding,95.1% AMI and above,Non-family household

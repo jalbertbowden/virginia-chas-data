@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Loudoun County, Virginia",85655.0,1209.0,1.0,05000US51107,51,107,T,All,All,All
+"Loudoun County, Virginia",71545.0,1186.0,2.0,05000US51107,51,107,S,Owner,All,All
+"Loudoun County, Virginia",4825.0,488.0,3.0,05000US51107,51,107,S,Owner,"Small family, elderly",All
+"Loudoun County, Virginia",3535.0,393.0,4.0,05000US51107,51,107,D,Owner,"Small family, elderly",No cost burden
+"Loudoun County, Virginia",710.0,197.0,5.0,05000US51107,51,107,D,Owner,"Small family, elderly",Moderate cost burden
+"Loudoun County, Virginia",580.0,182.0,6.0,05000US51107,51,107,D,Owner,"Small family, elderly",Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,7.0,05000US51107,51,107,D,Owner,"Small family, elderly",N/A
+"Loudoun County, Virginia",41270.0,1260.0,8.0,05000US51107,51,107,S,Owner,"Small family, non-elderly",All
+"Loudoun County, Virginia",28350.0,1113.0,9.0,05000US51107,51,107,D,Owner,"Small family, non-elderly",No cost burden
+"Loudoun County, Virginia",9225.0,784.0,10.0,05000US51107,51,107,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Loudoun County, Virginia",3655.0,637.0,11.0,05000US51107,51,107,D,Owner,"Small family, non-elderly",Severe cost burden
+"Loudoun County, Virginia",40.0,49.0,12.0,05000US51107,51,107,D,Owner,"Small family, non-elderly",N/A
+"Loudoun County, Virginia",8085.0,652.0,13.0,05000US51107,51,107,S,Owner,Large family,All
+"Loudoun County, Virginia",5265.0,577.0,14.0,05000US51107,51,107,D,Owner,Large family,No cost burden
+"Loudoun County, Virginia",2010.0,325.0,15.0,05000US51107,51,107,D,Owner,Large family,Moderate cost burden
+"Loudoun County, Virginia",785.0,245.0,16.0,05000US51107,51,107,D,Owner,Large family,Severe cost burden
+"Loudoun County, Virginia",20.0,35.0,17.0,05000US51107,51,107,D,Owner,Large family,N/A
+"Loudoun County, Virginia",2945.0,428.0,18.0,05000US51107,51,107,S,Owner,"Non-family, elderly",All
+"Loudoun County, Virginia",1550.0,319.0,19.0,05000US51107,51,107,D,Owner,"Non-family, elderly",No cost burden
+"Loudoun County, Virginia",620.0,194.0,20.0,05000US51107,51,107,D,Owner,"Non-family, elderly",Moderate cost burden
+"Loudoun County, Virginia",700.0,209.0,21.0,05000US51107,51,107,D,Owner,"Non-family, elderly",Severe cost burden
+"Loudoun County, Virginia",75.0,113.0,22.0,05000US51107,51,107,D,Owner,"Non-family, elderly",N/A
+"Loudoun County, Virginia",14425.0,1061.0,23.0,05000US51107,51,107,S,Owner,"Non-family, non-elderly",All
+"Loudoun County, Virginia",6425.0,659.0,24.0,05000US51107,51,107,D,Owner,"Non-family, non-elderly",No cost burden
+"Loudoun County, Virginia",4010.0,673.0,25.0,05000US51107,51,107,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Loudoun County, Virginia",3685.0,703.0,26.0,05000US51107,51,107,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Loudoun County, Virginia",305.0,207.0,27.0,05000US51107,51,107,D,Owner,"Non-family, non-elderly",N/A
+"Loudoun County, Virginia",14115.0,992.0,28.0,05000US51107,51,107,S,Renter,All,All
+"Loudoun County, Virginia",400.0,269.0,29.0,05000US51107,51,107,S,Renter,"Small family, elderly",All
+"Loudoun County, Virginia",80.0,67.0,30.0,05000US51107,51,107,D,Renter,"Small family, elderly",No cost burden
+"Loudoun County, Virginia",120.0,83.0,31.0,05000US51107,51,107,D,Renter,"Small family, elderly",Moderate cost burden
+"Loudoun County, Virginia",30.0,39.0,32.0,05000US51107,51,107,D,Renter,"Small family, elderly",Severe cost burden
+"Loudoun County, Virginia",170.0,244.0,33.0,05000US51107,51,107,D,Renter,"Small family, elderly",N/A
+"Loudoun County, Virginia",4590.0,535.0,34.0,05000US51107,51,107,S,Renter,"Small family, non-elderly",All
+"Loudoun County, Virginia",2860.0,407.0,35.0,05000US51107,51,107,D,Renter,"Small family, non-elderly",No cost burden
+"Loudoun County, Virginia",1095.0,305.0,36.0,05000US51107,51,107,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Loudoun County, Virginia",390.0,190.0,37.0,05000US51107,51,107,D,Renter,"Small family, non-elderly",Severe cost burden
+"Loudoun County, Virginia",250.0,105.0,38.0,05000US51107,51,107,D,Renter,"Small family, non-elderly",N/A
+"Loudoun County, Virginia",805.0,288.0,39.0,05000US51107,51,107,S,Renter,Large family,All
+"Loudoun County, Virginia",420.0,248.0,40.0,05000US51107,51,107,D,Renter,Large family,No cost burden
+"Loudoun County, Virginia",195.0,94.0,41.0,05000US51107,51,107,D,Renter,Large family,Moderate cost burden
+"Loudoun County, Virginia",80.0,71.0,42.0,05000US51107,51,107,D,Renter,Large family,Severe cost burden
+"Loudoun County, Virginia",110.0,86.0,43.0,05000US51107,51,107,D,Renter,Large family,N/A
+"Loudoun County, Virginia",1560.0,360.0,44.0,05000US51107,51,107,S,Renter,"Non-family, elderly",All
+"Loudoun County, Virginia",440.0,196.0,45.0,05000US51107,51,107,D,Renter,"Non-family, elderly",No cost burden
+"Loudoun County, Virginia",290.0,120.0,46.0,05000US51107,51,107,D,Renter,"Non-family, elderly",Moderate cost burden
+"Loudoun County, Virginia",585.0,236.0,47.0,05000US51107,51,107,D,Renter,"Non-family, elderly",Severe cost burden
+"Loudoun County, Virginia",245.0,146.0,48.0,05000US51107,51,107,D,Renter,"Non-family, elderly",N/A
+"Loudoun County, Virginia",6755.0,771.0,49.0,05000US51107,51,107,S,Renter,"Non-family, non-elderly",All
+"Loudoun County, Virginia",3265.0,461.0,50.0,05000US51107,51,107,D,Renter,"Non-family, non-elderly",No cost burden
+"Loudoun County, Virginia",1905.0,480.0,51.0,05000US51107,51,107,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Loudoun County, Virginia",1225.0,430.0,52.0,05000US51107,51,107,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Loudoun County, Virginia",355.0,231.0,53.0,05000US51107,51,107,D,Renter,"Non-family, non-elderly",N/A

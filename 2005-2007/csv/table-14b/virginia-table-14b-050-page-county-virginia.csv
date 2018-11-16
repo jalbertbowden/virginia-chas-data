@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Page County, Virginia",75.0,63.0,1.0,05000US51139,51,139,T,All,All,All
+"Page County, Virginia",0.0,161.0,2.0,05000US51139,51,139,S,Substandard,All,All
+"Page County, Virginia",75.0,63.0,3.0,05000US51139,51,139,S,Standard,All,All
+"Page County, Virginia",0.0,161.0,4.0,05000US51139,51,139,S,Standard,RHUD30,All
+"Page County, Virginia",0.0,161.0,5.0,05000US51139,51,139,D,Standard,RHUD30,0 or 1
+"Page County, Virginia",0.0,161.0,6.0,05000US51139,51,139,D,Standard,RHUD30,2
+"Page County, Virginia",0.0,161.0,7.0,05000US51139,51,139,D,Standard,RHUD30,3 or more
+"Page County, Virginia",60.0,59.0,8.0,05000US51139,51,139,S,Standard,RHUD50,All
+"Page County, Virginia",0.0,161.0,9.0,05000US51139,51,139,D,Standard,RHUD50,0 or 1
+"Page County, Virginia",35.0,43.0,10.0,05000US51139,51,139,D,Standard,RHUD50,2
+"Page County, Virginia",25.0,41.0,11.0,05000US51139,51,139,D,Standard,RHUD50,3 or more
+"Page County, Virginia",15.0,25.0,12.0,05000US51139,51,139,S,Standard,RHUD80,All
+"Page County, Virginia",15.0,25.0,13.0,05000US51139,51,139,D,Standard,RHUD80,0 or 1
+"Page County, Virginia",0.0,161.0,14.0,05000US51139,51,139,D,Standard,RHUD80,2
+"Page County, Virginia",0.0,161.0,15.0,05000US51139,51,139,D,Standard,RHUD80,3 or more
+"Page County, Virginia",0.0,161.0,16.0,05000US51139,51,139,S,Standard,Greater than RHUD80,All
+"Page County, Virginia",0.0,161.0,17.0,05000US51139,51,139,D,Standard,Greater than RHUD80,0 or 1
+"Page County, Virginia",0.0,161.0,18.0,05000US51139,51,139,D,Standard,Greater than RHUD80,2
+"Page County, Virginia",0.0,161.0,19.0,05000US51139,51,139,D,Standard,Greater than RHUD80,3 or more

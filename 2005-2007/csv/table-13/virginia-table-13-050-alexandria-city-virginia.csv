@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Alexandria city, Virginia",62310.0,993.0,1.0,05000US51510,51,510,T,All,All,All
+"Alexandria city, Virginia",29620.0,1046.0,2.0,05000US51510,51,510,S,Owner,All,All
+"Alexandria city, Virginia",2575.0,304.0,3.0,05000US51510,51,510,S,Owner,2000+,All
+"Alexandria city, Virginia",230.0,142.0,4.0,05000US51510,51,510,D,Owner,2000+,Yes
+"Alexandria city, Virginia",2345.0,292.0,5.0,05000US51510,51,510,D,Owner,2000+,No
+"Alexandria city, Virginia",6325.0,507.0,6.0,05000US51510,51,510,S,Owner,1980 to 1999,All
+"Alexandria city, Virginia",650.0,254.0,7.0,05000US51510,51,510,D,Owner,1980 to 1999,Yes
+"Alexandria city, Virginia",5680.0,490.0,8.0,05000US51510,51,510,D,Owner,1980 to 1999,No
+"Alexandria city, Virginia",7940.0,746.0,9.0,05000US51510,51,510,S,Owner,1960 to 1979,All
+"Alexandria city, Virginia",760.0,275.0,10.0,05000US51510,51,510,D,Owner,1960 to 1979,Yes
+"Alexandria city, Virginia",7180.0,704.0,11.0,05000US51510,51,510,D,Owner,1960 to 1979,No
+"Alexandria city, Virginia",8660.0,647.0,12.0,05000US51510,51,510,S,Owner,1940 to 1959,All
+"Alexandria city, Virginia",1140.0,283.0,13.0,05000US51510,51,510,D,Owner,1940 to 1959,Yes
+"Alexandria city, Virginia",7520.0,659.0,14.0,05000US51510,51,510,D,Owner,1940 to 1959,No
+"Alexandria city, Virginia",4115.0,418.0,15.0,05000US51510,51,510,S,Owner,1939-,All
+"Alexandria city, Virginia",785.0,272.0,16.0,05000US51510,51,510,D,Owner,1939-,Yes
+"Alexandria city, Virginia",3330.0,431.0,17.0,05000US51510,51,510,D,Owner,1939-,No
+"Alexandria city, Virginia",32690.0,1290.0,18.0,05000US51510,51,510,S,Renter,All,All
+"Alexandria city, Virginia",2235.0,574.0,19.0,05000US51510,51,510,S,Renter,2000+,All
+"Alexandria city, Virginia",145.0,97.0,20.0,05000US51510,51,510,D,Renter,2000+,Yes
+"Alexandria city, Virginia",2095.0,581.0,21.0,05000US51510,51,510,D,Renter,2000+,No
+"Alexandria city, Virginia",6345.0,869.0,22.0,05000US51510,51,510,S,Renter,1980 to 1999,All
+"Alexandria city, Virginia",860.0,374.0,23.0,05000US51510,51,510,D,Renter,1980 to 1999,Yes
+"Alexandria city, Virginia",5485.0,743.0,24.0,05000US51510,51,510,D,Renter,1980 to 1999,No
+"Alexandria city, Virginia",14080.0,1034.0,25.0,05000US51510,51,510,S,Renter,1960 to 1979,All
+"Alexandria city, Virginia",2035.0,481.0,26.0,05000US51510,51,510,D,Renter,1960 to 1979,Yes
+"Alexandria city, Virginia",12050.0,947.0,27.0,05000US51510,51,510,D,Renter,1960 to 1979,No
+"Alexandria city, Virginia",8175.0,699.0,28.0,05000US51510,51,510,S,Renter,1940 to 1959,All
+"Alexandria city, Virginia",910.0,377.0,29.0,05000US51510,51,510,D,Renter,1940 to 1959,Yes
+"Alexandria city, Virginia",7270.0,677.0,30.0,05000US51510,51,510,D,Renter,1940 to 1959,No
+"Alexandria city, Virginia",1850.0,387.0,31.0,05000US51510,51,510,S,Renter,1939-,All
+"Alexandria city, Virginia",135.0,98.0,32.0,05000US51510,51,510,D,Renter,1939-,Yes
+"Alexandria city, Virginia",1715.0,373.0,33.0,05000US51510,51,510,D,Renter,1939-,No

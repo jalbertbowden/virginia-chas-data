@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Wise County, Virginia",16025.0,492.0,1.0,05000US51195,51,195,T,All,All,All
+"Wise County, Virginia",11095.0,578.0,2.0,05000US51195,51,195,S,Owner,All,All
+"Wise County, Virginia",720.0,245.0,3.0,05000US51195,51,195,S,Owner,2000+,All
+"Wise County, Virginia",260.0,139.0,4.0,05000US51195,51,195,D,Owner,2000+,Yes
+"Wise County, Virginia",460.0,213.0,5.0,05000US51195,51,195,D,Owner,2000+,No
+"Wise County, Virginia",3780.0,520.0,6.0,05000US51195,51,195,S,Owner,1980 to 1999,All
+"Wise County, Virginia",715.0,290.0,7.0,05000US51195,51,195,D,Owner,1980 to 1999,Yes
+"Wise County, Virginia",3065.0,435.0,8.0,05000US51195,51,195,D,Owner,1980 to 1999,No
+"Wise County, Virginia",3400.0,450.0,9.0,05000US51195,51,195,S,Owner,1960 to 1979,All
+"Wise County, Virginia",395.0,158.0,10.0,05000US51195,51,195,D,Owner,1960 to 1979,Yes
+"Wise County, Virginia",3005.0,414.0,11.0,05000US51195,51,195,D,Owner,1960 to 1979,No
+"Wise County, Virginia",1785.0,376.0,12.0,05000US51195,51,195,S,Owner,1940 to 1959,All
+"Wise County, Virginia",120.0,106.0,13.0,05000US51195,51,195,D,Owner,1940 to 1959,Yes
+"Wise County, Virginia",1665.0,359.0,14.0,05000US51195,51,195,D,Owner,1940 to 1959,No
+"Wise County, Virginia",1410.0,310.0,15.0,05000US51195,51,195,S,Owner,1939-,All
+"Wise County, Virginia",140.0,97.0,16.0,05000US51195,51,195,D,Owner,1939-,Yes
+"Wise County, Virginia",1270.0,306.0,17.0,05000US51195,51,195,D,Owner,1939-,No
+"Wise County, Virginia",4930.0,608.0,18.0,05000US51195,51,195,S,Renter,All,All
+"Wise County, Virginia",190.0,139.0,19.0,05000US51195,51,195,S,Renter,2000+,All
+"Wise County, Virginia",0.0,161.0,20.0,05000US51195,51,195,D,Renter,2000+,Yes
+"Wise County, Virginia",190.0,139.0,21.0,05000US51195,51,195,D,Renter,2000+,No
+"Wise County, Virginia",1875.0,424.0,22.0,05000US51195,51,195,S,Renter,1980 to 1999,All
+"Wise County, Virginia",370.0,186.0,23.0,05000US51195,51,195,D,Renter,1980 to 1999,Yes
+"Wise County, Virginia",1505.0,405.0,24.0,05000US51195,51,195,D,Renter,1980 to 1999,No
+"Wise County, Virginia",1460.0,355.0,25.0,05000US51195,51,195,S,Renter,1960 to 1979,All
+"Wise County, Virginia",235.0,148.0,26.0,05000US51195,51,195,D,Renter,1960 to 1979,Yes
+"Wise County, Virginia",1225.0,319.0,27.0,05000US51195,51,195,D,Renter,1960 to 1979,No
+"Wise County, Virginia",845.0,290.0,28.0,05000US51195,51,195,S,Renter,1940 to 1959,All
+"Wise County, Virginia",45.0,60.0,29.0,05000US51195,51,195,D,Renter,1940 to 1959,Yes
+"Wise County, Virginia",800.0,284.0,30.0,05000US51195,51,195,D,Renter,1940 to 1959,No
+"Wise County, Virginia",565.0,233.0,31.0,05000US51195,51,195,S,Renter,1939-,All
+"Wise County, Virginia",20.0,27.0,32.0,05000US51195,51,195,D,Renter,1939-,Yes
+"Wise County, Virginia",545.0,233.0,33.0,05000US51195,51,195,D,Renter,1939-,No

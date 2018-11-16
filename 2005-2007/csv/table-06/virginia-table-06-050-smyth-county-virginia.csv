@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Smyth County, Virginia",13355.0,418.0,1.0,05000US51173,51,173,T,All,All,All,All
+"Smyth County, Virginia",9870.0,489.0,2.0,05000US51173,51,173,S,Owner,All,All,All
+"Smyth County, Virginia",1480.0,294.0,3.0,05000US51173,51,173,S,Owner,Yes,All,All
+"Smyth County, Virginia",365.0,156.0,4.0,05000US51173,51,173,S,Owner,Yes,30% AMI or less,All
+"Smyth County, Virginia",195.0,121.0,5.0,05000US51173,51,173,D,Owner,Yes,30% AMI or less,Disabled
+"Smyth County, Virginia",170.0,90.0,6.0,05000US51173,51,173,D,Owner,Yes,30% AMI or less,Not disabled
+"Smyth County, Virginia",500.0,179.0,7.0,05000US51173,51,173,S,Owner,Yes,30.1-50% AMI,All
+"Smyth County, Virginia",205.0,156.0,8.0,05000US51173,51,173,D,Owner,Yes,30.1-50% AMI,Disabled
+"Smyth County, Virginia",295.0,127.0,9.0,05000US51173,51,173,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",305.0,140.0,10.0,05000US51173,51,173,S,Owner,Yes,50.1-80% AMI,All
+"Smyth County, Virginia",30.0,38.0,11.0,05000US51173,51,173,D,Owner,Yes,50.1-80% AMI,Disabled
+"Smyth County, Virginia",270.0,134.0,12.0,05000US51173,51,173,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",310.0,120.0,13.0,05000US51173,51,173,S,Owner,Yes,80.1% AMI and above,All
+"Smyth County, Virginia",60.0,70.0,14.0,05000US51173,51,173,D,Owner,Yes,80.1% AMI and above,Disabled
+"Smyth County, Virginia",250.0,111.0,15.0,05000US51173,51,173,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Smyth County, Virginia",8380.0,501.0,16.0,05000US51173,51,173,S,Owner,No,All,All
+"Smyth County, Virginia",440.0,157.0,17.0,05000US51173,51,173,S,Owner,No,30% AMI or less,All
+"Smyth County, Virginia",210.0,113.0,18.0,05000US51173,51,173,D,Owner,No,30% AMI or less,Disabled
+"Smyth County, Virginia",230.0,106.0,19.0,05000US51173,51,173,D,Owner,No,30% AMI or less,Not disabled
+"Smyth County, Virginia",750.0,221.0,20.0,05000US51173,51,173,S,Owner,No,30.1-50% AMI,All
+"Smyth County, Virginia",290.0,126.0,21.0,05000US51173,51,173,D,Owner,No,30.1-50% AMI,Disabled
+"Smyth County, Virginia",465.0,177.0,22.0,05000US51173,51,173,D,Owner,No,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",1280.0,318.0,23.0,05000US51173,51,173,S,Owner,No,50.1-80% AMI,All
+"Smyth County, Virginia",265.0,125.0,24.0,05000US51173,51,173,D,Owner,No,50.1-80% AMI,Disabled
+"Smyth County, Virginia",1015.0,275.0,25.0,05000US51173,51,173,D,Owner,No,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",5910.0,459.0,26.0,05000US51173,51,173,S,Owner,No,80.1% AMI and above,All
+"Smyth County, Virginia",910.0,215.0,27.0,05000US51173,51,173,D,Owner,No,80.1% AMI and above,Disabled
+"Smyth County, Virginia",5000.0,481.0,28.0,05000US51173,51,173,D,Owner,No,80.1% AMI and above,Not disabled
+"Smyth County, Virginia",10.0,22.0,29.0,05000US51173,51,173,S,Owner,N/A,All,All
+"Smyth County, Virginia",10.0,22.0,30.0,05000US51173,51,173,S,Owner,N/A,30% AMI or less,All
+"Smyth County, Virginia",10.0,22.0,31.0,05000US51173,51,173,D,Owner,N/A,30% AMI or less,Disabled
+"Smyth County, Virginia",0.0,161.0,32.0,05000US51173,51,173,D,Owner,N/A,30% AMI or less,Not disabled
+"Smyth County, Virginia",0.0,161.0,33.0,05000US51173,51,173,S,Owner,N/A,30.1-50% AMI,All
+"Smyth County, Virginia",0.0,161.0,34.0,05000US51173,51,173,D,Owner,N/A,30.1-50% AMI,Disabled
+"Smyth County, Virginia",0.0,161.0,35.0,05000US51173,51,173,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",0.0,161.0,36.0,05000US51173,51,173,S,Owner,N/A,50.1-80% AMI,All
+"Smyth County, Virginia",0.0,161.0,37.0,05000US51173,51,173,D,Owner,N/A,50.1-80% AMI,Disabled
+"Smyth County, Virginia",0.0,161.0,38.0,05000US51173,51,173,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",0.0,161.0,39.0,05000US51173,51,173,S,Owner,N/A,80.1% AMI and above,All
+"Smyth County, Virginia",0.0,161.0,40.0,05000US51173,51,173,D,Owner,N/A,80.1% AMI and above,Disabled
+"Smyth County, Virginia",0.0,161.0,41.0,05000US51173,51,173,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Smyth County, Virginia",3485.0,454.0,42.0,05000US51173,51,173,S,Renter,All,All,All
+"Smyth County, Virginia",895.0,290.0,43.0,05000US51173,51,173,S,Renter,Yes,All,All
+"Smyth County, Virginia",350.0,141.0,44.0,05000US51173,51,173,S,Renter,Yes,30% AMI or less,All
+"Smyth County, Virginia",110.0,64.0,45.0,05000US51173,51,173,D,Renter,Yes,30% AMI or less,Disabled
+"Smyth County, Virginia",240.0,111.0,46.0,05000US51173,51,173,D,Renter,Yes,30% AMI or less,Not disabled
+"Smyth County, Virginia",475.0,238.0,47.0,05000US51173,51,173,S,Renter,Yes,30.1-50% AMI,All
+"Smyth County, Virginia",150.0,137.0,48.0,05000US51173,51,173,D,Renter,Yes,30.1-50% AMI,Disabled
+"Smyth County, Virginia",325.0,203.0,49.0,05000US51173,51,173,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",70.0,92.0,50.0,05000US51173,51,173,S,Renter,Yes,50.1-80% AMI,All
+"Smyth County, Virginia",0.0,161.0,51.0,05000US51173,51,173,D,Renter,Yes,50.1-80% AMI,Disabled
+"Smyth County, Virginia",70.0,92.0,52.0,05000US51173,51,173,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",0.0,161.0,53.0,05000US51173,51,173,S,Renter,Yes,80.1% AMI and above,All
+"Smyth County, Virginia",0.0,161.0,54.0,05000US51173,51,173,D,Renter,Yes,80.1% AMI and above,Disabled
+"Smyth County, Virginia",0.0,161.0,55.0,05000US51173,51,173,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Smyth County, Virginia",1795.0,348.0,56.0,05000US51173,51,173,S,Renter,No,All,All
+"Smyth County, Virginia",190.0,178.0,57.0,05000US51173,51,173,S,Renter,No,30% AMI or less,All
+"Smyth County, Virginia",15.0,43.0,58.0,05000US51173,51,173,D,Renter,No,30% AMI or less,Disabled
+"Smyth County, Virginia",180.0,166.0,59.0,05000US51173,51,173,D,Renter,No,30% AMI or less,Not disabled
+"Smyth County, Virginia",190.0,90.0,60.0,05000US51173,51,173,S,Renter,No,30.1-50% AMI,All
+"Smyth County, Virginia",35.0,46.0,61.0,05000US51173,51,173,D,Renter,No,30.1-50% AMI,Disabled
+"Smyth County, Virginia",155.0,79.0,62.0,05000US51173,51,173,D,Renter,No,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",485.0,184.0,63.0,05000US51173,51,173,S,Renter,No,50.1-80% AMI,All
+"Smyth County, Virginia",4.0,8.0,64.0,05000US51173,51,173,D,Renter,No,50.1-80% AMI,Disabled
+"Smyth County, Virginia",480.0,183.0,65.0,05000US51173,51,173,D,Renter,No,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",925.0,254.0,66.0,05000US51173,51,173,S,Renter,No,80.1% AMI and above,All
+"Smyth County, Virginia",90.0,87.0,67.0,05000US51173,51,173,D,Renter,No,80.1% AMI and above,Disabled
+"Smyth County, Virginia",835.0,246.0,68.0,05000US51173,51,173,D,Renter,No,80.1% AMI and above,Not disabled
+"Smyth County, Virginia",800.0,224.0,69.0,05000US51173,51,173,S,Renter,N/A,All,All
+"Smyth County, Virginia",320.0,174.0,70.0,05000US51173,51,173,S,Renter,N/A,30% AMI or less,All
+"Smyth County, Virginia",40.0,48.0,71.0,05000US51173,51,173,D,Renter,N/A,30% AMI or less,Disabled
+"Smyth County, Virginia",285.0,169.0,72.0,05000US51173,51,173,D,Renter,N/A,30% AMI or less,Not disabled
+"Smyth County, Virginia",240.0,167.0,73.0,05000US51173,51,173,S,Renter,N/A,30.1-50% AMI,All
+"Smyth County, Virginia",85.0,71.0,74.0,05000US51173,51,173,D,Renter,N/A,30.1-50% AMI,Disabled
+"Smyth County, Virginia",155.0,150.0,75.0,05000US51173,51,173,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Smyth County, Virginia",65.0,50.0,76.0,05000US51173,51,173,S,Renter,N/A,50.1-80% AMI,All
+"Smyth County, Virginia",30.0,46.0,77.0,05000US51173,51,173,D,Renter,N/A,50.1-80% AMI,Disabled
+"Smyth County, Virginia",35.0,41.0,78.0,05000US51173,51,173,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Smyth County, Virginia",170.0,83.0,79.0,05000US51173,51,173,S,Renter,N/A,80.1% AMI and above,All
+"Smyth County, Virginia",35.0,50.0,80.0,05000US51173,51,173,D,Renter,N/A,80.1% AMI and above,Disabled
+"Smyth County, Virginia",140.0,71.0,81.0,05000US51173,51,173,D,Renter,N/A,80.1% AMI and above,Not disabled

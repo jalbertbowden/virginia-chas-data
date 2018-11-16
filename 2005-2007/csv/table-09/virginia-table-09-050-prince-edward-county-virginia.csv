@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Prince Edward County, Virginia",6720.0,372.0,1.0,05000US51147,51,147,T,All,All,All
+"Prince Edward County, Virginia",4340.0,363.0,2.0,05000US51147,51,147,S,Owner,All,All
+"Prince Edward County, Virginia",2930.0,303.0,3.0,05000US51147,51,147,S,Owner,White,All
+"Prince Edward County, Virginia",2290.0,305.0,4.0,05000US51147,51,147,D,Owner,White,No cost burden
+"Prince Edward County, Virginia",485.0,226.0,5.0,05000US51147,51,147,D,Owner,White,Moderate cost burden
+"Prince Edward County, Virginia",135.0,98.0,6.0,05000US51147,51,147,D,Owner,White,Severe cost burden
+"Prince Edward County, Virginia",25.0,42.0,7.0,05000US51147,51,147,D,Owner,White,N/A
+"Prince Edward County, Virginia",1355.0,262.0,8.0,05000US51147,51,147,S,Owner,Black,All
+"Prince Edward County, Virginia",785.0,239.0,9.0,05000US51147,51,147,D,Owner,Black,No cost burden
+"Prince Edward County, Virginia",280.0,173.0,10.0,05000US51147,51,147,D,Owner,Black,Moderate cost burden
+"Prince Edward County, Virginia",260.0,150.0,11.0,05000US51147,51,147,D,Owner,Black,Severe cost burden
+"Prince Edward County, Virginia",30.0,35.0,12.0,05000US51147,51,147,D,Owner,Black,N/A
+"Prince Edward County, Virginia",0.0,161.0,13.0,05000US51147,51,147,S,Owner,Asian,All
+"Prince Edward County, Virginia",0.0,161.0,14.0,05000US51147,51,147,D,Owner,Asian,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,15.0,05000US51147,51,147,D,Owner,Asian,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,16.0,05000US51147,51,147,D,Owner,Asian,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,17.0,05000US51147,51,147,D,Owner,Asian,N/A
+"Prince Edward County, Virginia",0.0,161.0,18.0,05000US51147,51,147,S,Owner,American Indian,All
+"Prince Edward County, Virginia",0.0,161.0,19.0,05000US51147,51,147,D,Owner,American Indian,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,20.0,05000US51147,51,147,D,Owner,American Indian,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,21.0,05000US51147,51,147,D,Owner,American Indian,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,22.0,05000US51147,51,147,D,Owner,American Indian,N/A
+"Prince Edward County, Virginia",0.0,161.0,23.0,05000US51147,51,147,S,Owner,Pacific Islander,All
+"Prince Edward County, Virginia",0.0,161.0,24.0,05000US51147,51,147,D,Owner,Pacific Islander,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,25.0,05000US51147,51,147,D,Owner,Pacific Islander,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,26.0,05000US51147,51,147,D,Owner,Pacific Islander,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,27.0,05000US51147,51,147,D,Owner,Pacific Islander,N/A
+"Prince Edward County, Virginia",0.0,161.0,28.0,05000US51147,51,147,S,Owner,Hispanic,All
+"Prince Edward County, Virginia",0.0,161.0,29.0,05000US51147,51,147,D,Owner,Hispanic,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,30.0,05000US51147,51,147,D,Owner,Hispanic,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,31.0,05000US51147,51,147,D,Owner,Hispanic,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,32.0,05000US51147,51,147,D,Owner,Hispanic,N/A
+"Prince Edward County, Virginia",50.0,51.0,33.0,05000US51147,51,147,S,Owner,Other,All
+"Prince Edward County, Virginia",35.0,41.0,34.0,05000US51147,51,147,D,Owner,Other,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,35.0,05000US51147,51,147,D,Owner,Other,Moderate cost burden
+"Prince Edward County, Virginia",15.0,31.0,36.0,05000US51147,51,147,D,Owner,Other,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,37.0,05000US51147,51,147,D,Owner,Other,N/A
+"Prince Edward County, Virginia",2380.0,390.0,38.0,05000US51147,51,147,S,Renter,All,All
+"Prince Edward County, Virginia",1230.0,297.0,39.0,05000US51147,51,147,S,Renter,White,All
+"Prince Edward County, Virginia",685.0,258.0,40.0,05000US51147,51,147,D,Renter,White,No cost burden
+"Prince Edward County, Virginia",215.0,115.0,41.0,05000US51147,51,147,D,Renter,White,Moderate cost burden
+"Prince Edward County, Virginia",285.0,156.0,42.0,05000US51147,51,147,D,Renter,White,Severe cost burden
+"Prince Edward County, Virginia",45.0,62.0,43.0,05000US51147,51,147,D,Renter,White,N/A
+"Prince Edward County, Virginia",1095.0,286.0,44.0,05000US51147,51,147,S,Renter,Black,All
+"Prince Edward County, Virginia",550.0,257.0,45.0,05000US51147,51,147,D,Renter,Black,No cost burden
+"Prince Edward County, Virginia",265.0,199.0,46.0,05000US51147,51,147,D,Renter,Black,Moderate cost burden
+"Prince Edward County, Virginia",80.0,79.0,47.0,05000US51147,51,147,D,Renter,Black,Severe cost burden
+"Prince Edward County, Virginia",200.0,143.0,48.0,05000US51147,51,147,D,Renter,Black,N/A
+"Prince Edward County, Virginia",0.0,161.0,49.0,05000US51147,51,147,S,Renter,Asian,All
+"Prince Edward County, Virginia",0.0,161.0,50.0,05000US51147,51,147,D,Renter,Asian,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,51.0,05000US51147,51,147,D,Renter,Asian,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,52.0,05000US51147,51,147,D,Renter,Asian,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,53.0,05000US51147,51,147,D,Renter,Asian,N/A
+"Prince Edward County, Virginia",0.0,161.0,54.0,05000US51147,51,147,S,Renter,American Indian,All
+"Prince Edward County, Virginia",0.0,161.0,55.0,05000US51147,51,147,D,Renter,American Indian,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,56.0,05000US51147,51,147,D,Renter,American Indian,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,57.0,05000US51147,51,147,D,Renter,American Indian,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,58.0,05000US51147,51,147,D,Renter,American Indian,N/A
+"Prince Edward County, Virginia",0.0,161.0,59.0,05000US51147,51,147,S,Renter,Pacific Islander,All
+"Prince Edward County, Virginia",0.0,161.0,60.0,05000US51147,51,147,D,Renter,Pacific Islander,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,61.0,05000US51147,51,147,D,Renter,Pacific Islander,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,62.0,05000US51147,51,147,D,Renter,Pacific Islander,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,63.0,05000US51147,51,147,D,Renter,Pacific Islander,N/A
+"Prince Edward County, Virginia",60.0,73.0,64.0,05000US51147,51,147,S,Renter,Hispanic,All
+"Prince Edward County, Virginia",20.0,34.0,65.0,05000US51147,51,147,D,Renter,Hispanic,No cost burden
+"Prince Edward County, Virginia",40.0,66.0,66.0,05000US51147,51,147,D,Renter,Hispanic,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,67.0,05000US51147,51,147,D,Renter,Hispanic,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,68.0,05000US51147,51,147,D,Renter,Hispanic,N/A
+"Prince Edward County, Virginia",0.0,161.0,69.0,05000US51147,51,147,S,Renter,Other,All
+"Prince Edward County, Virginia",0.0,161.0,70.0,05000US51147,51,147,D,Renter,Other,No cost burden
+"Prince Edward County, Virginia",0.0,161.0,71.0,05000US51147,51,147,D,Renter,Other,Moderate cost burden
+"Prince Edward County, Virginia",0.0,161.0,72.0,05000US51147,51,147,D,Renter,Other,Severe cost burden
+"Prince Edward County, Virginia",0.0,161.0,73.0,05000US51147,51,147,D,Renter,Other,N/A

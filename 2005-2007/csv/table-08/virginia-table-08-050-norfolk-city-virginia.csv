@@ -1,0 +1,134 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Income,Cost_Burden,Substandard
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All,All
+"Norfolk city, Virginia",3050.0,493.0,3.0,05000US51710,51,710,S,Owner,30% AMI or less,All,All
+"Norfolk city, Virginia",330.0,140.0,4.0,05000US51710,51,710,S,Owner,30% AMI or less,No cost burden,All
+"Norfolk city, Virginia",0.0,161.0,5.0,05000US51710,51,710,D,Owner,30% AMI or less,No cost burden,substandard
+"Norfolk city, Virginia",330.0,140.0,6.0,05000US51710,51,710,D,Owner,30% AMI or less,No cost burden,standard
+"Norfolk city, Virginia",510.0,170.0,7.0,05000US51710,51,710,S,Owner,30% AMI or less,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,8.0,05000US51710,51,710,D,Owner,30% AMI or less,Moderate cost burden,substandard
+"Norfolk city, Virginia",510.0,170.0,9.0,05000US51710,51,710,D,Owner,30% AMI or less,Moderate cost burden,standard
+"Norfolk city, Virginia",1990.0,351.0,10.0,05000US51710,51,710,S,Owner,30% AMI or less,Severe cost burden,All
+"Norfolk city, Virginia",20.0,32.0,11.0,05000US51710,51,710,D,Owner,30% AMI or less,Severe cost burden,substandard
+"Norfolk city, Virginia",1970.0,350.0,12.0,05000US51710,51,710,D,Owner,30% AMI or less,Severe cost burden,standard
+"Norfolk city, Virginia",220.0,140.0,13.0,05000US51710,51,710,S,Owner,30% AMI or less,N/A,All
+"Norfolk city, Virginia",0.0,161.0,14.0,05000US51710,51,710,D,Owner,30% AMI or less,N/A,substandard
+"Norfolk city, Virginia",220.0,140.0,15.0,05000US51710,51,710,D,Owner,30% AMI or less,N/A,standard
+"Norfolk city, Virginia",3275.0,432.0,16.0,05000US51710,51,710,S,Owner,30.1-50% AMI,All,All
+"Norfolk city, Virginia",765.0,177.0,17.0,05000US51710,51,710,S,Owner,30.1-50% AMI,No cost burden,All
+"Norfolk city, Virginia",15.0,24.0,18.0,05000US51710,51,710,D,Owner,30.1-50% AMI,No cost burden,substandard
+"Norfolk city, Virginia",750.0,172.0,19.0,05000US51710,51,710,D,Owner,30.1-50% AMI,No cost burden,standard
+"Norfolk city, Virginia",1060.0,234.0,20.0,05000US51710,51,710,S,Owner,30.1-50% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,21.0,05000US51710,51,710,D,Owner,30.1-50% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",1060.0,234.0,22.0,05000US51710,51,710,D,Owner,30.1-50% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",1450.0,299.0,23.0,05000US51710,51,710,S,Owner,30.1-50% AMI,Severe cost burden,All
+"Norfolk city, Virginia",10.0,20.0,24.0,05000US51710,51,710,D,Owner,30.1-50% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",1440.0,297.0,25.0,05000US51710,51,710,D,Owner,30.1-50% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,26.0,05000US51710,51,710,S,Owner,30.1-50% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,27.0,05000US51710,51,710,D,Owner,30.1-50% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,28.0,05000US51710,51,710,D,Owner,30.1-50% AMI,N/A,standard
+"Norfolk city, Virginia",7165.0,657.0,29.0,05000US51710,51,710,S,Owner,50.1-80% AMI,All,All
+"Norfolk city, Virginia",3345.0,401.0,30.0,05000US51710,51,710,S,Owner,50.1-80% AMI,No cost burden,All
+"Norfolk city, Virginia",20.0,39.0,31.0,05000US51710,51,710,D,Owner,50.1-80% AMI,No cost burden,substandard
+"Norfolk city, Virginia",3325.0,402.0,32.0,05000US51710,51,710,D,Owner,50.1-80% AMI,No cost burden,standard
+"Norfolk city, Virginia",2870.0,509.0,33.0,05000US51710,51,710,S,Owner,50.1-80% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",35.0,58.0,34.0,05000US51710,51,710,D,Owner,50.1-80% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",2835.0,497.0,35.0,05000US51710,51,710,D,Owner,50.1-80% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",950.0,251.0,36.0,05000US51710,51,710,S,Owner,50.1-80% AMI,Severe cost burden,All
+"Norfolk city, Virginia",15.0,28.0,37.0,05000US51710,51,710,D,Owner,50.1-80% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",930.0,252.0,38.0,05000US51710,51,710,D,Owner,50.1-80% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,39.0,05000US51710,51,710,S,Owner,50.1-80% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,40.0,05000US51710,51,710,D,Owner,50.1-80% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,41.0,05000US51710,51,710,D,Owner,50.1-80% AMI,N/A,standard
+"Norfolk city, Virginia",3560.0,434.0,42.0,05000US51710,51,710,S,Owner,80.1-95% AMI,All,All
+"Norfolk city, Virginia",2285.0,327.0,43.0,05000US51710,51,710,S,Owner,80.1-95% AMI,No cost burden,All
+"Norfolk city, Virginia",0.0,161.0,44.0,05000US51710,51,710,D,Owner,80.1-95% AMI,No cost burden,substandard
+"Norfolk city, Virginia",2285.0,327.0,45.0,05000US51710,51,710,D,Owner,80.1-95% AMI,No cost burden,standard
+"Norfolk city, Virginia",1100.0,308.0,46.0,05000US51710,51,710,S,Owner,80.1-95% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,47.0,05000US51710,51,710,D,Owner,80.1-95% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",1100.0,308.0,48.0,05000US51710,51,710,D,Owner,80.1-95% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",170.0,118.0,49.0,05000US51710,51,710,S,Owner,80.1-95% AMI,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,50.0,05000US51710,51,710,D,Owner,80.1-95% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",170.0,118.0,51.0,05000US51710,51,710,D,Owner,80.1-95% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,52.0,05000US51710,51,710,S,Owner,80.1-95% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,53.0,05000US51710,51,710,D,Owner,80.1-95% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,54.0,05000US51710,51,710,D,Owner,80.1-95% AMI,N/A,standard
+"Norfolk city, Virginia",22955.0,930.0,55.0,05000US51710,51,710,S,Owner,95.1% AMI and above,All,All
+"Norfolk city, Virginia",19570.0,958.0,56.0,05000US51710,51,710,S,Owner,95.1% AMI and above,No cost burden,All
+"Norfolk city, Virginia",75.0,96.0,57.0,05000US51710,51,710,D,Owner,95.1% AMI and above,No cost burden,substandard
+"Norfolk city, Virginia",19495.0,980.0,58.0,05000US51710,51,710,D,Owner,95.1% AMI and above,No cost burden,standard
+"Norfolk city, Virginia",3115.0,506.0,59.0,05000US51710,51,710,S,Owner,95.1% AMI and above,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,60.0,05000US51710,51,710,D,Owner,95.1% AMI and above,Moderate cost burden,substandard
+"Norfolk city, Virginia",3115.0,506.0,61.0,05000US51710,51,710,D,Owner,95.1% AMI and above,Moderate cost burden,standard
+"Norfolk city, Virginia",265.0,114.0,62.0,05000US51710,51,710,S,Owner,95.1% AMI and above,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,63.0,05000US51710,51,710,D,Owner,95.1% AMI and above,Severe cost burden,substandard
+"Norfolk city, Virginia",265.0,114.0,64.0,05000US51710,51,710,D,Owner,95.1% AMI and above,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,65.0,05000US51710,51,710,S,Owner,95.1% AMI and above,N/A,All
+"Norfolk city, Virginia",0.0,161.0,66.0,05000US51710,51,710,D,Owner,95.1% AMI and above,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,67.0,05000US51710,51,710,D,Owner,95.1% AMI and above,N/A,standard
+"Norfolk city, Virginia",45125.0,1197.0,68.0,05000US51710,51,710,S,Renter,All,All,All
+"Norfolk city, Virginia",11755.0,950.0,69.0,05000US51710,51,710,S,Renter,30% AMI or less,All,All
+"Norfolk city, Virginia",2360.0,429.0,70.0,05000US51710,51,710,S,Renter,30% AMI or less,No cost burden,All
+"Norfolk city, Virginia",0.0,161.0,71.0,05000US51710,51,710,D,Renter,30% AMI or less,No cost burden,substandard
+"Norfolk city, Virginia",2360.0,429.0,72.0,05000US51710,51,710,D,Renter,30% AMI or less,No cost burden,standard
+"Norfolk city, Virginia",1195.0,299.0,73.0,05000US51710,51,710,S,Renter,30% AMI or less,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,74.0,05000US51710,51,710,D,Renter,30% AMI or less,Moderate cost burden,substandard
+"Norfolk city, Virginia",1195.0,299.0,75.0,05000US51710,51,710,D,Renter,30% AMI or less,Moderate cost burden,standard
+"Norfolk city, Virginia",6840.0,824.0,76.0,05000US51710,51,710,S,Renter,30% AMI or less,Severe cost burden,All
+"Norfolk city, Virginia",125.0,110.0,77.0,05000US51710,51,710,D,Renter,30% AMI or less,Severe cost burden,substandard
+"Norfolk city, Virginia",6715.0,805.0,78.0,05000US51710,51,710,D,Renter,30% AMI or less,Severe cost burden,standard
+"Norfolk city, Virginia",1360.0,426.0,79.0,05000US51710,51,710,S,Renter,30% AMI or less,N/A,All
+"Norfolk city, Virginia",0.0,161.0,80.0,05000US51710,51,710,D,Renter,30% AMI or less,N/A,substandard
+"Norfolk city, Virginia",1360.0,426.0,81.0,05000US51710,51,710,D,Renter,30% AMI or less,N/A,standard
+"Norfolk city, Virginia",8240.0,911.0,82.0,05000US51710,51,710,S,Renter,30.1-50% AMI,All,All
+"Norfolk city, Virginia",1295.0,329.0,83.0,05000US51710,51,710,S,Renter,30.1-50% AMI,No cost burden,All
+"Norfolk city, Virginia",0.0,161.0,84.0,05000US51710,51,710,D,Renter,30.1-50% AMI,No cost burden,substandard
+"Norfolk city, Virginia",1295.0,329.0,85.0,05000US51710,51,710,D,Renter,30.1-50% AMI,No cost burden,standard
+"Norfolk city, Virginia",4970.0,766.0,86.0,05000US51710,51,710,S,Renter,30.1-50% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",45.0,78.0,87.0,05000US51710,51,710,D,Renter,30.1-50% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",4925.0,783.0,88.0,05000US51710,51,710,D,Renter,30.1-50% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",1980.0,390.0,89.0,05000US51710,51,710,S,Renter,30.1-50% AMI,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,90.0,05000US51710,51,710,D,Renter,30.1-50% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",1980.0,390.0,91.0,05000US51710,51,710,D,Renter,30.1-50% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,92.0,05000US51710,51,710,S,Renter,30.1-50% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,93.0,05000US51710,51,710,D,Renter,30.1-50% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,94.0,05000US51710,51,710,D,Renter,30.1-50% AMI,N/A,standard
+"Norfolk city, Virginia",11335.0,814.0,95.0,05000US51710,51,710,S,Renter,50.1-80% AMI,All,All
+"Norfolk city, Virginia",6740.0,587.0,96.0,05000US51710,51,710,S,Renter,50.1-80% AMI,No cost burden,All
+"Norfolk city, Virginia",15.0,28.0,97.0,05000US51710,51,710,D,Renter,50.1-80% AMI,No cost burden,substandard
+"Norfolk city, Virginia",6725.0,588.0,98.0,05000US51710,51,710,D,Renter,50.1-80% AMI,No cost burden,standard
+"Norfolk city, Virginia",4155.0,527.0,99.0,05000US51710,51,710,S,Renter,50.1-80% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",15.0,26.0,100.0,05000US51710,51,710,D,Renter,50.1-80% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",4140.0,522.0,101.0,05000US51710,51,710,D,Renter,50.1-80% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",440.0,212.0,102.0,05000US51710,51,710,S,Renter,50.1-80% AMI,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,103.0,05000US51710,51,710,D,Renter,50.1-80% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",440.0,212.0,104.0,05000US51710,51,710,D,Renter,50.1-80% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,105.0,05000US51710,51,710,S,Renter,50.1-80% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,106.0,05000US51710,51,710,D,Renter,50.1-80% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,107.0,05000US51710,51,710,D,Renter,50.1-80% AMI,N/A,standard
+"Norfolk city, Virginia",3555.0,627.0,108.0,05000US51710,51,710,S,Renter,80.1-95% AMI,All,All
+"Norfolk city, Virginia",3050.0,585.0,109.0,05000US51710,51,710,S,Renter,80.1-95% AMI,No cost burden,All
+"Norfolk city, Virginia",0.0,161.0,110.0,05000US51710,51,710,D,Renter,80.1-95% AMI,No cost burden,substandard
+"Norfolk city, Virginia",3050.0,585.0,111.0,05000US51710,51,710,D,Renter,80.1-95% AMI,No cost burden,standard
+"Norfolk city, Virginia",465.0,201.0,112.0,05000US51710,51,710,S,Renter,80.1-95% AMI,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,113.0,05000US51710,51,710,D,Renter,80.1-95% AMI,Moderate cost burden,substandard
+"Norfolk city, Virginia",465.0,201.0,114.0,05000US51710,51,710,D,Renter,80.1-95% AMI,Moderate cost burden,standard
+"Norfolk city, Virginia",40.0,65.0,115.0,05000US51710,51,710,S,Renter,80.1-95% AMI,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,116.0,05000US51710,51,710,D,Renter,80.1-95% AMI,Severe cost burden,substandard
+"Norfolk city, Virginia",40.0,65.0,117.0,05000US51710,51,710,D,Renter,80.1-95% AMI,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,118.0,05000US51710,51,710,S,Renter,80.1-95% AMI,N/A,All
+"Norfolk city, Virginia",0.0,161.0,119.0,05000US51710,51,710,D,Renter,80.1-95% AMI,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,120.0,05000US51710,51,710,D,Renter,80.1-95% AMI,N/A,standard
+"Norfolk city, Virginia",10240.0,969.0,121.0,05000US51710,51,710,S,Renter,95.1% AMI and above,All,All
+"Norfolk city, Virginia",9815.0,953.0,122.0,05000US51710,51,710,S,Renter,95.1% AMI and above,No cost burden,All
+"Norfolk city, Virginia",65.0,80.0,123.0,05000US51710,51,710,D,Renter,95.1% AMI and above,No cost burden,substandard
+"Norfolk city, Virginia",9750.0,962.0,124.0,05000US51710,51,710,D,Renter,95.1% AMI and above,No cost burden,standard
+"Norfolk city, Virginia",425.0,194.0,125.0,05000US51710,51,710,S,Renter,95.1% AMI and above,Moderate cost burden,All
+"Norfolk city, Virginia",0.0,161.0,126.0,05000US51710,51,710,D,Renter,95.1% AMI and above,Moderate cost burden,substandard
+"Norfolk city, Virginia",425.0,194.0,127.0,05000US51710,51,710,D,Renter,95.1% AMI and above,Moderate cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,128.0,05000US51710,51,710,S,Renter,95.1% AMI and above,Severe cost burden,All
+"Norfolk city, Virginia",0.0,161.0,129.0,05000US51710,51,710,D,Renter,95.1% AMI and above,Severe cost burden,substandard
+"Norfolk city, Virginia",0.0,161.0,130.0,05000US51710,51,710,D,Renter,95.1% AMI and above,Severe cost burden,standard
+"Norfolk city, Virginia",0.0,161.0,131.0,05000US51710,51,710,S,Renter,95.1% AMI and above,N/A,All
+"Norfolk city, Virginia",0.0,161.0,132.0,05000US51710,51,710,D,Renter,95.1% AMI and above,N/A,substandard
+"Norfolk city, Virginia",0.0,161.0,133.0,05000US51710,51,710,D,Renter,95.1% AMI and above,N/A,standard

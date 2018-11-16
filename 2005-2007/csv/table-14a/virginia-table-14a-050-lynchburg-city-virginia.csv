@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Lynchburg city, Virginia",340.0,190.0,1.0,05000US51680,51,680,T,All,All,All
+"Lynchburg city, Virginia",0.0,161.0,2.0,05000US51680,51,680,S,Substandard,All,All
+"Lynchburg city, Virginia",340.0,190.0,3.0,05000US51680,51,680,S,Standard,All,All
+"Lynchburg city, Virginia",185.0,128.0,4.0,05000US51680,51,680,S,Standard,VHUD50,All
+"Lynchburg city, Virginia",0.0,161.0,5.0,05000US51680,51,680,D,Standard,VHUD50,0 or 1
+"Lynchburg city, Virginia",30.0,50.0,6.0,05000US51680,51,680,D,Standard,VHUD50,2
+"Lynchburg city, Virginia",155.0,117.0,7.0,05000US51680,51,680,D,Standard,VHUD50,3 or more
+"Lynchburg city, Virginia",105.0,112.0,8.0,05000US51680,51,680,S,Standard,VHUD80,All
+"Lynchburg city, Virginia",40.0,69.0,9.0,05000US51680,51,680,D,Standard,VHUD80,0 or 1
+"Lynchburg city, Virginia",15.0,26.0,10.0,05000US51680,51,680,D,Standard,VHUD80,2
+"Lynchburg city, Virginia",50.0,84.0,11.0,05000US51680,51,680,D,Standard,VHUD80,3 or more
+"Lynchburg city, Virginia",0.0,161.0,12.0,05000US51680,51,680,S,Standard,VHUD100,All
+"Lynchburg city, Virginia",0.0,161.0,13.0,05000US51680,51,680,D,Standard,VHUD100,0 or 1
+"Lynchburg city, Virginia",0.0,161.0,14.0,05000US51680,51,680,D,Standard,VHUD100,2
+"Lynchburg city, Virginia",0.0,161.0,15.0,05000US51680,51,680,D,Standard,VHUD100,3 or more
+"Lynchburg city, Virginia",45.0,78.0,16.0,05000US51680,51,680,S,Standard,Greater than VHUD100,All
+"Lynchburg city, Virginia",0.0,161.0,17.0,05000US51680,51,680,D,Standard,Greater than VHUD100,0 or 1
+"Lynchburg city, Virginia",45.0,78.0,18.0,05000US51680,51,680,D,Standard,Greater than VHUD100,2
+"Lynchburg city, Virginia",0.0,161.0,19.0,05000US51680,51,680,D,Standard,Greater than VHUD100,3 or more

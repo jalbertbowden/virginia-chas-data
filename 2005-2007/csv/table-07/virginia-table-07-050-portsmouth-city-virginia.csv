@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Portsmouth city, Virginia",38850.0,754.0,1.0,05000US51740,51,740,T,All,All,All
+"Portsmouth city, Virginia",24145.0,837.0,2.0,05000US51740,51,740,S,Owner,All,All
+"Portsmouth city, Virginia",3555.0,386.0,3.0,05000US51740,51,740,S,Owner,"Small family, elderly",All
+"Portsmouth city, Virginia",2675.0,343.0,4.0,05000US51740,51,740,D,Owner,"Small family, elderly",No cost burden
+"Portsmouth city, Virginia",510.0,159.0,5.0,05000US51740,51,740,D,Owner,"Small family, elderly",Moderate cost burden
+"Portsmouth city, Virginia",365.0,127.0,6.0,05000US51740,51,740,D,Owner,"Small family, elderly",Severe cost burden
+"Portsmouth city, Virginia",0.0,161.0,7.0,05000US51740,51,740,D,Owner,"Small family, elderly",N/A
+"Portsmouth city, Virginia",10895.0,777.0,8.0,05000US51740,51,740,S,Owner,"Small family, non-elderly",All
+"Portsmouth city, Virginia",7125.0,673.0,9.0,05000US51740,51,740,D,Owner,"Small family, non-elderly",No cost burden
+"Portsmouth city, Virginia",2315.0,430.0,10.0,05000US51740,51,740,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Portsmouth city, Virginia",1450.0,397.0,11.0,05000US51740,51,740,D,Owner,"Small family, non-elderly",Severe cost burden
+"Portsmouth city, Virginia",0.0,161.0,12.0,05000US51740,51,740,D,Owner,"Small family, non-elderly",N/A
+"Portsmouth city, Virginia",1845.0,374.0,13.0,05000US51740,51,740,S,Owner,Large family,All
+"Portsmouth city, Virginia",1290.0,331.0,14.0,05000US51740,51,740,D,Owner,Large family,No cost burden
+"Portsmouth city, Virginia",415.0,147.0,15.0,05000US51740,51,740,D,Owner,Large family,Moderate cost burden
+"Portsmouth city, Virginia",140.0,89.0,16.0,05000US51740,51,740,D,Owner,Large family,Severe cost burden
+"Portsmouth city, Virginia",0.0,161.0,17.0,05000US51740,51,740,D,Owner,Large family,N/A
+"Portsmouth city, Virginia",3440.0,449.0,18.0,05000US51740,51,740,S,Owner,"Non-family, elderly",All
+"Portsmouth city, Virginia",1590.0,306.0,19.0,05000US51740,51,740,D,Owner,"Non-family, elderly",No cost burden
+"Portsmouth city, Virginia",805.0,217.0,20.0,05000US51740,51,740,D,Owner,"Non-family, elderly",Moderate cost burden
+"Portsmouth city, Virginia",1025.0,261.0,21.0,05000US51740,51,740,D,Owner,"Non-family, elderly",Severe cost burden
+"Portsmouth city, Virginia",20.0,34.0,22.0,05000US51740,51,740,D,Owner,"Non-family, elderly",N/A
+"Portsmouth city, Virginia",4415.0,579.0,23.0,05000US51740,51,740,S,Owner,"Non-family, non-elderly",All
+"Portsmouth city, Virginia",2370.0,409.0,24.0,05000US51740,51,740,D,Owner,"Non-family, non-elderly",No cost burden
+"Portsmouth city, Virginia",1310.0,389.0,25.0,05000US51740,51,740,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Portsmouth city, Virginia",725.0,245.0,26.0,05000US51740,51,740,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Portsmouth city, Virginia",10.0,23.0,27.0,05000US51740,51,740,D,Owner,"Non-family, non-elderly",N/A
+"Portsmouth city, Virginia",14700.0,906.0,28.0,05000US51740,51,740,S,Renter,All,All
+"Portsmouth city, Virginia",405.0,180.0,29.0,05000US51740,51,740,S,Renter,"Small family, elderly",All
+"Portsmouth city, Virginia",190.0,103.0,30.0,05000US51740,51,740,D,Renter,"Small family, elderly",No cost burden
+"Portsmouth city, Virginia",130.0,123.0,31.0,05000US51740,51,740,D,Renter,"Small family, elderly",Moderate cost burden
+"Portsmouth city, Virginia",55.0,50.0,32.0,05000US51740,51,740,D,Renter,"Small family, elderly",Severe cost burden
+"Portsmouth city, Virginia",35.0,41.0,33.0,05000US51740,51,740,D,Renter,"Small family, elderly",N/A
+"Portsmouth city, Virginia",6915.0,833.0,34.0,05000US51740,51,740,S,Renter,"Small family, non-elderly",All
+"Portsmouth city, Virginia",3590.0,634.0,35.0,05000US51740,51,740,D,Renter,"Small family, non-elderly",No cost burden
+"Portsmouth city, Virginia",1435.0,438.0,36.0,05000US51740,51,740,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Portsmouth city, Virginia",1690.0,421.0,37.0,05000US51740,51,740,D,Renter,"Small family, non-elderly",Severe cost burden
+"Portsmouth city, Virginia",200.0,87.0,38.0,05000US51740,51,740,D,Renter,"Small family, non-elderly",N/A
+"Portsmouth city, Virginia",1090.0,324.0,39.0,05000US51740,51,740,S,Renter,Large family,All
+"Portsmouth city, Virginia",605.0,272.0,40.0,05000US51740,51,740,D,Renter,Large family,No cost burden
+"Portsmouth city, Virginia",275.0,167.0,41.0,05000US51740,51,740,D,Renter,Large family,Moderate cost burden
+"Portsmouth city, Virginia",210.0,178.0,42.0,05000US51740,51,740,D,Renter,Large family,Severe cost burden
+"Portsmouth city, Virginia",0.0,161.0,43.0,05000US51740,51,740,D,Renter,Large family,N/A
+"Portsmouth city, Virginia",1235.0,247.0,44.0,05000US51740,51,740,S,Renter,"Non-family, elderly",All
+"Portsmouth city, Virginia",400.0,139.0,45.0,05000US51740,51,740,D,Renter,"Non-family, elderly",No cost burden
+"Portsmouth city, Virginia",330.0,137.0,46.0,05000US51740,51,740,D,Renter,"Non-family, elderly",Moderate cost burden
+"Portsmouth city, Virginia",350.0,130.0,47.0,05000US51740,51,740,D,Renter,"Non-family, elderly",Severe cost burden
+"Portsmouth city, Virginia",155.0,85.0,48.0,05000US51740,51,740,D,Renter,"Non-family, elderly",N/A
+"Portsmouth city, Virginia",5060.0,656.0,49.0,05000US51740,51,740,S,Renter,"Non-family, non-elderly",All
+"Portsmouth city, Virginia",2270.0,513.0,50.0,05000US51740,51,740,D,Renter,"Non-family, non-elderly",No cost burden
+"Portsmouth city, Virginia",1085.0,354.0,51.0,05000US51740,51,740,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Portsmouth city, Virginia",1420.0,428.0,52.0,05000US51740,51,740,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Portsmouth city, Virginia",280.0,156.0,53.0,05000US51740,51,740,D,Renter,"Non-family, non-elderly",N/A

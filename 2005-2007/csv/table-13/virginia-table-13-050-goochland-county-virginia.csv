@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Goochland County, Virginia",7025.0,300.0,1.0,05000US51075,51,075,T,All,All,All
+"Goochland County, Virginia",5900.0,399.0,2.0,05000US51075,51,075,S,Owner,All,All
+"Goochland County, Virginia",1050.0,214.0,3.0,05000US51075,51,075,S,Owner,2000+,All
+"Goochland County, Virginia",200.0,89.0,4.0,05000US51075,51,075,D,Owner,2000+,Yes
+"Goochland County, Virginia",855.0,200.0,5.0,05000US51075,51,075,D,Owner,2000+,No
+"Goochland County, Virginia",2820.0,428.0,6.0,05000US51075,51,075,S,Owner,1980 to 1999,All
+"Goochland County, Virginia",420.0,180.0,7.0,05000US51075,51,075,D,Owner,1980 to 1999,Yes
+"Goochland County, Virginia",2400.0,419.0,8.0,05000US51075,51,075,D,Owner,1980 to 1999,No
+"Goochland County, Virginia",1420.0,401.0,9.0,05000US51075,51,075,S,Owner,1960 to 1979,All
+"Goochland County, Virginia",105.0,67.0,10.0,05000US51075,51,075,D,Owner,1960 to 1979,Yes
+"Goochland County, Virginia",1315.0,391.0,11.0,05000US51075,51,075,D,Owner,1960 to 1979,No
+"Goochland County, Virginia",470.0,182.0,12.0,05000US51075,51,075,S,Owner,1940 to 1959,All
+"Goochland County, Virginia",30.0,43.0,13.0,05000US51075,51,075,D,Owner,1940 to 1959,Yes
+"Goochland County, Virginia",435.0,173.0,14.0,05000US51075,51,075,D,Owner,1940 to 1959,No
+"Goochland County, Virginia",140.0,93.0,15.0,05000US51075,51,075,S,Owner,1939-,All
+"Goochland County, Virginia",15.0,33.0,16.0,05000US51075,51,075,D,Owner,1939-,Yes
+"Goochland County, Virginia",125.0,88.0,17.0,05000US51075,51,075,D,Owner,1939-,No
+"Goochland County, Virginia",1125.0,284.0,18.0,05000US51075,51,075,S,Renter,All,All
+"Goochland County, Virginia",35.0,43.0,19.0,05000US51075,51,075,S,Renter,2000+,All
+"Goochland County, Virginia",0.0,161.0,20.0,05000US51075,51,075,D,Renter,2000+,Yes
+"Goochland County, Virginia",35.0,43.0,21.0,05000US51075,51,075,D,Renter,2000+,No
+"Goochland County, Virginia",700.0,262.0,22.0,05000US51075,51,075,S,Renter,1980 to 1999,All
+"Goochland County, Virginia",4.0,15.0,23.0,05000US51075,51,075,D,Renter,1980 to 1999,Yes
+"Goochland County, Virginia",695.0,261.0,24.0,05000US51075,51,075,D,Renter,1980 to 1999,No
+"Goochland County, Virginia",210.0,195.0,25.0,05000US51075,51,075,S,Renter,1960 to 1979,All
+"Goochland County, Virginia",75.0,92.0,26.0,05000US51075,51,075,D,Renter,1960 to 1979,Yes
+"Goochland County, Virginia",135.0,164.0,27.0,05000US51075,51,075,D,Renter,1960 to 1979,No
+"Goochland County, Virginia",145.0,117.0,28.0,05000US51075,51,075,S,Renter,1940 to 1959,All
+"Goochland County, Virginia",10.0,20.0,29.0,05000US51075,51,075,D,Renter,1940 to 1959,Yes
+"Goochland County, Virginia",135.0,115.0,30.0,05000US51075,51,075,D,Renter,1940 to 1959,No
+"Goochland County, Virginia",30.0,52.0,31.0,05000US51075,51,075,S,Renter,1939-,All
+"Goochland County, Virginia",10.0,44.0,32.0,05000US51075,51,075,D,Renter,1939-,Yes
+"Goochland County, Virginia",20.0,27.0,33.0,05000US51075,51,075,D,Renter,1939-,No

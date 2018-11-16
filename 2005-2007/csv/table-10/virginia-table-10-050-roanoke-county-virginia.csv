@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Overcrowding,Household_Income,Family_Structure
+"Roanoke County, Virginia",36830.0,553.0,1.0,05000US51161,51,161,T,All,All,All,All
+"Roanoke County, Virginia",29200.0,731.0,2.0,05000US51161,51,161,S,Owner,All,All,All
+"Roanoke County, Virginia",29170.0,735.0,3.0,05000US51161,51,161,S,Owner,No overcrowding,All,All
+"Roanoke County, Virginia",1335.0,340.0,4.0,05000US51161,51,161,S,Owner,No overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",370.0,137.0,5.0,05000US51161,51,161,D,Owner,No overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,6.0,05000US51161,51,161,D,Owner,No overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",965.0,319.0,7.0,05000US51161,51,161,D,Owner,No overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",1990.0,345.0,8.0,05000US51161,51,161,S,Owner,No overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",725.0,222.0,9.0,05000US51161,51,161,D,Owner,No overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,10.0,05000US51161,51,161,D,Owner,No overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",1265.0,287.0,11.0,05000US51161,51,161,D,Owner,No overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",3905.0,600.0,12.0,05000US51161,51,161,S,Owner,No overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",2545.0,469.0,13.0,05000US51161,51,161,D,Owner,No overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,14.0,05000US51161,51,161,D,Owner,No overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",1360.0,292.0,15.0,05000US51161,51,161,D,Owner,No overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",2310.0,434.0,16.0,05000US51161,51,161,S,Owner,No overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",1535.0,337.0,17.0,05000US51161,51,161,D,Owner,No overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",25.0,47.0,18.0,05000US51161,51,161,D,Owner,No overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",750.0,256.0,19.0,05000US51161,51,161,D,Owner,No overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",19635.0,824.0,20.0,05000US51161,51,161,S,Owner,No overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",15500.0,689.0,21.0,05000US51161,51,161,D,Owner,No overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",270.0,122.0,22.0,05000US51161,51,161,D,Owner,No overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",3865.0,526.0,23.0,05000US51161,51,161,D,Owner,No overcrowding,95.1% AMI and above,Non-family household
+"Roanoke County, Virginia",30.0,35.0,24.0,05000US51161,51,161,S,Owner,Moderate overcrowding,All,All
+"Roanoke County, Virginia",0.0,161.0,25.0,05000US51161,51,161,S,Owner,Moderate overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",0.0,161.0,26.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,27.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,28.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",0.0,161.0,29.0,05000US51161,51,161,S,Owner,Moderate overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",0.0,161.0,30.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,31.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,32.0,05000US51161,51,161,D,Owner,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,33.0,05000US51161,51,161,S,Owner,Moderate overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",0.0,161.0,34.0,05000US51161,51,161,D,Owner,Moderate overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,35.0,05000US51161,51,161,D,Owner,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,36.0,05000US51161,51,161,D,Owner,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,37.0,05000US51161,51,161,S,Owner,Moderate overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",0.0,161.0,38.0,05000US51161,51,161,D,Owner,Moderate overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,39.0,05000US51161,51,161,D,Owner,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,40.0,05000US51161,51,161,D,Owner,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",30.0,35.0,41.0,05000US51161,51,161,S,Owner,Moderate overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",15.0,24.0,42.0,05000US51161,51,161,D,Owner,Moderate overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",15.0,28.0,43.0,05000US51161,51,161,D,Owner,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,44.0,05000US51161,51,161,D,Owner,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Roanoke County, Virginia",0.0,161.0,45.0,05000US51161,51,161,S,Owner,Severe overcrowding,All,All
+"Roanoke County, Virginia",0.0,161.0,46.0,05000US51161,51,161,S,Owner,Severe overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",0.0,161.0,47.0,05000US51161,51,161,D,Owner,Severe overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,48.0,05000US51161,51,161,D,Owner,Severe overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,49.0,05000US51161,51,161,D,Owner,Severe overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",0.0,161.0,50.0,05000US51161,51,161,S,Owner,Severe overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",0.0,161.0,51.0,05000US51161,51,161,D,Owner,Severe overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,52.0,05000US51161,51,161,D,Owner,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,53.0,05000US51161,51,161,D,Owner,Severe overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,54.0,05000US51161,51,161,S,Owner,Severe overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",0.0,161.0,55.0,05000US51161,51,161,D,Owner,Severe overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,56.0,05000US51161,51,161,D,Owner,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,57.0,05000US51161,51,161,D,Owner,Severe overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,58.0,05000US51161,51,161,S,Owner,Severe overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",0.0,161.0,59.0,05000US51161,51,161,D,Owner,Severe overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,60.0,05000US51161,51,161,D,Owner,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,61.0,05000US51161,51,161,D,Owner,Severe overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,62.0,05000US51161,51,161,S,Owner,Severe overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",0.0,161.0,63.0,05000US51161,51,161,D,Owner,Severe overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",0.0,161.0,64.0,05000US51161,51,161,D,Owner,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,65.0,05000US51161,51,161,D,Owner,Severe overcrowding,95.1% AMI and above,Non-family household
+"Roanoke County, Virginia",7630.0,748.0,66.0,05000US51161,51,161,S,Renter,All,All,All
+"Roanoke County, Virginia",7595.0,744.0,67.0,05000US51161,51,161,S,Renter,No overcrowding,All,All
+"Roanoke County, Virginia",1245.0,385.0,68.0,05000US51161,51,161,S,Renter,No overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",355.0,201.0,69.0,05000US51161,51,161,D,Renter,No overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,70.0,05000US51161,51,161,D,Renter,No overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",890.0,346.0,71.0,05000US51161,51,161,D,Renter,No overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",1060.0,300.0,72.0,05000US51161,51,161,S,Renter,No overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",470.0,239.0,73.0,05000US51161,51,161,D,Renter,No overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",25.0,43.0,74.0,05000US51161,51,161,D,Renter,No overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",565.0,185.0,75.0,05000US51161,51,161,D,Renter,No overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",1850.0,425.0,76.0,05000US51161,51,161,S,Renter,No overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",780.0,286.0,77.0,05000US51161,51,161,D,Renter,No overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,78.0,05000US51161,51,161,D,Renter,No overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",1070.0,328.0,79.0,05000US51161,51,161,D,Renter,No overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",735.0,222.0,80.0,05000US51161,51,161,S,Renter,No overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",205.0,118.0,81.0,05000US51161,51,161,D,Renter,No overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,82.0,05000US51161,51,161,D,Renter,No overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",525.0,202.0,83.0,05000US51161,51,161,D,Renter,No overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",2710.0,526.0,84.0,05000US51161,51,161,S,Renter,No overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",1270.0,400.0,85.0,05000US51161,51,161,D,Renter,No overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",0.0,161.0,86.0,05000US51161,51,161,D,Renter,No overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",1440.0,486.0,87.0,05000US51161,51,161,D,Renter,No overcrowding,95.1% AMI and above,Non-family household
+"Roanoke County, Virginia",35.0,56.0,88.0,05000US51161,51,161,S,Renter,Moderate overcrowding,All,All
+"Roanoke County, Virginia",35.0,56.0,89.0,05000US51161,51,161,S,Renter,Moderate overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",35.0,56.0,90.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,91.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,92.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",0.0,161.0,93.0,05000US51161,51,161,S,Renter,Moderate overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",0.0,161.0,94.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,95.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,96.0,05000US51161,51,161,D,Renter,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,97.0,05000US51161,51,161,S,Renter,Moderate overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",0.0,161.0,98.0,05000US51161,51,161,D,Renter,Moderate overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,99.0,05000US51161,51,161,D,Renter,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,100.0,05000US51161,51,161,D,Renter,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,101.0,05000US51161,51,161,S,Renter,Moderate overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",0.0,161.0,102.0,05000US51161,51,161,D,Renter,Moderate overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,103.0,05000US51161,51,161,D,Renter,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,104.0,05000US51161,51,161,D,Renter,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,105.0,05000US51161,51,161,S,Renter,Moderate overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",0.0,161.0,106.0,05000US51161,51,161,D,Renter,Moderate overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",0.0,161.0,107.0,05000US51161,51,161,D,Renter,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,108.0,05000US51161,51,161,D,Renter,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Roanoke County, Virginia",0.0,161.0,109.0,05000US51161,51,161,S,Renter,Severe overcrowding,All,All
+"Roanoke County, Virginia",0.0,161.0,110.0,05000US51161,51,161,S,Renter,Severe overcrowding,30% AMI or less,All
+"Roanoke County, Virginia",0.0,161.0,111.0,05000US51161,51,161,D,Renter,Severe overcrowding,30% AMI or less,1 family household
+"Roanoke County, Virginia",0.0,161.0,112.0,05000US51161,51,161,D,Renter,Severe overcrowding,30% AMI or less,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,113.0,05000US51161,51,161,D,Renter,Severe overcrowding,30% AMI or less,Non-family household
+"Roanoke County, Virginia",0.0,161.0,114.0,05000US51161,51,161,S,Renter,Severe overcrowding,30.1-50% AMI,All
+"Roanoke County, Virginia",0.0,161.0,115.0,05000US51161,51,161,D,Renter,Severe overcrowding,30.1-50% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,116.0,05000US51161,51,161,D,Renter,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,117.0,05000US51161,51,161,D,Renter,Severe overcrowding,30.1-50% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,118.0,05000US51161,51,161,S,Renter,Severe overcrowding,50.1-80% AMI,All
+"Roanoke County, Virginia",0.0,161.0,119.0,05000US51161,51,161,D,Renter,Severe overcrowding,50.1-80% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,120.0,05000US51161,51,161,D,Renter,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,121.0,05000US51161,51,161,D,Renter,Severe overcrowding,50.1-80% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,122.0,05000US51161,51,161,S,Renter,Severe overcrowding,80.1-95% AMI,All
+"Roanoke County, Virginia",0.0,161.0,123.0,05000US51161,51,161,D,Renter,Severe overcrowding,80.1-95% AMI,1 family household
+"Roanoke County, Virginia",0.0,161.0,124.0,05000US51161,51,161,D,Renter,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,125.0,05000US51161,51,161,D,Renter,Severe overcrowding,80.1-95% AMI,Non-family household
+"Roanoke County, Virginia",0.0,161.0,126.0,05000US51161,51,161,S,Renter,Severe overcrowding,95.1% AMI and above,All
+"Roanoke County, Virginia",0.0,161.0,127.0,05000US51161,51,161,D,Renter,Severe overcrowding,95.1% AMI and above,1 family household
+"Roanoke County, Virginia",0.0,161.0,128.0,05000US51161,51,161,D,Renter,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Roanoke County, Virginia",0.0,161.0,129.0,05000US51161,51,161,D,Renter,Severe overcrowding,95.1% AMI and above,Non-family household

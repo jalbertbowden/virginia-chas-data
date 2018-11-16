@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Arlington County, Virginia",89525.0,1296.0,1.0,05000US51013,51,013,T,All,All,All
+"Arlington County, Virginia",45710.0,1326.0,2.0,05000US51013,51,013,S,Owner,All,All
+"Arlington County, Virginia",37575.0,1222.0,3.0,05000US51013,51,013,S,Owner,White,All
+"Arlington County, Virginia",29260.0,1033.0,4.0,05000US51013,51,013,D,Owner,White,No cost burden
+"Arlington County, Virginia",5280.0,737.0,5.0,05000US51013,51,013,D,Owner,White,Moderate cost burden
+"Arlington County, Virginia",2870.0,556.0,6.0,05000US51013,51,013,D,Owner,White,Severe cost burden
+"Arlington County, Virginia",165.0,138.0,7.0,05000US51013,51,013,D,Owner,White,N/A
+"Arlington County, Virginia",2045.0,383.0,8.0,05000US51013,51,013,S,Owner,Black,All
+"Arlington County, Virginia",1320.0,288.0,9.0,05000US51013,51,013,D,Owner,Black,No cost burden
+"Arlington County, Virginia",415.0,254.0,10.0,05000US51013,51,013,D,Owner,Black,Moderate cost burden
+"Arlington County, Virginia",280.0,125.0,11.0,05000US51013,51,013,D,Owner,Black,Severe cost burden
+"Arlington County, Virginia",25.0,44.0,12.0,05000US51013,51,013,D,Owner,Black,N/A
+"Arlington County, Virginia",2635.0,538.0,13.0,05000US51013,51,013,S,Owner,Asian,All
+"Arlington County, Virginia",1720.0,400.0,14.0,05000US51013,51,013,D,Owner,Asian,No cost burden
+"Arlington County, Virginia",435.0,174.0,15.0,05000US51013,51,013,D,Owner,Asian,Moderate cost burden
+"Arlington County, Virginia",475.0,231.0,16.0,05000US51013,51,013,D,Owner,Asian,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,17.0,05000US51013,51,013,D,Owner,Asian,N/A
+"Arlington County, Virginia",85.0,63.0,18.0,05000US51013,51,013,S,Owner,American Indian,All
+"Arlington County, Virginia",85.0,63.0,19.0,05000US51013,51,013,D,Owner,American Indian,No cost burden
+"Arlington County, Virginia",0.0,161.0,20.0,05000US51013,51,013,D,Owner,American Indian,Moderate cost burden
+"Arlington County, Virginia",0.0,161.0,21.0,05000US51013,51,013,D,Owner,American Indian,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,22.0,05000US51013,51,013,D,Owner,American Indian,N/A
+"Arlington County, Virginia",10.0,20.0,23.0,05000US51013,51,013,S,Owner,Pacific Islander,All
+"Arlington County, Virginia",10.0,20.0,24.0,05000US51013,51,013,D,Owner,Pacific Islander,No cost burden
+"Arlington County, Virginia",0.0,161.0,25.0,05000US51013,51,013,D,Owner,Pacific Islander,Moderate cost burden
+"Arlington County, Virginia",0.0,161.0,26.0,05000US51013,51,013,D,Owner,Pacific Islander,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,27.0,05000US51013,51,013,D,Owner,Pacific Islander,N/A
+"Arlington County, Virginia",2685.0,468.0,28.0,05000US51013,51,013,S,Owner,Hispanic,All
+"Arlington County, Virginia",1355.0,339.0,29.0,05000US51013,51,013,D,Owner,Hispanic,No cost burden
+"Arlington County, Virginia",820.0,274.0,30.0,05000US51013,51,013,D,Owner,Hispanic,Moderate cost burden
+"Arlington County, Virginia",485.0,209.0,31.0,05000US51013,51,013,D,Owner,Hispanic,Severe cost burden
+"Arlington County, Virginia",25.0,44.0,32.0,05000US51013,51,013,D,Owner,Hispanic,N/A
+"Arlington County, Virginia",680.0,215.0,33.0,05000US51013,51,013,S,Owner,Other,All
+"Arlington County, Virginia",340.0,138.0,34.0,05000US51013,51,013,D,Owner,Other,No cost burden
+"Arlington County, Virginia",250.0,169.0,35.0,05000US51013,51,013,D,Owner,Other,Moderate cost burden
+"Arlington County, Virginia",95.0,117.0,36.0,05000US51013,51,013,D,Owner,Other,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,37.0,05000US51013,51,013,D,Owner,Other,N/A
+"Arlington County, Virginia",43815.0,1535.0,38.0,05000US51013,51,013,S,Renter,All,All
+"Arlington County, Virginia",26225.0,1270.0,39.0,05000US51013,51,013,S,Renter,White,All
+"Arlington County, Virginia",17595.0,1046.0,40.0,05000US51013,51,013,D,Renter,White,No cost burden
+"Arlington County, Virginia",4495.0,734.0,41.0,05000US51013,51,013,D,Renter,White,Moderate cost burden
+"Arlington County, Virginia",3050.0,485.0,42.0,05000US51013,51,013,D,Renter,White,Severe cost burden
+"Arlington County, Virginia",1080.0,454.0,43.0,05000US51013,51,013,D,Renter,White,N/A
+"Arlington County, Virginia",5650.0,678.0,44.0,05000US51013,51,013,S,Renter,Black,All
+"Arlington County, Virginia",2710.0,536.0,45.0,05000US51013,51,013,D,Renter,Black,No cost burden
+"Arlington County, Virginia",1285.0,470.0,46.0,05000US51013,51,013,D,Renter,Black,Moderate cost burden
+"Arlington County, Virginia",1445.0,402.0,47.0,05000US51013,51,013,D,Renter,Black,Severe cost burden
+"Arlington County, Virginia",210.0,151.0,48.0,05000US51013,51,013,D,Renter,Black,N/A
+"Arlington County, Virginia",4790.0,634.0,49.0,05000US51013,51,013,S,Renter,Asian,All
+"Arlington County, Virginia",2435.0,455.0,50.0,05000US51013,51,013,D,Renter,Asian,No cost burden
+"Arlington County, Virginia",1140.0,351.0,51.0,05000US51013,51,013,D,Renter,Asian,Moderate cost burden
+"Arlington County, Virginia",695.0,233.0,52.0,05000US51013,51,013,D,Renter,Asian,Severe cost burden
+"Arlington County, Virginia",515.0,248.0,53.0,05000US51013,51,013,D,Renter,Asian,N/A
+"Arlington County, Virginia",75.0,67.0,54.0,05000US51013,51,013,S,Renter,American Indian,All
+"Arlington County, Virginia",55.0,64.0,55.0,05000US51013,51,013,D,Renter,American Indian,No cost burden
+"Arlington County, Virginia",0.0,161.0,56.0,05000US51013,51,013,D,Renter,American Indian,Moderate cost burden
+"Arlington County, Virginia",0.0,161.0,57.0,05000US51013,51,013,D,Renter,American Indian,Severe cost burden
+"Arlington County, Virginia",20.0,34.0,58.0,05000US51013,51,013,D,Renter,American Indian,N/A
+"Arlington County, Virginia",0.0,161.0,59.0,05000US51013,51,013,S,Renter,Pacific Islander,All
+"Arlington County, Virginia",0.0,161.0,60.0,05000US51013,51,013,D,Renter,Pacific Islander,No cost burden
+"Arlington County, Virginia",0.0,161.0,61.0,05000US51013,51,013,D,Renter,Pacific Islander,Moderate cost burden
+"Arlington County, Virginia",0.0,161.0,62.0,05000US51013,51,013,D,Renter,Pacific Islander,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,63.0,05000US51013,51,013,D,Renter,Pacific Islander,N/A
+"Arlington County, Virginia",6085.0,709.0,64.0,05000US51013,51,013,S,Renter,Hispanic,All
+"Arlington County, Virginia",2940.0,493.0,65.0,05000US51013,51,013,D,Renter,Hispanic,No cost burden
+"Arlington County, Virginia",1695.0,374.0,66.0,05000US51013,51,013,D,Renter,Hispanic,Moderate cost burden
+"Arlington County, Virginia",1130.0,369.0,67.0,05000US51013,51,013,D,Renter,Hispanic,Severe cost burden
+"Arlington County, Virginia",315.0,220.0,68.0,05000US51013,51,013,D,Renter,Hispanic,N/A
+"Arlington County, Virginia",995.0,375.0,69.0,05000US51013,51,013,S,Renter,Other,All
+"Arlington County, Virginia",365.0,136.0,70.0,05000US51013,51,013,D,Renter,Other,No cost burden
+"Arlington County, Virginia",305.0,210.0,71.0,05000US51013,51,013,D,Renter,Other,Moderate cost burden
+"Arlington County, Virginia",320.0,232.0,72.0,05000US51013,51,013,D,Renter,Other,Severe cost burden
+"Arlington County, Virginia",0.0,161.0,73.0,05000US51013,51,013,D,Renter,Other,N/A

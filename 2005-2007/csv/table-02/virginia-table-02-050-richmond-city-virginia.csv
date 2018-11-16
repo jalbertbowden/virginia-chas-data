@@ -1,0 +1,250 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Severe_Housing_Problems,Household_Income,Race
+"Richmond city, Virginia",81610.0,1156.0,1.0,05000US51760,51,760,T,All,All,All,All
+"Richmond city, Virginia",38915.0,1326.0,2.0,05000US51760,51,760,S,Owner,All,All,All
+"Richmond city, Virginia",5900.0,804.0,3.0,05000US51760,51,760,S,Owner,Yes,All,All
+"Richmond city, Virginia",2920.0,531.0,4.0,05000US51760,51,760,S,Owner,Yes,30% AMI or less,All
+"Richmond city, Virginia",895.0,259.0,5.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,White
+"Richmond city, Virginia",1790.0,405.0,6.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,Black
+"Richmond city, Virginia",30.0,45.0,7.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,Asian
+"Richmond city, Virginia",35.0,56.0,8.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,American Indian
+"Richmond city, Virginia",0.0,161.0,9.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",115.0,95.0,10.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,Hispanic
+"Richmond city, Virginia",60.0,60.0,11.0,05000US51760,51,760,D,Owner,Yes,30% AMI or less,Other
+"Richmond city, Virginia",1335.0,315.0,12.0,05000US51760,51,760,S,Owner,Yes,30.1-50% AMI,All
+"Richmond city, Virginia",520.0,178.0,13.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,White
+"Richmond city, Virginia",790.0,243.0,14.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,Black
+"Richmond city, Virginia",25.0,35.0,15.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,16.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,17.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,18.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,19.0,05000US51760,51,760,D,Owner,Yes,30.1-50% AMI,Other
+"Richmond city, Virginia",895.0,274.0,20.0,05000US51760,51,760,S,Owner,Yes,50.1-80% AMI,All
+"Richmond city, Virginia",470.0,201.0,21.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,White
+"Richmond city, Virginia",395.0,185.0,22.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,Black
+"Richmond city, Virginia",0.0,161.0,23.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,24.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,25.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",25.0,35.0,26.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,27.0,05000US51760,51,760,D,Owner,Yes,50.1-80% AMI,Other
+"Richmond city, Virginia",380.0,152.0,28.0,05000US51760,51,760,S,Owner,Yes,80.1-95% AMI,All
+"Richmond city, Virginia",210.0,110.0,29.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,White
+"Richmond city, Virginia",135.0,93.0,30.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,Black
+"Richmond city, Virginia",0.0,161.0,31.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,32.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,33.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",35.0,49.0,34.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,35.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI,Other
+"Richmond city, Virginia",370.0,163.0,36.0,05000US51760,51,760,S,Owner,Yes,95.1% AMI and above,All
+"Richmond city, Virginia",235.0,143.0,37.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,White
+"Richmond city, Virginia",135.0,106.0,38.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,Black
+"Richmond city, Virginia",0.0,161.0,39.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,Asian
+"Richmond city, Virginia",0.0,161.0,40.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,41.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,42.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",0.0,161.0,43.0,05000US51760,51,760,D,Owner,Yes,95.1% AMI and above,Other
+"Richmond city, Virginia",32885.0,1215.0,44.0,05000US51760,51,760,S,Owner,No,All,All
+"Richmond city, Virginia",1005.0,234.0,45.0,05000US51760,51,760,S,Owner,No,30% AMI or less,All
+"Richmond city, Virginia",345.0,134.0,46.0,05000US51760,51,760,D,Owner,No,30% AMI or less,White
+"Richmond city, Virginia",575.0,179.0,47.0,05000US51760,51,760,D,Owner,No,30% AMI or less,Black
+"Richmond city, Virginia",55.0,67.0,48.0,05000US51760,51,760,D,Owner,No,30% AMI or less,Asian
+"Richmond city, Virginia",0.0,161.0,49.0,05000US51760,51,760,D,Owner,No,30% AMI or less,American Indian
+"Richmond city, Virginia",0.0,161.0,50.0,05000US51760,51,760,D,Owner,No,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,51.0,05000US51760,51,760,D,Owner,No,30% AMI or less,Hispanic
+"Richmond city, Virginia",25.0,35.0,52.0,05000US51760,51,760,D,Owner,No,30% AMI or less,Other
+"Richmond city, Virginia",2065.0,407.0,53.0,05000US51760,51,760,S,Owner,No,30.1-50% AMI,All
+"Richmond city, Virginia",760.0,252.0,54.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,White
+"Richmond city, Virginia",1230.0,299.0,55.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,Black
+"Richmond city, Virginia",0.0,161.0,56.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,57.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,58.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",75.0,93.0,59.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,60.0,05000US51760,51,760,D,Owner,No,30.1-50% AMI,Other
+"Richmond city, Virginia",5720.0,607.0,61.0,05000US51760,51,760,S,Owner,No,50.1-80% AMI,All
+"Richmond city, Virginia",2265.0,378.0,62.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,White
+"Richmond city, Virginia",3140.0,446.0,63.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,Black
+"Richmond city, Virginia",30.0,51.0,64.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,Asian
+"Richmond city, Virginia",10.0,24.0,65.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,66.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",80.0,79.0,67.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",190.0,141.0,68.0,05000US51760,51,760,D,Owner,No,50.1-80% AMI,Other
+"Richmond city, Virginia",3340.0,476.0,69.0,05000US51760,51,760,S,Owner,No,80.1-95% AMI,All
+"Richmond city, Virginia",1365.0,316.0,70.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,White
+"Richmond city, Virginia",1845.0,388.0,71.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,Black
+"Richmond city, Virginia",40.0,60.0,72.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,Asian
+"Richmond city, Virginia",30.0,48.0,73.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,74.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",40.0,55.0,75.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",25.0,38.0,76.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI,Other
+"Richmond city, Virginia",20760.0,913.0,77.0,05000US51760,51,760,S,Owner,No,95.1% AMI and above,All
+"Richmond city, Virginia",15290.0,569.0,78.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,White
+"Richmond city, Virginia",4705.0,532.0,79.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,Black
+"Richmond city, Virginia",110.0,83.0,80.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,Asian
+"Richmond city, Virginia",80.0,99.0,81.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,82.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",205.0,109.0,83.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",370.0,204.0,84.0,05000US51760,51,760,D,Owner,No,95.1% AMI and above,Other
+"Richmond city, Virginia",135.0,82.0,85.0,05000US51760,51,760,S,Owner,N/A,All,All
+"Richmond city, Virginia",135.0,82.0,86.0,05000US51760,51,760,S,Owner,N/A,30% AMI or less,All
+"Richmond city, Virginia",50.0,45.0,87.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,White
+"Richmond city, Virginia",80.0,82.0,88.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,Black
+"Richmond city, Virginia",0.0,161.0,89.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,Asian
+"Richmond city, Virginia",0.0,161.0,90.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,American Indian
+"Richmond city, Virginia",0.0,161.0,91.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,92.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,Hispanic
+"Richmond city, Virginia",0.0,161.0,93.0,05000US51760,51,760,D,Owner,N/A,30% AMI or less,Other
+"Richmond city, Virginia",0.0,161.0,94.0,05000US51760,51,760,S,Owner,N/A,30.1-50% AMI,All
+"Richmond city, Virginia",0.0,161.0,95.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,White
+"Richmond city, Virginia",0.0,161.0,96.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,Black
+"Richmond city, Virginia",0.0,161.0,97.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,98.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,99.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,100.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,101.0,05000US51760,51,760,D,Owner,N/A,30.1-50% AMI,Other
+"Richmond city, Virginia",0.0,161.0,102.0,05000US51760,51,760,S,Owner,N/A,50.1-80% AMI,All
+"Richmond city, Virginia",0.0,161.0,103.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,White
+"Richmond city, Virginia",0.0,161.0,104.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,Black
+"Richmond city, Virginia",0.0,161.0,105.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,106.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,107.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,108.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,109.0,05000US51760,51,760,D,Owner,N/A,50.1-80% AMI,Other
+"Richmond city, Virginia",0.0,161.0,110.0,05000US51760,51,760,S,Owner,N/A,80.1-95% AMI,All
+"Richmond city, Virginia",0.0,161.0,111.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,White
+"Richmond city, Virginia",0.0,161.0,112.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,Black
+"Richmond city, Virginia",0.0,161.0,113.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,114.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,115.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,116.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,117.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI,Other
+"Richmond city, Virginia",0.0,161.0,118.0,05000US51760,51,760,S,Owner,N/A,95.1% AMI and above,All
+"Richmond city, Virginia",0.0,161.0,119.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,White
+"Richmond city, Virginia",0.0,161.0,120.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,Black
+"Richmond city, Virginia",0.0,161.0,121.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,Asian
+"Richmond city, Virginia",0.0,161.0,122.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,123.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,124.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",0.0,161.0,125.0,05000US51760,51,760,D,Owner,N/A,95.1% AMI and above,Other
+"Richmond city, Virginia",42695.0,1426.0,126.0,05000US51760,51,760,S,Renter,All,All,All
+"Richmond city, Virginia",10425.0,953.0,127.0,05000US51760,51,760,S,Renter,Yes,All,All
+"Richmond city, Virginia",8045.0,861.0,128.0,05000US51760,51,760,S,Renter,Yes,30% AMI or less,All
+"Richmond city, Virginia",2705.0,403.0,129.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,White
+"Richmond city, Virginia",4620.0,641.0,130.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,Black
+"Richmond city, Virginia",120.0,87.0,131.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,Asian
+"Richmond city, Virginia",120.0,139.0,132.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,American Indian
+"Richmond city, Virginia",15.0,27.0,133.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",225.0,147.0,134.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,Hispanic
+"Richmond city, Virginia",240.0,165.0,135.0,05000US51760,51,760,D,Renter,Yes,30% AMI or less,Other
+"Richmond city, Virginia",1975.0,463.0,136.0,05000US51760,51,760,S,Renter,Yes,30.1-50% AMI,All
+"Richmond city, Virginia",920.0,359.0,137.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,White
+"Richmond city, Virginia",880.0,321.0,138.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,Black
+"Richmond city, Virginia",25.0,37.0,139.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,Asian
+"Richmond city, Virginia",95.0,114.0,140.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,141.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",40.0,52.0,142.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",15.0,27.0,143.0,05000US51760,51,760,D,Renter,Yes,30.1-50% AMI,Other
+"Richmond city, Virginia",280.0,154.0,144.0,05000US51760,51,760,S,Renter,Yes,50.1-80% AMI,All
+"Richmond city, Virginia",225.0,136.0,145.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,White
+"Richmond city, Virginia",20.0,38.0,146.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,Black
+"Richmond city, Virginia",0.0,161.0,147.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,148.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,149.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",40.0,54.0,150.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,151.0,05000US51760,51,760,D,Renter,Yes,50.1-80% AMI,Other
+"Richmond city, Virginia",0.0,161.0,152.0,05000US51760,51,760,S,Renter,Yes,80.1-95% AMI,All
+"Richmond city, Virginia",0.0,161.0,153.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,White
+"Richmond city, Virginia",0.0,161.0,154.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,Black
+"Richmond city, Virginia",0.0,161.0,155.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,156.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,157.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,158.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,159.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI,Other
+"Richmond city, Virginia",125.0,100.0,160.0,05000US51760,51,760,S,Renter,Yes,95.1% AMI and above,All
+"Richmond city, Virginia",125.0,100.0,161.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,White
+"Richmond city, Virginia",0.0,161.0,162.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,Black
+"Richmond city, Virginia",0.0,161.0,163.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,Asian
+"Richmond city, Virginia",0.0,161.0,164.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,165.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,166.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",0.0,161.0,167.0,05000US51760,51,760,D,Renter,Yes,95.1% AMI and above,Other
+"Richmond city, Virginia",30230.0,1385.0,168.0,05000US51760,51,760,S,Renter,No,All,All
+"Richmond city, Virginia",4780.0,608.0,169.0,05000US51760,51,760,S,Renter,No,30% AMI or less,All
+"Richmond city, Virginia",525.0,193.0,170.0,05000US51760,51,760,D,Renter,No,30% AMI or less,White
+"Richmond city, Virginia",4090.0,587.0,171.0,05000US51760,51,760,D,Renter,No,30% AMI or less,Black
+"Richmond city, Virginia",80.0,81.0,172.0,05000US51760,51,760,D,Renter,No,30% AMI or less,Asian
+"Richmond city, Virginia",0.0,161.0,173.0,05000US51760,51,760,D,Renter,No,30% AMI or less,American Indian
+"Richmond city, Virginia",0.0,161.0,174.0,05000US51760,51,760,D,Renter,No,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",70.0,105.0,175.0,05000US51760,51,760,D,Renter,No,30% AMI or less,Hispanic
+"Richmond city, Virginia",15.0,32.0,176.0,05000US51760,51,760,D,Renter,No,30% AMI or less,Other
+"Richmond city, Virginia",6290.0,847.0,177.0,05000US51760,51,760,S,Renter,No,30.1-50% AMI,All
+"Richmond city, Virginia",1995.0,458.0,178.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,White
+"Richmond city, Virginia",3875.0,679.0,179.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,Black
+"Richmond city, Virginia",10.0,21.0,180.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,Asian
+"Richmond city, Virginia",35.0,42.0,181.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,182.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",180.0,138.0,183.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",200.0,156.0,184.0,05000US51760,51,760,D,Renter,No,30.1-50% AMI,Other
+"Richmond city, Virginia",9385.0,996.0,185.0,05000US51760,51,760,S,Renter,No,50.1-80% AMI,All
+"Richmond city, Virginia",3230.0,658.0,186.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,White
+"Richmond city, Virginia",5290.0,773.0,187.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,Black
+"Richmond city, Virginia",155.0,118.0,188.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,Asian
+"Richmond city, Virginia",35.0,58.0,189.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,190.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",505.0,235.0,191.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",175.0,141.0,192.0,05000US51760,51,760,D,Renter,No,50.1-80% AMI,Other
+"Richmond city, Virginia",3335.0,521.0,193.0,05000US51760,51,760,S,Renter,No,80.1-95% AMI,All
+"Richmond city, Virginia",1240.0,349.0,194.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,White
+"Richmond city, Virginia",1600.0,359.0,195.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,Black
+"Richmond city, Virginia",160.0,162.0,196.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,197.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,198.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",80.0,80.0,199.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",255.0,195.0,200.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI,Other
+"Richmond city, Virginia",6440.0,792.0,201.0,05000US51760,51,760,S,Renter,No,95.1% AMI and above,All
+"Richmond city, Virginia",3335.0,466.0,202.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,White
+"Richmond city, Virginia",2520.0,614.0,203.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,Black
+"Richmond city, Virginia",125.0,87.0,204.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,Asian
+"Richmond city, Virginia",0.0,161.0,205.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,206.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",275.0,127.0,207.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",185.0,199.0,208.0,05000US51760,51,760,D,Renter,No,95.1% AMI and above,Other
+"Richmond city, Virginia",2035.0,335.0,209.0,05000US51760,51,760,S,Renter,N/A,All,All
+"Richmond city, Virginia",1360.0,269.0,210.0,05000US51760,51,760,S,Renter,N/A,30% AMI or less,All
+"Richmond city, Virginia",270.0,122.0,211.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,White
+"Richmond city, Virginia",785.0,195.0,212.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,Black
+"Richmond city, Virginia",195.0,121.0,213.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,Asian
+"Richmond city, Virginia",0.0,161.0,214.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,American Indian
+"Richmond city, Virginia",0.0,161.0,215.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,Pacific Islander
+"Richmond city, Virginia",55.0,52.0,216.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,Hispanic
+"Richmond city, Virginia",50.0,61.0,217.0,05000US51760,51,760,D,Renter,N/A,30% AMI or less,Other
+"Richmond city, Virginia",265.0,146.0,218.0,05000US51760,51,760,S,Renter,N/A,30.1-50% AMI,All
+"Richmond city, Virginia",125.0,92.0,219.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,White
+"Richmond city, Virginia",140.0,115.0,220.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,Black
+"Richmond city, Virginia",0.0,161.0,221.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,222.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,223.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,224.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,225.0,05000US51760,51,760,D,Renter,N/A,30.1-50% AMI,Other
+"Richmond city, Virginia",140.0,113.0,226.0,05000US51760,51,760,S,Renter,N/A,50.1-80% AMI,All
+"Richmond city, Virginia",95.0,100.0,227.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,White
+"Richmond city, Virginia",20.0,35.0,228.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,Black
+"Richmond city, Virginia",25.0,45.0,229.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,230.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,231.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,232.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,233.0,05000US51760,51,760,D,Renter,N/A,50.1-80% AMI,Other
+"Richmond city, Virginia",60.0,51.0,234.0,05000US51760,51,760,S,Renter,N/A,80.1-95% AMI,All
+"Richmond city, Virginia",60.0,51.0,235.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,White
+"Richmond city, Virginia",0.0,161.0,236.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,Black
+"Richmond city, Virginia",0.0,161.0,237.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,Asian
+"Richmond city, Virginia",0.0,161.0,238.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,American Indian
+"Richmond city, Virginia",0.0,161.0,239.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,240.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,Hispanic
+"Richmond city, Virginia",0.0,161.0,241.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI,Other
+"Richmond city, Virginia",215.0,121.0,242.0,05000US51760,51,760,S,Renter,N/A,95.1% AMI and above,All
+"Richmond city, Virginia",165.0,108.0,243.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,White
+"Richmond city, Virginia",45.0,46.0,244.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,Black
+"Richmond city, Virginia",0.0,161.0,245.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,Asian
+"Richmond city, Virginia",0.0,161.0,246.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,American Indian
+"Richmond city, Virginia",0.0,161.0,247.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,Pacific Islander
+"Richmond city, Virginia",0.0,161.0,248.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,Hispanic
+"Richmond city, Virginia",0.0,161.0,249.0,05000US51760,51,760,D,Renter,N/A,95.1% AMI and above,Other

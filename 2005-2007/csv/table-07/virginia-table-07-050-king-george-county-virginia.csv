@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"King George County, Virginia",7695.0,321.0,1.0,05000US51099,51,099,T,All,All,All
+"King George County, Virginia",5925.0,377.0,2.0,05000US51099,51,099,S,Owner,All,All
+"King George County, Virginia",815.0,173.0,3.0,05000US51099,51,099,S,Owner,"Small family, elderly",All
+"King George County, Virginia",720.0,168.0,4.0,05000US51099,51,099,D,Owner,"Small family, elderly",No cost burden
+"King George County, Virginia",35.0,34.0,5.0,05000US51099,51,099,D,Owner,"Small family, elderly",Moderate cost burden
+"King George County, Virginia",60.0,66.0,6.0,05000US51099,51,099,D,Owner,"Small family, elderly",Severe cost burden
+"King George County, Virginia",0.0,161.0,7.0,05000US51099,51,099,D,Owner,"Small family, elderly",N/A
+"King George County, Virginia",3115.0,361.0,8.0,05000US51099,51,099,S,Owner,"Small family, non-elderly",All
+"King George County, Virginia",2195.0,294.0,9.0,05000US51099,51,099,D,Owner,"Small family, non-elderly",No cost burden
+"King George County, Virginia",645.0,205.0,10.0,05000US51099,51,099,D,Owner,"Small family, non-elderly",Moderate cost burden
+"King George County, Virginia",275.0,134.0,11.0,05000US51099,51,099,D,Owner,"Small family, non-elderly",Severe cost burden
+"King George County, Virginia",0.0,161.0,12.0,05000US51099,51,099,D,Owner,"Small family, non-elderly",N/A
+"King George County, Virginia",640.0,183.0,13.0,05000US51099,51,099,S,Owner,Large family,All
+"King George County, Virginia",440.0,171.0,14.0,05000US51099,51,099,D,Owner,Large family,No cost burden
+"King George County, Virginia",95.0,67.0,15.0,05000US51099,51,099,D,Owner,Large family,Moderate cost burden
+"King George County, Virginia",100.0,97.0,16.0,05000US51099,51,099,D,Owner,Large family,Severe cost burden
+"King George County, Virginia",0.0,161.0,17.0,05000US51099,51,099,D,Owner,Large family,N/A
+"King George County, Virginia",460.0,171.0,18.0,05000US51099,51,099,S,Owner,"Non-family, elderly",All
+"King George County, Virginia",350.0,140.0,19.0,05000US51099,51,099,D,Owner,"Non-family, elderly",No cost burden
+"King George County, Virginia",45.0,58.0,20.0,05000US51099,51,099,D,Owner,"Non-family, elderly",Moderate cost burden
+"King George County, Virginia",65.0,53.0,21.0,05000US51099,51,099,D,Owner,"Non-family, elderly",Severe cost burden
+"King George County, Virginia",0.0,161.0,22.0,05000US51099,51,099,D,Owner,"Non-family, elderly",N/A
+"King George County, Virginia",900.0,230.0,23.0,05000US51099,51,099,S,Owner,"Non-family, non-elderly",All
+"King George County, Virginia",665.0,212.0,24.0,05000US51099,51,099,D,Owner,"Non-family, non-elderly",No cost burden
+"King George County, Virginia",160.0,111.0,25.0,05000US51099,51,099,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"King George County, Virginia",55.0,64.0,26.0,05000US51099,51,099,D,Owner,"Non-family, non-elderly",Severe cost burden
+"King George County, Virginia",15.0,30.0,27.0,05000US51099,51,099,D,Owner,"Non-family, non-elderly",N/A
+"King George County, Virginia",1765.0,318.0,28.0,05000US51099,51,099,S,Renter,All,All
+"King George County, Virginia",55.0,63.0,29.0,05000US51099,51,099,S,Renter,"Small family, elderly",All
+"King George County, Virginia",20.0,29.0,30.0,05000US51099,51,099,D,Renter,"Small family, elderly",No cost burden
+"King George County, Virginia",0.0,161.0,31.0,05000US51099,51,099,D,Renter,"Small family, elderly",Moderate cost burden
+"King George County, Virginia",35.0,58.0,32.0,05000US51099,51,099,D,Renter,"Small family, elderly",Severe cost burden
+"King George County, Virginia",0.0,161.0,33.0,05000US51099,51,099,D,Renter,"Small family, elderly",N/A
+"King George County, Virginia",1135.0,264.0,34.0,05000US51099,51,099,S,Renter,"Small family, non-elderly",All
+"King George County, Virginia",480.0,193.0,35.0,05000US51099,51,099,D,Renter,"Small family, non-elderly",No cost burden
+"King George County, Virginia",280.0,130.0,36.0,05000US51099,51,099,D,Renter,"Small family, non-elderly",Moderate cost burden
+"King George County, Virginia",270.0,145.0,37.0,05000US51099,51,099,D,Renter,"Small family, non-elderly",Severe cost burden
+"King George County, Virginia",100.0,85.0,38.0,05000US51099,51,099,D,Renter,"Small family, non-elderly",N/A
+"King George County, Virginia",60.0,48.0,39.0,05000US51099,51,099,S,Renter,Large family,All
+"King George County, Virginia",55.0,48.0,40.0,05000US51099,51,099,D,Renter,Large family,No cost burden
+"King George County, Virginia",0.0,161.0,41.0,05000US51099,51,099,D,Renter,Large family,Moderate cost burden
+"King George County, Virginia",4.0,9.0,42.0,05000US51099,51,099,D,Renter,Large family,Severe cost burden
+"King George County, Virginia",0.0,161.0,43.0,05000US51099,51,099,D,Renter,Large family,N/A
+"King George County, Virginia",65.0,55.0,44.0,05000US51099,51,099,S,Renter,"Non-family, elderly",All
+"King George County, Virginia",15.0,25.0,45.0,05000US51099,51,099,D,Renter,"Non-family, elderly",No cost burden
+"King George County, Virginia",15.0,25.0,46.0,05000US51099,51,099,D,Renter,"Non-family, elderly",Moderate cost burden
+"King George County, Virginia",15.0,28.0,47.0,05000US51099,51,099,D,Renter,"Non-family, elderly",Severe cost burden
+"King George County, Virginia",25.0,32.0,48.0,05000US51099,51,099,D,Renter,"Non-family, elderly",N/A
+"King George County, Virginia",450.0,163.0,49.0,05000US51099,51,099,S,Renter,"Non-family, non-elderly",All
+"King George County, Virginia",300.0,141.0,50.0,05000US51099,51,099,D,Renter,"Non-family, non-elderly",No cost burden
+"King George County, Virginia",110.0,99.0,51.0,05000US51099,51,099,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"King George County, Virginia",40.0,64.0,52.0,05000US51099,51,099,D,Renter,"Non-family, non-elderly",Severe cost burden
+"King George County, Virginia",0.0,161.0,53.0,05000US51099,51,099,D,Renter,"Non-family, non-elderly",N/A

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Orange County, Virginia",275.0,191.0,1.0,05000US51137,51,137,T,All,All,All
+"Orange County, Virginia",60.0,95.0,2.0,05000US51137,51,137,S,Substandard,All,All
+"Orange County, Virginia",215.0,164.0,3.0,05000US51137,51,137,S,Standard,All,All
+"Orange County, Virginia",0.0,161.0,4.0,05000US51137,51,137,S,Standard,VHUD50,All
+"Orange County, Virginia",0.0,161.0,5.0,05000US51137,51,137,D,Standard,VHUD50,0 or 1
+"Orange County, Virginia",0.0,161.0,6.0,05000US51137,51,137,D,Standard,VHUD50,2
+"Orange County, Virginia",0.0,161.0,7.0,05000US51137,51,137,D,Standard,VHUD50,3 or more
+"Orange County, Virginia",0.0,161.0,8.0,05000US51137,51,137,S,Standard,VHUD80,All
+"Orange County, Virginia",0.0,161.0,9.0,05000US51137,51,137,D,Standard,VHUD80,0 or 1
+"Orange County, Virginia",0.0,161.0,10.0,05000US51137,51,137,D,Standard,VHUD80,2
+"Orange County, Virginia",0.0,161.0,11.0,05000US51137,51,137,D,Standard,VHUD80,3 or more
+"Orange County, Virginia",0.0,161.0,12.0,05000US51137,51,137,S,Standard,VHUD100,All
+"Orange County, Virginia",0.0,161.0,13.0,05000US51137,51,137,D,Standard,VHUD100,0 or 1
+"Orange County, Virginia",0.0,161.0,14.0,05000US51137,51,137,D,Standard,VHUD100,2
+"Orange County, Virginia",0.0,161.0,15.0,05000US51137,51,137,D,Standard,VHUD100,3 or more
+"Orange County, Virginia",215.0,164.0,16.0,05000US51137,51,137,S,Standard,Greater than VHUD100,All
+"Orange County, Virginia",0.0,161.0,17.0,05000US51137,51,137,D,Standard,Greater than VHUD100,0 or 1
+"Orange County, Virginia",35.0,61.0,18.0,05000US51137,51,137,D,Standard,Greater than VHUD100,2
+"Orange County, Virginia",180.0,153.0,19.0,05000US51137,51,137,D,Standard,Greater than VHUD100,3 or more

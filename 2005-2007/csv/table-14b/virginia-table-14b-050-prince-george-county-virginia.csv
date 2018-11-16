@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Prince George County, Virginia",435.0,228.0,1.0,05000US51149,51,149,T,All,All,All
+"Prince George County, Virginia",275.0,179.0,2.0,05000US51149,51,149,S,Substandard,All,All
+"Prince George County, Virginia",160.0,146.0,3.0,05000US51149,51,149,S,Standard,All,All
+"Prince George County, Virginia",20.0,36.0,4.0,05000US51149,51,149,S,Standard,RHUD30,All
+"Prince George County, Virginia",0.0,161.0,5.0,05000US51149,51,149,D,Standard,RHUD30,0 or 1
+"Prince George County, Virginia",20.0,36.0,6.0,05000US51149,51,149,D,Standard,RHUD30,2
+"Prince George County, Virginia",0.0,161.0,7.0,05000US51149,51,149,D,Standard,RHUD30,3 or more
+"Prince George County, Virginia",30.0,51.0,8.0,05000US51149,51,149,S,Standard,RHUD50,All
+"Prince George County, Virginia",0.0,161.0,9.0,05000US51149,51,149,D,Standard,RHUD50,0 or 1
+"Prince George County, Virginia",30.0,51.0,10.0,05000US51149,51,149,D,Standard,RHUD50,2
+"Prince George County, Virginia",0.0,161.0,11.0,05000US51149,51,149,D,Standard,RHUD50,3 or more
+"Prince George County, Virginia",110.0,125.0,12.0,05000US51149,51,149,S,Standard,RHUD80,All
+"Prince George County, Virginia",0.0,161.0,13.0,05000US51149,51,149,D,Standard,RHUD80,0 or 1
+"Prince George County, Virginia",110.0,125.0,14.0,05000US51149,51,149,D,Standard,RHUD80,2
+"Prince George County, Virginia",0.0,161.0,15.0,05000US51149,51,149,D,Standard,RHUD80,3 or more
+"Prince George County, Virginia",0.0,161.0,16.0,05000US51149,51,149,S,Standard,Greater than RHUD80,All
+"Prince George County, Virginia",0.0,161.0,17.0,05000US51149,51,149,D,Standard,Greater than RHUD80,0 or 1
+"Prince George County, Virginia",0.0,161.0,18.0,05000US51149,51,149,D,Standard,Greater than RHUD80,2
+"Prince George County, Virginia",0.0,161.0,19.0,05000US51149,51,149,D,Standard,Greater than RHUD80,3 or more

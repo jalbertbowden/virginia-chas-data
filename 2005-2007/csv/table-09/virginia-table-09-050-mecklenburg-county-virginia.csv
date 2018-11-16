@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Mecklenburg County, Virginia",12755.0,602.0,1.0,05000US51117,51,117,T,All,All,All
+"Mecklenburg County, Virginia",9295.0,534.0,2.0,05000US51117,51,117,S,Owner,All,All
+"Mecklenburg County, Virginia",6235.0,420.0,3.0,05000US51117,51,117,S,Owner,White,All
+"Mecklenburg County, Virginia",4805.0,409.0,4.0,05000US51117,51,117,D,Owner,White,No cost burden
+"Mecklenburg County, Virginia",965.0,238.0,5.0,05000US51117,51,117,D,Owner,White,Moderate cost burden
+"Mecklenburg County, Virginia",425.0,149.0,6.0,05000US51117,51,117,D,Owner,White,Severe cost burden
+"Mecklenburg County, Virginia",35.0,44.0,7.0,05000US51117,51,117,D,Owner,White,N/A
+"Mecklenburg County, Virginia",2980.0,331.0,8.0,05000US51117,51,117,S,Owner,Black,All
+"Mecklenburg County, Virginia",1695.0,274.0,9.0,05000US51117,51,117,D,Owner,Black,No cost burden
+"Mecklenburg County, Virginia",665.0,219.0,10.0,05000US51117,51,117,D,Owner,Black,Moderate cost burden
+"Mecklenburg County, Virginia",570.0,229.0,11.0,05000US51117,51,117,D,Owner,Black,Severe cost burden
+"Mecklenburg County, Virginia",45.0,56.0,12.0,05000US51117,51,117,D,Owner,Black,N/A
+"Mecklenburg County, Virginia",20.0,37.0,13.0,05000US51117,51,117,S,Owner,Asian,All
+"Mecklenburg County, Virginia",20.0,37.0,14.0,05000US51117,51,117,D,Owner,Asian,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,15.0,05000US51117,51,117,D,Owner,Asian,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,16.0,05000US51117,51,117,D,Owner,Asian,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,17.0,05000US51117,51,117,D,Owner,Asian,N/A
+"Mecklenburg County, Virginia",0.0,161.0,18.0,05000US51117,51,117,S,Owner,American Indian,All
+"Mecklenburg County, Virginia",0.0,161.0,19.0,05000US51117,51,117,D,Owner,American Indian,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,20.0,05000US51117,51,117,D,Owner,American Indian,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,21.0,05000US51117,51,117,D,Owner,American Indian,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,22.0,05000US51117,51,117,D,Owner,American Indian,N/A
+"Mecklenburg County, Virginia",0.0,161.0,23.0,05000US51117,51,117,S,Owner,Pacific Islander,All
+"Mecklenburg County, Virginia",0.0,161.0,24.0,05000US51117,51,117,D,Owner,Pacific Islander,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,25.0,05000US51117,51,117,D,Owner,Pacific Islander,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,26.0,05000US51117,51,117,D,Owner,Pacific Islander,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,27.0,05000US51117,51,117,D,Owner,Pacific Islander,N/A
+"Mecklenburg County, Virginia",10.0,17.0,28.0,05000US51117,51,117,S,Owner,Hispanic,All
+"Mecklenburg County, Virginia",10.0,17.0,29.0,05000US51117,51,117,D,Owner,Hispanic,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,30.0,05000US51117,51,117,D,Owner,Hispanic,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,31.0,05000US51117,51,117,D,Owner,Hispanic,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,32.0,05000US51117,51,117,D,Owner,Hispanic,N/A
+"Mecklenburg County, Virginia",55.0,55.0,33.0,05000US51117,51,117,S,Owner,Other,All
+"Mecklenburg County, Virginia",55.0,55.0,34.0,05000US51117,51,117,D,Owner,Other,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,35.0,05000US51117,51,117,D,Owner,Other,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,36.0,05000US51117,51,117,D,Owner,Other,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,37.0,05000US51117,51,117,D,Owner,Other,N/A
+"Mecklenburg County, Virginia",3460.0,488.0,38.0,05000US51117,51,117,S,Renter,All,All
+"Mecklenburg County, Virginia",1770.0,367.0,39.0,05000US51117,51,117,S,Renter,White,All
+"Mecklenburg County, Virginia",965.0,279.0,40.0,05000US51117,51,117,D,Renter,White,No cost burden
+"Mecklenburg County, Virginia",195.0,108.0,41.0,05000US51117,51,117,D,Renter,White,Moderate cost burden
+"Mecklenburg County, Virginia",160.0,98.0,42.0,05000US51117,51,117,D,Renter,White,Severe cost burden
+"Mecklenburg County, Virginia",445.0,171.0,43.0,05000US51117,51,117,D,Renter,White,N/A
+"Mecklenburg County, Virginia",1525.0,325.0,44.0,05000US51117,51,117,S,Renter,Black,All
+"Mecklenburg County, Virginia",645.0,184.0,45.0,05000US51117,51,117,D,Renter,Black,No cost burden
+"Mecklenburg County, Virginia",150.0,107.0,46.0,05000US51117,51,117,D,Renter,Black,Moderate cost burden
+"Mecklenburg County, Virginia",525.0,241.0,47.0,05000US51117,51,117,D,Renter,Black,Severe cost burden
+"Mecklenburg County, Virginia",210.0,123.0,48.0,05000US51117,51,117,D,Renter,Black,N/A
+"Mecklenburg County, Virginia",25.0,17.0,49.0,05000US51117,51,117,S,Renter,Asian,All
+"Mecklenburg County, Virginia",25.0,17.0,50.0,05000US51117,51,117,D,Renter,Asian,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,51.0,05000US51117,51,117,D,Renter,Asian,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,52.0,05000US51117,51,117,D,Renter,Asian,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,53.0,05000US51117,51,117,D,Renter,Asian,N/A
+"Mecklenburg County, Virginia",0.0,161.0,54.0,05000US51117,51,117,S,Renter,American Indian,All
+"Mecklenburg County, Virginia",0.0,161.0,55.0,05000US51117,51,117,D,Renter,American Indian,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,56.0,05000US51117,51,117,D,Renter,American Indian,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,57.0,05000US51117,51,117,D,Renter,American Indian,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,58.0,05000US51117,51,117,D,Renter,American Indian,N/A
+"Mecklenburg County, Virginia",0.0,161.0,59.0,05000US51117,51,117,S,Renter,Pacific Islander,All
+"Mecklenburg County, Virginia",0.0,161.0,60.0,05000US51117,51,117,D,Renter,Pacific Islander,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,61.0,05000US51117,51,117,D,Renter,Pacific Islander,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,62.0,05000US51117,51,117,D,Renter,Pacific Islander,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,63.0,05000US51117,51,117,D,Renter,Pacific Islander,N/A
+"Mecklenburg County, Virginia",140.0,89.0,64.0,05000US51117,51,117,S,Renter,Hispanic,All
+"Mecklenburg County, Virginia",100.0,77.0,65.0,05000US51117,51,117,D,Renter,Hispanic,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,66.0,05000US51117,51,117,D,Renter,Hispanic,Moderate cost burden
+"Mecklenburg County, Virginia",40.0,63.0,67.0,05000US51117,51,117,D,Renter,Hispanic,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,68.0,05000US51117,51,117,D,Renter,Hispanic,N/A
+"Mecklenburg County, Virginia",0.0,161.0,69.0,05000US51117,51,117,S,Renter,Other,All
+"Mecklenburg County, Virginia",0.0,161.0,70.0,05000US51117,51,117,D,Renter,Other,No cost burden
+"Mecklenburg County, Virginia",0.0,161.0,71.0,05000US51117,51,117,D,Renter,Other,Moderate cost burden
+"Mecklenburg County, Virginia",0.0,161.0,72.0,05000US51117,51,117,D,Renter,Other,Severe cost burden
+"Mecklenburg County, Virginia",0.0,161.0,73.0,05000US51117,51,117,D,Renter,Other,N/A

@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Chesapeake city, Virginia",77810.0,623.0,1.0,05000US51550,51,550,T,All,All,All,All
+"Chesapeake city, Virginia",58470.0,986.0,2.0,05000US51550,51,550,S,Owner,All,All,All
+"Chesapeake city, Virginia",18730.0,1091.0,3.0,05000US51550,51,550,S,Owner,Yes,All,All
+"Chesapeake city, Virginia",2255.0,447.0,4.0,05000US51550,51,550,S,Owner,Yes,30% AMI or less,All
+"Chesapeake city, Virginia",305.0,149.0,5.0,05000US51550,51,550,D,Owner,Yes,30% AMI or less,Disabled
+"Chesapeake city, Virginia",1945.0,414.0,6.0,05000US51550,51,550,D,Owner,Yes,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",2525.0,433.0,7.0,05000US51550,51,550,S,Owner,Yes,30.1-50% AMI,All
+"Chesapeake city, Virginia",360.0,171.0,8.0,05000US51550,51,550,D,Owner,Yes,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",2165.0,423.0,9.0,05000US51550,51,550,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",4420.0,643.0,10.0,05000US51550,51,550,S,Owner,Yes,50.1-80% AMI,All
+"Chesapeake city, Virginia",420.0,170.0,11.0,05000US51550,51,550,D,Owner,Yes,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",4000.0,616.0,12.0,05000US51550,51,550,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",9535.0,809.0,13.0,05000US51550,51,550,S,Owner,Yes,80.1% AMI and above,All
+"Chesapeake city, Virginia",675.0,236.0,14.0,05000US51550,51,550,D,Owner,Yes,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",8860.0,770.0,15.0,05000US51550,51,550,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Chesapeake city, Virginia",39525.0,1183.0,16.0,05000US51550,51,550,S,Owner,No,All,All
+"Chesapeake city, Virginia",280.0,167.0,17.0,05000US51550,51,550,S,Owner,No,30% AMI or less,All
+"Chesapeake city, Virginia",0.0,161.0,18.0,05000US51550,51,550,D,Owner,No,30% AMI or less,Disabled
+"Chesapeake city, Virginia",280.0,167.0,19.0,05000US51550,51,550,D,Owner,No,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",1155.0,269.0,20.0,05000US51550,51,550,S,Owner,No,30.1-50% AMI,All
+"Chesapeake city, Virginia",220.0,109.0,21.0,05000US51550,51,550,D,Owner,No,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",935.0,247.0,22.0,05000US51550,51,550,D,Owner,No,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",3170.0,487.0,23.0,05000US51550,51,550,S,Owner,No,50.1-80% AMI,All
+"Chesapeake city, Virginia",560.0,187.0,24.0,05000US51550,51,550,D,Owner,No,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",2610.0,481.0,25.0,05000US51550,51,550,D,Owner,No,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",34920.0,1103.0,26.0,05000US51550,51,550,S,Owner,No,80.1% AMI and above,All
+"Chesapeake city, Virginia",2050.0,296.0,27.0,05000US51550,51,550,D,Owner,No,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",32870.0,1082.0,28.0,05000US51550,51,550,D,Owner,No,80.1% AMI and above,Not disabled
+"Chesapeake city, Virginia",215.0,117.0,29.0,05000US51550,51,550,S,Owner,N/A,All,All
+"Chesapeake city, Virginia",215.0,117.0,30.0,05000US51550,51,550,S,Owner,N/A,30% AMI or less,All
+"Chesapeake city, Virginia",25.0,42.0,31.0,05000US51550,51,550,D,Owner,N/A,30% AMI or less,Disabled
+"Chesapeake city, Virginia",190.0,108.0,32.0,05000US51550,51,550,D,Owner,N/A,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",0.0,161.0,33.0,05000US51550,51,550,S,Owner,N/A,30.1-50% AMI,All
+"Chesapeake city, Virginia",0.0,161.0,34.0,05000US51550,51,550,D,Owner,N/A,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",0.0,161.0,35.0,05000US51550,51,550,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",0.0,161.0,36.0,05000US51550,51,550,S,Owner,N/A,50.1-80% AMI,All
+"Chesapeake city, Virginia",0.0,161.0,37.0,05000US51550,51,550,D,Owner,N/A,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",0.0,161.0,38.0,05000US51550,51,550,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",0.0,161.0,39.0,05000US51550,51,550,S,Owner,N/A,80.1% AMI and above,All
+"Chesapeake city, Virginia",0.0,161.0,40.0,05000US51550,51,550,D,Owner,N/A,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",0.0,161.0,41.0,05000US51550,51,550,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Chesapeake city, Virginia",19335.0,960.0,42.0,05000US51550,51,550,S,Renter,All,All,All
+"Chesapeake city, Virginia",8615.0,862.0,43.0,05000US51550,51,550,S,Renter,Yes,All,All
+"Chesapeake city, Virginia",2140.0,357.0,44.0,05000US51550,51,550,S,Renter,Yes,30% AMI or less,All
+"Chesapeake city, Virginia",290.0,138.0,45.0,05000US51550,51,550,D,Renter,Yes,30% AMI or less,Disabled
+"Chesapeake city, Virginia",1850.0,326.0,46.0,05000US51550,51,550,D,Renter,Yes,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",3020.0,606.0,47.0,05000US51550,51,550,S,Renter,Yes,30.1-50% AMI,All
+"Chesapeake city, Virginia",270.0,134.0,48.0,05000US51550,51,550,D,Renter,Yes,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",2750.0,595.0,49.0,05000US51550,51,550,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",2470.0,444.0,50.0,05000US51550,51,550,S,Renter,Yes,50.1-80% AMI,All
+"Chesapeake city, Virginia",155.0,103.0,51.0,05000US51550,51,550,D,Renter,Yes,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",2315.0,440.0,52.0,05000US51550,51,550,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",980.0,322.0,53.0,05000US51550,51,550,S,Renter,Yes,80.1% AMI and above,All
+"Chesapeake city, Virginia",190.0,134.0,54.0,05000US51550,51,550,D,Renter,Yes,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",795.0,276.0,55.0,05000US51550,51,550,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Chesapeake city, Virginia",9760.0,873.0,56.0,05000US51550,51,550,S,Renter,No,All,All
+"Chesapeake city, Virginia",265.0,118.0,57.0,05000US51550,51,550,S,Renter,No,30% AMI or less,All
+"Chesapeake city, Virginia",15.0,29.0,58.0,05000US51550,51,550,D,Renter,No,30% AMI or less,Disabled
+"Chesapeake city, Virginia",250.0,119.0,59.0,05000US51550,51,550,D,Renter,No,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",555.0,299.0,60.0,05000US51550,51,550,S,Renter,No,30.1-50% AMI,All
+"Chesapeake city, Virginia",100.0,93.0,61.0,05000US51550,51,550,D,Renter,No,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",455.0,294.0,62.0,05000US51550,51,550,D,Renter,No,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",2255.0,517.0,63.0,05000US51550,51,550,S,Renter,No,50.1-80% AMI,All
+"Chesapeake city, Virginia",100.0,98.0,64.0,05000US51550,51,550,D,Renter,No,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",2155.0,529.0,65.0,05000US51550,51,550,D,Renter,No,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",6690.0,777.0,66.0,05000US51550,51,550,S,Renter,No,80.1% AMI and above,All
+"Chesapeake city, Virginia",240.0,135.0,67.0,05000US51550,51,550,D,Renter,No,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",6445.0,780.0,68.0,05000US51550,51,550,D,Renter,No,80.1% AMI and above,Not disabled
+"Chesapeake city, Virginia",965.0,285.0,69.0,05000US51550,51,550,S,Renter,N/A,All,All
+"Chesapeake city, Virginia",325.0,186.0,70.0,05000US51550,51,550,S,Renter,N/A,30% AMI or less,All
+"Chesapeake city, Virginia",65.0,77.0,71.0,05000US51550,51,550,D,Renter,N/A,30% AMI or less,Disabled
+"Chesapeake city, Virginia",260.0,174.0,72.0,05000US51550,51,550,D,Renter,N/A,30% AMI or less,Not disabled
+"Chesapeake city, Virginia",205.0,116.0,73.0,05000US51550,51,550,S,Renter,N/A,30.1-50% AMI,All
+"Chesapeake city, Virginia",70.0,68.0,74.0,05000US51550,51,550,D,Renter,N/A,30.1-50% AMI,Disabled
+"Chesapeake city, Virginia",135.0,95.0,75.0,05000US51550,51,550,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Chesapeake city, Virginia",70.0,61.0,76.0,05000US51550,51,550,S,Renter,N/A,50.1-80% AMI,All
+"Chesapeake city, Virginia",20.0,35.0,77.0,05000US51550,51,550,D,Renter,N/A,50.1-80% AMI,Disabled
+"Chesapeake city, Virginia",50.0,51.0,78.0,05000US51550,51,550,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Chesapeake city, Virginia",360.0,175.0,79.0,05000US51550,51,550,S,Renter,N/A,80.1% AMI and above,All
+"Chesapeake city, Virginia",0.0,161.0,80.0,05000US51550,51,550,D,Renter,N/A,80.1% AMI and above,Disabled
+"Chesapeake city, Virginia",360.0,175.0,81.0,05000US51550,51,550,D,Renter,N/A,80.1% AMI and above,Not disabled

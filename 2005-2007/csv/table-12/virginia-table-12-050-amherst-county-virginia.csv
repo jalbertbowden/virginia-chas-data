@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Amherst County, Virginia",12730.0,370.0,1.0,05000US51009,51,009,T,All,All,All,All
+"Amherst County, Virginia",9680.0,490.0,2.0,05000US51009,51,009,S,Owner,All,All,All
+"Amherst County, Virginia",485.0,198.0,3.0,05000US51009,51,009,S,Owner,2000+,All,All
+"Amherst County, Virginia",105.0,60.0,4.0,05000US51009,51,009,S,Owner,2000+,<=50% AMI,All
+"Amherst County, Virginia",45.0,61.0,5.0,05000US51009,51,009,D,Owner,2000+,<=50% AMI,No cost burden
+"Amherst County, Virginia",4.0,20.0,6.0,05000US51009,51,009,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",25.0,33.0,7.0,05000US51009,51,009,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",25.0,44.0,8.0,05000US51009,51,009,D,Owner,2000+,<=50% AMI,N/A
+"Amherst County, Virginia",110.0,91.0,9.0,05000US51009,51,009,S,Owner,2000+,50.1-80% AMI,All
+"Amherst County, Virginia",75.0,70.0,10.0,05000US51009,51,009,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",35.0,55.0,11.0,05000US51009,51,009,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,12.0,05000US51009,51,009,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,13.0,05000US51009,51,009,D,Owner,2000+,50.1-80% AMI,N/A
+"Amherst County, Virginia",60.0,81.0,14.0,05000US51009,51,009,S,Owner,2000+,80.1-120% AMI,All
+"Amherst County, Virginia",60.0,81.0,15.0,05000US51009,51,009,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,16.0,05000US51009,51,009,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,17.0,05000US51009,51,009,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,18.0,05000US51009,51,009,D,Owner,2000+,80.1-120% AMI,N/A
+"Amherst County, Virginia",215.0,101.0,19.0,05000US51009,51,009,S,Owner,2000+,>120% AMI,All
+"Amherst County, Virginia",195.0,92.0,20.0,05000US51009,51,009,D,Owner,2000+,>120% AMI,No cost burden
+"Amherst County, Virginia",20.0,34.0,21.0,05000US51009,51,009,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,22.0,05000US51009,51,009,D,Owner,2000+,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,23.0,05000US51009,51,009,D,Owner,2000+,>120% AMI,N/A
+"Amherst County, Virginia",3860.0,458.0,24.0,05000US51009,51,009,S,Owner,1980 to 1999,All,All
+"Amherst County, Virginia",405.0,163.0,25.0,05000US51009,51,009,S,Owner,1980 to 1999,<=50% AMI,All
+"Amherst County, Virginia",160.0,99.0,26.0,05000US51009,51,009,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Amherst County, Virginia",15.0,30.0,27.0,05000US51009,51,009,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",195.0,125.0,28.0,05000US51009,51,009,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",30.0,51.0,29.0,05000US51009,51,009,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Amherst County, Virginia",460.0,179.0,30.0,05000US51009,51,009,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Amherst County, Virginia",315.0,146.0,31.0,05000US51009,51,009,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",120.0,88.0,32.0,05000US51009,51,009,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",20.0,38.0,33.0,05000US51009,51,009,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,34.0,05000US51009,51,009,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Amherst County, Virginia",745.0,219.0,35.0,05000US51009,51,009,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Amherst County, Virginia",695.0,213.0,36.0,05000US51009,51,009,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",30.0,38.0,37.0,05000US51009,51,009,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",20.0,34.0,38.0,05000US51009,51,009,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,39.0,05000US51009,51,009,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Amherst County, Virginia",2255.0,380.0,40.0,05000US51009,51,009,S,Owner,1980 to 1999,>120% AMI,All
+"Amherst County, Virginia",2180.0,388.0,41.0,05000US51009,51,009,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Amherst County, Virginia",75.0,79.0,42.0,05000US51009,51,009,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,43.0,05000US51009,51,009,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,44.0,05000US51009,51,009,D,Owner,1980 to 1999,>120% AMI,N/A
+"Amherst County, Virginia",2955.0,393.0,45.0,05000US51009,51,009,S,Owner,1960 to 1979,All,All
+"Amherst County, Virginia",825.0,238.0,46.0,05000US51009,51,009,S,Owner,1960 to 1979,<=50% AMI,All
+"Amherst County, Virginia",360.0,119.0,47.0,05000US51009,51,009,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Amherst County, Virginia",210.0,110.0,48.0,05000US51009,51,009,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",255.0,147.0,49.0,05000US51009,51,009,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,50.0,05000US51009,51,009,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Amherst County, Virginia",530.0,172.0,51.0,05000US51009,51,009,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Amherst County, Virginia",485.0,172.0,52.0,05000US51009,51,009,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",45.0,46.0,53.0,05000US51009,51,009,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,54.0,05000US51009,51,009,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,55.0,05000US51009,51,009,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Amherst County, Virginia",615.0,194.0,56.0,05000US51009,51,009,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Amherst County, Virginia",590.0,187.0,57.0,05000US51009,51,009,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",25.0,40.0,58.0,05000US51009,51,009,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,59.0,05000US51009,51,009,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,60.0,05000US51009,51,009,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Amherst County, Virginia",985.0,232.0,61.0,05000US51009,51,009,S,Owner,1960 to 1979,>120% AMI,All
+"Amherst County, Virginia",865.0,208.0,62.0,05000US51009,51,009,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Amherst County, Virginia",120.0,101.0,63.0,05000US51009,51,009,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,64.0,05000US51009,51,009,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,65.0,05000US51009,51,009,D,Owner,1960 to 1979,>120% AMI,N/A
+"Amherst County, Virginia",1430.0,302.0,66.0,05000US51009,51,009,S,Owner,1940 to 1959,All,All
+"Amherst County, Virginia",265.0,142.0,67.0,05000US51009,51,009,S,Owner,1940 to 1959,<=50% AMI,All
+"Amherst County, Virginia",155.0,108.0,68.0,05000US51009,51,009,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Amherst County, Virginia",65.0,80.0,69.0,05000US51009,51,009,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",15.0,31.0,70.0,05000US51009,51,009,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",35.0,45.0,71.0,05000US51009,51,009,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Amherst County, Virginia",390.0,153.0,72.0,05000US51009,51,009,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Amherst County, Virginia",290.0,122.0,73.0,05000US51009,51,009,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",100.0,91.0,74.0,05000US51009,51,009,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,75.0,05000US51009,51,009,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,76.0,05000US51009,51,009,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Amherst County, Virginia",415.0,174.0,77.0,05000US51009,51,009,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Amherst County, Virginia",340.0,164.0,78.0,05000US51009,51,009,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",80.0,60.0,79.0,05000US51009,51,009,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,80.0,05000US51009,51,009,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,81.0,05000US51009,51,009,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Amherst County, Virginia",360.0,158.0,82.0,05000US51009,51,009,S,Owner,1940 to 1959,>120% AMI,All
+"Amherst County, Virginia",360.0,158.0,83.0,05000US51009,51,009,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,84.0,05000US51009,51,009,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,85.0,05000US51009,51,009,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,86.0,05000US51009,51,009,D,Owner,1940 to 1959,>120% AMI,N/A
+"Amherst County, Virginia",945.0,242.0,87.0,05000US51009,51,009,S,Owner,1939-,All,All
+"Amherst County, Virginia",180.0,93.0,88.0,05000US51009,51,009,S,Owner,1939-,<=50% AMI,All
+"Amherst County, Virginia",105.0,80.0,89.0,05000US51009,51,009,D,Owner,1939-,<=50% AMI,No cost burden
+"Amherst County, Virginia",55.0,51.0,90.0,05000US51009,51,009,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",20.0,39.0,91.0,05000US51009,51,009,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,92.0,05000US51009,51,009,D,Owner,1939-,<=50% AMI,N/A
+"Amherst County, Virginia",215.0,121.0,93.0,05000US51009,51,009,S,Owner,1939-,50.1-80% AMI,All
+"Amherst County, Virginia",205.0,120.0,94.0,05000US51009,51,009,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",10.0,16.0,95.0,05000US51009,51,009,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,96.0,05000US51009,51,009,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,97.0,05000US51009,51,009,D,Owner,1939-,50.1-80% AMI,N/A
+"Amherst County, Virginia",245.0,119.0,98.0,05000US51009,51,009,S,Owner,1939-,80.1-120% AMI,All
+"Amherst County, Virginia",245.0,119.0,99.0,05000US51009,51,009,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,100.0,05000US51009,51,009,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,101.0,05000US51009,51,009,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,102.0,05000US51009,51,009,D,Owner,1939-,80.1-120% AMI,N/A
+"Amherst County, Virginia",305.0,138.0,103.0,05000US51009,51,009,S,Owner,1939-,>120% AMI,All
+"Amherst County, Virginia",305.0,138.0,104.0,05000US51009,51,009,D,Owner,1939-,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,105.0,05000US51009,51,009,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,106.0,05000US51009,51,009,D,Owner,1939-,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,107.0,05000US51009,51,009,D,Owner,1939-,>120% AMI,N/A
+"Amherst County, Virginia",3050.0,476.0,108.0,05000US51009,51,009,S,Renter,All,All,All
+"Amherst County, Virginia",50.0,58.0,109.0,05000US51009,51,009,S,Renter,2000+,All,All
+"Amherst County, Virginia",0.0,161.0,110.0,05000US51009,51,009,S,Renter,2000+,<=50% AMI,All
+"Amherst County, Virginia",0.0,161.0,111.0,05000US51009,51,009,D,Renter,2000+,<=50% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,112.0,05000US51009,51,009,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,113.0,05000US51009,51,009,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,114.0,05000US51009,51,009,D,Renter,2000+,<=50% AMI,N/A
+"Amherst County, Virginia",20.0,33.0,115.0,05000US51009,51,009,S,Renter,2000+,50.1-80% AMI,All
+"Amherst County, Virginia",20.0,33.0,116.0,05000US51009,51,009,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,117.0,05000US51009,51,009,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,118.0,05000US51009,51,009,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,119.0,05000US51009,51,009,D,Renter,2000+,50.1-80% AMI,N/A
+"Amherst County, Virginia",30.0,46.0,120.0,05000US51009,51,009,S,Renter,2000+,80.1-120% AMI,All
+"Amherst County, Virginia",30.0,46.0,121.0,05000US51009,51,009,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,122.0,05000US51009,51,009,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,123.0,05000US51009,51,009,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,124.0,05000US51009,51,009,D,Renter,2000+,80.1-120% AMI,N/A
+"Amherst County, Virginia",0.0,161.0,125.0,05000US51009,51,009,S,Renter,2000+,>120% AMI,All
+"Amherst County, Virginia",0.0,161.0,126.0,05000US51009,51,009,D,Renter,2000+,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,127.0,05000US51009,51,009,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,128.0,05000US51009,51,009,D,Renter,2000+,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,129.0,05000US51009,51,009,D,Renter,2000+,>120% AMI,N/A
+"Amherst County, Virginia",925.0,316.0,130.0,05000US51009,51,009,S,Renter,1980 to 1999,All,All
+"Amherst County, Virginia",305.0,145.0,131.0,05000US51009,51,009,S,Renter,1980 to 1999,<=50% AMI,All
+"Amherst County, Virginia",95.0,78.0,132.0,05000US51009,51,009,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Amherst County, Virginia",100.0,95.0,133.0,05000US51009,51,009,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",105.0,106.0,134.0,05000US51009,51,009,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,135.0,05000US51009,51,009,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Amherst County, Virginia",350.0,249.0,136.0,05000US51009,51,009,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Amherst County, Virginia",310.0,243.0,137.0,05000US51009,51,009,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",25.0,30.0,138.0,05000US51009,51,009,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,139.0,05000US51009,51,009,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",15.0,23.0,140.0,05000US51009,51,009,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Amherst County, Virginia",110.0,84.0,141.0,05000US51009,51,009,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Amherst County, Virginia",80.0,68.0,142.0,05000US51009,51,009,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,143.0,05000US51009,51,009,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,144.0,05000US51009,51,009,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",30.0,47.0,145.0,05000US51009,51,009,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Amherst County, Virginia",165.0,136.0,146.0,05000US51009,51,009,S,Renter,1980 to 1999,>120% AMI,All
+"Amherst County, Virginia",165.0,136.0,147.0,05000US51009,51,009,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,148.0,05000US51009,51,009,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,149.0,05000US51009,51,009,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,150.0,05000US51009,51,009,D,Renter,1980 to 1999,>120% AMI,N/A
+"Amherst County, Virginia",1185.0,336.0,151.0,05000US51009,51,009,S,Renter,1960 to 1979,All,All
+"Amherst County, Virginia",470.0,244.0,152.0,05000US51009,51,009,S,Renter,1960 to 1979,<=50% AMI,All
+"Amherst County, Virginia",190.0,209.0,153.0,05000US51009,51,009,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Amherst County, Virginia",140.0,130.0,154.0,05000US51009,51,009,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",140.0,95.0,155.0,05000US51009,51,009,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,156.0,05000US51009,51,009,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Amherst County, Virginia",345.0,194.0,157.0,05000US51009,51,009,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Amherst County, Virginia",185.0,150.0,158.0,05000US51009,51,009,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",85.0,104.0,159.0,05000US51009,51,009,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,160.0,05000US51009,51,009,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",75.0,98.0,161.0,05000US51009,51,009,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Amherst County, Virginia",240.0,153.0,162.0,05000US51009,51,009,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Amherst County, Virginia",230.0,151.0,163.0,05000US51009,51,009,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,164.0,05000US51009,51,009,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,165.0,05000US51009,51,009,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",10.0,15.0,166.0,05000US51009,51,009,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Amherst County, Virginia",130.0,87.0,167.0,05000US51009,51,009,S,Renter,1960 to 1979,>120% AMI,All
+"Amherst County, Virginia",115.0,85.0,168.0,05000US51009,51,009,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,169.0,05000US51009,51,009,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,170.0,05000US51009,51,009,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Amherst County, Virginia",15.0,25.0,171.0,05000US51009,51,009,D,Renter,1960 to 1979,>120% AMI,N/A
+"Amherst County, Virginia",640.0,207.0,172.0,05000US51009,51,009,S,Renter,1940 to 1959,All,All
+"Amherst County, Virginia",290.0,172.0,173.0,05000US51009,51,009,S,Renter,1940 to 1959,<=50% AMI,All
+"Amherst County, Virginia",0.0,161.0,174.0,05000US51009,51,009,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Amherst County, Virginia",130.0,129.0,175.0,05000US51009,51,009,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",150.0,117.0,176.0,05000US51009,51,009,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",10.0,19.0,177.0,05000US51009,51,009,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Amherst County, Virginia",155.0,94.0,178.0,05000US51009,51,009,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Amherst County, Virginia",140.0,93.0,179.0,05000US51009,51,009,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",10.0,23.0,180.0,05000US51009,51,009,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,181.0,05000US51009,51,009,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,182.0,05000US51009,51,009,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Amherst County, Virginia",105.0,80.0,183.0,05000US51009,51,009,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Amherst County, Virginia",90.0,74.0,184.0,05000US51009,51,009,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,185.0,05000US51009,51,009,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,186.0,05000US51009,51,009,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",20.0,33.0,187.0,05000US51009,51,009,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Amherst County, Virginia",90.0,83.0,188.0,05000US51009,51,009,S,Renter,1940 to 1959,>120% AMI,All
+"Amherst County, Virginia",90.0,83.0,189.0,05000US51009,51,009,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,190.0,05000US51009,51,009,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,191.0,05000US51009,51,009,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,192.0,05000US51009,51,009,D,Renter,1940 to 1959,>120% AMI,N/A
+"Amherst County, Virginia",250.0,139.0,193.0,05000US51009,51,009,S,Renter,1939-,All,All
+"Amherst County, Virginia",130.0,97.0,194.0,05000US51009,51,009,S,Renter,1939-,<=50% AMI,All
+"Amherst County, Virginia",0.0,161.0,195.0,05000US51009,51,009,D,Renter,1939-,<=50% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,196.0,05000US51009,51,009,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Amherst County, Virginia",10.0,14.0,197.0,05000US51009,51,009,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Amherst County, Virginia",125.0,95.0,198.0,05000US51009,51,009,D,Renter,1939-,<=50% AMI,N/A
+"Amherst County, Virginia",60.0,61.0,199.0,05000US51009,51,009,S,Renter,1939-,50.1-80% AMI,All
+"Amherst County, Virginia",30.0,46.0,200.0,05000US51009,51,009,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Amherst County, Virginia",35.0,40.0,201.0,05000US51009,51,009,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,202.0,05000US51009,51,009,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,203.0,05000US51009,51,009,D,Renter,1939-,50.1-80% AMI,N/A
+"Amherst County, Virginia",0.0,161.0,204.0,05000US51009,51,009,S,Renter,1939-,80.1-120% AMI,All
+"Amherst County, Virginia",0.0,161.0,205.0,05000US51009,51,009,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,206.0,05000US51009,51,009,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,207.0,05000US51009,51,009,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,208.0,05000US51009,51,009,D,Renter,1939-,80.1-120% AMI,N/A
+"Amherst County, Virginia",55.0,74.0,209.0,05000US51009,51,009,S,Renter,1939-,>120% AMI,All
+"Amherst County, Virginia",55.0,74.0,210.0,05000US51009,51,009,D,Renter,1939-,>120% AMI,No cost burden
+"Amherst County, Virginia",0.0,161.0,211.0,05000US51009,51,009,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,212.0,05000US51009,51,009,D,Renter,1939-,>120% AMI,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,213.0,05000US51009,51,009,D,Renter,1939-,>120% AMI,N/A

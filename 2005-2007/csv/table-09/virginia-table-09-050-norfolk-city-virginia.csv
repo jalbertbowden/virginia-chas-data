@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All
+"Norfolk city, Virginia",26795.0,806.0,3.0,05000US51710,51,710,S,Owner,White,All
+"Norfolk city, Virginia",18590.0,710.0,4.0,05000US51710,51,710,D,Owner,White,No cost burden
+"Norfolk city, Virginia",5585.0,610.0,5.0,05000US51710,51,710,D,Owner,White,Moderate cost burden
+"Norfolk city, Virginia",2500.0,386.0,6.0,05000US51710,51,710,D,Owner,White,Severe cost burden
+"Norfolk city, Virginia",125.0,96.0,7.0,05000US51710,51,710,D,Owner,White,N/A
+"Norfolk city, Virginia",10635.0,780.0,8.0,05000US51710,51,710,S,Owner,Black,All
+"Norfolk city, Virginia",6160.0,570.0,9.0,05000US51710,51,710,D,Owner,Black,No cost burden
+"Norfolk city, Virginia",2525.0,501.0,10.0,05000US51710,51,710,D,Owner,Black,Moderate cost burden
+"Norfolk city, Virginia",1855.0,330.0,11.0,05000US51710,51,710,D,Owner,Black,Severe cost burden
+"Norfolk city, Virginia",95.0,103.0,12.0,05000US51710,51,710,D,Owner,Black,N/A
+"Norfolk city, Virginia",1185.0,186.0,13.0,05000US51710,51,710,S,Owner,Asian,All
+"Norfolk city, Virginia",785.0,190.0,14.0,05000US51710,51,710,D,Owner,Asian,No cost burden
+"Norfolk city, Virginia",170.0,105.0,15.0,05000US51710,51,710,D,Owner,Asian,Moderate cost burden
+"Norfolk city, Virginia",230.0,95.0,16.0,05000US51710,51,710,D,Owner,Asian,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,17.0,05000US51710,51,710,D,Owner,Asian,N/A
+"Norfolk city, Virginia",130.0,88.0,18.0,05000US51710,51,710,S,Owner,American Indian,All
+"Norfolk city, Virginia",115.0,85.0,19.0,05000US51710,51,710,D,Owner,American Indian,No cost burden
+"Norfolk city, Virginia",15.0,37.0,20.0,05000US51710,51,710,D,Owner,American Indian,Moderate cost burden
+"Norfolk city, Virginia",0.0,161.0,21.0,05000US51710,51,710,D,Owner,American Indian,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,22.0,05000US51710,51,710,D,Owner,American Indian,N/A
+"Norfolk city, Virginia",10.0,24.0,23.0,05000US51710,51,710,S,Owner,Pacific Islander,All
+"Norfolk city, Virginia",10.0,24.0,24.0,05000US51710,51,710,D,Owner,Pacific Islander,No cost burden
+"Norfolk city, Virginia",0.0,161.0,25.0,05000US51710,51,710,D,Owner,Pacific Islander,Moderate cost burden
+"Norfolk city, Virginia",0.0,161.0,26.0,05000US51710,51,710,D,Owner,Pacific Islander,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,27.0,05000US51710,51,710,D,Owner,Pacific Islander,N/A
+"Norfolk city, Virginia",680.0,170.0,28.0,05000US51710,51,710,S,Owner,Hispanic,All
+"Norfolk city, Virginia",320.0,119.0,29.0,05000US51710,51,710,D,Owner,Hispanic,No cost burden
+"Norfolk city, Virginia",255.0,98.0,30.0,05000US51710,51,710,D,Owner,Hispanic,Moderate cost burden
+"Norfolk city, Virginia",105.0,109.0,31.0,05000US51710,51,710,D,Owner,Hispanic,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,32.0,05000US51710,51,710,D,Owner,Hispanic,N/A
+"Norfolk city, Virginia",565.0,173.0,33.0,05000US51710,51,710,S,Owner,Other,All
+"Norfolk city, Virginia",320.0,127.0,34.0,05000US51710,51,710,D,Owner,Other,No cost burden
+"Norfolk city, Virginia",110.0,105.0,35.0,05000US51710,51,710,D,Owner,Other,Moderate cost burden
+"Norfolk city, Virginia",135.0,84.0,36.0,05000US51710,51,710,D,Owner,Other,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,37.0,05000US51710,51,710,D,Owner,Other,N/A
+"Norfolk city, Virginia",45125.0,1197.0,38.0,05000US51710,51,710,S,Renter,All,All
+"Norfolk city, Virginia",17110.0,856.0,39.0,05000US51710,51,710,S,Renter,White,All
+"Norfolk city, Virginia",9135.0,835.0,40.0,05000US51710,51,710,D,Renter,White,No cost burden
+"Norfolk city, Virginia",3990.0,617.0,41.0,05000US51710,51,710,D,Renter,White,Moderate cost burden
+"Norfolk city, Virginia",2945.0,410.0,42.0,05000US51710,51,710,D,Renter,White,Severe cost burden
+"Norfolk city, Virginia",1045.0,345.0,43.0,05000US51710,51,710,D,Renter,White,N/A
+"Norfolk city, Virginia",24665.0,865.0,44.0,05000US51710,51,710,S,Renter,Black,All
+"Norfolk city, Virginia",11470.0,778.0,45.0,05000US51710,51,710,D,Renter,Black,No cost burden
+"Norfolk city, Virginia",6455.0,769.0,46.0,05000US51710,51,710,D,Renter,Black,Moderate cost burden
+"Norfolk city, Virginia",5675.0,711.0,47.0,05000US51710,51,710,D,Renter,Black,Severe cost burden
+"Norfolk city, Virginia",1065.0,299.0,48.0,05000US51710,51,710,D,Renter,Black,N/A
+"Norfolk city, Virginia",685.0,190.0,49.0,05000US51710,51,710,S,Renter,Asian,All
+"Norfolk city, Virginia",425.0,145.0,50.0,05000US51710,51,710,D,Renter,Asian,No cost burden
+"Norfolk city, Virginia",165.0,116.0,51.0,05000US51710,51,710,D,Renter,Asian,Moderate cost burden
+"Norfolk city, Virginia",35.0,44.0,52.0,05000US51710,51,710,D,Renter,Asian,Severe cost burden
+"Norfolk city, Virginia",55.0,57.0,53.0,05000US51710,51,710,D,Renter,Asian,N/A
+"Norfolk city, Virginia",65.0,59.0,54.0,05000US51710,51,710,S,Renter,American Indian,All
+"Norfolk city, Virginia",15.0,26.0,55.0,05000US51710,51,710,D,Renter,American Indian,No cost burden
+"Norfolk city, Virginia",25.0,45.0,56.0,05000US51710,51,710,D,Renter,American Indian,Moderate cost burden
+"Norfolk city, Virginia",20.0,29.0,57.0,05000US51710,51,710,D,Renter,American Indian,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,58.0,05000US51710,51,710,D,Renter,American Indian,N/A
+"Norfolk city, Virginia",40.0,39.0,59.0,05000US51710,51,710,S,Renter,Pacific Islander,All
+"Norfolk city, Virginia",40.0,39.0,60.0,05000US51710,51,710,D,Renter,Pacific Islander,No cost burden
+"Norfolk city, Virginia",0.0,161.0,61.0,05000US51710,51,710,D,Renter,Pacific Islander,Moderate cost burden
+"Norfolk city, Virginia",0.0,161.0,62.0,05000US51710,51,710,D,Renter,Pacific Islander,Severe cost burden
+"Norfolk city, Virginia",0.0,161.0,63.0,05000US51710,51,710,D,Renter,Pacific Islander,N/A
+"Norfolk city, Virginia",1655.0,389.0,64.0,05000US51710,51,710,S,Renter,Hispanic,All
+"Norfolk city, Virginia",855.0,268.0,65.0,05000US51710,51,710,D,Renter,Hispanic,No cost burden
+"Norfolk city, Virginia",365.0,161.0,66.0,05000US51710,51,710,D,Renter,Hispanic,Moderate cost burden
+"Norfolk city, Virginia",365.0,212.0,67.0,05000US51710,51,710,D,Renter,Hispanic,Severe cost burden
+"Norfolk city, Virginia",70.0,62.0,68.0,05000US51710,51,710,D,Renter,Hispanic,N/A
+"Norfolk city, Virginia",900.0,324.0,69.0,05000US51710,51,710,S,Renter,Other,All
+"Norfolk city, Virginia",420.0,237.0,70.0,05000US51710,51,710,D,Renter,Other,No cost burden
+"Norfolk city, Virginia",200.0,110.0,71.0,05000US51710,51,710,D,Renter,Other,Moderate cost burden
+"Norfolk city, Virginia",255.0,123.0,72.0,05000US51710,51,710,D,Renter,Other,Severe cost burden
+"Norfolk city, Virginia",25.0,30.0,73.0,05000US51710,51,710,D,Renter,Other,N/A

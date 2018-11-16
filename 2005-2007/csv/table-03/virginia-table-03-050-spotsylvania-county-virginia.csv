@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Spotsylvania County, Virginia",40855.0,580.0,1.0,05000US51177,51,177,T,All,All,All
+"Spotsylvania County, Virginia",33355.0,828.0,2.0,05000US51177,51,177,S,Owner,All,All
+"Spotsylvania County, Virginia",190.0,105.0,3.0,05000US51177,51,177,S,Owner,Substandard,All
+"Spotsylvania County, Virginia",75.0,69.0,4.0,05000US51177,51,177,D,Owner,Substandard,<=30% AMI
+"Spotsylvania County, Virginia",20.0,38.0,5.0,05000US51177,51,177,D,Owner,Substandard,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,6.0,05000US51177,51,177,D,Owner,Substandard,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,7.0,05000US51177,51,177,D,Owner,Substandard,60.1-80% AMI
+"Spotsylvania County, Virginia",25.0,41.0,8.0,05000US51177,51,177,D,Owner,Substandard,80.1-95% AMI
+"Spotsylvania County, Virginia",75.0,62.0,9.0,05000US51177,51,177,D,Owner,Substandard,>95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,10.0,05000US51177,51,177,S,Owner,Severely overcrowded,All
+"Spotsylvania County, Virginia",0.0,161.0,11.0,05000US51177,51,177,D,Owner,Severely overcrowded,<=30% AMI
+"Spotsylvania County, Virginia",0.0,161.0,12.0,05000US51177,51,177,D,Owner,Severely overcrowded,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,13.0,05000US51177,51,177,D,Owner,Severely overcrowded,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,14.0,05000US51177,51,177,D,Owner,Severely overcrowded,60.1-80% AMI
+"Spotsylvania County, Virginia",0.0,161.0,15.0,05000US51177,51,177,D,Owner,Severely overcrowded,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,16.0,05000US51177,51,177,D,Owner,Severely overcrowded,>95% AMI
+"Spotsylvania County, Virginia",165.0,110.0,17.0,05000US51177,51,177,S,Owner,Overcrowded,All
+"Spotsylvania County, Virginia",0.0,161.0,18.0,05000US51177,51,177,D,Owner,Overcrowded,<=30% AMI
+"Spotsylvania County, Virginia",35.0,47.0,19.0,05000US51177,51,177,D,Owner,Overcrowded,30.1-50% AMI
+"Spotsylvania County, Virginia",65.0,62.0,20.0,05000US51177,51,177,D,Owner,Overcrowded,50.1-60% AMI
+"Spotsylvania County, Virginia",25.0,42.0,21.0,05000US51177,51,177,D,Owner,Overcrowded,60.1-80% AMI
+"Spotsylvania County, Virginia",15.0,27.0,22.0,05000US51177,51,177,D,Owner,Overcrowded,80.1-95% AMI
+"Spotsylvania County, Virginia",25.0,42.0,23.0,05000US51177,51,177,D,Owner,Overcrowded,>95% AMI
+"Spotsylvania County, Virginia",3535.0,675.0,24.0,05000US51177,51,177,S,Owner,Severely cost burdened,All
+"Spotsylvania County, Virginia",1345.0,429.0,25.0,05000US51177,51,177,D,Owner,Severely cost burdened,<=30% AMI
+"Spotsylvania County, Virginia",1095.0,323.0,26.0,05000US51177,51,177,D,Owner,Severely cost burdened,30.1-50% AMI
+"Spotsylvania County, Virginia",610.0,255.0,27.0,05000US51177,51,177,D,Owner,Severely cost burdened,50.1-60% AMI
+"Spotsylvania County, Virginia",315.0,180.0,28.0,05000US51177,51,177,D,Owner,Severely cost burdened,60.1-80% AMI
+"Spotsylvania County, Virginia",80.0,71.0,29.0,05000US51177,51,177,D,Owner,Severely cost burdened,80.1-95% AMI
+"Spotsylvania County, Virginia",85.0,74.0,30.0,05000US51177,51,177,D,Owner,Severely cost burdened,>95% AMI
+"Spotsylvania County, Virginia",6520.0,619.0,31.0,05000US51177,51,177,S,Owner,Cost burdened,All
+"Spotsylvania County, Virginia",260.0,136.0,32.0,05000US51177,51,177,D,Owner,Cost burdened,<=30% AMI
+"Spotsylvania County, Virginia",980.0,233.0,33.0,05000US51177,51,177,D,Owner,Cost burdened,30.1-50% AMI
+"Spotsylvania County, Virginia",945.0,273.0,34.0,05000US51177,51,177,D,Owner,Cost burdened,50.1-60% AMI
+"Spotsylvania County, Virginia",1515.0,336.0,35.0,05000US51177,51,177,D,Owner,Cost burdened,60.1-80% AMI
+"Spotsylvania County, Virginia",1175.0,316.0,36.0,05000US51177,51,177,D,Owner,Cost burdened,80.1-95% AMI
+"Spotsylvania County, Virginia",1645.0,286.0,37.0,05000US51177,51,177,D,Owner,Cost burdened,>95% AMI
+"Spotsylvania County, Virginia",170.0,109.0,38.0,05000US51177,51,177,S,Owner,No income or no cash rent,All
+"Spotsylvania County, Virginia",170.0,109.0,39.0,05000US51177,51,177,D,Owner,No income or no cash rent,<=30% AMI
+"Spotsylvania County, Virginia",0.0,161.0,40.0,05000US51177,51,177,D,Owner,No income or no cash rent,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,41.0,05000US51177,51,177,D,Owner,No income or no cash rent,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,42.0,05000US51177,51,177,D,Owner,No income or no cash rent,60.1-80% AMI
+"Spotsylvania County, Virginia",0.0,161.0,43.0,05000US51177,51,177,D,Owner,No income or no cash rent,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,44.0,05000US51177,51,177,D,Owner,No income or no cash rent,>95% AMI
+"Spotsylvania County, Virginia",22775.0,941.0,45.0,05000US51177,51,177,S,Owner,No housing problems,All
+"Spotsylvania County, Virginia",600.0,215.0,46.0,05000US51177,51,177,D,Owner,No housing problems,<=30% AMI
+"Spotsylvania County, Virginia",1595.0,395.0,47.0,05000US51177,51,177,D,Owner,No housing problems,30.1-50% AMI
+"Spotsylvania County, Virginia",835.0,260.0,48.0,05000US51177,51,177,D,Owner,No housing problems,50.1-60% AMI
+"Spotsylvania County, Virginia",3010.0,475.0,49.0,05000US51177,51,177,D,Owner,No housing problems,60.1-80% AMI
+"Spotsylvania County, Virginia",2105.0,440.0,50.0,05000US51177,51,177,D,Owner,No housing problems,80.1-95% AMI
+"Spotsylvania County, Virginia",14630.0,918.0,51.0,05000US51177,51,177,D,Owner,No housing problems,>95% AMI
+"Spotsylvania County, Virginia",7505.0,678.0,52.0,05000US51177,51,177,S,Renter,All,All
+"Spotsylvania County, Virginia",170.0,128.0,53.0,05000US51177,51,177,S,Renter,Substandard,All
+"Spotsylvania County, Virginia",115.0,112.0,54.0,05000US51177,51,177,D,Renter,Substandard,<=30% AMI
+"Spotsylvania County, Virginia",30.0,53.0,55.0,05000US51177,51,177,D,Renter,Substandard,30.1-50% AMI
+"Spotsylvania County, Virginia",20.0,40.0,56.0,05000US51177,51,177,D,Renter,Substandard,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,57.0,05000US51177,51,177,D,Renter,Substandard,60.1-80% AMI
+"Spotsylvania County, Virginia",0.0,161.0,58.0,05000US51177,51,177,D,Renter,Substandard,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,59.0,05000US51177,51,177,D,Renter,Substandard,>95% AMI
+"Spotsylvania County, Virginia",25.0,41.0,60.0,05000US51177,51,177,S,Renter,Severely overcrowded,All
+"Spotsylvania County, Virginia",25.0,41.0,61.0,05000US51177,51,177,D,Renter,Severely overcrowded,<=30% AMI
+"Spotsylvania County, Virginia",0.0,161.0,62.0,05000US51177,51,177,D,Renter,Severely overcrowded,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,63.0,05000US51177,51,177,D,Renter,Severely overcrowded,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,64.0,05000US51177,51,177,D,Renter,Severely overcrowded,60.1-80% AMI
+"Spotsylvania County, Virginia",0.0,161.0,65.0,05000US51177,51,177,D,Renter,Severely overcrowded,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,66.0,05000US51177,51,177,D,Renter,Severely overcrowded,>95% AMI
+"Spotsylvania County, Virginia",35.0,43.0,67.0,05000US51177,51,177,S,Renter,Overcrowded,All
+"Spotsylvania County, Virginia",0.0,161.0,68.0,05000US51177,51,177,D,Renter,Overcrowded,<=30% AMI
+"Spotsylvania County, Virginia",0.0,161.0,69.0,05000US51177,51,177,D,Renter,Overcrowded,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,70.0,05000US51177,51,177,D,Renter,Overcrowded,50.1-60% AMI
+"Spotsylvania County, Virginia",10.0,22.0,71.0,05000US51177,51,177,D,Renter,Overcrowded,60.1-80% AMI
+"Spotsylvania County, Virginia",25.0,40.0,72.0,05000US51177,51,177,D,Renter,Overcrowded,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,73.0,05000US51177,51,177,D,Renter,Overcrowded,>95% AMI
+"Spotsylvania County, Virginia",1540.0,431.0,74.0,05000US51177,51,177,S,Renter,Severely cost burdened,All
+"Spotsylvania County, Virginia",1350.0,402.0,75.0,05000US51177,51,177,D,Renter,Severely cost burdened,<=30% AMI
+"Spotsylvania County, Virginia",190.0,181.0,76.0,05000US51177,51,177,D,Renter,Severely cost burdened,30.1-50% AMI
+"Spotsylvania County, Virginia",0.0,161.0,77.0,05000US51177,51,177,D,Renter,Severely cost burdened,50.1-60% AMI
+"Spotsylvania County, Virginia",0.0,161.0,78.0,05000US51177,51,177,D,Renter,Severely cost burdened,60.1-80% AMI
+"Spotsylvania County, Virginia",0.0,161.0,79.0,05000US51177,51,177,D,Renter,Severely cost burdened,80.1-95% AMI
+"Spotsylvania County, Virginia",0.0,161.0,80.0,05000US51177,51,177,D,Renter,Severely cost burdened,>95% AMI
+"Spotsylvania County, Virginia",1545.0,439.0,81.0,05000US51177,51,177,S,Renter,Cost burdened,All
+"Spotsylvania County, Virginia",190.0,169.0,82.0,05000US51177,51,177,D,Renter,Cost burdened,<=30% AMI
+"Spotsylvania County, Virginia",755.0,292.0,83.0,05000US51177,51,177,D,Renter,Cost burdened,30.1-50% AMI
+"Spotsylvania County, Virginia",260.0,154.0,84.0,05000US51177,51,177,D,Renter,Cost burdened,50.1-60% AMI
+"Spotsylvania County, Virginia",225.0,175.0,85.0,05000US51177,51,177,D,Renter,Cost burdened,60.1-80% AMI
+"Spotsylvania County, Virginia",65.0,108.0,86.0,05000US51177,51,177,D,Renter,Cost burdened,80.1-95% AMI
+"Spotsylvania County, Virginia",45.0,55.0,87.0,05000US51177,51,177,D,Renter,Cost burdened,>95% AMI
+"Spotsylvania County, Virginia",400.0,150.0,88.0,05000US51177,51,177,S,Renter,No income or no cash rent,All
+"Spotsylvania County, Virginia",225.0,124.0,89.0,05000US51177,51,177,D,Renter,No income or no cash rent,<=30% AMI
+"Spotsylvania County, Virginia",75.0,74.0,90.0,05000US51177,51,177,D,Renter,No income or no cash rent,30.1-50% AMI
+"Spotsylvania County, Virginia",20.0,31.0,91.0,05000US51177,51,177,D,Renter,No income or no cash rent,50.1-60% AMI
+"Spotsylvania County, Virginia",50.0,59.0,92.0,05000US51177,51,177,D,Renter,No income or no cash rent,60.1-80% AMI
+"Spotsylvania County, Virginia",15.0,31.0,93.0,05000US51177,51,177,D,Renter,No income or no cash rent,80.1-95% AMI
+"Spotsylvania County, Virginia",20.0,37.0,94.0,05000US51177,51,177,D,Renter,No income or no cash rent,>95% AMI
+"Spotsylvania County, Virginia",3785.0,562.0,95.0,05000US51177,51,177,S,Renter,No housing problems,All
+"Spotsylvania County, Virginia",145.0,120.0,96.0,05000US51177,51,177,D,Renter,No housing problems,<=30% AMI
+"Spotsylvania County, Virginia",250.0,198.0,97.0,05000US51177,51,177,D,Renter,No housing problems,30.1-50% AMI
+"Spotsylvania County, Virginia",160.0,136.0,98.0,05000US51177,51,177,D,Renter,No housing problems,50.1-60% AMI
+"Spotsylvania County, Virginia",1390.0,392.0,99.0,05000US51177,51,177,D,Renter,No housing problems,60.1-80% AMI
+"Spotsylvania County, Virginia",400.0,190.0,100.0,05000US51177,51,177,D,Renter,No housing problems,80.1-95% AMI
+"Spotsylvania County, Virginia",1440.0,465.0,101.0,05000US51177,51,177,D,Renter,No housing problems,>95% AMI

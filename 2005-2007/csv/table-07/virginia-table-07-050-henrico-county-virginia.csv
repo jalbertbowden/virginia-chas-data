@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Henrico County, Virginia",116620.0,1288.0,1.0,05000US51087,51,087,T,All,All,All
+"Henrico County, Virginia",78365.0,1269.0,2.0,05000US51087,51,087,S,Owner,All,All
+"Henrico County, Virginia",10475.0,596.0,3.0,05000US51087,51,087,S,Owner,"Small family, elderly",All
+"Henrico County, Virginia",8335.0,551.0,4.0,05000US51087,51,087,D,Owner,"Small family, elderly",No cost burden
+"Henrico County, Virginia",1465.0,334.0,5.0,05000US51087,51,087,D,Owner,"Small family, elderly",Moderate cost burden
+"Henrico County, Virginia",635.0,212.0,6.0,05000US51087,51,087,D,Owner,"Small family, elderly",Severe cost burden
+"Henrico County, Virginia",45.0,49.0,7.0,05000US51087,51,087,D,Owner,"Small family, elderly",N/A
+"Henrico County, Virginia",40010.0,1269.0,8.0,05000US51087,51,087,S,Owner,"Small family, non-elderly",All
+"Henrico County, Virginia",31445.0,1300.0,9.0,05000US51087,51,087,D,Owner,"Small family, non-elderly",No cost burden
+"Henrico County, Virginia",6245.0,732.0,10.0,05000US51087,51,087,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Henrico County, Virginia",2280.0,390.0,11.0,05000US51087,51,087,D,Owner,"Small family, non-elderly",Severe cost burden
+"Henrico County, Virginia",40.0,47.0,12.0,05000US51087,51,087,D,Owner,"Small family, non-elderly",N/A
+"Henrico County, Virginia",5080.0,534.0,13.0,05000US51087,51,087,S,Owner,Large family,All
+"Henrico County, Virginia",3745.0,404.0,14.0,05000US51087,51,087,D,Owner,Large family,No cost burden
+"Henrico County, Virginia",1130.0,331.0,15.0,05000US51087,51,087,D,Owner,Large family,Moderate cost burden
+"Henrico County, Virginia",200.0,106.0,16.0,05000US51087,51,087,D,Owner,Large family,Severe cost burden
+"Henrico County, Virginia",4.0,13.0,17.0,05000US51087,51,087,D,Owner,Large family,N/A
+"Henrico County, Virginia",7660.0,630.0,18.0,05000US51087,51,087,S,Owner,"Non-family, elderly",All
+"Henrico County, Virginia",5045.0,574.0,19.0,05000US51087,51,087,D,Owner,"Non-family, elderly",No cost burden
+"Henrico County, Virginia",1665.0,334.0,20.0,05000US51087,51,087,D,Owner,"Non-family, elderly",Moderate cost burden
+"Henrico County, Virginia",885.0,218.0,21.0,05000US51087,51,087,D,Owner,"Non-family, elderly",Severe cost burden
+"Henrico County, Virginia",65.0,79.0,22.0,05000US51087,51,087,D,Owner,"Non-family, elderly",N/A
+"Henrico County, Virginia",15135.0,916.0,23.0,05000US51087,51,087,S,Owner,"Non-family, non-elderly",All
+"Henrico County, Virginia",9445.0,745.0,24.0,05000US51087,51,087,D,Owner,"Non-family, non-elderly",No cost burden
+"Henrico County, Virginia",3785.0,527.0,25.0,05000US51087,51,087,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Henrico County, Virginia",1795.0,475.0,26.0,05000US51087,51,087,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Henrico County, Virginia",110.0,108.0,27.0,05000US51087,51,087,D,Owner,"Non-family, non-elderly",N/A
+"Henrico County, Virginia",38255.0,1520.0,28.0,05000US51087,51,087,S,Renter,All,All
+"Henrico County, Virginia",1275.0,278.0,29.0,05000US51087,51,087,S,Renter,"Small family, elderly",All
+"Henrico County, Virginia",695.0,212.0,30.0,05000US51087,51,087,D,Renter,"Small family, elderly",No cost burden
+"Henrico County, Virginia",300.0,153.0,31.0,05000US51087,51,087,D,Renter,"Small family, elderly",Moderate cost burden
+"Henrico County, Virginia",180.0,137.0,32.0,05000US51087,51,087,D,Renter,"Small family, elderly",Severe cost burden
+"Henrico County, Virginia",100.0,62.0,33.0,05000US51087,51,087,D,Renter,"Small family, elderly",N/A
+"Henrico County, Virginia",16405.0,1158.0,34.0,05000US51087,51,087,S,Renter,"Small family, non-elderly",All
+"Henrico County, Virginia",9440.0,969.0,35.0,05000US51087,51,087,D,Renter,"Small family, non-elderly",No cost burden
+"Henrico County, Virginia",3955.0,737.0,36.0,05000US51087,51,087,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Henrico County, Virginia",2505.0,521.0,37.0,05000US51087,51,087,D,Renter,"Small family, non-elderly",Severe cost burden
+"Henrico County, Virginia",505.0,231.0,38.0,05000US51087,51,087,D,Renter,"Small family, non-elderly",N/A
+"Henrico County, Virginia",1485.0,357.0,39.0,05000US51087,51,087,S,Renter,Large family,All
+"Henrico County, Virginia",655.0,257.0,40.0,05000US51087,51,087,D,Renter,Large family,No cost burden
+"Henrico County, Virginia",420.0,199.0,41.0,05000US51087,51,087,D,Renter,Large family,Moderate cost burden
+"Henrico County, Virginia",235.0,150.0,42.0,05000US51087,51,087,D,Renter,Large family,Severe cost burden
+"Henrico County, Virginia",170.0,144.0,43.0,05000US51087,51,087,D,Renter,Large family,N/A
+"Henrico County, Virginia",3875.0,381.0,44.0,05000US51087,51,087,S,Renter,"Non-family, elderly",All
+"Henrico County, Virginia",1375.0,297.0,45.0,05000US51087,51,087,D,Renter,"Non-family, elderly",No cost burden
+"Henrico County, Virginia",965.0,193.0,46.0,05000US51087,51,087,D,Renter,"Non-family, elderly",Moderate cost burden
+"Henrico County, Virginia",1255.0,298.0,47.0,05000US51087,51,087,D,Renter,"Non-family, elderly",Severe cost burden
+"Henrico County, Virginia",280.0,114.0,48.0,05000US51087,51,087,D,Renter,"Non-family, elderly",N/A
+"Henrico County, Virginia",15215.0,1220.0,49.0,05000US51087,51,087,S,Renter,"Non-family, non-elderly",All
+"Henrico County, Virginia",8780.0,804.0,50.0,05000US51087,51,087,D,Renter,"Non-family, non-elderly",No cost burden
+"Henrico County, Virginia",3190.0,630.0,51.0,05000US51087,51,087,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Henrico County, Virginia",2585.0,574.0,52.0,05000US51087,51,087,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Henrico County, Virginia",660.0,260.0,53.0,05000US51087,51,087,D,Renter,"Non-family, non-elderly",N/A

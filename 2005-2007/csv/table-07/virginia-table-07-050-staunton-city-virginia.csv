@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Staunton city, Virginia",9710.0,381.0,1.0,05000US51790,51,790,T,All,All,All
+"Staunton city, Virginia",5780.0,380.0,2.0,05000US51790,51,790,S,Owner,All,All
+"Staunton city, Virginia",1200.0,200.0,3.0,05000US51790,51,790,S,Owner,"Small family, elderly",All
+"Staunton city, Virginia",1125.0,212.0,4.0,05000US51790,51,790,D,Owner,"Small family, elderly",No cost burden
+"Staunton city, Virginia",60.0,64.0,5.0,05000US51790,51,790,D,Owner,"Small family, elderly",Moderate cost burden
+"Staunton city, Virginia",15.0,25.0,6.0,05000US51790,51,790,D,Owner,"Small family, elderly",Severe cost burden
+"Staunton city, Virginia",0.0,161.0,7.0,05000US51790,51,790,D,Owner,"Small family, elderly",N/A
+"Staunton city, Virginia",2635.0,334.0,8.0,05000US51790,51,790,S,Owner,"Small family, non-elderly",All
+"Staunton city, Virginia",2235.0,330.0,9.0,05000US51790,51,790,D,Owner,"Small family, non-elderly",No cost burden
+"Staunton city, Virginia",150.0,92.0,10.0,05000US51790,51,790,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Staunton city, Virginia",210.0,141.0,11.0,05000US51790,51,790,D,Owner,"Small family, non-elderly",Severe cost burden
+"Staunton city, Virginia",40.0,51.0,12.0,05000US51790,51,790,D,Owner,"Small family, non-elderly",N/A
+"Staunton city, Virginia",70.0,72.0,13.0,05000US51790,51,790,S,Owner,Large family,All
+"Staunton city, Virginia",45.0,56.0,14.0,05000US51790,51,790,D,Owner,Large family,No cost burden
+"Staunton city, Virginia",15.0,24.0,15.0,05000US51790,51,790,D,Owner,Large family,Moderate cost burden
+"Staunton city, Virginia",10.0,24.0,16.0,05000US51790,51,790,D,Owner,Large family,Severe cost burden
+"Staunton city, Virginia",0.0,161.0,17.0,05000US51790,51,790,D,Owner,Large family,N/A
+"Staunton city, Virginia",865.0,206.0,18.0,05000US51790,51,790,S,Owner,"Non-family, elderly",All
+"Staunton city, Virginia",605.0,187.0,19.0,05000US51790,51,790,D,Owner,"Non-family, elderly",No cost burden
+"Staunton city, Virginia",120.0,74.0,20.0,05000US51790,51,790,D,Owner,"Non-family, elderly",Moderate cost burden
+"Staunton city, Virginia",140.0,85.0,21.0,05000US51790,51,790,D,Owner,"Non-family, elderly",Severe cost burden
+"Staunton city, Virginia",0.0,161.0,22.0,05000US51790,51,790,D,Owner,"Non-family, elderly",N/A
+"Staunton city, Virginia",1015.0,260.0,23.0,05000US51790,51,790,S,Owner,"Non-family, non-elderly",All
+"Staunton city, Virginia",615.0,196.0,24.0,05000US51790,51,790,D,Owner,"Non-family, non-elderly",No cost burden
+"Staunton city, Virginia",255.0,147.0,25.0,05000US51790,51,790,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Staunton city, Virginia",140.0,129.0,26.0,05000US51790,51,790,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Staunton city, Virginia",0.0,161.0,27.0,05000US51790,51,790,D,Owner,"Non-family, non-elderly",N/A
+"Staunton city, Virginia",3930.0,422.0,28.0,05000US51790,51,790,S,Renter,All,All
+"Staunton city, Virginia",110.0,66.0,29.0,05000US51790,51,790,S,Renter,"Small family, elderly",All
+"Staunton city, Virginia",85.0,76.0,30.0,05000US51790,51,790,D,Renter,"Small family, elderly",No cost burden
+"Staunton city, Virginia",0.0,161.0,31.0,05000US51790,51,790,D,Renter,"Small family, elderly",Moderate cost burden
+"Staunton city, Virginia",25.0,34.0,32.0,05000US51790,51,790,D,Renter,"Small family, elderly",Severe cost burden
+"Staunton city, Virginia",0.0,161.0,33.0,05000US51790,51,790,D,Renter,"Small family, elderly",N/A
+"Staunton city, Virginia",1540.0,375.0,34.0,05000US51790,51,790,S,Renter,"Small family, non-elderly",All
+"Staunton city, Virginia",955.0,290.0,35.0,05000US51790,51,790,D,Renter,"Small family, non-elderly",No cost burden
+"Staunton city, Virginia",365.0,194.0,36.0,05000US51790,51,790,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Staunton city, Virginia",175.0,133.0,37.0,05000US51790,51,790,D,Renter,"Small family, non-elderly",Severe cost burden
+"Staunton city, Virginia",50.0,56.0,38.0,05000US51790,51,790,D,Renter,"Small family, non-elderly",N/A
+"Staunton city, Virginia",35.0,38.0,39.0,05000US51790,51,790,S,Renter,Large family,All
+"Staunton city, Virginia",20.0,27.0,40.0,05000US51790,51,790,D,Renter,Large family,No cost burden
+"Staunton city, Virginia",15.0,31.0,41.0,05000US51790,51,790,D,Renter,Large family,Moderate cost burden
+"Staunton city, Virginia",0.0,161.0,42.0,05000US51790,51,790,D,Renter,Large family,Severe cost burden
+"Staunton city, Virginia",0.0,161.0,43.0,05000US51790,51,790,D,Renter,Large family,N/A
+"Staunton city, Virginia",555.0,172.0,44.0,05000US51790,51,790,S,Renter,"Non-family, elderly",All
+"Staunton city, Virginia",290.0,144.0,45.0,05000US51790,51,790,D,Renter,"Non-family, elderly",No cost burden
+"Staunton city, Virginia",115.0,75.0,46.0,05000US51790,51,790,D,Renter,"Non-family, elderly",Moderate cost burden
+"Staunton city, Virginia",120.0,93.0,47.0,05000US51790,51,790,D,Renter,"Non-family, elderly",Severe cost burden
+"Staunton city, Virginia",30.0,37.0,48.0,05000US51790,51,790,D,Renter,"Non-family, elderly",N/A
+"Staunton city, Virginia",1685.0,311.0,49.0,05000US51790,51,790,S,Renter,"Non-family, non-elderly",All
+"Staunton city, Virginia",620.0,226.0,50.0,05000US51790,51,790,D,Renter,"Non-family, non-elderly",No cost burden
+"Staunton city, Virginia",490.0,224.0,51.0,05000US51790,51,790,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Staunton city, Virginia",285.0,175.0,52.0,05000US51790,51,790,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Staunton city, Virginia",295.0,164.0,53.0,05000US51790,51,790,D,Renter,"Non-family, non-elderly",N/A

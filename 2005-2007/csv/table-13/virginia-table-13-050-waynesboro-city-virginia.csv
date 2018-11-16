@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Waynesboro city, Virginia",8595.0,339.0,1.0,05000US51820,51,820,T,All,All,All
+"Waynesboro city, Virginia",5290.0,444.0,2.0,05000US51820,51,820,S,Owner,All,All
+"Waynesboro city, Virginia",405.0,141.0,3.0,05000US51820,51,820,S,Owner,2000+,All
+"Waynesboro city, Virginia",20.0,37.0,4.0,05000US51820,51,820,D,Owner,2000+,Yes
+"Waynesboro city, Virginia",385.0,147.0,5.0,05000US51820,51,820,D,Owner,2000+,No
+"Waynesboro city, Virginia",1215.0,334.0,6.0,05000US51820,51,820,S,Owner,1980 to 1999,All
+"Waynesboro city, Virginia",110.0,108.0,7.0,05000US51820,51,820,D,Owner,1980 to 1999,Yes
+"Waynesboro city, Virginia",1105.0,325.0,8.0,05000US51820,51,820,D,Owner,1980 to 1999,No
+"Waynesboro city, Virginia",1530.0,324.0,9.0,05000US51820,51,820,S,Owner,1960 to 1979,All
+"Waynesboro city, Virginia",65.0,68.0,10.0,05000US51820,51,820,D,Owner,1960 to 1979,Yes
+"Waynesboro city, Virginia",1465.0,326.0,11.0,05000US51820,51,820,D,Owner,1960 to 1979,No
+"Waynesboro city, Virginia",1560.0,292.0,12.0,05000US51820,51,820,S,Owner,1940 to 1959,All
+"Waynesboro city, Virginia",265.0,128.0,13.0,05000US51820,51,820,D,Owner,1940 to 1959,Yes
+"Waynesboro city, Virginia",1295.0,270.0,14.0,05000US51820,51,820,D,Owner,1940 to 1959,No
+"Waynesboro city, Virginia",580.0,149.0,15.0,05000US51820,51,820,S,Owner,1939-,All
+"Waynesboro city, Virginia",20.0,34.0,16.0,05000US51820,51,820,D,Owner,1939-,Yes
+"Waynesboro city, Virginia",560.0,143.0,17.0,05000US51820,51,820,D,Owner,1939-,No
+"Waynesboro city, Virginia",3305.0,546.0,18.0,05000US51820,51,820,S,Renter,All,All
+"Waynesboro city, Virginia",25.0,37.0,19.0,05000US51820,51,820,S,Renter,2000+,All
+"Waynesboro city, Virginia",0.0,161.0,20.0,05000US51820,51,820,D,Renter,2000+,Yes
+"Waynesboro city, Virginia",25.0,37.0,21.0,05000US51820,51,820,D,Renter,2000+,No
+"Waynesboro city, Virginia",1255.0,382.0,22.0,05000US51820,51,820,S,Renter,1980 to 1999,All
+"Waynesboro city, Virginia",330.0,210.0,23.0,05000US51820,51,820,D,Renter,1980 to 1999,Yes
+"Waynesboro city, Virginia",925.0,279.0,24.0,05000US51820,51,820,D,Renter,1980 to 1999,No
+"Waynesboro city, Virginia",825.0,290.0,25.0,05000US51820,51,820,S,Renter,1960 to 1979,All
+"Waynesboro city, Virginia",155.0,117.0,26.0,05000US51820,51,820,D,Renter,1960 to 1979,Yes
+"Waynesboro city, Virginia",670.0,267.0,27.0,05000US51820,51,820,D,Renter,1960 to 1979,No
+"Waynesboro city, Virginia",730.0,279.0,28.0,05000US51820,51,820,S,Renter,1940 to 1959,All
+"Waynesboro city, Virginia",30.0,41.0,29.0,05000US51820,51,820,D,Renter,1940 to 1959,Yes
+"Waynesboro city, Virginia",695.0,286.0,30.0,05000US51820,51,820,D,Renter,1940 to 1959,No
+"Waynesboro city, Virginia",475.0,289.0,31.0,05000US51820,51,820,S,Renter,1939-,All
+"Waynesboro city, Virginia",45.0,55.0,32.0,05000US51820,51,820,D,Renter,1939-,Yes
+"Waynesboro city, Virginia",430.0,285.0,33.0,05000US51820,51,820,D,Renter,1939-,No

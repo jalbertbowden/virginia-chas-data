@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Spotsylvania County, Virginia",40855.0,580.0,1.0,05000US51177,51,177,T,All,All,All
+"Spotsylvania County, Virginia",33355.0,828.0,2.0,05000US51177,51,177,S,Owner,All,All
+"Spotsylvania County, Virginia",7865.0,759.0,3.0,05000US51177,51,177,S,Owner,2000+,All
+"Spotsylvania County, Virginia",2400.0,371.0,4.0,05000US51177,51,177,D,Owner,2000+,Yes
+"Spotsylvania County, Virginia",5465.0,691.0,5.0,05000US51177,51,177,D,Owner,2000+,No
+"Spotsylvania County, Virginia",18655.0,961.0,6.0,05000US51177,51,177,S,Owner,1980 to 1999,All
+"Spotsylvania County, Virginia",4110.0,555.0,7.0,05000US51177,51,177,D,Owner,1980 to 1999,Yes
+"Spotsylvania County, Virginia",14545.0,826.0,8.0,05000US51177,51,177,D,Owner,1980 to 1999,No
+"Spotsylvania County, Virginia",5505.0,542.0,9.0,05000US51177,51,177,S,Owner,1960 to 1979,All
+"Spotsylvania County, Virginia",755.0,275.0,10.0,05000US51177,51,177,D,Owner,1960 to 1979,Yes
+"Spotsylvania County, Virginia",4750.0,568.0,11.0,05000US51177,51,177,D,Owner,1960 to 1979,No
+"Spotsylvania County, Virginia",950.0,274.0,12.0,05000US51177,51,177,S,Owner,1940 to 1959,All
+"Spotsylvania County, Virginia",70.0,67.0,13.0,05000US51177,51,177,D,Owner,1940 to 1959,Yes
+"Spotsylvania County, Virginia",880.0,253.0,14.0,05000US51177,51,177,D,Owner,1940 to 1959,No
+"Spotsylvania County, Virginia",380.0,160.0,15.0,05000US51177,51,177,S,Owner,1939-,All
+"Spotsylvania County, Virginia",0.0,161.0,16.0,05000US51177,51,177,D,Owner,1939-,Yes
+"Spotsylvania County, Virginia",380.0,160.0,17.0,05000US51177,51,177,D,Owner,1939-,No
+"Spotsylvania County, Virginia",7505.0,678.0,18.0,05000US51177,51,177,S,Renter,All,All
+"Spotsylvania County, Virginia",1230.0,334.0,19.0,05000US51177,51,177,S,Renter,2000+,All
+"Spotsylvania County, Virginia",375.0,214.0,20.0,05000US51177,51,177,D,Renter,2000+,Yes
+"Spotsylvania County, Virginia",855.0,281.0,21.0,05000US51177,51,177,D,Renter,2000+,No
+"Spotsylvania County, Virginia",3955.0,610.0,22.0,05000US51177,51,177,S,Renter,1980 to 1999,All
+"Spotsylvania County, Virginia",1000.0,412.0,23.0,05000US51177,51,177,D,Renter,1980 to 1999,Yes
+"Spotsylvania County, Virginia",2955.0,497.0,24.0,05000US51177,51,177,D,Renter,1980 to 1999,No
+"Spotsylvania County, Virginia",1570.0,459.0,25.0,05000US51177,51,177,S,Renter,1960 to 1979,All
+"Spotsylvania County, Virginia",360.0,193.0,26.0,05000US51177,51,177,D,Renter,1960 to 1979,Yes
+"Spotsylvania County, Virginia",1210.0,403.0,27.0,05000US51177,51,177,D,Renter,1960 to 1979,No
+"Spotsylvania County, Virginia",625.0,243.0,28.0,05000US51177,51,177,S,Renter,1940 to 1959,All
+"Spotsylvania County, Virginia",165.0,136.0,29.0,05000US51177,51,177,D,Renter,1940 to 1959,Yes
+"Spotsylvania County, Virginia",460.0,218.0,30.0,05000US51177,51,177,D,Renter,1940 to 1959,No
+"Spotsylvania County, Virginia",120.0,135.0,31.0,05000US51177,51,177,S,Renter,1939-,All
+"Spotsylvania County, Virginia",25.0,41.0,32.0,05000US51177,51,177,D,Renter,1939-,Yes
+"Spotsylvania County, Virginia",95.0,130.0,33.0,05000US51177,51,177,D,Renter,1939-,No

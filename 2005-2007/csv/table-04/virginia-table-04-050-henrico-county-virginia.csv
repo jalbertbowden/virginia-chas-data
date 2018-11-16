@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Henrico County, Virginia",116620.0,1288.0,1.0,05000US51087,51,087,T,All,All,All,All
+"Henrico County, Virginia",78365.0,1269.0,2.0,05000US51087,51,087,S,Owner,All,All,All
+"Henrico County, Virginia",20345.0,1195.0,3.0,05000US51087,51,087,S,Owner,Yes,All,All
+"Henrico County, Virginia",3895.0,604.0,4.0,05000US51087,51,087,S,Owner,Yes,"Family, 1 parent",All
+"Henrico County, Virginia",3560.0,589.0,5.0,05000US51087,51,087,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",335.0,157.0,6.0,05000US51087,51,087,D,Owner,Yes,"Family, 1 parent",5 or more
+"Henrico County, Virginia",8315.0,735.0,7.0,05000US51087,51,087,S,Owner,Yes,"Family, 2 parents",All
+"Henrico County, Virginia",7070.0,679.0,8.0,05000US51087,51,087,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",1245.0,337.0,9.0,05000US51087,51,087,D,Owner,Yes,"Family, 2 parents",5 or more
+"Henrico County, Virginia",8135.0,794.0,10.0,05000US51087,51,087,S,Owner,Yes,Non-family,All
+"Henrico County, Virginia",8135.0,794.0,11.0,05000US51087,51,087,D,Owner,Yes,Non-family,4 or fewer
+"Henrico County, Virginia",0.0,161.0,12.0,05000US51087,51,087,D,Owner,Yes,Non-family,5 or more
+"Henrico County, Virginia",57765.0,1482.0,13.0,05000US51087,51,087,S,Owner,No,All,All
+"Henrico County, Virginia",6015.0,677.0,14.0,05000US51087,51,087,S,Owner,No,"Family, 1 parent",All
+"Henrico County, Virginia",5750.0,673.0,15.0,05000US51087,51,087,D,Owner,No,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",265.0,144.0,16.0,05000US51087,51,087,D,Owner,No,"Family, 1 parent",5 or more
+"Henrico County, Virginia",37260.0,1223.0,17.0,05000US51087,51,087,S,Owner,No,"Family, 2 parents",All
+"Henrico County, Virginia",33715.0,1171.0,18.0,05000US51087,51,087,D,Owner,No,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",3545.0,411.0,19.0,05000US51087,51,087,D,Owner,No,"Family, 2 parents",5 or more
+"Henrico County, Virginia",14490.0,924.0,20.0,05000US51087,51,087,S,Owner,No,Non-family,All
+"Henrico County, Virginia",14450.0,927.0,21.0,05000US51087,51,087,D,Owner,No,Non-family,4 or fewer
+"Henrico County, Virginia",40.0,48.0,22.0,05000US51087,51,087,D,Owner,No,Non-family,5 or more
+"Henrico County, Virginia",260.0,158.0,23.0,05000US51087,51,087,S,Owner,N/A,All,All
+"Henrico County, Virginia",45.0,49.0,24.0,05000US51087,51,087,S,Owner,N/A,"Family, 1 parent",All
+"Henrico County, Virginia",45.0,49.0,25.0,05000US51087,51,087,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",0.0,161.0,26.0,05000US51087,51,087,D,Owner,N/A,"Family, 1 parent",5 or more
+"Henrico County, Virginia",40.0,46.0,27.0,05000US51087,51,087,S,Owner,N/A,"Family, 2 parents",All
+"Henrico County, Virginia",40.0,46.0,28.0,05000US51087,51,087,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",0.0,161.0,29.0,05000US51087,51,087,D,Owner,N/A,"Family, 2 parents",5 or more
+"Henrico County, Virginia",175.0,132.0,30.0,05000US51087,51,087,S,Owner,N/A,Non-family,All
+"Henrico County, Virginia",175.0,132.0,31.0,05000US51087,51,087,D,Owner,N/A,Non-family,4 or fewer
+"Henrico County, Virginia",0.0,161.0,32.0,05000US51087,51,087,D,Owner,N/A,Non-family,5 or more
+"Henrico County, Virginia",38255.0,1520.0,33.0,05000US51087,51,087,S,Renter,All,All,All
+"Henrico County, Virginia",16145.0,1228.0,34.0,05000US51087,51,087,S,Renter,Yes,All,All
+"Henrico County, Virginia",5895.0,858.0,35.0,05000US51087,51,087,S,Renter,Yes,"Family, 1 parent",All
+"Henrico County, Virginia",5385.0,859.0,36.0,05000US51087,51,087,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",510.0,242.0,37.0,05000US51087,51,087,D,Renter,Yes,"Family, 1 parent",5 or more
+"Henrico County, Virginia",2060.0,453.0,38.0,05000US51087,51,087,S,Renter,Yes,"Family, 2 parents",All
+"Henrico County, Virginia",1660.0,418.0,39.0,05000US51087,51,087,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",400.0,176.0,40.0,05000US51087,51,087,D,Renter,Yes,"Family, 2 parents",5 or more
+"Henrico County, Virginia",8190.0,941.0,41.0,05000US51087,51,087,S,Renter,Yes,Non-family,All
+"Henrico County, Virginia",8155.0,940.0,42.0,05000US51087,51,087,D,Renter,Yes,Non-family,4 or fewer
+"Henrico County, Virginia",35.0,61.0,43.0,05000US51087,51,087,D,Renter,Yes,Non-family,5 or more
+"Henrico County, Virginia",20480.0,1331.0,44.0,05000US51087,51,087,S,Renter,No,All,All
+"Henrico County, Virginia",4155.0,644.0,45.0,05000US51087,51,087,S,Renter,No,"Family, 1 parent",All
+"Henrico County, Virginia",3795.0,622.0,46.0,05000US51087,51,087,D,Renter,No,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",360.0,215.0,47.0,05000US51087,51,087,D,Renter,No,"Family, 1 parent",5 or more
+"Henrico County, Virginia",6290.0,856.0,48.0,05000US51087,51,087,S,Renter,No,"Family, 2 parents",All
+"Henrico County, Virginia",5895.0,824.0,49.0,05000US51087,51,087,D,Renter,No,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",390.0,198.0,50.0,05000US51087,51,087,D,Renter,No,"Family, 2 parents",5 or more
+"Henrico County, Virginia",10035.0,860.0,51.0,05000US51087,51,087,S,Renter,No,Non-family,All
+"Henrico County, Virginia",9920.0,910.0,52.0,05000US51087,51,087,D,Renter,No,Non-family,4 or fewer
+"Henrico County, Virginia",115.0,138.0,53.0,05000US51087,51,087,D,Renter,No,Non-family,5 or more
+"Henrico County, Virginia",1625.0,363.0,54.0,05000US51087,51,087,S,Renter,N/A,All,All
+"Henrico County, Virginia",485.0,253.0,55.0,05000US51087,51,087,S,Renter,N/A,"Family, 1 parent",All
+"Henrico County, Virginia",335.0,198.0,56.0,05000US51087,51,087,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Henrico County, Virginia",150.0,140.0,57.0,05000US51087,51,087,D,Renter,N/A,"Family, 1 parent",5 or more
+"Henrico County, Virginia",275.0,131.0,58.0,05000US51087,51,087,S,Renter,N/A,"Family, 2 parents",All
+"Henrico County, Virginia",255.0,125.0,59.0,05000US51087,51,087,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Henrico County, Virginia",20.0,41.0,60.0,05000US51087,51,087,D,Renter,N/A,"Family, 2 parents",5 or more
+"Henrico County, Virginia",865.0,239.0,61.0,05000US51087,51,087,S,Renter,N/A,Non-family,All
+"Henrico County, Virginia",865.0,239.0,62.0,05000US51087,51,087,D,Renter,N/A,Non-family,4 or fewer
+"Henrico County, Virginia",0.0,161.0,63.0,05000US51087,51,087,D,Renter,N/A,Non-family,5 or more

@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Prince William County, Virginia",121995.0,1161.0,1.0,05000US51153,51,153,T,All,All,All
+"Prince William County, Virginia",91665.0,1514.0,2.0,05000US51153,51,153,S,Owner,All,All
+"Prince William County, Virginia",57140.0,1014.0,3.0,05000US51153,51,153,S,Owner,White,All
+"Prince William County, Virginia",40945.0,1177.0,4.0,05000US51153,51,153,D,Owner,White,No cost burden
+"Prince William County, Virginia",11940.0,812.0,5.0,05000US51153,51,153,D,Owner,White,Moderate cost burden
+"Prince William County, Virginia",4220.0,586.0,6.0,05000US51153,51,153,D,Owner,White,Severe cost burden
+"Prince William County, Virginia",40.0,49.0,7.0,05000US51153,51,153,D,Owner,White,N/A
+"Prince William County, Virginia",13840.0,758.0,8.0,05000US51153,51,153,S,Owner,Black,All
+"Prince William County, Virginia",7565.0,766.0,9.0,05000US51153,51,153,D,Owner,Black,No cost burden
+"Prince William County, Virginia",4135.0,567.0,10.0,05000US51153,51,153,D,Owner,Black,Moderate cost burden
+"Prince William County, Virginia",2140.0,477.0,11.0,05000US51153,51,153,D,Owner,Black,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,12.0,05000US51153,51,153,D,Owner,Black,N/A
+"Prince William County, Virginia",7070.0,473.0,13.0,05000US51153,51,153,S,Owner,Asian,All
+"Prince William County, Virginia",3420.0,480.0,14.0,05000US51153,51,153,D,Owner,Asian,No cost burden
+"Prince William County, Virginia",2225.0,405.0,15.0,05000US51153,51,153,D,Owner,Asian,Moderate cost burden
+"Prince William County, Virginia",1395.0,356.0,16.0,05000US51153,51,153,D,Owner,Asian,Severe cost burden
+"Prince William County, Virginia",30.0,47.0,17.0,05000US51153,51,153,D,Owner,Asian,N/A
+"Prince William County, Virginia",305.0,134.0,18.0,05000US51153,51,153,S,Owner,American Indian,All
+"Prince William County, Virginia",295.0,134.0,19.0,05000US51153,51,153,D,Owner,American Indian,No cost burden
+"Prince William County, Virginia",0.0,161.0,20.0,05000US51153,51,153,D,Owner,American Indian,Moderate cost burden
+"Prince William County, Virginia",10.0,18.0,21.0,05000US51153,51,153,D,Owner,American Indian,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,22.0,05000US51153,51,153,D,Owner,American Indian,N/A
+"Prince William County, Virginia",0.0,161.0,23.0,05000US51153,51,153,S,Owner,Pacific Islander,All
+"Prince William County, Virginia",0.0,161.0,24.0,05000US51153,51,153,D,Owner,Pacific Islander,No cost burden
+"Prince William County, Virginia",0.0,161.0,25.0,05000US51153,51,153,D,Owner,Pacific Islander,Moderate cost burden
+"Prince William County, Virginia",0.0,161.0,26.0,05000US51153,51,153,D,Owner,Pacific Islander,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,27.0,05000US51153,51,153,D,Owner,Pacific Islander,N/A
+"Prince William County, Virginia",12185.0,833.0,28.0,05000US51153,51,153,S,Owner,Hispanic,All
+"Prince William County, Virginia",5030.0,667.0,29.0,05000US51153,51,153,D,Owner,Hispanic,No cost burden
+"Prince William County, Virginia",3825.0,645.0,30.0,05000US51153,51,153,D,Owner,Hispanic,Moderate cost burden
+"Prince William County, Virginia",3220.0,492.0,31.0,05000US51153,51,153,D,Owner,Hispanic,Severe cost burden
+"Prince William County, Virginia",110.0,122.0,32.0,05000US51153,51,153,D,Owner,Hispanic,N/A
+"Prince William County, Virginia",1130.0,310.0,33.0,05000US51153,51,153,S,Owner,Other,All
+"Prince William County, Virginia",450.0,171.0,34.0,05000US51153,51,153,D,Owner,Other,No cost burden
+"Prince William County, Virginia",420.0,238.0,35.0,05000US51153,51,153,D,Owner,Other,Moderate cost burden
+"Prince William County, Virginia",260.0,174.0,36.0,05000US51153,51,153,D,Owner,Other,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,37.0,05000US51153,51,153,D,Owner,Other,N/A
+"Prince William County, Virginia",30325.0,1453.0,38.0,05000US51153,51,153,S,Renter,All,All
+"Prince William County, Virginia",14145.0,1002.0,39.0,05000US51153,51,153,S,Renter,White,All
+"Prince William County, Virginia",7935.0,837.0,40.0,05000US51153,51,153,D,Renter,White,No cost burden
+"Prince William County, Virginia",2925.0,478.0,41.0,05000US51153,51,153,D,Renter,White,Moderate cost burden
+"Prince William County, Virginia",2580.0,509.0,42.0,05000US51153,51,153,D,Renter,White,Severe cost burden
+"Prince William County, Virginia",705.0,237.0,43.0,05000US51153,51,153,D,Renter,White,N/A
+"Prince William County, Virginia",9265.0,915.0,44.0,05000US51153,51,153,S,Renter,Black,All
+"Prince William County, Virginia",4705.0,936.0,45.0,05000US51153,51,153,D,Renter,Black,No cost burden
+"Prince William County, Virginia",2900.0,704.0,46.0,05000US51153,51,153,D,Renter,Black,Moderate cost burden
+"Prince William County, Virginia",1520.0,475.0,47.0,05000US51153,51,153,D,Renter,Black,Severe cost burden
+"Prince William County, Virginia",140.0,119.0,48.0,05000US51153,51,153,D,Renter,Black,N/A
+"Prince William County, Virginia",750.0,287.0,49.0,05000US51153,51,153,S,Renter,Asian,All
+"Prince William County, Virginia",300.0,190.0,50.0,05000US51153,51,153,D,Renter,Asian,No cost burden
+"Prince William County, Virginia",250.0,139.0,51.0,05000US51153,51,153,D,Renter,Asian,Moderate cost burden
+"Prince William County, Virginia",155.0,131.0,52.0,05000US51153,51,153,D,Renter,Asian,Severe cost burden
+"Prince William County, Virginia",40.0,45.0,53.0,05000US51153,51,153,D,Renter,Asian,N/A
+"Prince William County, Virginia",40.0,65.0,54.0,05000US51153,51,153,S,Renter,American Indian,All
+"Prince William County, Virginia",40.0,65.0,55.0,05000US51153,51,153,D,Renter,American Indian,No cost burden
+"Prince William County, Virginia",0.0,161.0,56.0,05000US51153,51,153,D,Renter,American Indian,Moderate cost burden
+"Prince William County, Virginia",0.0,161.0,57.0,05000US51153,51,153,D,Renter,American Indian,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,58.0,05000US51153,51,153,D,Renter,American Indian,N/A
+"Prince William County, Virginia",100.0,162.0,59.0,05000US51153,51,153,S,Renter,Pacific Islander,All
+"Prince William County, Virginia",60.0,113.0,60.0,05000US51153,51,153,D,Renter,Pacific Islander,No cost burden
+"Prince William County, Virginia",20.0,39.0,61.0,05000US51153,51,153,D,Renter,Pacific Islander,Moderate cost burden
+"Prince William County, Virginia",0.0,161.0,62.0,05000US51153,51,153,D,Renter,Pacific Islander,Severe cost burden
+"Prince William County, Virginia",20.0,48.0,63.0,05000US51153,51,153,D,Renter,Pacific Islander,N/A
+"Prince William County, Virginia",5325.0,742.0,64.0,05000US51153,51,153,S,Renter,Hispanic,All
+"Prince William County, Virginia",2435.0,556.0,65.0,05000US51153,51,153,D,Renter,Hispanic,No cost burden
+"Prince William County, Virginia",1640.0,508.0,66.0,05000US51153,51,153,D,Renter,Hispanic,Moderate cost burden
+"Prince William County, Virginia",1125.0,434.0,67.0,05000US51153,51,153,D,Renter,Hispanic,Severe cost burden
+"Prince William County, Virginia",120.0,84.0,68.0,05000US51153,51,153,D,Renter,Hispanic,N/A
+"Prince William County, Virginia",705.0,323.0,69.0,05000US51153,51,153,S,Renter,Other,All
+"Prince William County, Virginia",205.0,130.0,70.0,05000US51153,51,153,D,Renter,Other,No cost burden
+"Prince William County, Virginia",125.0,121.0,71.0,05000US51153,51,153,D,Renter,Other,Moderate cost burden
+"Prince William County, Virginia",375.0,277.0,72.0,05000US51153,51,153,D,Renter,Other,Severe cost burden
+"Prince William County, Virginia",0.0,161.0,73.0,05000US51153,51,153,D,Renter,Other,N/A

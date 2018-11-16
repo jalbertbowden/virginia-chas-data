@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Campbell County, Virginia",21800.0,371.0,1.0,05000US51031,51,031,T,All,All,All,All
+"Campbell County, Virginia",16340.0,650.0,2.0,05000US51031,51,031,S,Owner,All,All,All
+"Campbell County, Virginia",2825.0,461.0,3.0,05000US51031,51,031,S,Owner,Yes,All,All
+"Campbell County, Virginia",1035.0,282.0,4.0,05000US51031,51,031,S,Owner,Yes,30% AMI or less,All
+"Campbell County, Virginia",200.0,115.0,5.0,05000US51031,51,031,D,Owner,Yes,30% AMI or less,Disabled
+"Campbell County, Virginia",835.0,279.0,6.0,05000US51031,51,031,D,Owner,Yes,30% AMI or less,Not disabled
+"Campbell County, Virginia",540.0,202.0,7.0,05000US51031,51,031,S,Owner,Yes,30.1-50% AMI,All
+"Campbell County, Virginia",45.0,44.0,8.0,05000US51031,51,031,D,Owner,Yes,30.1-50% AMI,Disabled
+"Campbell County, Virginia",500.0,201.0,9.0,05000US51031,51,031,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",680.0,205.0,10.0,05000US51031,51,031,S,Owner,Yes,50.1-80% AMI,All
+"Campbell County, Virginia",75.0,83.0,11.0,05000US51031,51,031,D,Owner,Yes,50.1-80% AMI,Disabled
+"Campbell County, Virginia",605.0,192.0,12.0,05000US51031,51,031,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",565.0,189.0,13.0,05000US51031,51,031,S,Owner,Yes,80.1% AMI and above,All
+"Campbell County, Virginia",110.0,90.0,14.0,05000US51031,51,031,D,Owner,Yes,80.1% AMI and above,Disabled
+"Campbell County, Virginia",455.0,171.0,15.0,05000US51031,51,031,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Campbell County, Virginia",13460.0,736.0,16.0,05000US51031,51,031,S,Owner,No,All,All
+"Campbell County, Virginia",295.0,170.0,17.0,05000US51031,51,031,S,Owner,No,30% AMI or less,All
+"Campbell County, Virginia",165.0,140.0,18.0,05000US51031,51,031,D,Owner,No,30% AMI or less,Disabled
+"Campbell County, Virginia",130.0,93.0,19.0,05000US51031,51,031,D,Owner,No,30% AMI or less,Not disabled
+"Campbell County, Virginia",1000.0,236.0,20.0,05000US51031,51,031,S,Owner,No,30.1-50% AMI,All
+"Campbell County, Virginia",115.0,61.0,21.0,05000US51031,51,031,D,Owner,No,30.1-50% AMI,Disabled
+"Campbell County, Virginia",885.0,232.0,22.0,05000US51031,51,031,D,Owner,No,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",1975.0,352.0,23.0,05000US51031,51,031,S,Owner,No,50.1-80% AMI,All
+"Campbell County, Virginia",330.0,118.0,24.0,05000US51031,51,031,D,Owner,No,50.1-80% AMI,Disabled
+"Campbell County, Virginia",1645.0,330.0,25.0,05000US51031,51,031,D,Owner,No,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",10190.0,642.0,26.0,05000US51031,51,031,S,Owner,No,80.1% AMI and above,All
+"Campbell County, Virginia",1005.0,240.0,27.0,05000US51031,51,031,D,Owner,No,80.1% AMI and above,Disabled
+"Campbell County, Virginia",9185.0,632.0,28.0,05000US51031,51,031,D,Owner,No,80.1% AMI and above,Not disabled
+"Campbell County, Virginia",55.0,53.0,29.0,05000US51031,51,031,S,Owner,N/A,All,All
+"Campbell County, Virginia",55.0,53.0,30.0,05000US51031,51,031,S,Owner,N/A,30% AMI or less,All
+"Campbell County, Virginia",0.0,161.0,31.0,05000US51031,51,031,D,Owner,N/A,30% AMI or less,Disabled
+"Campbell County, Virginia",55.0,53.0,32.0,05000US51031,51,031,D,Owner,N/A,30% AMI or less,Not disabled
+"Campbell County, Virginia",0.0,161.0,33.0,05000US51031,51,031,S,Owner,N/A,30.1-50% AMI,All
+"Campbell County, Virginia",0.0,161.0,34.0,05000US51031,51,031,D,Owner,N/A,30.1-50% AMI,Disabled
+"Campbell County, Virginia",0.0,161.0,35.0,05000US51031,51,031,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",0.0,161.0,36.0,05000US51031,51,031,S,Owner,N/A,50.1-80% AMI,All
+"Campbell County, Virginia",0.0,161.0,37.0,05000US51031,51,031,D,Owner,N/A,50.1-80% AMI,Disabled
+"Campbell County, Virginia",0.0,161.0,38.0,05000US51031,51,031,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",0.0,161.0,39.0,05000US51031,51,031,S,Owner,N/A,80.1% AMI and above,All
+"Campbell County, Virginia",0.0,161.0,40.0,05000US51031,51,031,D,Owner,N/A,80.1% AMI and above,Disabled
+"Campbell County, Virginia",0.0,161.0,41.0,05000US51031,51,031,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Campbell County, Virginia",5465.0,585.0,42.0,05000US51031,51,031,S,Renter,All,All,All
+"Campbell County, Virginia",2025.0,436.0,43.0,05000US51031,51,031,S,Renter,Yes,All,All
+"Campbell County, Virginia",1035.0,267.0,44.0,05000US51031,51,031,S,Renter,Yes,30% AMI or less,All
+"Campbell County, Virginia",250.0,123.0,45.0,05000US51031,51,031,D,Renter,Yes,30% AMI or less,Disabled
+"Campbell County, Virginia",785.0,239.0,46.0,05000US51031,51,031,D,Renter,Yes,30% AMI or less,Not disabled
+"Campbell County, Virginia",645.0,300.0,47.0,05000US51031,51,031,S,Renter,Yes,30.1-50% AMI,All
+"Campbell County, Virginia",75.0,113.0,48.0,05000US51031,51,031,D,Renter,Yes,30.1-50% AMI,Disabled
+"Campbell County, Virginia",570.0,276.0,49.0,05000US51031,51,031,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",325.0,181.0,50.0,05000US51031,51,031,S,Renter,Yes,50.1-80% AMI,All
+"Campbell County, Virginia",0.0,161.0,51.0,05000US51031,51,031,D,Renter,Yes,50.1-80% AMI,Disabled
+"Campbell County, Virginia",325.0,181.0,52.0,05000US51031,51,031,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",25.0,40.0,53.0,05000US51031,51,031,S,Renter,Yes,80.1% AMI and above,All
+"Campbell County, Virginia",0.0,161.0,54.0,05000US51031,51,031,D,Renter,Yes,80.1% AMI and above,Disabled
+"Campbell County, Virginia",25.0,40.0,55.0,05000US51031,51,031,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Campbell County, Virginia",2815.0,488.0,56.0,05000US51031,51,031,S,Renter,No,All,All
+"Campbell County, Virginia",40.0,60.0,57.0,05000US51031,51,031,S,Renter,No,30% AMI or less,All
+"Campbell County, Virginia",0.0,161.0,58.0,05000US51031,51,031,D,Renter,No,30% AMI or less,Disabled
+"Campbell County, Virginia",40.0,60.0,59.0,05000US51031,51,031,D,Renter,No,30% AMI or less,Not disabled
+"Campbell County, Virginia",260.0,166.0,60.0,05000US51031,51,031,S,Renter,No,30.1-50% AMI,All
+"Campbell County, Virginia",0.0,161.0,61.0,05000US51031,51,031,D,Renter,No,30.1-50% AMI,Disabled
+"Campbell County, Virginia",260.0,166.0,62.0,05000US51031,51,031,D,Renter,No,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",775.0,260.0,63.0,05000US51031,51,031,S,Renter,No,50.1-80% AMI,All
+"Campbell County, Virginia",0.0,161.0,64.0,05000US51031,51,031,D,Renter,No,50.1-80% AMI,Disabled
+"Campbell County, Virginia",775.0,260.0,65.0,05000US51031,51,031,D,Renter,No,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",1740.0,494.0,66.0,05000US51031,51,031,S,Renter,No,80.1% AMI and above,All
+"Campbell County, Virginia",135.0,126.0,67.0,05000US51031,51,031,D,Renter,No,80.1% AMI and above,Disabled
+"Campbell County, Virginia",1600.0,481.0,68.0,05000US51031,51,031,D,Renter,No,80.1% AMI and above,Not disabled
+"Campbell County, Virginia",625.0,214.0,69.0,05000US51031,51,031,S,Renter,N/A,All,All
+"Campbell County, Virginia",160.0,111.0,70.0,05000US51031,51,031,S,Renter,N/A,30% AMI or less,All
+"Campbell County, Virginia",0.0,161.0,71.0,05000US51031,51,031,D,Renter,N/A,30% AMI or less,Disabled
+"Campbell County, Virginia",160.0,111.0,72.0,05000US51031,51,031,D,Renter,N/A,30% AMI or less,Not disabled
+"Campbell County, Virginia",115.0,81.0,73.0,05000US51031,51,031,S,Renter,N/A,30.1-50% AMI,All
+"Campbell County, Virginia",4.0,9.0,74.0,05000US51031,51,031,D,Renter,N/A,30.1-50% AMI,Disabled
+"Campbell County, Virginia",110.0,80.0,75.0,05000US51031,51,031,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Campbell County, Virginia",90.0,67.0,76.0,05000US51031,51,031,S,Renter,N/A,50.1-80% AMI,All
+"Campbell County, Virginia",4.0,10.0,77.0,05000US51031,51,031,D,Renter,N/A,50.1-80% AMI,Disabled
+"Campbell County, Virginia",85.0,67.0,78.0,05000US51031,51,031,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Campbell County, Virginia",260.0,185.0,79.0,05000US51031,51,031,S,Renter,N/A,80.1% AMI and above,All
+"Campbell County, Virginia",0.0,161.0,80.0,05000US51031,51,031,D,Renter,N/A,80.1% AMI and above,Disabled
+"Campbell County, Virginia",260.0,185.0,81.0,05000US51031,51,031,D,Renter,N/A,80.1% AMI and above,Not disabled

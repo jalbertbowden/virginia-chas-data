@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Montgomery County, Virginia",32105.0,637.0,1.0,05000US51121,51,121,T,All,All,All
+"Montgomery County, Virginia",18305.0,666.0,2.0,05000US51121,51,121,S,Owner,All,All
+"Montgomery County, Virginia",2955.0,309.0,3.0,05000US51121,51,121,S,Owner,"Small family, elderly",All
+"Montgomery County, Virginia",2565.0,320.0,4.0,05000US51121,51,121,D,Owner,"Small family, elderly",No cost burden
+"Montgomery County, Virginia",210.0,125.0,5.0,05000US51121,51,121,D,Owner,"Small family, elderly",Moderate cost burden
+"Montgomery County, Virginia",185.0,104.0,6.0,05000US51121,51,121,D,Owner,"Small family, elderly",Severe cost burden
+"Montgomery County, Virginia",0.0,161.0,7.0,05000US51121,51,121,D,Owner,"Small family, elderly",N/A
+"Montgomery County, Virginia",9710.0,678.0,8.0,05000US51121,51,121,S,Owner,"Small family, non-elderly",All
+"Montgomery County, Virginia",8535.0,612.0,9.0,05000US51121,51,121,D,Owner,"Small family, non-elderly",No cost burden
+"Montgomery County, Virginia",940.0,255.0,10.0,05000US51121,51,121,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Montgomery County, Virginia",235.0,124.0,11.0,05000US51121,51,121,D,Owner,"Small family, non-elderly",Severe cost burden
+"Montgomery County, Virginia",0.0,161.0,12.0,05000US51121,51,121,D,Owner,"Small family, non-elderly",N/A
+"Montgomery County, Virginia",775.0,252.0,13.0,05000US51121,51,121,S,Owner,Large family,All
+"Montgomery County, Virginia",560.0,190.0,14.0,05000US51121,51,121,D,Owner,Large family,No cost burden
+"Montgomery County, Virginia",175.0,151.0,15.0,05000US51121,51,121,D,Owner,Large family,Moderate cost burden
+"Montgomery County, Virginia",35.0,43.0,16.0,05000US51121,51,121,D,Owner,Large family,Severe cost burden
+"Montgomery County, Virginia",0.0,161.0,17.0,05000US51121,51,121,D,Owner,Large family,N/A
+"Montgomery County, Virginia",1925.0,354.0,18.0,05000US51121,51,121,S,Owner,"Non-family, elderly",All
+"Montgomery County, Virginia",1380.0,293.0,19.0,05000US51121,51,121,D,Owner,"Non-family, elderly",No cost burden
+"Montgomery County, Virginia",420.0,172.0,20.0,05000US51121,51,121,D,Owner,"Non-family, elderly",Moderate cost burden
+"Montgomery County, Virginia",125.0,83.0,21.0,05000US51121,51,121,D,Owner,"Non-family, elderly",Severe cost burden
+"Montgomery County, Virginia",0.0,161.0,22.0,05000US51121,51,121,D,Owner,"Non-family, elderly",N/A
+"Montgomery County, Virginia",2945.0,409.0,23.0,05000US51121,51,121,S,Owner,"Non-family, non-elderly",All
+"Montgomery County, Virginia",1845.0,333.0,24.0,05000US51121,51,121,D,Owner,"Non-family, non-elderly",No cost burden
+"Montgomery County, Virginia",580.0,197.0,25.0,05000US51121,51,121,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Montgomery County, Virginia",415.0,182.0,26.0,05000US51121,51,121,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Montgomery County, Virginia",105.0,117.0,27.0,05000US51121,51,121,D,Owner,"Non-family, non-elderly",N/A
+"Montgomery County, Virginia",13800.0,846.0,28.0,05000US51121,51,121,S,Renter,All,All
+"Montgomery County, Virginia",330.0,155.0,29.0,05000US51121,51,121,S,Renter,"Small family, elderly",All
+"Montgomery County, Virginia",230.0,123.0,30.0,05000US51121,51,121,D,Renter,"Small family, elderly",No cost burden
+"Montgomery County, Virginia",40.0,46.0,31.0,05000US51121,51,121,D,Renter,"Small family, elderly",Moderate cost burden
+"Montgomery County, Virginia",15.0,25.0,32.0,05000US51121,51,121,D,Renter,"Small family, elderly",Severe cost burden
+"Montgomery County, Virginia",45.0,57.0,33.0,05000US51121,51,121,D,Renter,"Small family, elderly",N/A
+"Montgomery County, Virginia",3670.0,569.0,34.0,05000US51121,51,121,S,Renter,"Small family, non-elderly",All
+"Montgomery County, Virginia",2170.0,390.0,35.0,05000US51121,51,121,D,Renter,"Small family, non-elderly",No cost burden
+"Montgomery County, Virginia",620.0,269.0,36.0,05000US51121,51,121,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Montgomery County, Virginia",625.0,255.0,37.0,05000US51121,51,121,D,Renter,"Small family, non-elderly",Severe cost burden
+"Montgomery County, Virginia",250.0,139.0,38.0,05000US51121,51,121,D,Renter,"Small family, non-elderly",N/A
+"Montgomery County, Virginia",405.0,211.0,39.0,05000US51121,51,121,S,Renter,Large family,All
+"Montgomery County, Virginia",295.0,203.0,40.0,05000US51121,51,121,D,Renter,Large family,No cost burden
+"Montgomery County, Virginia",60.0,93.0,41.0,05000US51121,51,121,D,Renter,Large family,Moderate cost burden
+"Montgomery County, Virginia",0.0,161.0,42.0,05000US51121,51,121,D,Renter,Large family,Severe cost burden
+"Montgomery County, Virginia",50.0,72.0,43.0,05000US51121,51,121,D,Renter,Large family,N/A
+"Montgomery County, Virginia",765.0,194.0,44.0,05000US51121,51,121,S,Renter,"Non-family, elderly",All
+"Montgomery County, Virginia",275.0,125.0,45.0,05000US51121,51,121,D,Renter,"Non-family, elderly",No cost burden
+"Montgomery County, Virginia",215.0,94.0,46.0,05000US51121,51,121,D,Renter,"Non-family, elderly",Moderate cost burden
+"Montgomery County, Virginia",240.0,129.0,47.0,05000US51121,51,121,D,Renter,"Non-family, elderly",Severe cost burden
+"Montgomery County, Virginia",35.0,41.0,48.0,05000US51121,51,121,D,Renter,"Non-family, elderly",N/A
+"Montgomery County, Virginia",8630.0,613.0,49.0,05000US51121,51,121,S,Renter,"Non-family, non-elderly",All
+"Montgomery County, Virginia",2805.0,494.0,50.0,05000US51121,51,121,D,Renter,"Non-family, non-elderly",No cost burden
+"Montgomery County, Virginia",1720.0,489.0,51.0,05000US51121,51,121,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Montgomery County, Virginia",3460.0,489.0,52.0,05000US51121,51,121,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Montgomery County, Virginia",645.0,272.0,53.0,05000US51121,51,121,D,Renter,"Non-family, non-elderly",N/A

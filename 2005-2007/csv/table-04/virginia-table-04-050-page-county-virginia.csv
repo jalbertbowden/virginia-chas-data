@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Page County, Virginia",9755.0,361.0,1.0,05000US51139,51,139,T,All,All,All,All
+"Page County, Virginia",7060.0,470.0,2.0,05000US51139,51,139,S,Owner,All,All,All
+"Page County, Virginia",1565.0,302.0,3.0,05000US51139,51,139,S,Owner,Yes,All,All
+"Page County, Virginia",280.0,123.0,4.0,05000US51139,51,139,S,Owner,Yes,"Family, 1 parent",All
+"Page County, Virginia",200.0,89.0,5.0,05000US51139,51,139,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Page County, Virginia",80.0,103.0,6.0,05000US51139,51,139,D,Owner,Yes,"Family, 1 parent",5 or more
+"Page County, Virginia",620.0,218.0,7.0,05000US51139,51,139,S,Owner,Yes,"Family, 2 parents",All
+"Page County, Virginia",490.0,170.0,8.0,05000US51139,51,139,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Page County, Virginia",130.0,130.0,9.0,05000US51139,51,139,D,Owner,Yes,"Family, 2 parents",5 or more
+"Page County, Virginia",660.0,228.0,10.0,05000US51139,51,139,S,Owner,Yes,Non-family,All
+"Page County, Virginia",660.0,228.0,11.0,05000US51139,51,139,D,Owner,Yes,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,12.0,05000US51139,51,139,D,Owner,Yes,Non-family,5 or more
+"Page County, Virginia",5500.0,426.0,13.0,05000US51139,51,139,S,Owner,No,All,All
+"Page County, Virginia",785.0,254.0,14.0,05000US51139,51,139,S,Owner,No,"Family, 1 parent",All
+"Page County, Virginia",655.0,221.0,15.0,05000US51139,51,139,D,Owner,No,"Family, 1 parent",4 or fewer
+"Page County, Virginia",125.0,97.0,16.0,05000US51139,51,139,D,Owner,No,"Family, 1 parent",5 or more
+"Page County, Virginia",3270.0,377.0,17.0,05000US51139,51,139,S,Owner,No,"Family, 2 parents",All
+"Page County, Virginia",2955.0,336.0,18.0,05000US51139,51,139,D,Owner,No,"Family, 2 parents",4 or fewer
+"Page County, Virginia",315.0,124.0,19.0,05000US51139,51,139,D,Owner,No,"Family, 2 parents",5 or more
+"Page County, Virginia",1445.0,349.0,20.0,05000US51139,51,139,S,Owner,No,Non-family,All
+"Page County, Virginia",1445.0,349.0,21.0,05000US51139,51,139,D,Owner,No,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,22.0,05000US51139,51,139,D,Owner,No,Non-family,5 or more
+"Page County, Virginia",0.0,161.0,23.0,05000US51139,51,139,S,Owner,N/A,All,All
+"Page County, Virginia",0.0,161.0,24.0,05000US51139,51,139,S,Owner,N/A,"Family, 1 parent",All
+"Page County, Virginia",0.0,161.0,25.0,05000US51139,51,139,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Page County, Virginia",0.0,161.0,26.0,05000US51139,51,139,D,Owner,N/A,"Family, 1 parent",5 or more
+"Page County, Virginia",0.0,161.0,27.0,05000US51139,51,139,S,Owner,N/A,"Family, 2 parents",All
+"Page County, Virginia",0.0,161.0,28.0,05000US51139,51,139,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Page County, Virginia",0.0,161.0,29.0,05000US51139,51,139,D,Owner,N/A,"Family, 2 parents",5 or more
+"Page County, Virginia",0.0,161.0,30.0,05000US51139,51,139,S,Owner,N/A,Non-family,All
+"Page County, Virginia",0.0,161.0,31.0,05000US51139,51,139,D,Owner,N/A,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,32.0,05000US51139,51,139,D,Owner,N/A,Non-family,5 or more
+"Page County, Virginia",2695.0,435.0,33.0,05000US51139,51,139,S,Renter,All,All,All
+"Page County, Virginia",905.0,240.0,34.0,05000US51139,51,139,S,Renter,Yes,All,All
+"Page County, Virginia",255.0,116.0,35.0,05000US51139,51,139,S,Renter,Yes,"Family, 1 parent",All
+"Page County, Virginia",220.0,111.0,36.0,05000US51139,51,139,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Page County, Virginia",35.0,49.0,37.0,05000US51139,51,139,D,Renter,Yes,"Family, 1 parent",5 or more
+"Page County, Virginia",195.0,93.0,38.0,05000US51139,51,139,S,Renter,Yes,"Family, 2 parents",All
+"Page County, Virginia",120.0,77.0,39.0,05000US51139,51,139,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Page County, Virginia",75.0,51.0,40.0,05000US51139,51,139,D,Renter,Yes,"Family, 2 parents",5 or more
+"Page County, Virginia",460.0,196.0,41.0,05000US51139,51,139,S,Renter,Yes,Non-family,All
+"Page County, Virginia",460.0,196.0,42.0,05000US51139,51,139,D,Renter,Yes,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,43.0,05000US51139,51,139,D,Renter,Yes,Non-family,5 or more
+"Page County, Virginia",1250.0,277.0,44.0,05000US51139,51,139,S,Renter,No,All,All
+"Page County, Virginia",385.0,171.0,45.0,05000US51139,51,139,S,Renter,No,"Family, 1 parent",All
+"Page County, Virginia",360.0,167.0,46.0,05000US51139,51,139,D,Renter,No,"Family, 1 parent",4 or fewer
+"Page County, Virginia",25.0,44.0,47.0,05000US51139,51,139,D,Renter,No,"Family, 1 parent",5 or more
+"Page County, Virginia",345.0,144.0,48.0,05000US51139,51,139,S,Renter,No,"Family, 2 parents",All
+"Page County, Virginia",305.0,140.0,49.0,05000US51139,51,139,D,Renter,No,"Family, 2 parents",4 or fewer
+"Page County, Virginia",40.0,52.0,50.0,05000US51139,51,139,D,Renter,No,"Family, 2 parents",5 or more
+"Page County, Virginia",520.0,183.0,51.0,05000US51139,51,139,S,Renter,No,Non-family,All
+"Page County, Virginia",520.0,183.0,52.0,05000US51139,51,139,D,Renter,No,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,53.0,05000US51139,51,139,D,Renter,No,Non-family,5 or more
+"Page County, Virginia",540.0,257.0,54.0,05000US51139,51,139,S,Renter,N/A,All,All
+"Page County, Virginia",75.0,74.0,55.0,05000US51139,51,139,S,Renter,N/A,"Family, 1 parent",All
+"Page County, Virginia",75.0,74.0,56.0,05000US51139,51,139,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Page County, Virginia",0.0,161.0,57.0,05000US51139,51,139,D,Renter,N/A,"Family, 1 parent",5 or more
+"Page County, Virginia",320.0,227.0,58.0,05000US51139,51,139,S,Renter,N/A,"Family, 2 parents",All
+"Page County, Virginia",320.0,227.0,59.0,05000US51139,51,139,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Page County, Virginia",0.0,161.0,60.0,05000US51139,51,139,D,Renter,N/A,"Family, 2 parents",5 or more
+"Page County, Virginia",145.0,94.0,61.0,05000US51139,51,139,S,Renter,N/A,Non-family,All
+"Page County, Virginia",145.0,94.0,62.0,05000US51139,51,139,D,Renter,N/A,Non-family,4 or fewer
+"Page County, Virginia",0.0,161.0,63.0,05000US51139,51,139,D,Renter,N/A,Non-family,5 or more

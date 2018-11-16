@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Pittsylvania County, Virginia",25420.0,633.0,1.0,05000US51143,51,143,T,All,All,All,All
+"Pittsylvania County, Virginia",20255.0,794.0,2.0,05000US51143,51,143,S,Owner,All,All,All
+"Pittsylvania County, Virginia",4925.0,549.0,3.0,05000US51143,51,143,S,Owner,Yes,All,All
+"Pittsylvania County, Virginia",920.0,234.0,4.0,05000US51143,51,143,S,Owner,Yes,"Family, 1 parent",All
+"Pittsylvania County, Virginia",835.0,233.0,5.0,05000US51143,51,143,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",85.0,45.0,6.0,05000US51143,51,143,D,Owner,Yes,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",1915.0,405.0,7.0,05000US51143,51,143,S,Owner,Yes,"Family, 2 parents",All
+"Pittsylvania County, Virginia",1450.0,322.0,8.0,05000US51143,51,143,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",460.0,216.0,9.0,05000US51143,51,143,D,Owner,Yes,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",2095.0,374.0,10.0,05000US51143,51,143,S,Owner,Yes,Non-family,All
+"Pittsylvania County, Virginia",2055.0,376.0,11.0,05000US51143,51,143,D,Owner,Yes,Non-family,4 or fewer
+"Pittsylvania County, Virginia",35.0,57.0,12.0,05000US51143,51,143,D,Owner,Yes,Non-family,5 or more
+"Pittsylvania County, Virginia",15270.0,728.0,13.0,05000US51143,51,143,S,Owner,No,All,All
+"Pittsylvania County, Virginia",1545.0,362.0,14.0,05000US51143,51,143,S,Owner,No,"Family, 1 parent",All
+"Pittsylvania County, Virginia",1480.0,354.0,15.0,05000US51143,51,143,D,Owner,No,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",70.0,68.0,16.0,05000US51143,51,143,D,Owner,No,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",10890.0,691.0,17.0,05000US51143,51,143,S,Owner,No,"Family, 2 parents",All
+"Pittsylvania County, Virginia",10080.0,661.0,18.0,05000US51143,51,143,D,Owner,No,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",810.0,223.0,19.0,05000US51143,51,143,D,Owner,No,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",2835.0,344.0,20.0,05000US51143,51,143,S,Owner,No,Non-family,All
+"Pittsylvania County, Virginia",2835.0,344.0,21.0,05000US51143,51,143,D,Owner,No,Non-family,4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,22.0,05000US51143,51,143,D,Owner,No,Non-family,5 or more
+"Pittsylvania County, Virginia",55.0,61.0,23.0,05000US51143,51,143,S,Owner,N/A,All,All
+"Pittsylvania County, Virginia",0.0,161.0,24.0,05000US51143,51,143,S,Owner,N/A,"Family, 1 parent",All
+"Pittsylvania County, Virginia",0.0,161.0,25.0,05000US51143,51,143,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,26.0,05000US51143,51,143,D,Owner,N/A,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",0.0,161.0,27.0,05000US51143,51,143,S,Owner,N/A,"Family, 2 parents",All
+"Pittsylvania County, Virginia",0.0,161.0,28.0,05000US51143,51,143,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,29.0,05000US51143,51,143,D,Owner,N/A,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",55.0,61.0,30.0,05000US51143,51,143,S,Owner,N/A,Non-family,All
+"Pittsylvania County, Virginia",55.0,61.0,31.0,05000US51143,51,143,D,Owner,N/A,Non-family,4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,32.0,05000US51143,51,143,D,Owner,N/A,Non-family,5 or more
+"Pittsylvania County, Virginia",5165.0,717.0,33.0,05000US51143,51,143,S,Renter,All,All,All
+"Pittsylvania County, Virginia",1935.0,567.0,34.0,05000US51143,51,143,S,Renter,Yes,All,All
+"Pittsylvania County, Virginia",735.0,423.0,35.0,05000US51143,51,143,S,Renter,Yes,"Family, 1 parent",All
+"Pittsylvania County, Virginia",675.0,432.0,36.0,05000US51143,51,143,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",60.0,64.0,37.0,05000US51143,51,143,D,Renter,Yes,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",430.0,200.0,38.0,05000US51143,51,143,S,Renter,Yes,"Family, 2 parents",All
+"Pittsylvania County, Virginia",325.0,167.0,39.0,05000US51143,51,143,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",105.0,95.0,40.0,05000US51143,51,143,D,Renter,Yes,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",770.0,263.0,41.0,05000US51143,51,143,S,Renter,Yes,Non-family,All
+"Pittsylvania County, Virginia",770.0,263.0,42.0,05000US51143,51,143,D,Renter,Yes,Non-family,4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,43.0,05000US51143,51,143,D,Renter,Yes,Non-family,5 or more
+"Pittsylvania County, Virginia",2140.0,443.0,44.0,05000US51143,51,143,S,Renter,No,All,All
+"Pittsylvania County, Virginia",400.0,205.0,45.0,05000US51143,51,143,S,Renter,No,"Family, 1 parent",All
+"Pittsylvania County, Virginia",380.0,192.0,46.0,05000US51143,51,143,D,Renter,No,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",20.0,38.0,47.0,05000US51143,51,143,D,Renter,No,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",795.0,315.0,48.0,05000US51143,51,143,S,Renter,No,"Family, 2 parents",All
+"Pittsylvania County, Virginia",680.0,290.0,49.0,05000US51143,51,143,D,Renter,No,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",115.0,126.0,50.0,05000US51143,51,143,D,Renter,No,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",940.0,290.0,51.0,05000US51143,51,143,S,Renter,No,Non-family,All
+"Pittsylvania County, Virginia",940.0,290.0,52.0,05000US51143,51,143,D,Renter,No,Non-family,4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,53.0,05000US51143,51,143,D,Renter,No,Non-family,5 or more
+"Pittsylvania County, Virginia",1095.0,256.0,54.0,05000US51143,51,143,S,Renter,N/A,All,All
+"Pittsylvania County, Virginia",205.0,128.0,55.0,05000US51143,51,143,S,Renter,N/A,"Family, 1 parent",All
+"Pittsylvania County, Virginia",205.0,128.0,56.0,05000US51143,51,143,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,57.0,05000US51143,51,143,D,Renter,N/A,"Family, 1 parent",5 or more
+"Pittsylvania County, Virginia",415.0,179.0,58.0,05000US51143,51,143,S,Renter,N/A,"Family, 2 parents",All
+"Pittsylvania County, Virginia",395.0,170.0,59.0,05000US51143,51,143,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Pittsylvania County, Virginia",25.0,35.0,60.0,05000US51143,51,143,D,Renter,N/A,"Family, 2 parents",5 or more
+"Pittsylvania County, Virginia",470.0,159.0,61.0,05000US51143,51,143,S,Renter,N/A,Non-family,All
+"Pittsylvania County, Virginia",470.0,159.0,62.0,05000US51143,51,143,D,Renter,N/A,Non-family,4 or fewer
+"Pittsylvania County, Virginia",0.0,161.0,63.0,05000US51143,51,143,D,Renter,N/A,Non-family,5 or more

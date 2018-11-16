@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Newport News city, Virginia",73275.0,721.0,1.0,05000US51700,51,700,T,All,All,All
+"Newport News city, Virginia",38530.0,1070.0,2.0,05000US51700,51,700,S,Owner,All,All
+"Newport News city, Virginia",25255.0,826.0,3.0,05000US51700,51,700,S,Owner,White,All
+"Newport News city, Virginia",19410.0,966.0,4.0,05000US51700,51,700,D,Owner,White,No cost burden
+"Newport News city, Virginia",3490.0,521.0,5.0,05000US51700,51,700,D,Owner,White,Moderate cost burden
+"Newport News city, Virginia",2235.0,388.0,6.0,05000US51700,51,700,D,Owner,White,Severe cost burden
+"Newport News city, Virginia",120.0,86.0,7.0,05000US51700,51,700,D,Owner,White,N/A
+"Newport News city, Virginia",11040.0,763.0,8.0,05000US51700,51,700,S,Owner,Black,All
+"Newport News city, Virginia",7220.0,754.0,9.0,05000US51700,51,700,D,Owner,Black,No cost burden
+"Newport News city, Virginia",2570.0,441.0,10.0,05000US51700,51,700,D,Owner,Black,Moderate cost burden
+"Newport News city, Virginia",1155.0,336.0,11.0,05000US51700,51,700,D,Owner,Black,Severe cost burden
+"Newport News city, Virginia",90.0,69.0,12.0,05000US51700,51,700,D,Owner,Black,N/A
+"Newport News city, Virginia",740.0,224.0,13.0,05000US51700,51,700,S,Owner,Asian,All
+"Newport News city, Virginia",585.0,194.0,14.0,05000US51700,51,700,D,Owner,Asian,No cost burden
+"Newport News city, Virginia",95.0,83.0,15.0,05000US51700,51,700,D,Owner,Asian,Moderate cost burden
+"Newport News city, Virginia",60.0,80.0,16.0,05000US51700,51,700,D,Owner,Asian,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,17.0,05000US51700,51,700,D,Owner,Asian,N/A
+"Newport News city, Virginia",145.0,87.0,18.0,05000US51700,51,700,S,Owner,American Indian,All
+"Newport News city, Virginia",45.0,40.0,19.0,05000US51700,51,700,D,Owner,American Indian,No cost burden
+"Newport News city, Virginia",35.0,42.0,20.0,05000US51700,51,700,D,Owner,American Indian,Moderate cost burden
+"Newport News city, Virginia",65.0,77.0,21.0,05000US51700,51,700,D,Owner,American Indian,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,22.0,05000US51700,51,700,D,Owner,American Indian,N/A
+"Newport News city, Virginia",0.0,161.0,23.0,05000US51700,51,700,S,Owner,Pacific Islander,All
+"Newport News city, Virginia",0.0,161.0,24.0,05000US51700,51,700,D,Owner,Pacific Islander,No cost burden
+"Newport News city, Virginia",0.0,161.0,25.0,05000US51700,51,700,D,Owner,Pacific Islander,Moderate cost burden
+"Newport News city, Virginia",0.0,161.0,26.0,05000US51700,51,700,D,Owner,Pacific Islander,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,27.0,05000US51700,51,700,D,Owner,Pacific Islander,N/A
+"Newport News city, Virginia",1055.0,260.0,28.0,05000US51700,51,700,S,Owner,Hispanic,All
+"Newport News city, Virginia",640.0,215.0,29.0,05000US51700,51,700,D,Owner,Hispanic,No cost burden
+"Newport News city, Virginia",335.0,200.0,30.0,05000US51700,51,700,D,Owner,Hispanic,Moderate cost burden
+"Newport News city, Virginia",80.0,95.0,31.0,05000US51700,51,700,D,Owner,Hispanic,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,32.0,05000US51700,51,700,D,Owner,Hispanic,N/A
+"Newport News city, Virginia",295.0,119.0,33.0,05000US51700,51,700,S,Owner,Other,All
+"Newport News city, Virginia",210.0,94.0,34.0,05000US51700,51,700,D,Owner,Other,No cost burden
+"Newport News city, Virginia",70.0,74.0,35.0,05000US51700,51,700,D,Owner,Other,Moderate cost burden
+"Newport News city, Virginia",0.0,161.0,36.0,05000US51700,51,700,D,Owner,Other,Severe cost burden
+"Newport News city, Virginia",15.0,24.0,37.0,05000US51700,51,700,D,Owner,Other,N/A
+"Newport News city, Virginia",34745.0,1133.0,38.0,05000US51700,51,700,S,Renter,All,All
+"Newport News city, Virginia",11410.0,875.0,39.0,05000US51700,51,700,S,Renter,White,All
+"Newport News city, Virginia",6005.0,809.0,40.0,05000US51700,51,700,D,Renter,White,No cost burden
+"Newport News city, Virginia",2645.0,422.0,41.0,05000US51700,51,700,D,Renter,White,Moderate cost burden
+"Newport News city, Virginia",2070.0,441.0,42.0,05000US51700,51,700,D,Renter,White,Severe cost burden
+"Newport News city, Virginia",685.0,221.0,43.0,05000US51700,51,700,D,Renter,White,N/A
+"Newport News city, Virginia",20035.0,975.0,44.0,05000US51700,51,700,S,Renter,Black,All
+"Newport News city, Virginia",9330.0,863.0,45.0,05000US51700,51,700,D,Renter,Black,No cost burden
+"Newport News city, Virginia",5085.0,785.0,46.0,05000US51700,51,700,D,Renter,Black,Moderate cost burden
+"Newport News city, Virginia",4750.0,804.0,47.0,05000US51700,51,700,D,Renter,Black,Severe cost burden
+"Newport News city, Virginia",870.0,251.0,48.0,05000US51700,51,700,D,Renter,Black,N/A
+"Newport News city, Virginia",725.0,360.0,49.0,05000US51700,51,700,S,Renter,Asian,All
+"Newport News city, Virginia",295.0,171.0,50.0,05000US51700,51,700,D,Renter,Asian,No cost burden
+"Newport News city, Virginia",280.0,231.0,51.0,05000US51700,51,700,D,Renter,Asian,Moderate cost burden
+"Newport News city, Virginia",130.0,163.0,52.0,05000US51700,51,700,D,Renter,Asian,Severe cost burden
+"Newport News city, Virginia",20.0,44.0,53.0,05000US51700,51,700,D,Renter,Asian,N/A
+"Newport News city, Virginia",95.0,79.0,54.0,05000US51700,51,700,S,Renter,American Indian,All
+"Newport News city, Virginia",60.0,73.0,55.0,05000US51700,51,700,D,Renter,American Indian,No cost burden
+"Newport News city, Virginia",0.0,161.0,56.0,05000US51700,51,700,D,Renter,American Indian,Moderate cost burden
+"Newport News city, Virginia",30.0,47.0,57.0,05000US51700,51,700,D,Renter,American Indian,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,58.0,05000US51700,51,700,D,Renter,American Indian,N/A
+"Newport News city, Virginia",15.0,24.0,59.0,05000US51700,51,700,S,Renter,Pacific Islander,All
+"Newport News city, Virginia",15.0,24.0,60.0,05000US51700,51,700,D,Renter,Pacific Islander,No cost burden
+"Newport News city, Virginia",0.0,161.0,61.0,05000US51700,51,700,D,Renter,Pacific Islander,Moderate cost burden
+"Newport News city, Virginia",0.0,161.0,62.0,05000US51700,51,700,D,Renter,Pacific Islander,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,63.0,05000US51700,51,700,D,Renter,Pacific Islander,N/A
+"Newport News city, Virginia",1760.0,325.0,64.0,05000US51700,51,700,S,Renter,Hispanic,All
+"Newport News city, Virginia",1235.0,323.0,65.0,05000US51700,51,700,D,Renter,Hispanic,No cost burden
+"Newport News city, Virginia",335.0,165.0,66.0,05000US51700,51,700,D,Renter,Hispanic,Moderate cost burden
+"Newport News city, Virginia",140.0,110.0,67.0,05000US51700,51,700,D,Renter,Hispanic,Severe cost burden
+"Newport News city, Virginia",45.0,55.0,68.0,05000US51700,51,700,D,Renter,Hispanic,N/A
+"Newport News city, Virginia",705.0,353.0,69.0,05000US51700,51,700,S,Renter,Other,All
+"Newport News city, Virginia",470.0,325.0,70.0,05000US51700,51,700,D,Renter,Other,No cost burden
+"Newport News city, Virginia",155.0,122.0,71.0,05000US51700,51,700,D,Renter,Other,Moderate cost burden
+"Newport News city, Virginia",80.0,63.0,72.0,05000US51700,51,700,D,Renter,Other,Severe cost burden
+"Newport News city, Virginia",0.0,161.0,73.0,05000US51700,51,700,D,Renter,Other,N/A

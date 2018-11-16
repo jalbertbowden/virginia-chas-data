@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All,All
+"Norfolk city, Virginia",13810.0,1036.0,3.0,05000US51710,51,710,S,Owner,Yes,All,All
+"Norfolk city, Virginia",3155.0,564.0,4.0,05000US51710,51,710,S,Owner,Yes,"Family, 1 parent",All
+"Norfolk city, Virginia",2965.0,540.0,5.0,05000US51710,51,710,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",195.0,137.0,6.0,05000US51710,51,710,D,Owner,Yes,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",5155.0,596.0,7.0,05000US51710,51,710,S,Owner,Yes,"Family, 2 parents",All
+"Norfolk city, Virginia",4520.0,535.0,8.0,05000US51710,51,710,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",635.0,178.0,9.0,05000US51710,51,710,D,Owner,Yes,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",5500.0,551.0,10.0,05000US51710,51,710,S,Owner,Yes,Non-family,All
+"Norfolk city, Virginia",5415.0,553.0,11.0,05000US51710,51,710,D,Owner,Yes,Non-family,4 or fewer
+"Norfolk city, Virginia",85.0,93.0,12.0,05000US51710,51,710,D,Owner,Yes,Non-family,5 or more
+"Norfolk city, Virginia",25975.0,949.0,13.0,05000US51710,51,710,S,Owner,No,All,All
+"Norfolk city, Virginia",3495.0,514.0,14.0,05000US51710,51,710,S,Owner,No,"Family, 1 parent",All
+"Norfolk city, Virginia",3220.0,487.0,15.0,05000US51710,51,710,D,Owner,No,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",270.0,120.0,16.0,05000US51710,51,710,D,Owner,No,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",15075.0,739.0,17.0,05000US51710,51,710,S,Owner,No,"Family, 2 parents",All
+"Norfolk city, Virginia",13460.0,725.0,18.0,05000US51710,51,710,D,Owner,No,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",1620.0,295.0,19.0,05000US51710,51,710,D,Owner,No,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",7405.0,690.0,20.0,05000US51710,51,710,S,Owner,No,Non-family,All
+"Norfolk city, Virginia",7385.0,693.0,21.0,05000US51710,51,710,D,Owner,No,Non-family,4 or fewer
+"Norfolk city, Virginia",20.0,35.0,22.0,05000US51710,51,710,D,Owner,No,Non-family,5 or more
+"Norfolk city, Virginia",220.0,140.0,23.0,05000US51710,51,710,S,Owner,N/A,All,All
+"Norfolk city, Virginia",100.0,105.0,24.0,05000US51710,51,710,S,Owner,N/A,"Family, 1 parent",All
+"Norfolk city, Virginia",100.0,105.0,25.0,05000US51710,51,710,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",0.0,161.0,26.0,05000US51710,51,710,D,Owner,N/A,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",0.0,161.0,27.0,05000US51710,51,710,S,Owner,N/A,"Family, 2 parents",All
+"Norfolk city, Virginia",0.0,161.0,28.0,05000US51710,51,710,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",0.0,161.0,29.0,05000US51710,51,710,D,Owner,N/A,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",120.0,95.0,30.0,05000US51710,51,710,S,Owner,N/A,Non-family,All
+"Norfolk city, Virginia",120.0,95.0,31.0,05000US51710,51,710,D,Owner,N/A,Non-family,4 or fewer
+"Norfolk city, Virginia",0.0,161.0,32.0,05000US51710,51,710,D,Owner,N/A,Non-family,5 or more
+"Norfolk city, Virginia",45125.0,1197.0,33.0,05000US51710,51,710,S,Renter,All,All,All
+"Norfolk city, Virginia",21790.0,1045.0,34.0,05000US51710,51,710,S,Renter,Yes,All,All
+"Norfolk city, Virginia",7475.0,792.0,35.0,05000US51710,51,710,S,Renter,Yes,"Family, 1 parent",All
+"Norfolk city, Virginia",6275.0,718.0,36.0,05000US51710,51,710,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",1200.0,340.0,37.0,05000US51710,51,710,D,Renter,Yes,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",3990.0,655.0,38.0,05000US51710,51,710,S,Renter,Yes,"Family, 2 parents",All
+"Norfolk city, Virginia",2940.0,517.0,39.0,05000US51710,51,710,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",1050.0,322.0,40.0,05000US51710,51,710,D,Renter,Yes,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",10330.0,934.0,41.0,05000US51710,51,710,S,Renter,Yes,Non-family,All
+"Norfolk city, Virginia",10255.0,908.0,42.0,05000US51710,51,710,D,Renter,Yes,Non-family,4 or fewer
+"Norfolk city, Virginia",70.0,76.0,43.0,05000US51710,51,710,D,Renter,Yes,Non-family,5 or more
+"Norfolk city, Virginia",21185.0,1293.0,44.0,05000US51710,51,710,S,Renter,No,All,All
+"Norfolk city, Virginia",5485.0,765.0,45.0,05000US51710,51,710,S,Renter,No,"Family, 1 parent",All
+"Norfolk city, Virginia",4945.0,730.0,46.0,05000US51710,51,710,D,Renter,No,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",540.0,329.0,47.0,05000US51710,51,710,D,Renter,No,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",5940.0,678.0,48.0,05000US51710,51,710,S,Renter,No,"Family, 2 parents",All
+"Norfolk city, Virginia",5340.0,613.0,49.0,05000US51710,51,710,D,Renter,No,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",600.0,230.0,50.0,05000US51710,51,710,D,Renter,No,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",9760.0,839.0,51.0,05000US51710,51,710,S,Renter,No,Non-family,All
+"Norfolk city, Virginia",9715.0,836.0,52.0,05000US51710,51,710,D,Renter,No,Non-family,4 or fewer
+"Norfolk city, Virginia",45.0,71.0,53.0,05000US51710,51,710,D,Renter,No,Non-family,5 or more
+"Norfolk city, Virginia",2150.0,471.0,54.0,05000US51710,51,710,S,Renter,N/A,All,All
+"Norfolk city, Virginia",675.0,278.0,55.0,05000US51710,51,710,S,Renter,N/A,"Family, 1 parent",All
+"Norfolk city, Virginia",550.0,238.0,56.0,05000US51710,51,710,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Norfolk city, Virginia",125.0,119.0,57.0,05000US51710,51,710,D,Renter,N/A,"Family, 1 parent",5 or more
+"Norfolk city, Virginia",440.0,168.0,58.0,05000US51710,51,710,S,Renter,N/A,"Family, 2 parents",All
+"Norfolk city, Virginia",265.0,123.0,59.0,05000US51710,51,710,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Norfolk city, Virginia",175.0,111.0,60.0,05000US51710,51,710,D,Renter,N/A,"Family, 2 parents",5 or more
+"Norfolk city, Virginia",1035.0,318.0,61.0,05000US51710,51,710,S,Renter,N/A,Non-family,All
+"Norfolk city, Virginia",1035.0,318.0,62.0,05000US51710,51,710,D,Renter,N/A,Non-family,4 or fewer
+"Norfolk city, Virginia",0.0,161.0,63.0,05000US51710,51,710,D,Renter,N/A,Non-family,5 or more

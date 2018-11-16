@@ -1,0 +1,134 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Income,Cost_Burden,Substandard
+"Fredericksburg city, Virginia",8560.0,381.0,1.0,05000US51630,51,630,T,All,All,All,All
+"Fredericksburg city, Virginia",3215.0,371.0,2.0,05000US51630,51,630,S,Owner,All,All,All
+"Fredericksburg city, Virginia",330.0,165.0,3.0,05000US51630,51,630,S,Owner,30% AMI or less,All,All
+"Fredericksburg city, Virginia",100.0,82.0,4.0,05000US51630,51,630,S,Owner,30% AMI or less,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,5.0,05000US51630,51,630,D,Owner,30% AMI or less,No cost burden,substandard
+"Fredericksburg city, Virginia",100.0,82.0,6.0,05000US51630,51,630,D,Owner,30% AMI or less,No cost burden,standard
+"Fredericksburg city, Virginia",155.0,107.0,7.0,05000US51630,51,630,S,Owner,30% AMI or less,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,8.0,05000US51630,51,630,D,Owner,30% AMI or less,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",155.0,107.0,9.0,05000US51630,51,630,D,Owner,30% AMI or less,Moderate cost burden,standard
+"Fredericksburg city, Virginia",80.0,81.0,10.0,05000US51630,51,630,S,Owner,30% AMI or less,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,11.0,05000US51630,51,630,D,Owner,30% AMI or less,Severe cost burden,substandard
+"Fredericksburg city, Virginia",80.0,81.0,12.0,05000US51630,51,630,D,Owner,30% AMI or less,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,13.0,05000US51630,51,630,S,Owner,30% AMI or less,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,14.0,05000US51630,51,630,D,Owner,30% AMI or less,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,15.0,05000US51630,51,630,D,Owner,30% AMI or less,N/A,standard
+"Fredericksburg city, Virginia",395.0,168.0,16.0,05000US51630,51,630,S,Owner,30.1-50% AMI,All,All
+"Fredericksburg city, Virginia",290.0,157.0,17.0,05000US51630,51,630,S,Owner,30.1-50% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,18.0,05000US51630,51,630,D,Owner,30.1-50% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",290.0,157.0,19.0,05000US51630,51,630,D,Owner,30.1-50% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",50.0,48.0,20.0,05000US51630,51,630,S,Owner,30.1-50% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,21.0,05000US51630,51,630,D,Owner,30.1-50% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",50.0,48.0,22.0,05000US51630,51,630,D,Owner,30.1-50% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",60.0,75.0,23.0,05000US51630,51,630,S,Owner,30.1-50% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,24.0,05000US51630,51,630,D,Owner,30.1-50% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",60.0,75.0,25.0,05000US51630,51,630,D,Owner,30.1-50% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,26.0,05000US51630,51,630,S,Owner,30.1-50% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,27.0,05000US51630,51,630,D,Owner,30.1-50% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,28.0,05000US51630,51,630,D,Owner,30.1-50% AMI,N/A,standard
+"Fredericksburg city, Virginia",655.0,217.0,29.0,05000US51630,51,630,S,Owner,50.1-80% AMI,All,All
+"Fredericksburg city, Virginia",465.0,190.0,30.0,05000US51630,51,630,S,Owner,50.1-80% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,31.0,05000US51630,51,630,D,Owner,50.1-80% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",465.0,190.0,32.0,05000US51630,51,630,D,Owner,50.1-80% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",155.0,103.0,33.0,05000US51630,51,630,S,Owner,50.1-80% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",55.0,89.0,34.0,05000US51630,51,630,D,Owner,50.1-80% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",100.0,68.0,35.0,05000US51630,51,630,D,Owner,50.1-80% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",35.0,47.0,36.0,05000US51630,51,630,S,Owner,50.1-80% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,37.0,05000US51630,51,630,D,Owner,50.1-80% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",35.0,47.0,38.0,05000US51630,51,630,D,Owner,50.1-80% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,39.0,05000US51630,51,630,S,Owner,50.1-80% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,40.0,05000US51630,51,630,D,Owner,50.1-80% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,41.0,05000US51630,51,630,D,Owner,50.1-80% AMI,N/A,standard
+"Fredericksburg city, Virginia",380.0,164.0,42.0,05000US51630,51,630,S,Owner,80.1-95% AMI,All,All
+"Fredericksburg city, Virginia",290.0,148.0,43.0,05000US51630,51,630,S,Owner,80.1-95% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,44.0,05000US51630,51,630,D,Owner,80.1-95% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",290.0,148.0,45.0,05000US51630,51,630,D,Owner,80.1-95% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",90.0,85.0,46.0,05000US51630,51,630,S,Owner,80.1-95% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,47.0,05000US51630,51,630,D,Owner,80.1-95% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",90.0,85.0,48.0,05000US51630,51,630,D,Owner,80.1-95% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,49.0,05000US51630,51,630,S,Owner,80.1-95% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,50.0,05000US51630,51,630,D,Owner,80.1-95% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",0.0,161.0,51.0,05000US51630,51,630,D,Owner,80.1-95% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,52.0,05000US51630,51,630,S,Owner,80.1-95% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,53.0,05000US51630,51,630,D,Owner,80.1-95% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,54.0,05000US51630,51,630,D,Owner,80.1-95% AMI,N/A,standard
+"Fredericksburg city, Virginia",1450.0,316.0,55.0,05000US51630,51,630,S,Owner,95.1% AMI and above,All,All
+"Fredericksburg city, Virginia",1390.0,316.0,56.0,05000US51630,51,630,S,Owner,95.1% AMI and above,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,57.0,05000US51630,51,630,D,Owner,95.1% AMI and above,No cost burden,substandard
+"Fredericksburg city, Virginia",1390.0,316.0,58.0,05000US51630,51,630,D,Owner,95.1% AMI and above,No cost burden,standard
+"Fredericksburg city, Virginia",50.0,47.0,59.0,05000US51630,51,630,S,Owner,95.1% AMI and above,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,60.0,05000US51630,51,630,D,Owner,95.1% AMI and above,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",50.0,47.0,61.0,05000US51630,51,630,D,Owner,95.1% AMI and above,Moderate cost burden,standard
+"Fredericksburg city, Virginia",15.0,24.0,62.0,05000US51630,51,630,S,Owner,95.1% AMI and above,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,63.0,05000US51630,51,630,D,Owner,95.1% AMI and above,Severe cost burden,substandard
+"Fredericksburg city, Virginia",15.0,24.0,64.0,05000US51630,51,630,D,Owner,95.1% AMI and above,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,65.0,05000US51630,51,630,S,Owner,95.1% AMI and above,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,66.0,05000US51630,51,630,D,Owner,95.1% AMI and above,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,67.0,05000US51630,51,630,D,Owner,95.1% AMI and above,N/A,standard
+"Fredericksburg city, Virginia",5345.0,523.0,68.0,05000US51630,51,630,S,Renter,All,All,All
+"Fredericksburg city, Virginia",1790.0,315.0,69.0,05000US51630,51,630,S,Renter,30% AMI or less,All,All
+"Fredericksburg city, Virginia",260.0,153.0,70.0,05000US51630,51,630,S,Renter,30% AMI or less,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,71.0,05000US51630,51,630,D,Renter,30% AMI or less,No cost burden,substandard
+"Fredericksburg city, Virginia",260.0,153.0,72.0,05000US51630,51,630,D,Renter,30% AMI or less,No cost burden,standard
+"Fredericksburg city, Virginia",25.0,47.0,73.0,05000US51630,51,630,S,Renter,30% AMI or less,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,74.0,05000US51630,51,630,D,Renter,30% AMI or less,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",25.0,47.0,75.0,05000US51630,51,630,D,Renter,30% AMI or less,Moderate cost burden,standard
+"Fredericksburg city, Virginia",1460.0,317.0,76.0,05000US51630,51,630,S,Renter,30% AMI or less,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,77.0,05000US51630,51,630,D,Renter,30% AMI or less,Severe cost burden,substandard
+"Fredericksburg city, Virginia",1460.0,317.0,78.0,05000US51630,51,630,D,Renter,30% AMI or less,Severe cost burden,standard
+"Fredericksburg city, Virginia",45.0,44.0,79.0,05000US51630,51,630,S,Renter,30% AMI or less,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,80.0,05000US51630,51,630,D,Renter,30% AMI or less,N/A,substandard
+"Fredericksburg city, Virginia",45.0,44.0,81.0,05000US51630,51,630,D,Renter,30% AMI or less,N/A,standard
+"Fredericksburg city, Virginia",1365.0,344.0,82.0,05000US51630,51,630,S,Renter,30.1-50% AMI,All,All
+"Fredericksburg city, Virginia",325.0,156.0,83.0,05000US51630,51,630,S,Renter,30.1-50% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,84.0,05000US51630,51,630,D,Renter,30.1-50% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",325.0,156.0,85.0,05000US51630,51,630,D,Renter,30.1-50% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",890.0,285.0,86.0,05000US51630,51,630,S,Renter,30.1-50% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,87.0,05000US51630,51,630,D,Renter,30.1-50% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",890.0,285.0,88.0,05000US51630,51,630,D,Renter,30.1-50% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",150.0,122.0,89.0,05000US51630,51,630,S,Renter,30.1-50% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,90.0,05000US51630,51,630,D,Renter,30.1-50% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",150.0,122.0,91.0,05000US51630,51,630,D,Renter,30.1-50% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,92.0,05000US51630,51,630,S,Renter,30.1-50% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,93.0,05000US51630,51,630,D,Renter,30.1-50% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,94.0,05000US51630,51,630,D,Renter,30.1-50% AMI,N/A,standard
+"Fredericksburg city, Virginia",1005.0,253.0,95.0,05000US51630,51,630,S,Renter,50.1-80% AMI,All,All
+"Fredericksburg city, Virginia",715.0,220.0,96.0,05000US51630,51,630,S,Renter,50.1-80% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,97.0,05000US51630,51,630,D,Renter,50.1-80% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",715.0,220.0,98.0,05000US51630,51,630,D,Renter,50.1-80% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",290.0,153.0,99.0,05000US51630,51,630,S,Renter,50.1-80% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,100.0,05000US51630,51,630,D,Renter,50.1-80% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",290.0,153.0,101.0,05000US51630,51,630,D,Renter,50.1-80% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,102.0,05000US51630,51,630,S,Renter,50.1-80% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,103.0,05000US51630,51,630,D,Renter,50.1-80% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",0.0,161.0,104.0,05000US51630,51,630,D,Renter,50.1-80% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,105.0,05000US51630,51,630,S,Renter,50.1-80% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,106.0,05000US51630,51,630,D,Renter,50.1-80% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,107.0,05000US51630,51,630,D,Renter,50.1-80% AMI,N/A,standard
+"Fredericksburg city, Virginia",480.0,261.0,108.0,05000US51630,51,630,S,Renter,80.1-95% AMI,All,All
+"Fredericksburg city, Virginia",435.0,263.0,109.0,05000US51630,51,630,S,Renter,80.1-95% AMI,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,110.0,05000US51630,51,630,D,Renter,80.1-95% AMI,No cost burden,substandard
+"Fredericksburg city, Virginia",435.0,263.0,111.0,05000US51630,51,630,D,Renter,80.1-95% AMI,No cost burden,standard
+"Fredericksburg city, Virginia",45.0,45.0,112.0,05000US51630,51,630,S,Renter,80.1-95% AMI,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,113.0,05000US51630,51,630,D,Renter,80.1-95% AMI,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",45.0,45.0,114.0,05000US51630,51,630,D,Renter,80.1-95% AMI,Moderate cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,115.0,05000US51630,51,630,S,Renter,80.1-95% AMI,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,116.0,05000US51630,51,630,D,Renter,80.1-95% AMI,Severe cost burden,substandard
+"Fredericksburg city, Virginia",0.0,161.0,117.0,05000US51630,51,630,D,Renter,80.1-95% AMI,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,118.0,05000US51630,51,630,S,Renter,80.1-95% AMI,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,119.0,05000US51630,51,630,D,Renter,80.1-95% AMI,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,120.0,05000US51630,51,630,D,Renter,80.1-95% AMI,N/A,standard
+"Fredericksburg city, Virginia",710.0,223.0,121.0,05000US51630,51,630,S,Renter,95.1% AMI and above,All,All
+"Fredericksburg city, Virginia",710.0,223.0,122.0,05000US51630,51,630,S,Renter,95.1% AMI and above,No cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,123.0,05000US51630,51,630,D,Renter,95.1% AMI and above,No cost burden,substandard
+"Fredericksburg city, Virginia",710.0,223.0,124.0,05000US51630,51,630,D,Renter,95.1% AMI and above,No cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,125.0,05000US51630,51,630,S,Renter,95.1% AMI and above,Moderate cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,126.0,05000US51630,51,630,D,Renter,95.1% AMI and above,Moderate cost burden,substandard
+"Fredericksburg city, Virginia",0.0,161.0,127.0,05000US51630,51,630,D,Renter,95.1% AMI and above,Moderate cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,128.0,05000US51630,51,630,S,Renter,95.1% AMI and above,Severe cost burden,All
+"Fredericksburg city, Virginia",0.0,161.0,129.0,05000US51630,51,630,D,Renter,95.1% AMI and above,Severe cost burden,substandard
+"Fredericksburg city, Virginia",0.0,161.0,130.0,05000US51630,51,630,D,Renter,95.1% AMI and above,Severe cost burden,standard
+"Fredericksburg city, Virginia",0.0,161.0,131.0,05000US51630,51,630,S,Renter,95.1% AMI and above,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,132.0,05000US51630,51,630,D,Renter,95.1% AMI and above,N/A,substandard
+"Fredericksburg city, Virginia",0.0,161.0,133.0,05000US51630,51,630,D,Renter,95.1% AMI and above,N/A,standard

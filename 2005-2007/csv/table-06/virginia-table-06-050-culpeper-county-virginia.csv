@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Culpeper County, Virginia",16345.0,352.0,1.0,05000US51047,51,047,T,All,All,All,All
+"Culpeper County, Virginia",11420.0,492.0,2.0,05000US51047,51,047,S,Owner,All,All,All
+"Culpeper County, Virginia",3625.0,546.0,3.0,05000US51047,51,047,S,Owner,Yes,All,All
+"Culpeper County, Virginia",555.0,235.0,4.0,05000US51047,51,047,S,Owner,Yes,30% AMI or less,All
+"Culpeper County, Virginia",115.0,91.0,5.0,05000US51047,51,047,D,Owner,Yes,30% AMI or less,Disabled
+"Culpeper County, Virginia",435.0,234.0,6.0,05000US51047,51,047,D,Owner,Yes,30% AMI or less,Not disabled
+"Culpeper County, Virginia",325.0,154.0,7.0,05000US51047,51,047,S,Owner,Yes,30.1-50% AMI,All
+"Culpeper County, Virginia",100.0,76.0,8.0,05000US51047,51,047,D,Owner,Yes,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",225.0,128.0,9.0,05000US51047,51,047,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",900.0,236.0,10.0,05000US51047,51,047,S,Owner,Yes,50.1-80% AMI,All
+"Culpeper County, Virginia",90.0,71.0,11.0,05000US51047,51,047,D,Owner,Yes,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",810.0,230.0,12.0,05000US51047,51,047,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",1845.0,381.0,13.0,05000US51047,51,047,S,Owner,Yes,80.1% AMI and above,All
+"Culpeper County, Virginia",240.0,151.0,14.0,05000US51047,51,047,D,Owner,Yes,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",1605.0,349.0,15.0,05000US51047,51,047,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Culpeper County, Virginia",7750.0,550.0,16.0,05000US51047,51,047,S,Owner,No,All,All
+"Culpeper County, Virginia",85.0,73.0,17.0,05000US51047,51,047,S,Owner,No,30% AMI or less,All
+"Culpeper County, Virginia",40.0,49.0,18.0,05000US51047,51,047,D,Owner,No,30% AMI or less,Disabled
+"Culpeper County, Virginia",50.0,53.0,19.0,05000US51047,51,047,D,Owner,No,30% AMI or less,Not disabled
+"Culpeper County, Virginia",505.0,181.0,20.0,05000US51047,51,047,S,Owner,No,30.1-50% AMI,All
+"Culpeper County, Virginia",90.0,68.0,21.0,05000US51047,51,047,D,Owner,No,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",415.0,168.0,22.0,05000US51047,51,047,D,Owner,No,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",865.0,251.0,23.0,05000US51047,51,047,S,Owner,No,50.1-80% AMI,All
+"Culpeper County, Virginia",220.0,126.0,24.0,05000US51047,51,047,D,Owner,No,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",645.0,224.0,25.0,05000US51047,51,047,D,Owner,No,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",6295.0,548.0,26.0,05000US51047,51,047,S,Owner,No,80.1% AMI and above,All
+"Culpeper County, Virginia",590.0,253.0,27.0,05000US51047,51,047,D,Owner,No,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",5705.0,525.0,28.0,05000US51047,51,047,D,Owner,No,80.1% AMI and above,Not disabled
+"Culpeper County, Virginia",45.0,50.0,29.0,05000US51047,51,047,S,Owner,N/A,All,All
+"Culpeper County, Virginia",45.0,50.0,30.0,05000US51047,51,047,S,Owner,N/A,30% AMI or less,All
+"Culpeper County, Virginia",0.0,161.0,31.0,05000US51047,51,047,D,Owner,N/A,30% AMI or less,Disabled
+"Culpeper County, Virginia",45.0,50.0,32.0,05000US51047,51,047,D,Owner,N/A,30% AMI or less,Not disabled
+"Culpeper County, Virginia",0.0,161.0,33.0,05000US51047,51,047,S,Owner,N/A,30.1-50% AMI,All
+"Culpeper County, Virginia",0.0,161.0,34.0,05000US51047,51,047,D,Owner,N/A,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",0.0,161.0,35.0,05000US51047,51,047,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",0.0,161.0,36.0,05000US51047,51,047,S,Owner,N/A,50.1-80% AMI,All
+"Culpeper County, Virginia",0.0,161.0,37.0,05000US51047,51,047,D,Owner,N/A,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",0.0,161.0,38.0,05000US51047,51,047,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",0.0,161.0,39.0,05000US51047,51,047,S,Owner,N/A,80.1% AMI and above,All
+"Culpeper County, Virginia",0.0,161.0,40.0,05000US51047,51,047,D,Owner,N/A,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",0.0,161.0,41.0,05000US51047,51,047,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Culpeper County, Virginia",4925.0,478.0,42.0,05000US51047,51,047,S,Renter,All,All,All
+"Culpeper County, Virginia",2460.0,507.0,43.0,05000US51047,51,047,S,Renter,Yes,All,All
+"Culpeper County, Virginia",720.0,266.0,44.0,05000US51047,51,047,S,Renter,Yes,30% AMI or less,All
+"Culpeper County, Virginia",110.0,74.0,45.0,05000US51047,51,047,D,Renter,Yes,30% AMI or less,Disabled
+"Culpeper County, Virginia",615.0,252.0,46.0,05000US51047,51,047,D,Renter,Yes,30% AMI or less,Not disabled
+"Culpeper County, Virginia",665.0,307.0,47.0,05000US51047,51,047,S,Renter,Yes,30.1-50% AMI,All
+"Culpeper County, Virginia",65.0,81.0,48.0,05000US51047,51,047,D,Renter,Yes,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",600.0,299.0,49.0,05000US51047,51,047,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",860.0,391.0,50.0,05000US51047,51,047,S,Renter,Yes,50.1-80% AMI,All
+"Culpeper County, Virginia",75.0,98.0,51.0,05000US51047,51,047,D,Renter,Yes,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",785.0,372.0,52.0,05000US51047,51,047,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",215.0,123.0,53.0,05000US51047,51,047,S,Renter,Yes,80.1% AMI and above,All
+"Culpeper County, Virginia",45.0,51.0,54.0,05000US51047,51,047,D,Renter,Yes,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",170.0,125.0,55.0,05000US51047,51,047,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Culpeper County, Virginia",1985.0,412.0,56.0,05000US51047,51,047,S,Renter,No,All,All
+"Culpeper County, Virginia",195.0,191.0,57.0,05000US51047,51,047,S,Renter,No,30% AMI or less,All
+"Culpeper County, Virginia",170.0,190.0,58.0,05000US51047,51,047,D,Renter,No,30% AMI or less,Disabled
+"Culpeper County, Virginia",25.0,42.0,59.0,05000US51047,51,047,D,Renter,No,30% AMI or less,Not disabled
+"Culpeper County, Virginia",50.0,79.0,60.0,05000US51047,51,047,S,Renter,No,30.1-50% AMI,All
+"Culpeper County, Virginia",4.0,4.0,61.0,05000US51047,51,047,D,Renter,No,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",45.0,79.0,62.0,05000US51047,51,047,D,Renter,No,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",470.0,232.0,63.0,05000US51047,51,047,S,Renter,No,50.1-80% AMI,All
+"Culpeper County, Virginia",25.0,42.0,64.0,05000US51047,51,047,D,Renter,No,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",445.0,230.0,65.0,05000US51047,51,047,D,Renter,No,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",1270.0,364.0,66.0,05000US51047,51,047,S,Renter,No,80.1% AMI and above,All
+"Culpeper County, Virginia",80.0,77.0,67.0,05000US51047,51,047,D,Renter,No,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",1190.0,361.0,68.0,05000US51047,51,047,D,Renter,No,80.1% AMI and above,Not disabled
+"Culpeper County, Virginia",480.0,195.0,69.0,05000US51047,51,047,S,Renter,N/A,All,All
+"Culpeper County, Virginia",230.0,154.0,70.0,05000US51047,51,047,S,Renter,N/A,30% AMI or less,All
+"Culpeper County, Virginia",25.0,42.0,71.0,05000US51047,51,047,D,Renter,N/A,30% AMI or less,Disabled
+"Culpeper County, Virginia",205.0,145.0,72.0,05000US51047,51,047,D,Renter,N/A,30% AMI or less,Not disabled
+"Culpeper County, Virginia",45.0,55.0,73.0,05000US51047,51,047,S,Renter,N/A,30.1-50% AMI,All
+"Culpeper County, Virginia",0.0,161.0,74.0,05000US51047,51,047,D,Renter,N/A,30.1-50% AMI,Disabled
+"Culpeper County, Virginia",45.0,55.0,75.0,05000US51047,51,047,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Culpeper County, Virginia",115.0,87.0,76.0,05000US51047,51,047,S,Renter,N/A,50.1-80% AMI,All
+"Culpeper County, Virginia",0.0,161.0,77.0,05000US51047,51,047,D,Renter,N/A,50.1-80% AMI,Disabled
+"Culpeper County, Virginia",115.0,87.0,78.0,05000US51047,51,047,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Culpeper County, Virginia",90.0,78.0,79.0,05000US51047,51,047,S,Renter,N/A,80.1% AMI and above,All
+"Culpeper County, Virginia",0.0,161.0,80.0,05000US51047,51,047,D,Renter,N/A,80.1% AMI and above,Disabled
+"Culpeper County, Virginia",90.0,78.0,81.0,05000US51047,51,047,D,Renter,N/A,80.1% AMI and above,Not disabled

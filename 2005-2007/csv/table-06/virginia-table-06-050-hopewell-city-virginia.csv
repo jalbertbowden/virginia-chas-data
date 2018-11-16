@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Hopewell city, Virginia",8740.0,394.0,1.0,05000US51670,51,670,T,All,All,All,All
+"Hopewell city, Virginia",4490.0,458.0,2.0,05000US51670,51,670,S,Owner,All,All,All
+"Hopewell city, Virginia",945.0,242.0,3.0,05000US51670,51,670,S,Owner,Yes,All,All
+"Hopewell city, Virginia",270.0,148.0,4.0,05000US51670,51,670,S,Owner,Yes,30% AMI or less,All
+"Hopewell city, Virginia",70.0,62.0,5.0,05000US51670,51,670,D,Owner,Yes,30% AMI or less,Disabled
+"Hopewell city, Virginia",200.0,137.0,6.0,05000US51670,51,670,D,Owner,Yes,30% AMI or less,Not disabled
+"Hopewell city, Virginia",220.0,119.0,7.0,05000US51670,51,670,S,Owner,Yes,30.1-50% AMI,All
+"Hopewell city, Virginia",30.0,43.0,8.0,05000US51670,51,670,D,Owner,Yes,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",190.0,110.0,9.0,05000US51670,51,670,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",210.0,113.0,10.0,05000US51670,51,670,S,Owner,Yes,50.1-80% AMI,All
+"Hopewell city, Virginia",0.0,161.0,11.0,05000US51670,51,670,D,Owner,Yes,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",210.0,113.0,12.0,05000US51670,51,670,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",245.0,144.0,13.0,05000US51670,51,670,S,Owner,Yes,80.1% AMI and above,All
+"Hopewell city, Virginia",15.0,27.0,14.0,05000US51670,51,670,D,Owner,Yes,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",230.0,140.0,15.0,05000US51670,51,670,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Hopewell city, Virginia",3530.0,433.0,16.0,05000US51670,51,670,S,Owner,No,All,All
+"Hopewell city, Virginia",25.0,31.0,17.0,05000US51670,51,670,S,Owner,No,30% AMI or less,All
+"Hopewell city, Virginia",25.0,31.0,18.0,05000US51670,51,670,D,Owner,No,30% AMI or less,Disabled
+"Hopewell city, Virginia",0.0,161.0,19.0,05000US51670,51,670,D,Owner,No,30% AMI or less,Not disabled
+"Hopewell city, Virginia",275.0,116.0,20.0,05000US51670,51,670,S,Owner,No,30.1-50% AMI,All
+"Hopewell city, Virginia",190.0,105.0,21.0,05000US51670,51,670,D,Owner,No,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",90.0,62.0,22.0,05000US51670,51,670,D,Owner,No,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",750.0,238.0,23.0,05000US51670,51,670,S,Owner,No,50.1-80% AMI,All
+"Hopewell city, Virginia",150.0,102.0,24.0,05000US51670,51,670,D,Owner,No,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",595.0,205.0,25.0,05000US51670,51,670,D,Owner,No,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",2480.0,425.0,26.0,05000US51670,51,670,S,Owner,No,80.1% AMI and above,All
+"Hopewell city, Virginia",175.0,100.0,27.0,05000US51670,51,670,D,Owner,No,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",2305.0,404.0,28.0,05000US51670,51,670,D,Owner,No,80.1% AMI and above,Not disabled
+"Hopewell city, Virginia",15.0,28.0,29.0,05000US51670,51,670,S,Owner,N/A,All,All
+"Hopewell city, Virginia",15.0,28.0,30.0,05000US51670,51,670,S,Owner,N/A,30% AMI or less,All
+"Hopewell city, Virginia",15.0,28.0,31.0,05000US51670,51,670,D,Owner,N/A,30% AMI or less,Disabled
+"Hopewell city, Virginia",0.0,161.0,32.0,05000US51670,51,670,D,Owner,N/A,30% AMI or less,Not disabled
+"Hopewell city, Virginia",0.0,161.0,33.0,05000US51670,51,670,S,Owner,N/A,30.1-50% AMI,All
+"Hopewell city, Virginia",0.0,161.0,34.0,05000US51670,51,670,D,Owner,N/A,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",0.0,161.0,35.0,05000US51670,51,670,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",0.0,161.0,36.0,05000US51670,51,670,S,Owner,N/A,50.1-80% AMI,All
+"Hopewell city, Virginia",0.0,161.0,37.0,05000US51670,51,670,D,Owner,N/A,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",0.0,161.0,38.0,05000US51670,51,670,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",0.0,161.0,39.0,05000US51670,51,670,S,Owner,N/A,80.1% AMI and above,All
+"Hopewell city, Virginia",0.0,161.0,40.0,05000US51670,51,670,D,Owner,N/A,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",0.0,161.0,41.0,05000US51670,51,670,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Hopewell city, Virginia",4250.0,497.0,42.0,05000US51670,51,670,S,Renter,All,All,All
+"Hopewell city, Virginia",1840.0,357.0,43.0,05000US51670,51,670,S,Renter,Yes,All,All
+"Hopewell city, Virginia",815.0,255.0,44.0,05000US51670,51,670,S,Renter,Yes,30% AMI or less,All
+"Hopewell city, Virginia",190.0,121.0,45.0,05000US51670,51,670,D,Renter,Yes,30% AMI or less,Disabled
+"Hopewell city, Virginia",630.0,214.0,46.0,05000US51670,51,670,D,Renter,Yes,30% AMI or less,Not disabled
+"Hopewell city, Virginia",630.0,220.0,47.0,05000US51670,51,670,S,Renter,Yes,30.1-50% AMI,All
+"Hopewell city, Virginia",0.0,161.0,48.0,05000US51670,51,670,D,Renter,Yes,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",630.0,220.0,49.0,05000US51670,51,670,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",380.0,210.0,50.0,05000US51670,51,670,S,Renter,Yes,50.1-80% AMI,All
+"Hopewell city, Virginia",110.0,151.0,51.0,05000US51670,51,670,D,Renter,Yes,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",265.0,159.0,52.0,05000US51670,51,670,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",10.0,19.0,53.0,05000US51670,51,670,S,Renter,Yes,80.1% AMI and above,All
+"Hopewell city, Virginia",10.0,19.0,54.0,05000US51670,51,670,D,Renter,Yes,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",0.0,161.0,55.0,05000US51670,51,670,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Hopewell city, Virginia",2295.0,431.0,56.0,05000US51670,51,670,S,Renter,No,All,All
+"Hopewell city, Virginia",355.0,193.0,57.0,05000US51670,51,670,S,Renter,No,30% AMI or less,All
+"Hopewell city, Virginia",105.0,112.0,58.0,05000US51670,51,670,D,Renter,No,30% AMI or less,Disabled
+"Hopewell city, Virginia",245.0,168.0,59.0,05000US51670,51,670,D,Renter,No,30% AMI or less,Not disabled
+"Hopewell city, Virginia",215.0,125.0,60.0,05000US51670,51,670,S,Renter,No,30.1-50% AMI,All
+"Hopewell city, Virginia",10.0,15.0,61.0,05000US51670,51,670,D,Renter,No,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",205.0,123.0,62.0,05000US51670,51,670,D,Renter,No,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",725.0,291.0,63.0,05000US51670,51,670,S,Renter,No,50.1-80% AMI,All
+"Hopewell city, Virginia",20.0,34.0,64.0,05000US51670,51,670,D,Renter,No,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",705.0,293.0,65.0,05000US51670,51,670,D,Renter,No,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",1005.0,266.0,66.0,05000US51670,51,670,S,Renter,No,80.1% AMI and above,All
+"Hopewell city, Virginia",50.0,42.0,67.0,05000US51670,51,670,D,Renter,No,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",955.0,261.0,68.0,05000US51670,51,670,D,Renter,No,80.1% AMI and above,Not disabled
+"Hopewell city, Virginia",115.0,96.0,69.0,05000US51670,51,670,S,Renter,N/A,All,All
+"Hopewell city, Virginia",95.0,90.0,70.0,05000US51670,51,670,S,Renter,N/A,30% AMI or less,All
+"Hopewell city, Virginia",0.0,161.0,71.0,05000US51670,51,670,D,Renter,N/A,30% AMI or less,Disabled
+"Hopewell city, Virginia",95.0,90.0,72.0,05000US51670,51,670,D,Renter,N/A,30% AMI or less,Not disabled
+"Hopewell city, Virginia",0.0,161.0,73.0,05000US51670,51,670,S,Renter,N/A,30.1-50% AMI,All
+"Hopewell city, Virginia",0.0,161.0,74.0,05000US51670,51,670,D,Renter,N/A,30.1-50% AMI,Disabled
+"Hopewell city, Virginia",0.0,161.0,75.0,05000US51670,51,670,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Hopewell city, Virginia",0.0,161.0,76.0,05000US51670,51,670,S,Renter,N/A,50.1-80% AMI,All
+"Hopewell city, Virginia",0.0,161.0,77.0,05000US51670,51,670,D,Renter,N/A,50.1-80% AMI,Disabled
+"Hopewell city, Virginia",0.0,161.0,78.0,05000US51670,51,670,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Hopewell city, Virginia",20.0,32.0,79.0,05000US51670,51,670,S,Renter,N/A,80.1% AMI and above,All
+"Hopewell city, Virginia",20.0,32.0,80.0,05000US51670,51,670,D,Renter,N/A,80.1% AMI and above,Disabled
+"Hopewell city, Virginia",0.0,161.0,81.0,05000US51670,51,670,D,Renter,N/A,80.1% AMI and above,Not disabled

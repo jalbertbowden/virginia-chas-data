@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Campbell County, Virginia",285.0,170.0,1.0,05000US51031,51,031,T,All,All,All
+"Campbell County, Virginia",0.0,161.0,2.0,05000US51031,51,031,S,Substandard,All,All
+"Campbell County, Virginia",285.0,170.0,3.0,05000US51031,51,031,S,Standard,All,All
+"Campbell County, Virginia",20.0,36.0,4.0,05000US51031,51,031,S,Standard,RHUD30,All
+"Campbell County, Virginia",0.0,161.0,5.0,05000US51031,51,031,D,Standard,RHUD30,0 or 1
+"Campbell County, Virginia",0.0,161.0,6.0,05000US51031,51,031,D,Standard,RHUD30,2
+"Campbell County, Virginia",20.0,36.0,7.0,05000US51031,51,031,D,Standard,RHUD30,3 or more
+"Campbell County, Virginia",260.0,166.0,8.0,05000US51031,51,031,S,Standard,RHUD50,All
+"Campbell County, Virginia",50.0,64.0,9.0,05000US51031,51,031,D,Standard,RHUD50,0 or 1
+"Campbell County, Virginia",110.0,110.0,10.0,05000US51031,51,031,D,Standard,RHUD50,2
+"Campbell County, Virginia",100.0,109.0,11.0,05000US51031,51,031,D,Standard,RHUD50,3 or more
+"Campbell County, Virginia",0.0,161.0,12.0,05000US51031,51,031,S,Standard,RHUD80,All
+"Campbell County, Virginia",0.0,161.0,13.0,05000US51031,51,031,D,Standard,RHUD80,0 or 1
+"Campbell County, Virginia",0.0,161.0,14.0,05000US51031,51,031,D,Standard,RHUD80,2
+"Campbell County, Virginia",0.0,161.0,15.0,05000US51031,51,031,D,Standard,RHUD80,3 or more
+"Campbell County, Virginia",0.0,161.0,16.0,05000US51031,51,031,S,Standard,Greater than RHUD80,All
+"Campbell County, Virginia",0.0,161.0,17.0,05000US51031,51,031,D,Standard,Greater than RHUD80,0 or 1
+"Campbell County, Virginia",0.0,161.0,18.0,05000US51031,51,031,D,Standard,Greater than RHUD80,2
+"Campbell County, Virginia",0.0,161.0,19.0,05000US51031,51,031,D,Standard,Greater than RHUD80,3 or more

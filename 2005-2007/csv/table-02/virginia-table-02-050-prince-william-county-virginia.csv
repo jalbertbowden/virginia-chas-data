@@ -1,0 +1,250 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Severe_Housing_Problems,Household_Income,Race
+"Prince William County, Virginia",121995.0,1161.0,1.0,05000US51153,51,153,T,All,All,All,All
+"Prince William County, Virginia",91665.0,1514.0,2.0,05000US51153,51,153,S,Owner,All,All,All
+"Prince William County, Virginia",11625.0,987.0,3.0,05000US51153,51,153,S,Owner,Yes,All,All
+"Prince William County, Virginia",2875.0,533.0,4.0,05000US51153,51,153,S,Owner,Yes,30% AMI or less,All
+"Prince William County, Virginia",1400.0,344.0,5.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,White
+"Prince William County, Virginia",445.0,212.0,6.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,Black
+"Prince William County, Virginia",350.0,220.0,7.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,8.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,9.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",565.0,179.0,10.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,Hispanic
+"Prince William County, Virginia",115.0,124.0,11.0,05000US51153,51,153,D,Owner,Yes,30% AMI or less,Other
+"Prince William County, Virginia",3470.0,624.0,12.0,05000US51153,51,153,S,Owner,Yes,30.1-50% AMI,All
+"Prince William County, Virginia",1070.0,350.0,13.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,White
+"Prince William County, Virginia",420.0,242.0,14.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,Black
+"Prince William County, Virginia",565.0,279.0,15.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,Asian
+"Prince William County, Virginia",10.0,18.0,16.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,17.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",1360.0,379.0,18.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",45.0,52.0,19.0,05000US51153,51,153,D,Owner,Yes,30.1-50% AMI,Other
+"Prince William County, Virginia",3325.0,564.0,20.0,05000US51153,51,153,S,Owner,Yes,50.1-80% AMI,All
+"Prince William County, Virginia",1070.0,261.0,21.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,White
+"Prince William County, Virginia",755.0,357.0,22.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,Black
+"Prince William County, Virginia",365.0,158.0,23.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,24.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,25.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",1055.0,321.0,26.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",75.0,95.0,27.0,05000US51153,51,153,D,Owner,Yes,50.1-80% AMI,Other
+"Prince William County, Virginia",800.0,204.0,28.0,05000US51153,51,153,S,Owner,Yes,80.1-95% AMI,All
+"Prince William County, Virginia",240.0,122.0,29.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,White
+"Prince William County, Virginia",160.0,99.0,30.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,Black
+"Prince William County, Virginia",105.0,100.0,31.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,32.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,33.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",270.0,147.0,34.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",30.0,47.0,35.0,05000US51153,51,153,D,Owner,Yes,80.1-95% AMI,Other
+"Prince William County, Virginia",1155.0,371.0,36.0,05000US51153,51,153,S,Owner,Yes,95.1% AMI and above,All
+"Prince William County, Virginia",575.0,213.0,37.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,White
+"Prince William County, Virginia",360.0,232.0,38.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,Black
+"Prince William County, Virginia",70.0,74.0,39.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,Asian
+"Prince William County, Virginia",0.0,161.0,40.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,American Indian
+"Prince William County, Virginia",0.0,161.0,41.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",150.0,146.0,42.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",0.0,161.0,43.0,05000US51153,51,153,D,Owner,Yes,95.1% AMI and above,Other
+"Prince William County, Virginia",79865.0,1418.0,44.0,05000US51153,51,153,S,Owner,No,All,All
+"Prince William County, Virginia",790.0,296.0,45.0,05000US51153,51,153,S,Owner,No,30% AMI or less,All
+"Prince William County, Virginia",505.0,240.0,46.0,05000US51153,51,153,D,Owner,No,30% AMI or less,White
+"Prince William County, Virginia",135.0,102.0,47.0,05000US51153,51,153,D,Owner,No,30% AMI or less,Black
+"Prince William County, Virginia",50.0,65.0,48.0,05000US51153,51,153,D,Owner,No,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,49.0,05000US51153,51,153,D,Owner,No,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,50.0,05000US51153,51,153,D,Owner,No,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",100.0,104.0,51.0,05000US51153,51,153,D,Owner,No,30% AMI or less,Hispanic
+"Prince William County, Virginia",0.0,161.0,52.0,05000US51153,51,153,D,Owner,No,30% AMI or less,Other
+"Prince William County, Virginia",2840.0,502.0,53.0,05000US51153,51,153,S,Owner,No,30.1-50% AMI,All
+"Prince William County, Virginia",1720.0,343.0,54.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,White
+"Prince William County, Virginia",420.0,254.0,55.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,Black
+"Prince William County, Virginia",365.0,213.0,56.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,57.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,58.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",335.0,205.0,59.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,60.0,05000US51153,51,153,D,Owner,No,30.1-50% AMI,Other
+"Prince William County, Virginia",11150.0,1089.0,61.0,05000US51153,51,153,S,Owner,No,50.1-80% AMI,All
+"Prince William County, Virginia",6020.0,717.0,62.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,White
+"Prince William County, Virginia",1885.0,511.0,63.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,Black
+"Prince William County, Virginia",820.0,273.0,64.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,65.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,66.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",2350.0,520.0,67.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",75.0,85.0,68.0,05000US51153,51,153,D,Owner,No,50.1-80% AMI,Other
+"Prince William County, Virginia",8570.0,815.0,69.0,05000US51153,51,153,S,Owner,No,80.1-95% AMI,All
+"Prince William County, Virginia",5260.0,644.0,70.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,White
+"Prince William County, Virginia",1295.0,326.0,71.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,Black
+"Prince William County, Virginia",570.0,191.0,72.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,73.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,74.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",1290.0,369.0,75.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",155.0,157.0,76.0,05000US51153,51,153,D,Owner,No,80.1-95% AMI,Other
+"Prince William County, Virginia",56520.0,1587.0,77.0,05000US51153,51,153,S,Owner,No,95.1% AMI and above,All
+"Prince William County, Virginia",39240.0,1261.0,78.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,White
+"Prince William County, Virginia",7965.0,752.0,79.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,Black
+"Prince William County, Virginia",3780.0,524.0,80.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,Asian
+"Prince William County, Virginia",295.0,134.0,81.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,American Indian
+"Prince William County, Virginia",0.0,161.0,82.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",4605.0,619.0,83.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",640.0,241.0,84.0,05000US51153,51,153,D,Owner,No,95.1% AMI and above,Other
+"Prince William County, Virginia",180.0,141.0,85.0,05000US51153,51,153,S,Owner,N/A,All,All
+"Prince William County, Virginia",180.0,141.0,86.0,05000US51153,51,153,S,Owner,N/A,30% AMI or less,All
+"Prince William County, Virginia",40.0,49.0,87.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,White
+"Prince William County, Virginia",0.0,161.0,88.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,Black
+"Prince William County, Virginia",30.0,47.0,89.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,90.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,91.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",110.0,122.0,92.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,Hispanic
+"Prince William County, Virginia",0.0,161.0,93.0,05000US51153,51,153,D,Owner,N/A,30% AMI or less,Other
+"Prince William County, Virginia",0.0,161.0,94.0,05000US51153,51,153,S,Owner,N/A,30.1-50% AMI,All
+"Prince William County, Virginia",0.0,161.0,95.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,White
+"Prince William County, Virginia",0.0,161.0,96.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,Black
+"Prince William County, Virginia",0.0,161.0,97.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,98.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,99.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,100.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,101.0,05000US51153,51,153,D,Owner,N/A,30.1-50% AMI,Other
+"Prince William County, Virginia",0.0,161.0,102.0,05000US51153,51,153,S,Owner,N/A,50.1-80% AMI,All
+"Prince William County, Virginia",0.0,161.0,103.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,White
+"Prince William County, Virginia",0.0,161.0,104.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,Black
+"Prince William County, Virginia",0.0,161.0,105.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,106.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,107.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,108.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,109.0,05000US51153,51,153,D,Owner,N/A,50.1-80% AMI,Other
+"Prince William County, Virginia",0.0,161.0,110.0,05000US51153,51,153,S,Owner,N/A,80.1-95% AMI,All
+"Prince William County, Virginia",0.0,161.0,111.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,White
+"Prince William County, Virginia",0.0,161.0,112.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,Black
+"Prince William County, Virginia",0.0,161.0,113.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,114.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,115.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,116.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,117.0,05000US51153,51,153,D,Owner,N/A,80.1-95% AMI,Other
+"Prince William County, Virginia",0.0,161.0,118.0,05000US51153,51,153,S,Owner,N/A,95.1% AMI and above,All
+"Prince William County, Virginia",0.0,161.0,119.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,White
+"Prince William County, Virginia",0.0,161.0,120.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,Black
+"Prince William County, Virginia",0.0,161.0,121.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,Asian
+"Prince William County, Virginia",0.0,161.0,122.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,American Indian
+"Prince William County, Virginia",0.0,161.0,123.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,124.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",0.0,161.0,125.0,05000US51153,51,153,D,Owner,N/A,95.1% AMI and above,Other
+"Prince William County, Virginia",30325.0,1453.0,126.0,05000US51153,51,153,S,Renter,All,All,All
+"Prince William County, Virginia",6050.0,852.0,127.0,05000US51153,51,153,S,Renter,Yes,All,All
+"Prince William County, Virginia",4180.0,755.0,128.0,05000US51153,51,153,S,Renter,Yes,30% AMI or less,All
+"Prince William County, Virginia",1800.0,479.0,129.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,White
+"Prince William County, Virginia",1190.0,421.0,130.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,Black
+"Prince William County, Virginia",120.0,123.0,131.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,132.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,133.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",820.0,361.0,134.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,Hispanic
+"Prince William County, Virginia",245.0,221.0,135.0,05000US51153,51,153,D,Renter,Yes,30% AMI or less,Other
+"Prince William County, Virginia",1430.0,413.0,136.0,05000US51153,51,153,S,Renter,Yes,30.1-50% AMI,All
+"Prince William County, Virginia",635.0,276.0,137.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,White
+"Prince William County, Virginia",330.0,222.0,138.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,Black
+"Prince William County, Virginia",45.0,51.0,139.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,140.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,141.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",305.0,191.0,142.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",115.0,173.0,143.0,05000US51153,51,153,D,Renter,Yes,30.1-50% AMI,Other
+"Prince William County, Virginia",360.0,192.0,144.0,05000US51153,51,153,S,Renter,Yes,50.1-80% AMI,All
+"Prince William County, Virginia",235.0,147.0,145.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,White
+"Prince William County, Virginia",90.0,111.0,146.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,Black
+"Prince William County, Virginia",15.0,30.0,147.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,148.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,149.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,150.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",15.0,30.0,151.0,05000US51153,51,153,D,Renter,Yes,50.1-80% AMI,Other
+"Prince William County, Virginia",0.0,161.0,152.0,05000US51153,51,153,S,Renter,Yes,80.1-95% AMI,All
+"Prince William County, Virginia",0.0,161.0,153.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,White
+"Prince William County, Virginia",0.0,161.0,154.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,Black
+"Prince William County, Virginia",0.0,161.0,155.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,156.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,157.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,158.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,159.0,05000US51153,51,153,D,Renter,Yes,80.1-95% AMI,Other
+"Prince William County, Virginia",80.0,57.0,160.0,05000US51153,51,153,S,Renter,Yes,95.1% AMI and above,All
+"Prince William County, Virginia",70.0,54.0,161.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,White
+"Prince William County, Virginia",15.0,24.0,162.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,Black
+"Prince William County, Virginia",0.0,161.0,163.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,Asian
+"Prince William County, Virginia",0.0,161.0,164.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,American Indian
+"Prince William County, Virginia",0.0,161.0,165.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,166.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",0.0,161.0,167.0,05000US51153,51,153,D,Renter,Yes,95.1% AMI and above,Other
+"Prince William County, Virginia",23325.0,1396.0,168.0,05000US51153,51,153,S,Renter,No,All,All
+"Prince William County, Virginia",1090.0,345.0,169.0,05000US51153,51,153,S,Renter,No,30% AMI or less,All
+"Prince William County, Virginia",500.0,223.0,170.0,05000US51153,51,153,D,Renter,No,30% AMI or less,White
+"Prince William County, Virginia",420.0,238.0,171.0,05000US51153,51,153,D,Renter,No,30% AMI or less,Black
+"Prince William County, Virginia",50.0,53.0,172.0,05000US51153,51,153,D,Renter,No,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,173.0,05000US51153,51,153,D,Renter,No,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,174.0,05000US51153,51,153,D,Renter,No,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",120.0,138.0,175.0,05000US51153,51,153,D,Renter,No,30% AMI or less,Hispanic
+"Prince William County, Virginia",0.0,161.0,176.0,05000US51153,51,153,D,Renter,No,30% AMI or less,Other
+"Prince William County, Virginia",3345.0,679.0,177.0,05000US51153,51,153,S,Renter,No,30.1-50% AMI,All
+"Prince William County, Virginia",850.0,290.0,178.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,White
+"Prince William County, Virginia",1410.0,483.0,179.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,Black
+"Prince William County, Virginia",95.0,90.0,180.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,Asian
+"Prince William County, Virginia",40.0,65.0,181.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,American Indian
+"Prince William County, Virginia",20.0,39.0,182.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",870.0,341.0,183.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",60.0,62.0,184.0,05000US51153,51,153,D,Renter,No,30.1-50% AMI,Other
+"Prince William County, Virginia",8465.0,1017.0,185.0,05000US51153,51,153,S,Renter,No,50.1-80% AMI,All
+"Prince William County, Virginia",3720.0,693.0,186.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,White
+"Prince William County, Virginia",2410.0,510.0,187.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,Black
+"Prince William County, Virginia",105.0,101.0,188.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,189.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,190.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",2040.0,579.0,191.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",185.0,163.0,192.0,05000US51153,51,153,D,Renter,No,50.1-80% AMI,Other
+"Prince William County, Virginia",3595.0,751.0,193.0,05000US51153,51,153,S,Renter,No,80.1-95% AMI,All
+"Prince William County, Virginia",1895.0,459.0,194.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,White
+"Prince William County, Virginia",1180.0,503.0,195.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,Black
+"Prince William County, Virginia",95.0,126.0,196.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,197.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,198.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",380.0,305.0,199.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",45.0,39.0,200.0,05000US51153,51,153,D,Renter,No,80.1-95% AMI,Other
+"Prince William County, Virginia",6835.0,1085.0,201.0,05000US51153,51,153,S,Renter,No,95.1% AMI and above,All
+"Prince William County, Virginia",3815.0,651.0,202.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,White
+"Prince William County, Virginia",2075.0,670.0,203.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,Black
+"Prince William County, Virginia",175.0,140.0,204.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,Asian
+"Prince William County, Virginia",0.0,161.0,205.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,American Indian
+"Prince William County, Virginia",60.0,113.0,206.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",665.0,294.0,207.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",45.0,59.0,208.0,05000US51153,51,153,D,Renter,No,95.1% AMI and above,Other
+"Prince William County, Virginia",950.0,271.0,209.0,05000US51153,51,153,S,Renter,N/A,All,All
+"Prince William County, Virginia",250.0,162.0,210.0,05000US51153,51,153,S,Renter,N/A,30% AMI or less,All
+"Prince William County, Virginia",140.0,126.0,211.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,White
+"Prince William County, Virginia",30.0,50.0,212.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,Black
+"Prince William County, Virginia",40.0,45.0,213.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,Asian
+"Prince William County, Virginia",0.0,161.0,214.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,American Indian
+"Prince William County, Virginia",0.0,161.0,215.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,Pacific Islander
+"Prince William County, Virginia",35.0,47.0,216.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,Hispanic
+"Prince William County, Virginia",0.0,161.0,217.0,05000US51153,51,153,D,Renter,N/A,30% AMI or less,Other
+"Prince William County, Virginia",215.0,129.0,218.0,05000US51153,51,153,S,Renter,N/A,30.1-50% AMI,All
+"Prince William County, Virginia",95.0,89.0,219.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,White
+"Prince William County, Virginia",50.0,74.0,220.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,Black
+"Prince William County, Virginia",0.0,161.0,221.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,222.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,American Indian
+"Prince William County, Virginia",20.0,48.0,223.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,Pacific Islander
+"Prince William County, Virginia",45.0,53.0,224.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,225.0,05000US51153,51,153,D,Renter,N/A,30.1-50% AMI,Other
+"Prince William County, Virginia",370.0,196.0,226.0,05000US51153,51,153,S,Renter,N/A,50.1-80% AMI,All
+"Prince William County, Virginia",270.0,168.0,227.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,White
+"Prince William County, Virginia",60.0,72.0,228.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,Black
+"Prince William County, Virginia",0.0,161.0,229.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,230.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,231.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,Pacific Islander
+"Prince William County, Virginia",40.0,48.0,232.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,233.0,05000US51153,51,153,D,Renter,N/A,50.1-80% AMI,Other
+"Prince William County, Virginia",100.0,78.0,234.0,05000US51153,51,153,S,Renter,N/A,80.1-95% AMI,All
+"Prince William County, Virginia",100.0,78.0,235.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,White
+"Prince William County, Virginia",0.0,161.0,236.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,Black
+"Prince William County, Virginia",0.0,161.0,237.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,Asian
+"Prince William County, Virginia",0.0,161.0,238.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,American Indian
+"Prince William County, Virginia",0.0,161.0,239.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,240.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,Hispanic
+"Prince William County, Virginia",0.0,161.0,241.0,05000US51153,51,153,D,Renter,N/A,80.1-95% AMI,Other
+"Prince William County, Virginia",25.0,42.0,242.0,05000US51153,51,153,S,Renter,N/A,95.1% AMI and above,All
+"Prince William County, Virginia",25.0,42.0,243.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,White
+"Prince William County, Virginia",0.0,161.0,244.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,Black
+"Prince William County, Virginia",0.0,161.0,245.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,Asian
+"Prince William County, Virginia",0.0,161.0,246.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,American Indian
+"Prince William County, Virginia",0.0,161.0,247.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,Pacific Islander
+"Prince William County, Virginia",0.0,161.0,248.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,Hispanic
+"Prince William County, Virginia",0.0,161.0,249.0,05000US51153,51,153,D,Renter,N/A,95.1% AMI and above,Other

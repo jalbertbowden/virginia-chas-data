@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"Arlington County, Virginia",89525.0,1296.0,1.0,05000US51013,51,013,T,All,All,All
+"Arlington County, Virginia",45710.0,1326.0,2.0,05000US51013,51,013,S,Owner,All,All
+"Arlington County, Virginia",4820.0,434.0,3.0,05000US51013,51,013,S,Owner,"Small family, elderly",All
+"Arlington County, Virginia",4155.0,443.0,4.0,05000US51013,51,013,D,Owner,"Small family, elderly",No cost burden
+"Arlington County, Virginia",290.0,118.0,5.0,05000US51013,51,013,D,Owner,"Small family, elderly",Moderate cost burden
+"Arlington County, Virginia",370.0,143.0,6.0,05000US51013,51,013,D,Owner,"Small family, elderly",Severe cost burden
+"Arlington County, Virginia",0.0,161.0,7.0,05000US51013,51,013,D,Owner,"Small family, elderly",N/A
+"Arlington County, Virginia",18655.0,939.0,8.0,05000US51013,51,013,S,Owner,"Small family, non-elderly",All
+"Arlington County, Virginia",14955.0,857.0,9.0,05000US51013,51,013,D,Owner,"Small family, non-elderly",No cost burden
+"Arlington County, Virginia",2515.0,430.0,10.0,05000US51013,51,013,D,Owner,"Small family, non-elderly",Moderate cost burden
+"Arlington County, Virginia",1185.0,333.0,11.0,05000US51013,51,013,D,Owner,"Small family, non-elderly",Severe cost burden
+"Arlington County, Virginia",0.0,161.0,12.0,05000US51013,51,013,D,Owner,"Small family, non-elderly",N/A
+"Arlington County, Virginia",2635.0,409.0,13.0,05000US51013,51,013,S,Owner,Large family,All
+"Arlington County, Virginia",1875.0,347.0,14.0,05000US51013,51,013,D,Owner,Large family,No cost burden
+"Arlington County, Virginia",555.0,223.0,15.0,05000US51013,51,013,D,Owner,Large family,Moderate cost burden
+"Arlington County, Virginia",175.0,102.0,16.0,05000US51013,51,013,D,Owner,Large family,Severe cost burden
+"Arlington County, Virginia",25.0,44.0,17.0,05000US51013,51,013,D,Owner,Large family,N/A
+"Arlington County, Virginia",5220.0,533.0,18.0,05000US51013,51,013,S,Owner,"Non-family, elderly",All
+"Arlington County, Virginia",3245.0,434.0,19.0,05000US51013,51,013,D,Owner,"Non-family, elderly",No cost burden
+"Arlington County, Virginia",955.0,292.0,20.0,05000US51013,51,013,D,Owner,"Non-family, elderly",Moderate cost burden
+"Arlington County, Virginia",975.0,209.0,21.0,05000US51013,51,013,D,Owner,"Non-family, elderly",Severe cost burden
+"Arlington County, Virginia",45.0,51.0,22.0,05000US51013,51,013,D,Owner,"Non-family, elderly",N/A
+"Arlington County, Virginia",14385.0,1144.0,23.0,05000US51013,51,013,S,Owner,"Non-family, non-elderly",All
+"Arlington County, Virginia",9860.0,960.0,24.0,05000US51013,51,013,D,Owner,"Non-family, non-elderly",No cost burden
+"Arlington County, Virginia",2880.0,511.0,25.0,05000US51013,51,013,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"Arlington County, Virginia",1495.0,518.0,26.0,05000US51013,51,013,D,Owner,"Non-family, non-elderly",Severe cost burden
+"Arlington County, Virginia",145.0,135.0,27.0,05000US51013,51,013,D,Owner,"Non-family, non-elderly",N/A
+"Arlington County, Virginia",43815.0,1535.0,28.0,05000US51013,51,013,S,Renter,All,All
+"Arlington County, Virginia",1240.0,362.0,29.0,05000US51013,51,013,S,Renter,"Small family, elderly",All
+"Arlington County, Virginia",810.0,244.0,30.0,05000US51013,51,013,D,Renter,"Small family, elderly",No cost burden
+"Arlington County, Virginia",185.0,123.0,31.0,05000US51013,51,013,D,Renter,"Small family, elderly",Moderate cost burden
+"Arlington County, Virginia",140.0,124.0,32.0,05000US51013,51,013,D,Renter,"Small family, elderly",Severe cost burden
+"Arlington County, Virginia",105.0,90.0,33.0,05000US51013,51,013,D,Renter,"Small family, elderly",N/A
+"Arlington County, Virginia",11960.0,1052.0,34.0,05000US51013,51,013,S,Renter,"Small family, non-elderly",All
+"Arlington County, Virginia",6765.0,840.0,35.0,05000US51013,51,013,D,Renter,"Small family, non-elderly",No cost burden
+"Arlington County, Virginia",2670.0,526.0,36.0,05000US51013,51,013,D,Renter,"Small family, non-elderly",Moderate cost burden
+"Arlington County, Virginia",1835.0,508.0,37.0,05000US51013,51,013,D,Renter,"Small family, non-elderly",Severe cost burden
+"Arlington County, Virginia",690.0,336.0,38.0,05000US51013,51,013,D,Renter,"Small family, non-elderly",N/A
+"Arlington County, Virginia",1145.0,364.0,39.0,05000US51013,51,013,S,Renter,Large family,All
+"Arlington County, Virginia",470.0,217.0,40.0,05000US51013,51,013,D,Renter,Large family,No cost burden
+"Arlington County, Virginia",380.0,219.0,41.0,05000US51013,51,013,D,Renter,Large family,Moderate cost burden
+"Arlington County, Virginia",125.0,164.0,42.0,05000US51013,51,013,D,Renter,Large family,Severe cost burden
+"Arlington County, Virginia",170.0,166.0,43.0,05000US51013,51,013,D,Renter,Large family,N/A
+"Arlington County, Virginia",2930.0,380.0,44.0,05000US51013,51,013,S,Renter,"Non-family, elderly",All
+"Arlington County, Virginia",1040.0,250.0,45.0,05000US51013,51,013,D,Renter,"Non-family, elderly",No cost burden
+"Arlington County, Virginia",830.0,254.0,46.0,05000US51013,51,013,D,Renter,"Non-family, elderly",Moderate cost burden
+"Arlington County, Virginia",930.0,321.0,47.0,05000US51013,51,013,D,Renter,"Non-family, elderly",Severe cost burden
+"Arlington County, Virginia",125.0,98.0,48.0,05000US51013,51,013,D,Renter,"Non-family, elderly",N/A
+"Arlington County, Virginia",26540.0,1436.0,49.0,05000US51013,51,013,S,Renter,"Non-family, non-elderly",All
+"Arlington County, Virginia",17020.0,1148.0,50.0,05000US51013,51,013,D,Renter,"Non-family, non-elderly",No cost burden
+"Arlington County, Virginia",4860.0,755.0,51.0,05000US51013,51,013,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"Arlington County, Virginia",3605.0,602.0,52.0,05000US51013,51,013,D,Renter,"Non-family, non-elderly",Severe cost burden
+"Arlington County, Virginia",1050.0,409.0,53.0,05000US51013,51,013,D,Renter,"Non-family, non-elderly",N/A

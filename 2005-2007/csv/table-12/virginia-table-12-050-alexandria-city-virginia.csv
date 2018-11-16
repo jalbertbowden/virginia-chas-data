@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Alexandria city, Virginia",62310.0,993.0,1.0,05000US51510,51,510,T,All,All,All,All
+"Alexandria city, Virginia",29620.0,1046.0,2.0,05000US51510,51,510,S,Owner,All,All,All
+"Alexandria city, Virginia",2575.0,304.0,3.0,05000US51510,51,510,S,Owner,2000+,All,All
+"Alexandria city, Virginia",155.0,151.0,4.0,05000US51510,51,510,S,Owner,2000+,<=50% AMI,All
+"Alexandria city, Virginia",35.0,46.0,5.0,05000US51510,51,510,D,Owner,2000+,<=50% AMI,No cost burden
+"Alexandria city, Virginia",20.0,41.0,6.0,05000US51510,51,510,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",95.0,126.0,7.0,05000US51510,51,510,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,8.0,05000US51510,51,510,D,Owner,2000+,<=50% AMI,N/A
+"Alexandria city, Virginia",170.0,108.0,9.0,05000US51510,51,510,S,Owner,2000+,50.1-80% AMI,All
+"Alexandria city, Virginia",60.0,70.0,10.0,05000US51510,51,510,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",0.0,161.0,11.0,05000US51510,51,510,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",115.0,84.0,12.0,05000US51510,51,510,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,13.0,05000US51510,51,510,D,Owner,2000+,50.1-80% AMI,N/A
+"Alexandria city, Virginia",240.0,101.0,14.0,05000US51510,51,510,S,Owner,2000+,80.1-120% AMI,All
+"Alexandria city, Virginia",35.0,41.0,15.0,05000US51510,51,510,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",180.0,93.0,16.0,05000US51510,51,510,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",20.0,39.0,17.0,05000US51510,51,510,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,18.0,05000US51510,51,510,D,Owner,2000+,80.1-120% AMI,N/A
+"Alexandria city, Virginia",2015.0,320.0,19.0,05000US51510,51,510,S,Owner,2000+,>120% AMI,All
+"Alexandria city, Virginia",1645.0,313.0,20.0,05000US51510,51,510,D,Owner,2000+,>120% AMI,No cost burden
+"Alexandria city, Virginia",370.0,170.0,21.0,05000US51510,51,510,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,22.0,05000US51510,51,510,D,Owner,2000+,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,23.0,05000US51510,51,510,D,Owner,2000+,>120% AMI,N/A
+"Alexandria city, Virginia",6325.0,507.0,24.0,05000US51510,51,510,S,Owner,1980 to 1999,All,All
+"Alexandria city, Virginia",420.0,165.0,25.0,05000US51510,51,510,S,Owner,1980 to 1999,<=50% AMI,All
+"Alexandria city, Virginia",90.0,92.0,26.0,05000US51510,51,510,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Alexandria city, Virginia",70.0,71.0,27.0,05000US51510,51,510,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",255.0,139.0,28.0,05000US51510,51,510,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,29.0,05000US51510,51,510,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Alexandria city, Virginia",490.0,182.0,30.0,05000US51510,51,510,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Alexandria city, Virginia",140.0,99.0,31.0,05000US51510,51,510,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",270.0,158.0,32.0,05000US51510,51,510,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",80.0,65.0,33.0,05000US51510,51,510,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,34.0,05000US51510,51,510,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Alexandria city, Virginia",1150.0,342.0,35.0,05000US51510,51,510,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Alexandria city, Virginia",480.0,231.0,36.0,05000US51510,51,510,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",625.0,271.0,37.0,05000US51510,51,510,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",45.0,54.0,38.0,05000US51510,51,510,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,39.0,05000US51510,51,510,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Alexandria city, Virginia",4265.0,443.0,40.0,05000US51510,51,510,S,Owner,1980 to 1999,>120% AMI,All
+"Alexandria city, Virginia",3810.0,422.0,41.0,05000US51510,51,510,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Alexandria city, Virginia",430.0,193.0,42.0,05000US51510,51,510,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",25.0,43.0,43.0,05000US51510,51,510,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,44.0,05000US51510,51,510,D,Owner,1980 to 1999,>120% AMI,N/A
+"Alexandria city, Virginia",7940.0,746.0,45.0,05000US51510,51,510,S,Owner,1960 to 1979,All,All
+"Alexandria city, Virginia",985.0,262.0,46.0,05000US51510,51,510,S,Owner,1960 to 1979,<=50% AMI,All
+"Alexandria city, Virginia",95.0,73.0,47.0,05000US51510,51,510,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Alexandria city, Virginia",260.0,156.0,48.0,05000US51510,51,510,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",595.0,227.0,49.0,05000US51510,51,510,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",40.0,47.0,50.0,05000US51510,51,510,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Alexandria city, Virginia",1155.0,278.0,51.0,05000US51510,51,510,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Alexandria city, Virginia",570.0,186.0,52.0,05000US51510,51,510,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",410.0,185.0,53.0,05000US51510,51,510,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",175.0,112.0,54.0,05000US51510,51,510,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,55.0,05000US51510,51,510,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Alexandria city, Virginia",1590.0,337.0,56.0,05000US51510,51,510,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Alexandria city, Virginia",960.0,261.0,57.0,05000US51510,51,510,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",525.0,218.0,58.0,05000US51510,51,510,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",105.0,88.0,59.0,05000US51510,51,510,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,60.0,05000US51510,51,510,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Alexandria city, Virginia",4210.0,597.0,61.0,05000US51510,51,510,S,Owner,1960 to 1979,>120% AMI,All
+"Alexandria city, Virginia",3785.0,565.0,62.0,05000US51510,51,510,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Alexandria city, Virginia",390.0,162.0,63.0,05000US51510,51,510,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",35.0,41.0,64.0,05000US51510,51,510,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,65.0,05000US51510,51,510,D,Owner,1960 to 1979,>120% AMI,N/A
+"Alexandria city, Virginia",8660.0,647.0,66.0,05000US51510,51,510,S,Owner,1940 to 1959,All,All
+"Alexandria city, Virginia",980.0,274.0,67.0,05000US51510,51,510,S,Owner,1940 to 1959,<=50% AMI,All
+"Alexandria city, Virginia",325.0,198.0,68.0,05000US51510,51,510,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Alexandria city, Virginia",245.0,133.0,69.0,05000US51510,51,510,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",400.0,155.0,70.0,05000US51510,51,510,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",15.0,32.0,71.0,05000US51510,51,510,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Alexandria city, Virginia",1035.0,259.0,72.0,05000US51510,51,510,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Alexandria city, Virginia",500.0,152.0,73.0,05000US51510,51,510,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",355.0,166.0,74.0,05000US51510,51,510,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",175.0,118.0,75.0,05000US51510,51,510,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,76.0,05000US51510,51,510,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Alexandria city, Virginia",1690.0,306.0,77.0,05000US51510,51,510,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Alexandria city, Virginia",1050.0,258.0,78.0,05000US51510,51,510,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",560.0,173.0,79.0,05000US51510,51,510,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",80.0,64.0,80.0,05000US51510,51,510,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,81.0,05000US51510,51,510,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Alexandria city, Virginia",4955.0,514.0,82.0,05000US51510,51,510,S,Owner,1940 to 1959,>120% AMI,All
+"Alexandria city, Virginia",4505.0,477.0,83.0,05000US51510,51,510,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Alexandria city, Virginia",380.0,162.0,84.0,05000US51510,51,510,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",70.0,81.0,85.0,05000US51510,51,510,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,86.0,05000US51510,51,510,D,Owner,1940 to 1959,>120% AMI,N/A
+"Alexandria city, Virginia",4115.0,418.0,87.0,05000US51510,51,510,S,Owner,1939-,All,All
+"Alexandria city, Virginia",185.0,100.0,88.0,05000US51510,51,510,S,Owner,1939-,<=50% AMI,All
+"Alexandria city, Virginia",75.0,65.0,89.0,05000US51510,51,510,D,Owner,1939-,<=50% AMI,No cost burden
+"Alexandria city, Virginia",0.0,161.0,90.0,05000US51510,51,510,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",110.0,74.0,91.0,05000US51510,51,510,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,92.0,05000US51510,51,510,D,Owner,1939-,<=50% AMI,N/A
+"Alexandria city, Virginia",280.0,122.0,93.0,05000US51510,51,510,S,Owner,1939-,50.1-80% AMI,All
+"Alexandria city, Virginia",65.0,59.0,94.0,05000US51510,51,510,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",120.0,79.0,95.0,05000US51510,51,510,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",95.0,74.0,96.0,05000US51510,51,510,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,97.0,05000US51510,51,510,D,Owner,1939-,50.1-80% AMI,N/A
+"Alexandria city, Virginia",615.0,194.0,98.0,05000US51510,51,510,S,Owner,1939-,80.1-120% AMI,All
+"Alexandria city, Virginia",340.0,137.0,99.0,05000US51510,51,510,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",155.0,88.0,100.0,05000US51510,51,510,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",120.0,86.0,101.0,05000US51510,51,510,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,102.0,05000US51510,51,510,D,Owner,1939-,80.1-120% AMI,N/A
+"Alexandria city, Virginia",3035.0,420.0,103.0,05000US51510,51,510,S,Owner,1939-,>120% AMI,All
+"Alexandria city, Virginia",2575.0,402.0,104.0,05000US51510,51,510,D,Owner,1939-,>120% AMI,No cost burden
+"Alexandria city, Virginia",390.0,121.0,105.0,05000US51510,51,510,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",70.0,51.0,106.0,05000US51510,51,510,D,Owner,1939-,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,107.0,05000US51510,51,510,D,Owner,1939-,>120% AMI,N/A
+"Alexandria city, Virginia",32690.0,1290.0,108.0,05000US51510,51,510,S,Renter,All,All,All
+"Alexandria city, Virginia",2235.0,574.0,109.0,05000US51510,51,510,S,Renter,2000+,All,All
+"Alexandria city, Virginia",230.0,147.0,110.0,05000US51510,51,510,S,Renter,2000+,<=50% AMI,All
+"Alexandria city, Virginia",0.0,161.0,111.0,05000US51510,51,510,D,Renter,2000+,<=50% AMI,No cost burden
+"Alexandria city, Virginia",20.0,36.0,112.0,05000US51510,51,510,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",130.0,113.0,113.0,05000US51510,51,510,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",80.0,105.0,114.0,05000US51510,51,510,D,Renter,2000+,<=50% AMI,N/A
+"Alexandria city, Virginia",380.0,263.0,115.0,05000US51510,51,510,S,Renter,2000+,50.1-80% AMI,All
+"Alexandria city, Virginia",45.0,70.0,116.0,05000US51510,51,510,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",100.0,76.0,117.0,05000US51510,51,510,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",195.0,224.0,118.0,05000US51510,51,510,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",45.0,56.0,119.0,05000US51510,51,510,D,Renter,2000+,50.1-80% AMI,N/A
+"Alexandria city, Virginia",595.0,259.0,120.0,05000US51510,51,510,S,Renter,2000+,80.1-120% AMI,All
+"Alexandria city, Virginia",340.0,184.0,121.0,05000US51510,51,510,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",170.0,158.0,122.0,05000US51510,51,510,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",50.0,61.0,123.0,05000US51510,51,510,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",30.0,56.0,124.0,05000US51510,51,510,D,Renter,2000+,80.1-120% AMI,N/A
+"Alexandria city, Virginia",1030.0,367.0,125.0,05000US51510,51,510,S,Renter,2000+,>120% AMI,All
+"Alexandria city, Virginia",995.0,361.0,126.0,05000US51510,51,510,D,Renter,2000+,>120% AMI,No cost burden
+"Alexandria city, Virginia",0.0,161.0,127.0,05000US51510,51,510,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,128.0,05000US51510,51,510,D,Renter,2000+,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",35.0,58.0,129.0,05000US51510,51,510,D,Renter,2000+,>120% AMI,N/A
+"Alexandria city, Virginia",6345.0,869.0,130.0,05000US51510,51,510,S,Renter,1980 to 1999,All,All
+"Alexandria city, Virginia",1855.0,517.0,131.0,05000US51510,51,510,S,Renter,1980 to 1999,<=50% AMI,All
+"Alexandria city, Virginia",245.0,216.0,132.0,05000US51510,51,510,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Alexandria city, Virginia",470.0,234.0,133.0,05000US51510,51,510,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",1115.0,361.0,134.0,05000US51510,51,510,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",25.0,44.0,135.0,05000US51510,51,510,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Alexandria city, Virginia",1210.0,317.0,136.0,05000US51510,51,510,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Alexandria city, Virginia",605.0,253.0,137.0,05000US51510,51,510,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",470.0,173.0,138.0,05000US51510,51,510,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",85.0,90.0,139.0,05000US51510,51,510,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",55.0,97.0,140.0,05000US51510,51,510,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Alexandria city, Virginia",1405.0,339.0,141.0,05000US51510,51,510,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Alexandria city, Virginia",1175.0,283.0,142.0,05000US51510,51,510,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",230.0,161.0,143.0,05000US51510,51,510,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,144.0,05000US51510,51,510,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,145.0,05000US51510,51,510,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Alexandria city, Virginia",1870.0,448.0,146.0,05000US51510,51,510,S,Renter,1980 to 1999,>120% AMI,All
+"Alexandria city, Virginia",1765.0,429.0,147.0,05000US51510,51,510,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Alexandria city, Virginia",65.0,64.0,148.0,05000US51510,51,510,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,149.0,05000US51510,51,510,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",40.0,47.0,150.0,05000US51510,51,510,D,Renter,1980 to 1999,>120% AMI,N/A
+"Alexandria city, Virginia",14080.0,1034.0,151.0,05000US51510,51,510,S,Renter,1960 to 1979,All,All
+"Alexandria city, Virginia",5095.0,696.0,152.0,05000US51510,51,510,S,Renter,1960 to 1979,<=50% AMI,All
+"Alexandria city, Virginia",710.0,344.0,153.0,05000US51510,51,510,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Alexandria city, Virginia",2335.0,519.0,154.0,05000US51510,51,510,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",1855.0,476.0,155.0,05000US51510,51,510,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",200.0,160.0,156.0,05000US51510,51,510,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Alexandria city, Virginia",3200.0,464.0,157.0,05000US51510,51,510,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Alexandria city, Virginia",1925.0,377.0,158.0,05000US51510,51,510,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",1210.0,325.0,159.0,05000US51510,51,510,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",65.0,80.0,160.0,05000US51510,51,510,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,161.0,05000US51510,51,510,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Alexandria city, Virginia",3210.0,523.0,162.0,05000US51510,51,510,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Alexandria city, Virginia",2905.0,519.0,163.0,05000US51510,51,510,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",180.0,101.0,164.0,05000US51510,51,510,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,165.0,05000US51510,51,510,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",125.0,88.0,166.0,05000US51510,51,510,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Alexandria city, Virginia",2580.0,488.0,167.0,05000US51510,51,510,S,Renter,1960 to 1979,>120% AMI,All
+"Alexandria city, Virginia",2550.0,488.0,168.0,05000US51510,51,510,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Alexandria city, Virginia",0.0,161.0,169.0,05000US51510,51,510,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,170.0,05000US51510,51,510,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",25.0,42.0,171.0,05000US51510,51,510,D,Renter,1960 to 1979,>120% AMI,N/A
+"Alexandria city, Virginia",8175.0,699.0,172.0,05000US51510,51,510,S,Renter,1940 to 1959,All,All
+"Alexandria city, Virginia",2710.0,588.0,173.0,05000US51510,51,510,S,Renter,1940 to 1959,<=50% AMI,All
+"Alexandria city, Virginia",360.0,340.0,174.0,05000US51510,51,510,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Alexandria city, Virginia",1075.0,355.0,175.0,05000US51510,51,510,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",1070.0,321.0,176.0,05000US51510,51,510,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",205.0,139.0,177.0,05000US51510,51,510,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Alexandria city, Virginia",2140.0,506.0,178.0,05000US51510,51,510,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Alexandria city, Virginia",995.0,329.0,179.0,05000US51510,51,510,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",1010.0,331.0,180.0,05000US51510,51,510,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",85.0,78.0,181.0,05000US51510,51,510,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",55.0,60.0,182.0,05000US51510,51,510,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Alexandria city, Virginia",1545.0,277.0,183.0,05000US51510,51,510,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Alexandria city, Virginia",1440.0,273.0,184.0,05000US51510,51,510,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",85.0,68.0,185.0,05000US51510,51,510,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",25.0,41.0,186.0,05000US51510,51,510,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,187.0,05000US51510,51,510,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Alexandria city, Virginia",1780.0,351.0,188.0,05000US51510,51,510,S,Renter,1940 to 1959,>120% AMI,All
+"Alexandria city, Virginia",1705.0,344.0,189.0,05000US51510,51,510,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Alexandria city, Virginia",35.0,45.0,190.0,05000US51510,51,510,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,191.0,05000US51510,51,510,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",35.0,43.0,192.0,05000US51510,51,510,D,Renter,1940 to 1959,>120% AMI,N/A
+"Alexandria city, Virginia",1850.0,387.0,193.0,05000US51510,51,510,S,Renter,1939-,All,All
+"Alexandria city, Virginia",620.0,242.0,194.0,05000US51510,51,510,S,Renter,1939-,<=50% AMI,All
+"Alexandria city, Virginia",65.0,68.0,195.0,05000US51510,51,510,D,Renter,1939-,<=50% AMI,No cost burden
+"Alexandria city, Virginia",240.0,166.0,196.0,05000US51510,51,510,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Alexandria city, Virginia",315.0,184.0,197.0,05000US51510,51,510,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Alexandria city, Virginia",0.0,161.0,198.0,05000US51510,51,510,D,Renter,1939-,<=50% AMI,N/A
+"Alexandria city, Virginia",215.0,141.0,199.0,05000US51510,51,510,S,Renter,1939-,50.1-80% AMI,All
+"Alexandria city, Virginia",140.0,121.0,200.0,05000US51510,51,510,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Alexandria city, Virginia",25.0,35.0,201.0,05000US51510,51,510,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Alexandria city, Virginia",30.0,48.0,202.0,05000US51510,51,510,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Alexandria city, Virginia",20.0,36.0,203.0,05000US51510,51,510,D,Renter,1939-,50.1-80% AMI,N/A
+"Alexandria city, Virginia",345.0,156.0,204.0,05000US51510,51,510,S,Renter,1939-,80.1-120% AMI,All
+"Alexandria city, Virginia",310.0,153.0,205.0,05000US51510,51,510,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Alexandria city, Virginia",20.0,35.0,206.0,05000US51510,51,510,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,207.0,05000US51510,51,510,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Alexandria city, Virginia",20.0,35.0,208.0,05000US51510,51,510,D,Renter,1939-,80.1-120% AMI,N/A
+"Alexandria city, Virginia",665.0,260.0,209.0,05000US51510,51,510,S,Renter,1939-,>120% AMI,All
+"Alexandria city, Virginia",645.0,254.0,210.0,05000US51510,51,510,D,Renter,1939-,>120% AMI,No cost burden
+"Alexandria city, Virginia",0.0,161.0,211.0,05000US51510,51,510,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Alexandria city, Virginia",0.0,161.0,212.0,05000US51510,51,510,D,Renter,1939-,>120% AMI,Severe cost burden
+"Alexandria city, Virginia",20.0,43.0,213.0,05000US51510,51,510,D,Renter,1939-,>120% AMI,N/A

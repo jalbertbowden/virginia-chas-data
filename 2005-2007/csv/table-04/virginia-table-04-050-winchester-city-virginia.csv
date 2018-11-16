@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Winchester city, Virginia",10025.0,385.0,1.0,05000US51840,51,840,T,All,All,All,All
+"Winchester city, Virginia",5095.0,416.0,2.0,05000US51840,51,840,S,Owner,All,All,All
+"Winchester city, Virginia",1150.0,274.0,3.0,05000US51840,51,840,S,Owner,Yes,All,All
+"Winchester city, Virginia",295.0,149.0,4.0,05000US51840,51,840,S,Owner,Yes,"Family, 1 parent",All
+"Winchester city, Virginia",260.0,146.0,5.0,05000US51840,51,840,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",35.0,41.0,6.0,05000US51840,51,840,D,Owner,Yes,"Family, 1 parent",5 or more
+"Winchester city, Virginia",290.0,149.0,7.0,05000US51840,51,840,S,Owner,Yes,"Family, 2 parents",All
+"Winchester city, Virginia",280.0,136.0,8.0,05000US51840,51,840,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",10.0,43.0,9.0,05000US51840,51,840,D,Owner,Yes,"Family, 2 parents",5 or more
+"Winchester city, Virginia",565.0,191.0,10.0,05000US51840,51,840,S,Owner,Yes,Non-family,All
+"Winchester city, Virginia",565.0,191.0,11.0,05000US51840,51,840,D,Owner,Yes,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,12.0,05000US51840,51,840,D,Owner,Yes,Non-family,5 or more
+"Winchester city, Virginia",3925.0,394.0,13.0,05000US51840,51,840,S,Owner,No,All,All
+"Winchester city, Virginia",415.0,171.0,14.0,05000US51840,51,840,S,Owner,No,"Family, 1 parent",All
+"Winchester city, Virginia",415.0,171.0,15.0,05000US51840,51,840,D,Owner,No,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",0.0,161.0,16.0,05000US51840,51,840,D,Owner,No,"Family, 1 parent",5 or more
+"Winchester city, Virginia",2590.0,340.0,17.0,05000US51840,51,840,S,Owner,No,"Family, 2 parents",All
+"Winchester city, Virginia",2430.0,334.0,18.0,05000US51840,51,840,D,Owner,No,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",165.0,83.0,19.0,05000US51840,51,840,D,Owner,No,"Family, 2 parents",5 or more
+"Winchester city, Virginia",920.0,266.0,20.0,05000US51840,51,840,S,Owner,No,Non-family,All
+"Winchester city, Virginia",920.0,266.0,21.0,05000US51840,51,840,D,Owner,No,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,22.0,05000US51840,51,840,D,Owner,No,Non-family,5 or more
+"Winchester city, Virginia",15.0,32.0,23.0,05000US51840,51,840,S,Owner,N/A,All,All
+"Winchester city, Virginia",0.0,161.0,24.0,05000US51840,51,840,S,Owner,N/A,"Family, 1 parent",All
+"Winchester city, Virginia",0.0,161.0,25.0,05000US51840,51,840,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",0.0,161.0,26.0,05000US51840,51,840,D,Owner,N/A,"Family, 1 parent",5 or more
+"Winchester city, Virginia",0.0,161.0,27.0,05000US51840,51,840,S,Owner,N/A,"Family, 2 parents",All
+"Winchester city, Virginia",0.0,161.0,28.0,05000US51840,51,840,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",0.0,161.0,29.0,05000US51840,51,840,D,Owner,N/A,"Family, 2 parents",5 or more
+"Winchester city, Virginia",15.0,32.0,30.0,05000US51840,51,840,S,Owner,N/A,Non-family,All
+"Winchester city, Virginia",15.0,32.0,31.0,05000US51840,51,840,D,Owner,N/A,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,32.0,05000US51840,51,840,D,Owner,N/A,Non-family,5 or more
+"Winchester city, Virginia",4935.0,459.0,33.0,05000US51840,51,840,S,Renter,All,All,All
+"Winchester city, Virginia",2165.0,403.0,34.0,05000US51840,51,840,S,Renter,Yes,All,All
+"Winchester city, Virginia",615.0,274.0,35.0,05000US51840,51,840,S,Renter,Yes,"Family, 1 parent",All
+"Winchester city, Virginia",530.0,265.0,36.0,05000US51840,51,840,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",85.0,69.0,37.0,05000US51840,51,840,D,Renter,Yes,"Family, 1 parent",5 or more
+"Winchester city, Virginia",375.0,182.0,38.0,05000US51840,51,840,S,Renter,Yes,"Family, 2 parents",All
+"Winchester city, Virginia",230.0,167.0,39.0,05000US51840,51,840,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",150.0,110.0,40.0,05000US51840,51,840,D,Renter,Yes,"Family, 2 parents",5 or more
+"Winchester city, Virginia",1175.0,286.0,41.0,05000US51840,51,840,S,Renter,Yes,Non-family,All
+"Winchester city, Virginia",1175.0,286.0,42.0,05000US51840,51,840,D,Renter,Yes,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,43.0,05000US51840,51,840,D,Renter,Yes,Non-family,5 or more
+"Winchester city, Virginia",2435.0,408.0,44.0,05000US51840,51,840,S,Renter,No,All,All
+"Winchester city, Virginia",340.0,174.0,45.0,05000US51840,51,840,S,Renter,No,"Family, 1 parent",All
+"Winchester city, Virginia",340.0,174.0,46.0,05000US51840,51,840,D,Renter,No,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",0.0,161.0,47.0,05000US51840,51,840,D,Renter,No,"Family, 1 parent",5 or more
+"Winchester city, Virginia",650.0,272.0,48.0,05000US51840,51,840,S,Renter,No,"Family, 2 parents",All
+"Winchester city, Virginia",650.0,272.0,49.0,05000US51840,51,840,D,Renter,No,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",0.0,161.0,50.0,05000US51840,51,840,D,Renter,No,"Family, 2 parents",5 or more
+"Winchester city, Virginia",1450.0,348.0,51.0,05000US51840,51,840,S,Renter,No,Non-family,All
+"Winchester city, Virginia",1450.0,348.0,52.0,05000US51840,51,840,D,Renter,No,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,53.0,05000US51840,51,840,D,Renter,No,Non-family,5 or more
+"Winchester city, Virginia",330.0,178.0,54.0,05000US51840,51,840,S,Renter,N/A,All,All
+"Winchester city, Virginia",15.0,32.0,55.0,05000US51840,51,840,S,Renter,N/A,"Family, 1 parent",All
+"Winchester city, Virginia",15.0,32.0,56.0,05000US51840,51,840,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Winchester city, Virginia",0.0,161.0,57.0,05000US51840,51,840,D,Renter,N/A,"Family, 1 parent",5 or more
+"Winchester city, Virginia",10.0,20.0,58.0,05000US51840,51,840,S,Renter,N/A,"Family, 2 parents",All
+"Winchester city, Virginia",10.0,20.0,59.0,05000US51840,51,840,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Winchester city, Virginia",0.0,161.0,60.0,05000US51840,51,840,D,Renter,N/A,"Family, 2 parents",5 or more
+"Winchester city, Virginia",305.0,173.0,61.0,05000US51840,51,840,S,Renter,N/A,Non-family,All
+"Winchester city, Virginia",305.0,173.0,62.0,05000US51840,51,840,D,Renter,N/A,Non-family,4 or fewer
+"Winchester city, Virginia",0.0,161.0,63.0,05000US51840,51,840,D,Renter,N/A,Non-family,5 or more

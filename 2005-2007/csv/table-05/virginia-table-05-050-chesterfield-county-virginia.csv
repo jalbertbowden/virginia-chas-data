@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Elderly_Status
+"Chesterfield County, Virginia",108690.0,1007.0,1.0,05000US51041,51,041,T,All,All,All,All
+"Chesterfield County, Virginia",85810.0,1315.0,2.0,05000US51041,51,041,S,Owner,All,All,All
+"Chesterfield County, Virginia",18525.0,1068.0,3.0,05000US51041,51,041,S,Owner,yes,All,All
+"Chesterfield County, Virginia",2485.0,394.0,4.0,05000US51041,51,041,S,Owner,yes,30% AMI or less,All
+"Chesterfield County, Virginia",615.0,202.0,5.0,05000US51041,51,041,D,Owner,yes,30% AMI or less,Elderly
+"Chesterfield County, Virginia",400.0,114.0,6.0,05000US51041,51,041,D,Owner,yes,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",1475.0,290.0,7.0,05000US51041,51,041,D,Owner,yes,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",2905.0,429.0,8.0,05000US51041,51,041,S,Owner,yes,30.1-50% AMI,All
+"Chesterfield County, Virginia",500.0,177.0,9.0,05000US51041,51,041,D,Owner,yes,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",305.0,122.0,10.0,05000US51041,51,041,D,Owner,yes,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",2100.0,422.0,11.0,05000US51041,51,041,D,Owner,yes,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",5490.0,638.0,12.0,05000US51041,51,041,S,Owner,yes,50.1-80% AMI,All
+"Chesterfield County, Virginia",945.0,222.0,13.0,05000US51041,51,041,D,Owner,yes,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",235.0,112.0,14.0,05000US51041,51,041,D,Owner,yes,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",4310.0,587.0,15.0,05000US51041,51,041,D,Owner,yes,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",2060.0,387.0,16.0,05000US51041,51,041,S,Owner,yes,80.1-95% AMI,All
+"Chesterfield County, Virginia",270.0,133.0,17.0,05000US51041,51,041,D,Owner,yes,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",65.0,64.0,18.0,05000US51041,51,041,D,Owner,yes,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",1725.0,360.0,19.0,05000US51041,51,041,D,Owner,yes,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",5585.0,649.0,20.0,05000US51041,51,041,S,Owner,yes,95.1% AMI and above,All
+"Chesterfield County, Virginia",715.0,212.0,21.0,05000US51041,51,041,D,Owner,yes,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",155.0,66.0,22.0,05000US51041,51,041,D,Owner,yes,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",4715.0,564.0,23.0,05000US51041,51,041,D,Owner,yes,95.1% AMI and above,Non-elderly
+"Chesterfield County, Virginia",66980.0,1499.0,24.0,05000US51041,51,041,S,Owner,no,All,All
+"Chesterfield County, Virginia",490.0,197.0,25.0,05000US51041,51,041,S,Owner,no,30% AMI or less,All
+"Chesterfield County, Virginia",105.0,77.0,26.0,05000US51041,51,041,D,Owner,no,30% AMI or less,Elderly
+"Chesterfield County, Virginia",200.0,97.0,27.0,05000US51041,51,041,D,Owner,no,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",185.0,175.0,28.0,05000US51041,51,041,D,Owner,no,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",1565.0,261.0,29.0,05000US51041,51,041,S,Owner,no,30.1-50% AMI,All
+"Chesterfield County, Virginia",410.0,164.0,30.0,05000US51041,51,041,D,Owner,no,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",590.0,150.0,31.0,05000US51041,51,041,D,Owner,no,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",570.0,162.0,32.0,05000US51041,51,041,D,Owner,no,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",5650.0,604.0,33.0,05000US51041,51,041,S,Owner,no,50.1-80% AMI,All
+"Chesterfield County, Virginia",1285.0,268.0,34.0,05000US51041,51,041,D,Owner,no,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",1000.0,174.0,35.0,05000US51041,51,041,D,Owner,no,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",3360.0,510.0,36.0,05000US51041,51,041,D,Owner,no,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",4160.0,494.0,37.0,05000US51041,51,041,S,Owner,no,80.1-95% AMI,All
+"Chesterfield County, Virginia",730.0,164.0,38.0,05000US51041,51,041,D,Owner,no,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",545.0,154.0,39.0,05000US51041,51,041,D,Owner,no,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",2880.0,457.0,40.0,05000US51041,51,041,D,Owner,no,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",55120.0,1409.0,41.0,05000US51041,51,041,S,Owner,no,95.1% AMI and above,All
+"Chesterfield County, Virginia",7720.0,578.0,42.0,05000US51041,51,041,D,Owner,no,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",2460.0,316.0,43.0,05000US51041,51,041,D,Owner,no,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",44940.0,1405.0,44.0,05000US51041,51,041,D,Owner,no,95.1% AMI and above,Non-elderly
+"Chesterfield County, Virginia",305.0,154.0,45.0,05000US51041,51,041,S,Owner,N/A,All,All
+"Chesterfield County, Virginia",305.0,154.0,46.0,05000US51041,51,041,S,Owner,N/A,30% AMI or less,All
+"Chesterfield County, Virginia",85.0,97.0,47.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Elderly
+"Chesterfield County, Virginia",15.0,23.0,48.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",205.0,132.0,49.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",0.0,161.0,50.0,05000US51041,51,041,S,Owner,N/A,30.1-50% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,51.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",0.0,161.0,52.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",0.0,161.0,53.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",0.0,161.0,54.0,05000US51041,51,041,S,Owner,N/A,50.1-80% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,55.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",0.0,161.0,56.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",0.0,161.0,57.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",0.0,161.0,58.0,05000US51041,51,041,S,Owner,N/A,80.1-95% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,59.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",0.0,161.0,60.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",0.0,161.0,61.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",0.0,161.0,62.0,05000US51041,51,041,S,Owner,N/A,95.1% AMI and above,All
+"Chesterfield County, Virginia",0.0,161.0,63.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",0.0,161.0,64.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",0.0,161.0,65.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Non-elderly
+"Chesterfield County, Virginia",22880.0,1132.0,66.0,05000US51041,51,041,S,Renter,All,All,All
+"Chesterfield County, Virginia",9395.0,863.0,67.0,05000US51041,51,041,S,Renter,Yes,All,All
+"Chesterfield County, Virginia",3145.0,623.0,68.0,05000US51041,51,041,S,Renter,Yes,30% AMI or less,All
+"Chesterfield County, Virginia",340.0,174.0,69.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Elderly
+"Chesterfield County, Virginia",250.0,129.0,70.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",2555.0,616.0,71.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",2545.0,578.0,72.0,05000US51041,51,041,S,Renter,Yes,30.1-50% AMI,All
+"Chesterfield County, Virginia",110.0,81.0,73.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",265.0,139.0,74.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",2170.0,540.0,75.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",2685.0,501.0,76.0,05000US51041,51,041,S,Renter,Yes,50.1-80% AMI,All
+"Chesterfield County, Virginia",295.0,159.0,77.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",240.0,102.0,78.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",2155.0,472.0,79.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",535.0,207.0,80.0,05000US51041,51,041,S,Renter,Yes,80.1-95% AMI,All
+"Chesterfield County, Virginia",55.0,66.0,81.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",65.0,61.0,82.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",415.0,191.0,83.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",480.0,239.0,84.0,05000US51041,51,041,S,Renter,Yes,95.1% AMI and above,All
+"Chesterfield County, Virginia",15.0,24.0,85.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",75.0,38.0,86.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",395.0,233.0,87.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Non-elderly
+"Chesterfield County, Virginia",12650.0,1030.0,88.0,05000US51041,51,041,S,Renter,No,All,All
+"Chesterfield County, Virginia",75.0,100.0,89.0,05000US51041,51,041,S,Renter,No,30% AMI or less,All
+"Chesterfield County, Virginia",0.0,161.0,90.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Elderly
+"Chesterfield County, Virginia",20.0,32.0,91.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",60.0,95.0,92.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",595.0,310.0,93.0,05000US51041,51,041,S,Renter,No,30.1-50% AMI,All
+"Chesterfield County, Virginia",20.0,36.0,94.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",15.0,28.0,95.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",555.0,307.0,96.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",3620.0,738.0,97.0,05000US51041,51,041,S,Renter,No,50.1-80% AMI,All
+"Chesterfield County, Virginia",105.0,111.0,98.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",10.0,19.0,99.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",3500.0,716.0,100.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",2335.0,456.0,101.0,05000US51041,51,041,S,Renter,No,80.1-95% AMI,All
+"Chesterfield County, Virginia",215.0,130.0,102.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",105.0,65.0,103.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",2020.0,446.0,104.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",6025.0,824.0,105.0,05000US51041,51,041,S,Renter,No,95.1% AMI and above,All
+"Chesterfield County, Virginia",220.0,140.0,106.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",210.0,135.0,107.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",5590.0,798.0,108.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Non-elderly
+"Chesterfield County, Virginia",835.0,236.0,109.0,05000US51041,51,041,S,Renter,N/A,All,All
+"Chesterfield County, Virginia",225.0,143.0,110.0,05000US51041,51,041,S,Renter,N/A,30% AMI or less,All
+"Chesterfield County, Virginia",0.0,161.0,111.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Elderly
+"Chesterfield County, Virginia",45.0,44.0,112.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Extra-elderly
+"Chesterfield County, Virginia",175.0,135.0,113.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Non-elderly
+"Chesterfield County, Virginia",115.0,81.0,114.0,05000US51041,51,041,S,Renter,N/A,30.1-50% AMI,All
+"Chesterfield County, Virginia",20.0,35.0,115.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Elderly
+"Chesterfield County, Virginia",15.0,26.0,116.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Extra-elderly
+"Chesterfield County, Virginia",80.0,69.0,117.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Non-elderly
+"Chesterfield County, Virginia",195.0,105.0,118.0,05000US51041,51,041,S,Renter,N/A,50.1-80% AMI,All
+"Chesterfield County, Virginia",20.0,38.0,119.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Elderly
+"Chesterfield County, Virginia",0.0,161.0,120.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Extra-elderly
+"Chesterfield County, Virginia",170.0,98.0,121.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Non-elderly
+"Chesterfield County, Virginia",80.0,69.0,122.0,05000US51041,51,041,S,Renter,N/A,80.1-95% AMI,All
+"Chesterfield County, Virginia",20.0,34.0,123.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Elderly
+"Chesterfield County, Virginia",0.0,161.0,124.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Extra-elderly
+"Chesterfield County, Virginia",60.0,60.0,125.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Non-elderly
+"Chesterfield County, Virginia",225.0,129.0,126.0,05000US51041,51,041,S,Renter,N/A,95.1% AMI and above,All
+"Chesterfield County, Virginia",50.0,55.0,127.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Elderly
+"Chesterfield County, Virginia",20.0,28.0,128.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Extra-elderly
+"Chesterfield County, Virginia",150.0,106.0,129.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Non-elderly

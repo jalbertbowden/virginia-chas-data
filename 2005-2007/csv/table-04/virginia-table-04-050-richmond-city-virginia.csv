@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Richmond city, Virginia",81610.0,1156.0,1.0,05000US51760,51,760,T,All,All,All,All
+"Richmond city, Virginia",38915.0,1326.0,2.0,05000US51760,51,760,S,Owner,All,All,All
+"Richmond city, Virginia",13010.0,1078.0,3.0,05000US51760,51,760,S,Owner,Yes,All,All
+"Richmond city, Virginia",2660.0,475.0,4.0,05000US51760,51,760,S,Owner,Yes,"Family, 1 parent",All
+"Richmond city, Virginia",2245.0,438.0,5.0,05000US51760,51,760,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",415.0,184.0,6.0,05000US51760,51,760,D,Owner,Yes,"Family, 1 parent",5 or more
+"Richmond city, Virginia",3150.0,409.0,7.0,05000US51760,51,760,S,Owner,Yes,"Family, 2 parents",All
+"Richmond city, Virginia",2625.0,335.0,8.0,05000US51760,51,760,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",525.0,208.0,9.0,05000US51760,51,760,D,Owner,Yes,"Family, 2 parents",5 or more
+"Richmond city, Virginia",7200.0,813.0,10.0,05000US51760,51,760,S,Owner,Yes,Non-family,All
+"Richmond city, Virginia",7200.0,813.0,11.0,05000US51760,51,760,D,Owner,Yes,Non-family,4 or fewer
+"Richmond city, Virginia",0.0,161.0,12.0,05000US51760,51,760,D,Owner,Yes,Non-family,5 or more
+"Richmond city, Virginia",25775.0,1136.0,13.0,05000US51760,51,760,S,Owner,No,All,All
+"Richmond city, Virginia",4085.0,632.0,14.0,05000US51760,51,760,S,Owner,No,"Family, 1 parent",All
+"Richmond city, Virginia",3675.0,578.0,15.0,05000US51760,51,760,D,Owner,No,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",410.0,214.0,16.0,05000US51760,51,760,D,Owner,No,"Family, 1 parent",5 or more
+"Richmond city, Virginia",12380.0,727.0,17.0,05000US51760,51,760,S,Owner,No,"Family, 2 parents",All
+"Richmond city, Virginia",11515.0,677.0,18.0,05000US51760,51,760,D,Owner,No,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",860.0,265.0,19.0,05000US51760,51,760,D,Owner,No,"Family, 2 parents",5 or more
+"Richmond city, Virginia",9315.0,764.0,20.0,05000US51760,51,760,S,Owner,No,Non-family,All
+"Richmond city, Virginia",9290.0,769.0,21.0,05000US51760,51,760,D,Owner,No,Non-family,4 or fewer
+"Richmond city, Virginia",25.0,43.0,22.0,05000US51760,51,760,D,Owner,No,Non-family,5 or more
+"Richmond city, Virginia",135.0,82.0,23.0,05000US51760,51,760,S,Owner,N/A,All,All
+"Richmond city, Virginia",20.0,41.0,24.0,05000US51760,51,760,S,Owner,N/A,"Family, 1 parent",All
+"Richmond city, Virginia",20.0,41.0,25.0,05000US51760,51,760,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",0.0,161.0,26.0,05000US51760,51,760,D,Owner,N/A,"Family, 1 parent",5 or more
+"Richmond city, Virginia",30.0,35.0,27.0,05000US51760,51,760,S,Owner,N/A,"Family, 2 parents",All
+"Richmond city, Virginia",30.0,35.0,28.0,05000US51760,51,760,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",0.0,161.0,29.0,05000US51760,51,760,D,Owner,N/A,"Family, 2 parents",5 or more
+"Richmond city, Virginia",85.0,83.0,30.0,05000US51760,51,760,S,Owner,N/A,Non-family,All
+"Richmond city, Virginia",85.0,83.0,31.0,05000US51760,51,760,D,Owner,N/A,Non-family,4 or fewer
+"Richmond city, Virginia",0.0,161.0,32.0,05000US51760,51,760,D,Owner,N/A,Non-family,5 or more
+"Richmond city, Virginia",42695.0,1426.0,33.0,05000US51760,51,760,S,Renter,All,All,All
+"Richmond city, Virginia",21165.0,1359.0,34.0,05000US51760,51,760,S,Renter,Yes,All,All
+"Richmond city, Virginia",5980.0,805.0,35.0,05000US51760,51,760,S,Renter,Yes,"Family, 1 parent",All
+"Richmond city, Virginia",5215.0,800.0,36.0,05000US51760,51,760,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",765.0,288.0,37.0,05000US51760,51,760,D,Renter,Yes,"Family, 1 parent",5 or more
+"Richmond city, Virginia",1910.0,423.0,38.0,05000US51760,51,760,S,Renter,Yes,"Family, 2 parents",All
+"Richmond city, Virginia",1445.0,370.0,39.0,05000US51760,51,760,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",465.0,211.0,40.0,05000US51760,51,760,D,Renter,Yes,"Family, 2 parents",5 or more
+"Richmond city, Virginia",13275.0,1053.0,41.0,05000US51760,51,760,S,Renter,Yes,Non-family,All
+"Richmond city, Virginia",13230.0,1055.0,42.0,05000US51760,51,760,D,Renter,Yes,Non-family,4 or fewer
+"Richmond city, Virginia",40.0,70.0,43.0,05000US51760,51,760,D,Renter,Yes,Non-family,5 or more
+"Richmond city, Virginia",19565.0,1354.0,44.0,05000US51760,51,760,S,Renter,No,All,All
+"Richmond city, Virginia",5725.0,808.0,45.0,05000US51760,51,760,S,Renter,No,"Family, 1 parent",All
+"Richmond city, Virginia",5335.0,795.0,46.0,05000US51760,51,760,D,Renter,No,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",390.0,188.0,47.0,05000US51760,51,760,D,Renter,No,"Family, 1 parent",5 or more
+"Richmond city, Virginia",2975.0,604.0,48.0,05000US51760,51,760,S,Renter,No,"Family, 2 parents",All
+"Richmond city, Virginia",2575.0,546.0,49.0,05000US51760,51,760,D,Renter,No,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",405.0,210.0,50.0,05000US51760,51,760,D,Renter,No,"Family, 2 parents",5 or more
+"Richmond city, Virginia",10860.0,935.0,51.0,05000US51760,51,760,S,Renter,No,Non-family,All
+"Richmond city, Virginia",10840.0,939.0,52.0,05000US51760,51,760,D,Renter,No,Non-family,4 or fewer
+"Richmond city, Virginia",20.0,34.0,53.0,05000US51760,51,760,D,Renter,No,Non-family,5 or more
+"Richmond city, Virginia",1965.0,350.0,54.0,05000US51760,51,760,S,Renter,N/A,All,All
+"Richmond city, Virginia",475.0,185.0,55.0,05000US51760,51,760,S,Renter,N/A,"Family, 1 parent",All
+"Richmond city, Virginia",455.0,186.0,56.0,05000US51760,51,760,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Richmond city, Virginia",20.0,38.0,57.0,05000US51760,51,760,D,Renter,N/A,"Family, 1 parent",5 or more
+"Richmond city, Virginia",325.0,105.0,58.0,05000US51760,51,760,S,Renter,N/A,"Family, 2 parents",All
+"Richmond city, Virginia",305.0,103.0,59.0,05000US51760,51,760,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Richmond city, Virginia",20.0,25.0,60.0,05000US51760,51,760,D,Renter,N/A,"Family, 2 parents",5 or more
+"Richmond city, Virginia",1165.0,294.0,61.0,05000US51760,51,760,S,Renter,N/A,Non-family,All
+"Richmond city, Virginia",1165.0,294.0,62.0,05000US51760,51,760,D,Renter,N/A,Non-family,4 or fewer
+"Richmond city, Virginia",0.0,161.0,63.0,05000US51760,51,760,D,Renter,N/A,Non-family,5 or more

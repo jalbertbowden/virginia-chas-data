@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Buchanan County, Virginia",9195.0,412.0,1.0,05000US51027,51,027,T,All,All,All
+"Buchanan County, Virginia",7485.0,474.0,2.0,05000US51027,51,027,S,Owner,All,All
+"Buchanan County, Virginia",495.0,189.0,3.0,05000US51027,51,027,S,Owner,2000+,All
+"Buchanan County, Virginia",110.0,108.0,4.0,05000US51027,51,027,D,Owner,2000+,Yes
+"Buchanan County, Virginia",385.0,154.0,5.0,05000US51027,51,027,D,Owner,2000+,No
+"Buchanan County, Virginia",2690.0,358.0,6.0,05000US51027,51,027,S,Owner,1980 to 1999,All
+"Buchanan County, Virginia",430.0,199.0,7.0,05000US51027,51,027,D,Owner,1980 to 1999,Yes
+"Buchanan County, Virginia",2260.0,319.0,8.0,05000US51027,51,027,D,Owner,1980 to 1999,No
+"Buchanan County, Virginia",2550.0,410.0,9.0,05000US51027,51,027,S,Owner,1960 to 1979,All
+"Buchanan County, Virginia",220.0,164.0,10.0,05000US51027,51,027,D,Owner,1960 to 1979,Yes
+"Buchanan County, Virginia",2330.0,355.0,11.0,05000US51027,51,027,D,Owner,1960 to 1979,No
+"Buchanan County, Virginia",1265.0,249.0,12.0,05000US51027,51,027,S,Owner,1940 to 1959,All
+"Buchanan County, Virginia",155.0,123.0,13.0,05000US51027,51,027,D,Owner,1940 to 1959,Yes
+"Buchanan County, Virginia",1110.0,216.0,14.0,05000US51027,51,027,D,Owner,1940 to 1959,No
+"Buchanan County, Virginia",490.0,208.0,15.0,05000US51027,51,027,S,Owner,1939-,All
+"Buchanan County, Virginia",0.0,161.0,16.0,05000US51027,51,027,D,Owner,1939-,Yes
+"Buchanan County, Virginia",490.0,208.0,17.0,05000US51027,51,027,D,Owner,1939-,No
+"Buchanan County, Virginia",1705.0,401.0,18.0,05000US51027,51,027,S,Renter,All,All
+"Buchanan County, Virginia",80.0,68.0,19.0,05000US51027,51,027,S,Renter,2000+,All
+"Buchanan County, Virginia",20.0,40.0,20.0,05000US51027,51,027,D,Renter,2000+,Yes
+"Buchanan County, Virginia",55.0,56.0,21.0,05000US51027,51,027,D,Renter,2000+,No
+"Buchanan County, Virginia",400.0,210.0,22.0,05000US51027,51,027,S,Renter,1980 to 1999,All
+"Buchanan County, Virginia",35.0,58.0,23.0,05000US51027,51,027,D,Renter,1980 to 1999,Yes
+"Buchanan County, Virginia",365.0,203.0,24.0,05000US51027,51,027,D,Renter,1980 to 1999,No
+"Buchanan County, Virginia",595.0,242.0,25.0,05000US51027,51,027,S,Renter,1960 to 1979,All
+"Buchanan County, Virginia",115.0,110.0,26.0,05000US51027,51,027,D,Renter,1960 to 1979,Yes
+"Buchanan County, Virginia",480.0,218.0,27.0,05000US51027,51,027,D,Renter,1960 to 1979,No
+"Buchanan County, Virginia",505.0,195.0,28.0,05000US51027,51,027,S,Renter,1940 to 1959,All
+"Buchanan County, Virginia",50.0,57.0,29.0,05000US51027,51,027,D,Renter,1940 to 1959,Yes
+"Buchanan County, Virginia",455.0,190.0,30.0,05000US51027,51,027,D,Renter,1940 to 1959,No
+"Buchanan County, Virginia",125.0,106.0,31.0,05000US51027,51,027,S,Renter,1939-,All
+"Buchanan County, Virginia",0.0,161.0,32.0,05000US51027,51,027,D,Renter,1939-,Yes
+"Buchanan County, Virginia",125.0,106.0,33.0,05000US51027,51,027,D,Renter,1939-,No

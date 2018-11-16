@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Scott County, Virginia",125.0,92.0,1.0,05000US51169,51,169,T,All,All,All
+"Scott County, Virginia",0.0,161.0,2.0,05000US51169,51,169,S,Substandard,All,All
+"Scott County, Virginia",125.0,92.0,3.0,05000US51169,51,169,S,Standard,All,All
+"Scott County, Virginia",35.0,42.0,4.0,05000US51169,51,169,S,Standard,RHUD30,All
+"Scott County, Virginia",0.0,161.0,5.0,05000US51169,51,169,D,Standard,RHUD30,0 or 1
+"Scott County, Virginia",35.0,42.0,6.0,05000US51169,51,169,D,Standard,RHUD30,2
+"Scott County, Virginia",0.0,161.0,7.0,05000US51169,51,169,D,Standard,RHUD30,3 or more
+"Scott County, Virginia",85.0,82.0,8.0,05000US51169,51,169,S,Standard,RHUD50,All
+"Scott County, Virginia",0.0,161.0,9.0,05000US51169,51,169,D,Standard,RHUD50,0 or 1
+"Scott County, Virginia",20.0,28.0,10.0,05000US51169,51,169,D,Standard,RHUD50,2
+"Scott County, Virginia",65.0,78.0,11.0,05000US51169,51,169,D,Standard,RHUD50,3 or more
+"Scott County, Virginia",0.0,161.0,12.0,05000US51169,51,169,S,Standard,RHUD80,All
+"Scott County, Virginia",0.0,161.0,13.0,05000US51169,51,169,D,Standard,RHUD80,0 or 1
+"Scott County, Virginia",0.0,161.0,14.0,05000US51169,51,169,D,Standard,RHUD80,2
+"Scott County, Virginia",0.0,161.0,15.0,05000US51169,51,169,D,Standard,RHUD80,3 or more
+"Scott County, Virginia",0.0,161.0,16.0,05000US51169,51,169,S,Standard,Greater than RHUD80,All
+"Scott County, Virginia",0.0,161.0,17.0,05000US51169,51,169,D,Standard,Greater than RHUD80,0 or 1
+"Scott County, Virginia",0.0,161.0,18.0,05000US51169,51,169,D,Standard,Greater than RHUD80,2
+"Scott County, Virginia",0.0,161.0,19.0,05000US51169,51,169,D,Standard,Greater than RHUD80,3 or more

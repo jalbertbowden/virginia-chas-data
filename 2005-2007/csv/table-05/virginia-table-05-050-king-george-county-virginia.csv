@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Elderly_Status
+"King George County, Virginia",7695.0,321.0,1.0,05000US51099,51,099,T,All,All,All,All
+"King George County, Virginia",5925.0,377.0,2.0,05000US51099,51,099,S,Owner,All,All,All
+"King George County, Virginia",1555.0,267.0,3.0,05000US51099,51,099,S,Owner,yes,All,All
+"King George County, Virginia",195.0,86.0,4.0,05000US51099,51,099,S,Owner,yes,30% AMI or less,All
+"King George County, Virginia",60.0,54.0,5.0,05000US51099,51,099,D,Owner,yes,30% AMI or less,Elderly
+"King George County, Virginia",65.0,59.0,6.0,05000US51099,51,099,D,Owner,yes,30% AMI or less,Extra-elderly
+"King George County, Virginia",65.0,60.0,7.0,05000US51099,51,099,D,Owner,yes,30% AMI or less,Non-elderly
+"King George County, Virginia",140.0,92.0,8.0,05000US51099,51,099,S,Owner,yes,30.1-50% AMI,All
+"King George County, Virginia",55.0,56.0,9.0,05000US51099,51,099,D,Owner,yes,30.1-50% AMI,Elderly
+"King George County, Virginia",25.0,44.0,10.0,05000US51099,51,099,D,Owner,yes,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",65.0,56.0,11.0,05000US51099,51,099,D,Owner,yes,30.1-50% AMI,Non-elderly
+"King George County, Virginia",335.0,165.0,12.0,05000US51099,51,099,S,Owner,yes,50.1-80% AMI,All
+"King George County, Virginia",40.0,60.0,13.0,05000US51099,51,099,D,Owner,yes,50.1-80% AMI,Elderly
+"King George County, Virginia",0.0,161.0,14.0,05000US51099,51,099,D,Owner,yes,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",290.0,153.0,15.0,05000US51099,51,099,D,Owner,yes,50.1-80% AMI,Non-elderly
+"King George County, Virginia",170.0,110.0,16.0,05000US51099,51,099,S,Owner,yes,80.1-95% AMI,All
+"King George County, Virginia",15.0,24.0,17.0,05000US51099,51,099,D,Owner,yes,80.1-95% AMI,Elderly
+"King George County, Virginia",0.0,161.0,18.0,05000US51099,51,099,D,Owner,yes,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",160.0,101.0,19.0,05000US51099,51,099,D,Owner,yes,80.1-95% AMI,Non-elderly
+"King George County, Virginia",710.0,217.0,20.0,05000US51099,51,099,S,Owner,yes,95.1% AMI and above,All
+"King George County, Virginia",0.0,161.0,21.0,05000US51099,51,099,D,Owner,yes,95.1% AMI and above,Elderly
+"King George County, Virginia",10.0,22.0,22.0,05000US51099,51,099,D,Owner,yes,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",700.0,217.0,23.0,05000US51099,51,099,D,Owner,yes,95.1% AMI and above,Non-elderly
+"King George County, Virginia",4355.0,339.0,24.0,05000US51099,51,099,S,Owner,no,All,All
+"King George County, Virginia",15.0,24.0,25.0,05000US51099,51,099,S,Owner,no,30% AMI or less,All
+"King George County, Virginia",0.0,161.0,26.0,05000US51099,51,099,D,Owner,no,30% AMI or less,Elderly
+"King George County, Virginia",15.0,24.0,27.0,05000US51099,51,099,D,Owner,no,30% AMI or less,Extra-elderly
+"King George County, Virginia",0.0,161.0,28.0,05000US51099,51,099,D,Owner,no,30% AMI or less,Non-elderly
+"King George County, Virginia",235.0,140.0,29.0,05000US51099,51,099,S,Owner,no,30.1-50% AMI,All
+"King George County, Virginia",125.0,108.0,30.0,05000US51099,51,099,D,Owner,no,30.1-50% AMI,Elderly
+"King George County, Virginia",65.0,58.0,31.0,05000US51099,51,099,D,Owner,no,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",45.0,61.0,32.0,05000US51099,51,099,D,Owner,no,30.1-50% AMI,Non-elderly
+"King George County, Virginia",315.0,125.0,33.0,05000US51099,51,099,S,Owner,no,50.1-80% AMI,All
+"King George County, Virginia",105.0,74.0,34.0,05000US51099,51,099,D,Owner,no,50.1-80% AMI,Elderly
+"King George County, Virginia",55.0,48.0,35.0,05000US51099,51,099,D,Owner,no,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",150.0,81.0,36.0,05000US51099,51,099,D,Owner,no,50.1-80% AMI,Non-elderly
+"King George County, Virginia",310.0,147.0,37.0,05000US51099,51,099,S,Owner,no,80.1-95% AMI,All
+"King George County, Virginia",115.0,75.0,38.0,05000US51099,51,099,D,Owner,no,80.1-95% AMI,Elderly
+"King George County, Virginia",15.0,22.0,39.0,05000US51099,51,099,D,Owner,no,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",180.0,117.0,40.0,05000US51099,51,099,D,Owner,no,80.1-95% AMI,Non-elderly
+"King George County, Virginia",3485.0,311.0,41.0,05000US51099,51,099,S,Owner,no,95.1% AMI and above,All
+"King George County, Virginia",425.0,136.0,42.0,05000US51099,51,099,D,Owner,no,95.1% AMI and above,Elderly
+"King George County, Virginia",325.0,149.0,43.0,05000US51099,51,099,D,Owner,no,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",2735.0,264.0,44.0,05000US51099,51,099,D,Owner,no,95.1% AMI and above,Non-elderly
+"King George County, Virginia",15.0,30.0,45.0,05000US51099,51,099,S,Owner,N/A,All,All
+"King George County, Virginia",15.0,30.0,46.0,05000US51099,51,099,S,Owner,N/A,30% AMI or less,All
+"King George County, Virginia",0.0,161.0,47.0,05000US51099,51,099,D,Owner,N/A,30% AMI or less,Elderly
+"King George County, Virginia",0.0,161.0,48.0,05000US51099,51,099,D,Owner,N/A,30% AMI or less,Extra-elderly
+"King George County, Virginia",15.0,30.0,49.0,05000US51099,51,099,D,Owner,N/A,30% AMI or less,Non-elderly
+"King George County, Virginia",0.0,161.0,50.0,05000US51099,51,099,S,Owner,N/A,30.1-50% AMI,All
+"King George County, Virginia",0.0,161.0,51.0,05000US51099,51,099,D,Owner,N/A,30.1-50% AMI,Elderly
+"King George County, Virginia",0.0,161.0,52.0,05000US51099,51,099,D,Owner,N/A,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",0.0,161.0,53.0,05000US51099,51,099,D,Owner,N/A,30.1-50% AMI,Non-elderly
+"King George County, Virginia",0.0,161.0,54.0,05000US51099,51,099,S,Owner,N/A,50.1-80% AMI,All
+"King George County, Virginia",0.0,161.0,55.0,05000US51099,51,099,D,Owner,N/A,50.1-80% AMI,Elderly
+"King George County, Virginia",0.0,161.0,56.0,05000US51099,51,099,D,Owner,N/A,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",0.0,161.0,57.0,05000US51099,51,099,D,Owner,N/A,50.1-80% AMI,Non-elderly
+"King George County, Virginia",0.0,161.0,58.0,05000US51099,51,099,S,Owner,N/A,80.1-95% AMI,All
+"King George County, Virginia",0.0,161.0,59.0,05000US51099,51,099,D,Owner,N/A,80.1-95% AMI,Elderly
+"King George County, Virginia",0.0,161.0,60.0,05000US51099,51,099,D,Owner,N/A,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",0.0,161.0,61.0,05000US51099,51,099,D,Owner,N/A,80.1-95% AMI,Non-elderly
+"King George County, Virginia",0.0,161.0,62.0,05000US51099,51,099,S,Owner,N/A,95.1% AMI and above,All
+"King George County, Virginia",0.0,161.0,63.0,05000US51099,51,099,D,Owner,N/A,95.1% AMI and above,Elderly
+"King George County, Virginia",0.0,161.0,64.0,05000US51099,51,099,D,Owner,N/A,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",0.0,161.0,65.0,05000US51099,51,099,D,Owner,N/A,95.1% AMI and above,Non-elderly
+"King George County, Virginia",1765.0,318.0,66.0,05000US51099,51,099,S,Renter,All,All,All
+"King George County, Virginia",805.0,234.0,67.0,05000US51099,51,099,S,Renter,Yes,All,All
+"King George County, Virginia",300.0,147.0,68.0,05000US51099,51,099,S,Renter,Yes,30% AMI or less,All
+"King George County, Virginia",50.0,54.0,69.0,05000US51099,51,099,D,Renter,Yes,30% AMI or less,Elderly
+"King George County, Virginia",0.0,161.0,70.0,05000US51099,51,099,D,Renter,Yes,30% AMI or less,Extra-elderly
+"King George County, Virginia",250.0,138.0,71.0,05000US51099,51,099,D,Renter,Yes,30% AMI or less,Non-elderly
+"King George County, Virginia",405.0,174.0,72.0,05000US51099,51,099,S,Renter,Yes,30.1-50% AMI,All
+"King George County, Virginia",0.0,161.0,73.0,05000US51099,51,099,D,Renter,Yes,30.1-50% AMI,Elderly
+"King George County, Virginia",20.0,36.0,74.0,05000US51099,51,099,D,Renter,Yes,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",385.0,173.0,75.0,05000US51099,51,099,D,Renter,Yes,30.1-50% AMI,Non-elderly
+"King George County, Virginia",100.0,69.0,76.0,05000US51099,51,099,S,Renter,Yes,50.1-80% AMI,All
+"King George County, Virginia",0.0,161.0,77.0,05000US51099,51,099,D,Renter,Yes,50.1-80% AMI,Elderly
+"King George County, Virginia",15.0,25.0,78.0,05000US51099,51,099,D,Renter,Yes,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",85.0,64.0,79.0,05000US51099,51,099,D,Renter,Yes,50.1-80% AMI,Non-elderly
+"King George County, Virginia",0.0,161.0,80.0,05000US51099,51,099,S,Renter,Yes,80.1-95% AMI,All
+"King George County, Virginia",0.0,161.0,81.0,05000US51099,51,099,D,Renter,Yes,80.1-95% AMI,Elderly
+"King George County, Virginia",0.0,161.0,82.0,05000US51099,51,099,D,Renter,Yes,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",0.0,161.0,83.0,05000US51099,51,099,D,Renter,Yes,80.1-95% AMI,Non-elderly
+"King George County, Virginia",0.0,161.0,84.0,05000US51099,51,099,S,Renter,Yes,95.1% AMI and above,All
+"King George County, Virginia",0.0,161.0,85.0,05000US51099,51,099,D,Renter,Yes,95.1% AMI and above,Elderly
+"King George County, Virginia",0.0,161.0,86.0,05000US51099,51,099,D,Renter,Yes,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",0.0,161.0,87.0,05000US51099,51,099,D,Renter,Yes,95.1% AMI and above,Non-elderly
+"King George County, Virginia",840.0,239.0,88.0,05000US51099,51,099,S,Renter,No,All,All
+"King George County, Virginia",0.0,161.0,89.0,05000US51099,51,099,S,Renter,No,30% AMI or less,All
+"King George County, Virginia",0.0,161.0,90.0,05000US51099,51,099,D,Renter,No,30% AMI or less,Elderly
+"King George County, Virginia",0.0,161.0,91.0,05000US51099,51,099,D,Renter,No,30% AMI or less,Extra-elderly
+"King George County, Virginia",0.0,161.0,92.0,05000US51099,51,099,D,Renter,No,30% AMI or less,Non-elderly
+"King George County, Virginia",45.0,48.0,93.0,05000US51099,51,099,S,Renter,No,30.1-50% AMI,All
+"King George County, Virginia",15.0,28.0,94.0,05000US51099,51,099,D,Renter,No,30.1-50% AMI,Elderly
+"King George County, Virginia",15.0,25.0,95.0,05000US51099,51,099,D,Renter,No,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",20.0,34.0,96.0,05000US51099,51,099,D,Renter,No,30.1-50% AMI,Non-elderly
+"King George County, Virginia",250.0,172.0,97.0,05000US51099,51,099,S,Renter,No,50.1-80% AMI,All
+"King George County, Virginia",0.0,161.0,98.0,05000US51099,51,099,D,Renter,No,50.1-80% AMI,Elderly
+"King George County, Virginia",0.0,161.0,99.0,05000US51099,51,099,D,Renter,No,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",250.0,172.0,100.0,05000US51099,51,099,D,Renter,No,50.1-80% AMI,Non-elderly
+"King George County, Virginia",150.0,123.0,101.0,05000US51099,51,099,S,Renter,No,80.1-95% AMI,All
+"King George County, Virginia",50.0,67.0,102.0,05000US51099,51,099,D,Renter,No,80.1-95% AMI,Elderly
+"King George County, Virginia",0.0,161.0,103.0,05000US51099,51,099,D,Renter,No,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",100.0,100.0,104.0,05000US51099,51,099,D,Renter,No,80.1-95% AMI,Non-elderly
+"King George County, Virginia",390.0,162.0,105.0,05000US51099,51,099,S,Renter,No,95.1% AMI and above,All
+"King George County, Virginia",35.0,48.0,106.0,05000US51099,51,099,D,Renter,No,95.1% AMI and above,Elderly
+"King George County, Virginia",0.0,161.0,107.0,05000US51099,51,099,D,Renter,No,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",355.0,151.0,108.0,05000US51099,51,099,D,Renter,No,95.1% AMI and above,Non-elderly
+"King George County, Virginia",125.0,97.0,109.0,05000US51099,51,099,S,Renter,N/A,All,All
+"King George County, Virginia",0.0,161.0,110.0,05000US51099,51,099,S,Renter,N/A,30% AMI or less,All
+"King George County, Virginia",0.0,161.0,111.0,05000US51099,51,099,D,Renter,N/A,30% AMI or less,Elderly
+"King George County, Virginia",0.0,161.0,112.0,05000US51099,51,099,D,Renter,N/A,30% AMI or less,Extra-elderly
+"King George County, Virginia",0.0,161.0,113.0,05000US51099,51,099,D,Renter,N/A,30% AMI or less,Non-elderly
+"King George County, Virginia",40.0,54.0,114.0,05000US51099,51,099,S,Renter,N/A,30.1-50% AMI,All
+"King George County, Virginia",0.0,161.0,115.0,05000US51099,51,099,D,Renter,N/A,30.1-50% AMI,Elderly
+"King George County, Virginia",0.0,161.0,116.0,05000US51099,51,099,D,Renter,N/A,30.1-50% AMI,Extra-elderly
+"King George County, Virginia",40.0,54.0,117.0,05000US51099,51,099,D,Renter,N/A,30.1-50% AMI,Non-elderly
+"King George County, Virginia",45.0,58.0,118.0,05000US51099,51,099,S,Renter,N/A,50.1-80% AMI,All
+"King George County, Virginia",20.0,33.0,119.0,05000US51099,51,099,D,Renter,N/A,50.1-80% AMI,Elderly
+"King George County, Virginia",0.0,161.0,120.0,05000US51099,51,099,D,Renter,N/A,50.1-80% AMI,Extra-elderly
+"King George County, Virginia",25.0,50.0,121.0,05000US51099,51,099,D,Renter,N/A,50.1-80% AMI,Non-elderly
+"King George County, Virginia",20.0,27.0,122.0,05000US51099,51,099,S,Renter,N/A,80.1-95% AMI,All
+"King George County, Virginia",0.0,161.0,123.0,05000US51099,51,099,D,Renter,N/A,80.1-95% AMI,Elderly
+"King George County, Virginia",4.0,12.0,124.0,05000US51099,51,099,D,Renter,N/A,80.1-95% AMI,Extra-elderly
+"King George County, Virginia",10.0,22.0,125.0,05000US51099,51,099,D,Renter,N/A,80.1-95% AMI,Non-elderly
+"King George County, Virginia",20.0,27.0,126.0,05000US51099,51,099,S,Renter,N/A,95.1% AMI and above,All
+"King George County, Virginia",0.0,161.0,127.0,05000US51099,51,099,D,Renter,N/A,95.1% AMI and above,Elderly
+"King George County, Virginia",0.0,161.0,128.0,05000US51099,51,099,D,Renter,N/A,95.1% AMI and above,Extra-elderly
+"King George County, Virginia",20.0,27.0,129.0,05000US51099,51,099,D,Renter,N/A,95.1% AMI and above,Non-elderly

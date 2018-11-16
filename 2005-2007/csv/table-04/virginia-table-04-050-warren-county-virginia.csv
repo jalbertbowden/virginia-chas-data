@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Warren County, Virginia",13470.0,396.0,1.0,05000US51187,51,187,T,All,All,All,All
+"Warren County, Virginia",10370.0,453.0,2.0,05000US51187,51,187,S,Owner,All,All,All
+"Warren County, Virginia",2800.0,414.0,3.0,05000US51187,51,187,S,Owner,Yes,All,All
+"Warren County, Virginia",390.0,232.0,4.0,05000US51187,51,187,S,Owner,Yes,"Family, 1 parent",All
+"Warren County, Virginia",390.0,232.0,5.0,05000US51187,51,187,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",0.0,161.0,6.0,05000US51187,51,187,D,Owner,Yes,"Family, 1 parent",5 or more
+"Warren County, Virginia",1125.0,280.0,7.0,05000US51187,51,187,S,Owner,Yes,"Family, 2 parents",All
+"Warren County, Virginia",890.0,255.0,8.0,05000US51187,51,187,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",235.0,118.0,9.0,05000US51187,51,187,D,Owner,Yes,"Family, 2 parents",5 or more
+"Warren County, Virginia",1285.0,310.0,10.0,05000US51187,51,187,S,Owner,Yes,Non-family,All
+"Warren County, Virginia",1285.0,310.0,11.0,05000US51187,51,187,D,Owner,Yes,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,12.0,05000US51187,51,187,D,Owner,Yes,Non-family,5 or more
+"Warren County, Virginia",7570.0,482.0,13.0,05000US51187,51,187,S,Owner,No,All,All
+"Warren County, Virginia",680.0,205.0,14.0,05000US51187,51,187,S,Owner,No,"Family, 1 parent",All
+"Warren County, Virginia",680.0,205.0,15.0,05000US51187,51,187,D,Owner,No,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",0.0,161.0,16.0,05000US51187,51,187,D,Owner,No,"Family, 1 parent",5 or more
+"Warren County, Virginia",5270.0,419.0,17.0,05000US51187,51,187,S,Owner,No,"Family, 2 parents",All
+"Warren County, Virginia",4685.0,435.0,18.0,05000US51187,51,187,D,Owner,No,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",585.0,187.0,19.0,05000US51187,51,187,D,Owner,No,"Family, 2 parents",5 or more
+"Warren County, Virginia",1620.0,316.0,20.0,05000US51187,51,187,S,Owner,No,Non-family,All
+"Warren County, Virginia",1620.0,316.0,21.0,05000US51187,51,187,D,Owner,No,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,22.0,05000US51187,51,187,D,Owner,No,Non-family,5 or more
+"Warren County, Virginia",0.0,161.0,23.0,05000US51187,51,187,S,Owner,N/A,All,All
+"Warren County, Virginia",0.0,161.0,24.0,05000US51187,51,187,S,Owner,N/A,"Family, 1 parent",All
+"Warren County, Virginia",0.0,161.0,25.0,05000US51187,51,187,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",0.0,161.0,26.0,05000US51187,51,187,D,Owner,N/A,"Family, 1 parent",5 or more
+"Warren County, Virginia",0.0,161.0,27.0,05000US51187,51,187,S,Owner,N/A,"Family, 2 parents",All
+"Warren County, Virginia",0.0,161.0,28.0,05000US51187,51,187,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",0.0,161.0,29.0,05000US51187,51,187,D,Owner,N/A,"Family, 2 parents",5 or more
+"Warren County, Virginia",0.0,161.0,30.0,05000US51187,51,187,S,Owner,N/A,Non-family,All
+"Warren County, Virginia",0.0,161.0,31.0,05000US51187,51,187,D,Owner,N/A,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,32.0,05000US51187,51,187,D,Owner,N/A,Non-family,5 or more
+"Warren County, Virginia",3100.0,371.0,33.0,05000US51187,51,187,S,Renter,All,All,All
+"Warren County, Virginia",1165.0,295.0,34.0,05000US51187,51,187,S,Renter,Yes,All,All
+"Warren County, Virginia",355.0,213.0,35.0,05000US51187,51,187,S,Renter,Yes,"Family, 1 parent",All
+"Warren County, Virginia",355.0,213.0,36.0,05000US51187,51,187,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",0.0,161.0,37.0,05000US51187,51,187,D,Renter,Yes,"Family, 1 parent",5 or more
+"Warren County, Virginia",405.0,203.0,38.0,05000US51187,51,187,S,Renter,Yes,"Family, 2 parents",All
+"Warren County, Virginia",220.0,112.0,39.0,05000US51187,51,187,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",185.0,155.0,40.0,05000US51187,51,187,D,Renter,Yes,"Family, 2 parents",5 or more
+"Warren County, Virginia",405.0,164.0,41.0,05000US51187,51,187,S,Renter,Yes,Non-family,All
+"Warren County, Virginia",405.0,164.0,42.0,05000US51187,51,187,D,Renter,Yes,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,43.0,05000US51187,51,187,D,Renter,Yes,Non-family,5 or more
+"Warren County, Virginia",1775.0,345.0,44.0,05000US51187,51,187,S,Renter,No,All,All
+"Warren County, Virginia",655.0,347.0,45.0,05000US51187,51,187,S,Renter,No,"Family, 1 parent",All
+"Warren County, Virginia",575.0,359.0,46.0,05000US51187,51,187,D,Renter,No,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",80.0,98.0,47.0,05000US51187,51,187,D,Renter,No,"Family, 1 parent",5 or more
+"Warren County, Virginia",330.0,166.0,48.0,05000US51187,51,187,S,Renter,No,"Family, 2 parents",All
+"Warren County, Virginia",230.0,149.0,49.0,05000US51187,51,187,D,Renter,No,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",100.0,77.0,50.0,05000US51187,51,187,D,Renter,No,"Family, 2 parents",5 or more
+"Warren County, Virginia",785.0,248.0,51.0,05000US51187,51,187,S,Renter,No,Non-family,All
+"Warren County, Virginia",785.0,248.0,52.0,05000US51187,51,187,D,Renter,No,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,53.0,05000US51187,51,187,D,Renter,No,Non-family,5 or more
+"Warren County, Virginia",160.0,111.0,54.0,05000US51187,51,187,S,Renter,N/A,All,All
+"Warren County, Virginia",0.0,161.0,55.0,05000US51187,51,187,S,Renter,N/A,"Family, 1 parent",All
+"Warren County, Virginia",0.0,161.0,56.0,05000US51187,51,187,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Warren County, Virginia",0.0,161.0,57.0,05000US51187,51,187,D,Renter,N/A,"Family, 1 parent",5 or more
+"Warren County, Virginia",100.0,93.0,58.0,05000US51187,51,187,S,Renter,N/A,"Family, 2 parents",All
+"Warren County, Virginia",100.0,93.0,59.0,05000US51187,51,187,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Warren County, Virginia",0.0,161.0,60.0,05000US51187,51,187,D,Renter,N/A,"Family, 2 parents",5 or more
+"Warren County, Virginia",60.0,60.0,61.0,05000US51187,51,187,S,Renter,N/A,Non-family,All
+"Warren County, Virginia",60.0,60.0,62.0,05000US51187,51,187,D,Renter,N/A,Non-family,4 or fewer
+"Warren County, Virginia",0.0,161.0,63.0,05000US51187,51,187,D,Renter,N/A,Non-family,5 or more

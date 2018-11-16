@@ -1,0 +1,134 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Income,Cost_Burden,Substandard
+"Suffolk city, Virginia",29860.0,431.0,1.0,05000US51800,51,800,T,All,All,All,All
+"Suffolk city, Virginia",21285.0,618.0,2.0,05000US51800,51,800,S,Owner,All,All,All
+"Suffolk city, Virginia",965.0,226.0,3.0,05000US51800,51,800,S,Owner,30% AMI or less,All,All
+"Suffolk city, Virginia",170.0,95.0,4.0,05000US51800,51,800,S,Owner,30% AMI or less,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,5.0,05000US51800,51,800,D,Owner,30% AMI or less,No cost burden,substandard
+"Suffolk city, Virginia",170.0,95.0,6.0,05000US51800,51,800,D,Owner,30% AMI or less,No cost burden,standard
+"Suffolk city, Virginia",175.0,121.0,7.0,05000US51800,51,800,S,Owner,30% AMI or less,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,8.0,05000US51800,51,800,D,Owner,30% AMI or less,Moderate cost burden,substandard
+"Suffolk city, Virginia",175.0,121.0,9.0,05000US51800,51,800,D,Owner,30% AMI or less,Moderate cost burden,standard
+"Suffolk city, Virginia",555.0,185.0,10.0,05000US51800,51,800,S,Owner,30% AMI or less,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,11.0,05000US51800,51,800,D,Owner,30% AMI or less,Severe cost burden,substandard
+"Suffolk city, Virginia",555.0,185.0,12.0,05000US51800,51,800,D,Owner,30% AMI or less,Severe cost burden,standard
+"Suffolk city, Virginia",65.0,73.0,13.0,05000US51800,51,800,S,Owner,30% AMI or less,N/A,All
+"Suffolk city, Virginia",0.0,161.0,14.0,05000US51800,51,800,D,Owner,30% AMI or less,N/A,substandard
+"Suffolk city, Virginia",65.0,73.0,15.0,05000US51800,51,800,D,Owner,30% AMI or less,N/A,standard
+"Suffolk city, Virginia",1515.0,276.0,16.0,05000US51800,51,800,S,Owner,30.1-50% AMI,All,All
+"Suffolk city, Virginia",765.0,191.0,17.0,05000US51800,51,800,S,Owner,30.1-50% AMI,No cost burden,All
+"Suffolk city, Virginia",15.0,28.0,18.0,05000US51800,51,800,D,Owner,30.1-50% AMI,No cost burden,substandard
+"Suffolk city, Virginia",750.0,188.0,19.0,05000US51800,51,800,D,Owner,30.1-50% AMI,No cost burden,standard
+"Suffolk city, Virginia",495.0,173.0,20.0,05000US51800,51,800,S,Owner,30.1-50% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,21.0,05000US51800,51,800,D,Owner,30.1-50% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",495.0,173.0,22.0,05000US51800,51,800,D,Owner,30.1-50% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",255.0,130.0,23.0,05000US51800,51,800,S,Owner,30.1-50% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,24.0,05000US51800,51,800,D,Owner,30.1-50% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",255.0,130.0,25.0,05000US51800,51,800,D,Owner,30.1-50% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,26.0,05000US51800,51,800,S,Owner,30.1-50% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,27.0,05000US51800,51,800,D,Owner,30.1-50% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,28.0,05000US51800,51,800,D,Owner,30.1-50% AMI,N/A,standard
+"Suffolk city, Virginia",2390.0,355.0,29.0,05000US51800,51,800,S,Owner,50.1-80% AMI,All,All
+"Suffolk city, Virginia",1215.0,267.0,30.0,05000US51800,51,800,S,Owner,50.1-80% AMI,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,31.0,05000US51800,51,800,D,Owner,50.1-80% AMI,No cost burden,substandard
+"Suffolk city, Virginia",1215.0,267.0,32.0,05000US51800,51,800,D,Owner,50.1-80% AMI,No cost burden,standard
+"Suffolk city, Virginia",685.0,196.0,33.0,05000US51800,51,800,S,Owner,50.1-80% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,34.0,05000US51800,51,800,D,Owner,50.1-80% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",685.0,196.0,35.0,05000US51800,51,800,D,Owner,50.1-80% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",490.0,162.0,36.0,05000US51800,51,800,S,Owner,50.1-80% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,37.0,05000US51800,51,800,D,Owner,50.1-80% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",490.0,162.0,38.0,05000US51800,51,800,D,Owner,50.1-80% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,39.0,05000US51800,51,800,S,Owner,50.1-80% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,40.0,05000US51800,51,800,D,Owner,50.1-80% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,41.0,05000US51800,51,800,D,Owner,50.1-80% AMI,N/A,standard
+"Suffolk city, Virginia",1895.0,374.0,42.0,05000US51800,51,800,S,Owner,80.1-95% AMI,All,All
+"Suffolk city, Virginia",1200.0,308.0,43.0,05000US51800,51,800,S,Owner,80.1-95% AMI,No cost burden,All
+"Suffolk city, Virginia",20.0,38.0,44.0,05000US51800,51,800,D,Owner,80.1-95% AMI,No cost burden,substandard
+"Suffolk city, Virginia",1180.0,309.0,45.0,05000US51800,51,800,D,Owner,80.1-95% AMI,No cost burden,standard
+"Suffolk city, Virginia",600.0,203.0,46.0,05000US51800,51,800,S,Owner,80.1-95% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,47.0,05000US51800,51,800,D,Owner,80.1-95% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",600.0,203.0,48.0,05000US51800,51,800,D,Owner,80.1-95% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",95.0,74.0,49.0,05000US51800,51,800,S,Owner,80.1-95% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,50.0,05000US51800,51,800,D,Owner,80.1-95% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",95.0,74.0,51.0,05000US51800,51,800,D,Owner,80.1-95% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,52.0,05000US51800,51,800,S,Owner,80.1-95% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,53.0,05000US51800,51,800,D,Owner,80.1-95% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,54.0,05000US51800,51,800,D,Owner,80.1-95% AMI,N/A,standard
+"Suffolk city, Virginia",14520.0,649.0,55.0,05000US51800,51,800,S,Owner,95.1% AMI and above,All,All
+"Suffolk city, Virginia",12350.0,715.0,56.0,05000US51800,51,800,S,Owner,95.1% AMI and above,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,57.0,05000US51800,51,800,D,Owner,95.1% AMI and above,No cost burden,substandard
+"Suffolk city, Virginia",12350.0,715.0,58.0,05000US51800,51,800,D,Owner,95.1% AMI and above,No cost burden,standard
+"Suffolk city, Virginia",2040.0,383.0,59.0,05000US51800,51,800,S,Owner,95.1% AMI and above,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,60.0,05000US51800,51,800,D,Owner,95.1% AMI and above,Moderate cost burden,substandard
+"Suffolk city, Virginia",2040.0,383.0,61.0,05000US51800,51,800,D,Owner,95.1% AMI and above,Moderate cost burden,standard
+"Suffolk city, Virginia",130.0,97.0,62.0,05000US51800,51,800,S,Owner,95.1% AMI and above,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,63.0,05000US51800,51,800,D,Owner,95.1% AMI and above,Severe cost burden,substandard
+"Suffolk city, Virginia",130.0,97.0,64.0,05000US51800,51,800,D,Owner,95.1% AMI and above,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,65.0,05000US51800,51,800,S,Owner,95.1% AMI and above,N/A,All
+"Suffolk city, Virginia",0.0,161.0,66.0,05000US51800,51,800,D,Owner,95.1% AMI and above,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,67.0,05000US51800,51,800,D,Owner,95.1% AMI and above,N/A,standard
+"Suffolk city, Virginia",8570.0,698.0,68.0,05000US51800,51,800,S,Renter,All,All,All
+"Suffolk city, Virginia",2720.0,420.0,69.0,05000US51800,51,800,S,Renter,30% AMI or less,All,All
+"Suffolk city, Virginia",470.0,254.0,70.0,05000US51800,51,800,S,Renter,30% AMI or less,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,71.0,05000US51800,51,800,D,Renter,30% AMI or less,No cost burden,substandard
+"Suffolk city, Virginia",470.0,254.0,72.0,05000US51800,51,800,D,Renter,30% AMI or less,No cost burden,standard
+"Suffolk city, Virginia",335.0,165.0,73.0,05000US51800,51,800,S,Renter,30% AMI or less,Moderate cost burden,All
+"Suffolk city, Virginia",70.0,90.0,74.0,05000US51800,51,800,D,Renter,30% AMI or less,Moderate cost burden,substandard
+"Suffolk city, Virginia",265.0,148.0,75.0,05000US51800,51,800,D,Renter,30% AMI or less,Moderate cost burden,standard
+"Suffolk city, Virginia",1675.0,375.0,76.0,05000US51800,51,800,S,Renter,30% AMI or less,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,77.0,05000US51800,51,800,D,Renter,30% AMI or less,Severe cost burden,substandard
+"Suffolk city, Virginia",1675.0,375.0,78.0,05000US51800,51,800,D,Renter,30% AMI or less,Severe cost burden,standard
+"Suffolk city, Virginia",240.0,167.0,79.0,05000US51800,51,800,S,Renter,30% AMI or less,N/A,All
+"Suffolk city, Virginia",0.0,161.0,80.0,05000US51800,51,800,D,Renter,30% AMI or less,N/A,substandard
+"Suffolk city, Virginia",240.0,167.0,81.0,05000US51800,51,800,D,Renter,30% AMI or less,N/A,standard
+"Suffolk city, Virginia",1145.0,300.0,82.0,05000US51800,51,800,S,Renter,30.1-50% AMI,All,All
+"Suffolk city, Virginia",325.0,178.0,83.0,05000US51800,51,800,S,Renter,30.1-50% AMI,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,84.0,05000US51800,51,800,D,Renter,30.1-50% AMI,No cost burden,substandard
+"Suffolk city, Virginia",325.0,178.0,85.0,05000US51800,51,800,D,Renter,30.1-50% AMI,No cost burden,standard
+"Suffolk city, Virginia",705.0,264.0,86.0,05000US51800,51,800,S,Renter,30.1-50% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",15.0,23.0,87.0,05000US51800,51,800,D,Renter,30.1-50% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",690.0,261.0,88.0,05000US51800,51,800,D,Renter,30.1-50% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",115.0,82.0,89.0,05000US51800,51,800,S,Renter,30.1-50% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,90.0,05000US51800,51,800,D,Renter,30.1-50% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",115.0,82.0,91.0,05000US51800,51,800,D,Renter,30.1-50% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,92.0,05000US51800,51,800,S,Renter,30.1-50% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,93.0,05000US51800,51,800,D,Renter,30.1-50% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,94.0,05000US51800,51,800,D,Renter,30.1-50% AMI,N/A,standard
+"Suffolk city, Virginia",2050.0,509.0,95.0,05000US51800,51,800,S,Renter,50.1-80% AMI,All,All
+"Suffolk city, Virginia",1175.0,362.0,96.0,05000US51800,51,800,S,Renter,50.1-80% AMI,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,97.0,05000US51800,51,800,D,Renter,50.1-80% AMI,No cost burden,substandard
+"Suffolk city, Virginia",1175.0,362.0,98.0,05000US51800,51,800,D,Renter,50.1-80% AMI,No cost burden,standard
+"Suffolk city, Virginia",865.0,382.0,99.0,05000US51800,51,800,S,Renter,50.1-80% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,100.0,05000US51800,51,800,D,Renter,50.1-80% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",865.0,382.0,101.0,05000US51800,51,800,D,Renter,50.1-80% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",10.0,16.0,102.0,05000US51800,51,800,S,Renter,50.1-80% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,103.0,05000US51800,51,800,D,Renter,50.1-80% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",10.0,16.0,104.0,05000US51800,51,800,D,Renter,50.1-80% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,105.0,05000US51800,51,800,S,Renter,50.1-80% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,106.0,05000US51800,51,800,D,Renter,50.1-80% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,107.0,05000US51800,51,800,D,Renter,50.1-80% AMI,N/A,standard
+"Suffolk city, Virginia",485.0,208.0,108.0,05000US51800,51,800,S,Renter,80.1-95% AMI,All,All
+"Suffolk city, Virginia",395.0,197.0,109.0,05000US51800,51,800,S,Renter,80.1-95% AMI,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,110.0,05000US51800,51,800,D,Renter,80.1-95% AMI,No cost burden,substandard
+"Suffolk city, Virginia",395.0,197.0,111.0,05000US51800,51,800,D,Renter,80.1-95% AMI,No cost burden,standard
+"Suffolk city, Virginia",70.0,67.0,112.0,05000US51800,51,800,S,Renter,80.1-95% AMI,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,113.0,05000US51800,51,800,D,Renter,80.1-95% AMI,Moderate cost burden,substandard
+"Suffolk city, Virginia",70.0,67.0,114.0,05000US51800,51,800,D,Renter,80.1-95% AMI,Moderate cost burden,standard
+"Suffolk city, Virginia",20.0,39.0,115.0,05000US51800,51,800,S,Renter,80.1-95% AMI,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,116.0,05000US51800,51,800,D,Renter,80.1-95% AMI,Severe cost burden,substandard
+"Suffolk city, Virginia",20.0,39.0,117.0,05000US51800,51,800,D,Renter,80.1-95% AMI,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,118.0,05000US51800,51,800,S,Renter,80.1-95% AMI,N/A,All
+"Suffolk city, Virginia",0.0,161.0,119.0,05000US51800,51,800,D,Renter,80.1-95% AMI,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,120.0,05000US51800,51,800,D,Renter,80.1-95% AMI,N/A,standard
+"Suffolk city, Virginia",2175.0,499.0,121.0,05000US51800,51,800,S,Renter,95.1% AMI and above,All,All
+"Suffolk city, Virginia",2090.0,493.0,122.0,05000US51800,51,800,S,Renter,95.1% AMI and above,No cost burden,All
+"Suffolk city, Virginia",0.0,161.0,123.0,05000US51800,51,800,D,Renter,95.1% AMI and above,No cost burden,substandard
+"Suffolk city, Virginia",2090.0,493.0,124.0,05000US51800,51,800,D,Renter,95.1% AMI and above,No cost burden,standard
+"Suffolk city, Virginia",85.0,111.0,125.0,05000US51800,51,800,S,Renter,95.1% AMI and above,Moderate cost burden,All
+"Suffolk city, Virginia",0.0,161.0,126.0,05000US51800,51,800,D,Renter,95.1% AMI and above,Moderate cost burden,substandard
+"Suffolk city, Virginia",85.0,111.0,127.0,05000US51800,51,800,D,Renter,95.1% AMI and above,Moderate cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,128.0,05000US51800,51,800,S,Renter,95.1% AMI and above,Severe cost burden,All
+"Suffolk city, Virginia",0.0,161.0,129.0,05000US51800,51,800,D,Renter,95.1% AMI and above,Severe cost burden,substandard
+"Suffolk city, Virginia",0.0,161.0,130.0,05000US51800,51,800,D,Renter,95.1% AMI and above,Severe cost burden,standard
+"Suffolk city, Virginia",0.0,161.0,131.0,05000US51800,51,800,S,Renter,95.1% AMI and above,N/A,All
+"Suffolk city, Virginia",0.0,161.0,132.0,05000US51800,51,800,D,Renter,95.1% AMI and above,N/A,substandard
+"Suffolk city, Virginia",0.0,161.0,133.0,05000US51800,51,800,D,Renter,95.1% AMI and above,N/A,standard

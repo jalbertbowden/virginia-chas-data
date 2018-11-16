@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Isle of Wight County, Virginia",2550.0,457.0,1.0,05000US51093,51,093,T,All,All,All,All
+"Isle of Wight County, Virginia",90.0,102.0,2.0,05000US51093,51,093,S,Substandard,All,All,All
+"Isle of Wight County, Virginia",2460.0,449.0,3.0,05000US51093,51,093,S,Standard,All,All,All
+"Isle of Wight County, Virginia",770.0,258.0,4.0,05000US51093,51,093,S,Standard,RHUD30,All,All
+"Isle of Wight County, Virginia",295.0,166.0,5.0,05000US51093,51,093,S,Standard,RHUD30,30% AMI or less,All
+"Isle of Wight County, Virginia",55.0,46.0,6.0,05000US51093,51,093,D,Standard,RHUD30,30% AMI or less,0 or 1
+"Isle of Wight County, Virginia",110.0,91.0,7.0,05000US51093,51,093,D,Standard,RHUD30,30% AMI or less,2
+"Isle of Wight County, Virginia",130.0,127.0,8.0,05000US51093,51,093,D,Standard,RHUD30,30% AMI or less,3 or more
+"Isle of Wight County, Virginia",220.0,158.0,9.0,05000US51093,51,093,S,Standard,RHUD30,30.1-50% AMI,All
+"Isle of Wight County, Virginia",10.0,15.0,10.0,05000US51093,51,093,D,Standard,RHUD30,30.1-50% AMI,0 or 1
+"Isle of Wight County, Virginia",165.0,162.0,11.0,05000US51093,51,093,D,Standard,RHUD30,30.1-50% AMI,2
+"Isle of Wight County, Virginia",45.0,46.0,12.0,05000US51093,51,093,D,Standard,RHUD30,30.1-50% AMI,3 or more
+"Isle of Wight County, Virginia",130.0,113.0,13.0,05000US51093,51,093,S,Standard,RHUD30,50.1-80% AMI,All
+"Isle of Wight County, Virginia",55.0,81.0,14.0,05000US51093,51,093,D,Standard,RHUD30,50.1-80% AMI,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,15.0,05000US51093,51,093,D,Standard,RHUD30,50.1-80% AMI,2
+"Isle of Wight County, Virginia",75.0,84.0,16.0,05000US51093,51,093,D,Standard,RHUD30,50.1-80% AMI,3 or more
+"Isle of Wight County, Virginia",80.0,102.0,17.0,05000US51093,51,093,S,Standard,RHUD30,80.1-95% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,18.0,05000US51093,51,093,D,Standard,RHUD30,80.1-95% AMI,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,19.0,05000US51093,51,093,D,Standard,RHUD30,80.1-95% AMI,2
+"Isle of Wight County, Virginia",80.0,102.0,20.0,05000US51093,51,093,D,Standard,RHUD30,80.1-95% AMI,3 or more
+"Isle of Wight County, Virginia",45.0,52.0,21.0,05000US51093,51,093,S,Standard,RHUD30,95.1% AMI and above,All
+"Isle of Wight County, Virginia",0.0,161.0,22.0,05000US51093,51,093,D,Standard,RHUD30,95.1% AMI and above,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,23.0,05000US51093,51,093,D,Standard,RHUD30,95.1% AMI and above,2
+"Isle of Wight County, Virginia",45.0,52.0,24.0,05000US51093,51,093,D,Standard,RHUD30,95.1% AMI and above,3 or more
+"Isle of Wight County, Virginia",825.0,309.0,25.0,05000US51093,51,093,S,Standard,RHUD50,All,All
+"Isle of Wight County, Virginia",90.0,84.0,26.0,05000US51093,51,093,S,Standard,RHUD50,30% AMI or less,All
+"Isle of Wight County, Virginia",30.0,52.0,27.0,05000US51093,51,093,D,Standard,RHUD50,30% AMI or less,0 or 1
+"Isle of Wight County, Virginia",40.0,52.0,28.0,05000US51093,51,093,D,Standard,RHUD50,30% AMI or less,2
+"Isle of Wight County, Virginia",20.0,36.0,29.0,05000US51093,51,093,D,Standard,RHUD50,30% AMI or less,3 or more
+"Isle of Wight County, Virginia",385.0,248.0,30.0,05000US51093,51,093,S,Standard,RHUD50,30.1-50% AMI,All
+"Isle of Wight County, Virginia",210.0,204.0,31.0,05000US51093,51,093,D,Standard,RHUD50,30.1-50% AMI,0 or 1
+"Isle of Wight County, Virginia",45.0,70.0,32.0,05000US51093,51,093,D,Standard,RHUD50,30.1-50% AMI,2
+"Isle of Wight County, Virginia",130.0,115.0,33.0,05000US51093,51,093,D,Standard,RHUD50,30.1-50% AMI,3 or more
+"Isle of Wight County, Virginia",90.0,84.0,34.0,05000US51093,51,093,S,Standard,RHUD50,50.1-80% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,35.0,05000US51093,51,093,D,Standard,RHUD50,50.1-80% AMI,0 or 1
+"Isle of Wight County, Virginia",40.0,40.0,36.0,05000US51093,51,093,D,Standard,RHUD50,50.1-80% AMI,2
+"Isle of Wight County, Virginia",55.0,71.0,37.0,05000US51093,51,093,D,Standard,RHUD50,50.1-80% AMI,3 or more
+"Isle of Wight County, Virginia",130.0,104.0,38.0,05000US51093,51,093,S,Standard,RHUD50,80.1-95% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,39.0,05000US51093,51,093,D,Standard,RHUD50,80.1-95% AMI,0 or 1
+"Isle of Wight County, Virginia",65.0,65.0,40.0,05000US51093,51,093,D,Standard,RHUD50,80.1-95% AMI,2
+"Isle of Wight County, Virginia",65.0,90.0,41.0,05000US51093,51,093,D,Standard,RHUD50,80.1-95% AMI,3 or more
+"Isle of Wight County, Virginia",125.0,84.0,42.0,05000US51093,51,093,S,Standard,RHUD50,95.1% AMI and above,All
+"Isle of Wight County, Virginia",50.0,61.0,43.0,05000US51093,51,093,D,Standard,RHUD50,95.1% AMI and above,0 or 1
+"Isle of Wight County, Virginia",15.0,23.0,44.0,05000US51093,51,093,D,Standard,RHUD50,95.1% AMI and above,2
+"Isle of Wight County, Virginia",65.0,59.0,45.0,05000US51093,51,093,D,Standard,RHUD50,95.1% AMI and above,3 or more
+"Isle of Wight County, Virginia",730.0,275.0,46.0,05000US51093,51,093,S,Standard,RHUD80,All,All
+"Isle of Wight County, Virginia",55.0,65.0,47.0,05000US51093,51,093,S,Standard,RHUD80,30% AMI or less,All
+"Isle of Wight County, Virginia",30.0,51.0,48.0,05000US51093,51,093,D,Standard,RHUD80,30% AMI or less,0 or 1
+"Isle of Wight County, Virginia",25.0,41.0,49.0,05000US51093,51,093,D,Standard,RHUD80,30% AMI or less,2
+"Isle of Wight County, Virginia",0.0,161.0,50.0,05000US51093,51,093,D,Standard,RHUD80,30% AMI or less,3 or more
+"Isle of Wight County, Virginia",90.0,102.0,51.0,05000US51093,51,093,S,Standard,RHUD80,30.1-50% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,52.0,05000US51093,51,093,D,Standard,RHUD80,30.1-50% AMI,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,53.0,05000US51093,51,093,D,Standard,RHUD80,30.1-50% AMI,2
+"Isle of Wight County, Virginia",90.0,102.0,54.0,05000US51093,51,093,D,Standard,RHUD80,30.1-50% AMI,3 or more
+"Isle of Wight County, Virginia",225.0,148.0,55.0,05000US51093,51,093,S,Standard,RHUD80,50.1-80% AMI,All
+"Isle of Wight County, Virginia",25.0,40.0,56.0,05000US51093,51,093,D,Standard,RHUD80,50.1-80% AMI,0 or 1
+"Isle of Wight County, Virginia",95.0,85.0,57.0,05000US51093,51,093,D,Standard,RHUD80,50.1-80% AMI,2
+"Isle of Wight County, Virginia",105.0,106.0,58.0,05000US51093,51,093,D,Standard,RHUD80,50.1-80% AMI,3 or more
+"Isle of Wight County, Virginia",100.0,98.0,59.0,05000US51093,51,093,S,Standard,RHUD80,80.1-95% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,60.0,05000US51093,51,093,D,Standard,RHUD80,80.1-95% AMI,0 or 1
+"Isle of Wight County, Virginia",80.0,92.0,61.0,05000US51093,51,093,D,Standard,RHUD80,80.1-95% AMI,2
+"Isle of Wight County, Virginia",20.0,35.0,62.0,05000US51093,51,093,D,Standard,RHUD80,80.1-95% AMI,3 or more
+"Isle of Wight County, Virginia",265.0,163.0,63.0,05000US51093,51,093,S,Standard,RHUD80,95.1% AMI and above,All
+"Isle of Wight County, Virginia",70.0,109.0,64.0,05000US51093,51,093,D,Standard,RHUD80,95.1% AMI and above,0 or 1
+"Isle of Wight County, Virginia",100.0,74.0,65.0,05000US51093,51,093,D,Standard,RHUD80,95.1% AMI and above,2
+"Isle of Wight County, Virginia",95.0,100.0,66.0,05000US51093,51,093,D,Standard,RHUD80,95.1% AMI and above,3 or more
+"Isle of Wight County, Virginia",135.0,66.0,67.0,05000US51093,51,093,S,Standard,Greater than RHUD80,All,All
+"Isle of Wight County, Virginia",0.0,161.0,68.0,05000US51093,51,093,S,Standard,Greater than RHUD80,30% AMI or less,All
+"Isle of Wight County, Virginia",0.0,161.0,69.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30% AMI or less,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,70.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30% AMI or less,2
+"Isle of Wight County, Virginia",0.0,161.0,71.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30% AMI or less,3 or more
+"Isle of Wight County, Virginia",0.0,161.0,72.0,05000US51093,51,093,S,Standard,Greater than RHUD80,30.1-50% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,73.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30.1-50% AMI,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,74.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30.1-50% AMI,2
+"Isle of Wight County, Virginia",0.0,161.0,75.0,05000US51093,51,093,D,Standard,Greater than RHUD80,30.1-50% AMI,3 or more
+"Isle of Wight County, Virginia",40.0,56.0,76.0,05000US51093,51,093,S,Standard,Greater than RHUD80,50.1-80% AMI,All
+"Isle of Wight County, Virginia",10.0,22.0,77.0,05000US51093,51,093,D,Standard,Greater than RHUD80,50.1-80% AMI,0 or 1
+"Isle of Wight County, Virginia",30.0,54.0,78.0,05000US51093,51,093,D,Standard,Greater than RHUD80,50.1-80% AMI,2
+"Isle of Wight County, Virginia",0.0,161.0,79.0,05000US51093,51,093,D,Standard,Greater than RHUD80,50.1-80% AMI,3 or more
+"Isle of Wight County, Virginia",0.0,161.0,80.0,05000US51093,51,093,S,Standard,Greater than RHUD80,80.1-95% AMI,All
+"Isle of Wight County, Virginia",0.0,161.0,81.0,05000US51093,51,093,D,Standard,Greater than RHUD80,80.1-95% AMI,0 or 1
+"Isle of Wight County, Virginia",0.0,161.0,82.0,05000US51093,51,093,D,Standard,Greater than RHUD80,80.1-95% AMI,2
+"Isle of Wight County, Virginia",0.0,161.0,83.0,05000US51093,51,093,D,Standard,Greater than RHUD80,80.1-95% AMI,3 or more
+"Isle of Wight County, Virginia",95.0,65.0,84.0,05000US51093,51,093,S,Standard,Greater than RHUD80,95.1% AMI and above,All
+"Isle of Wight County, Virginia",40.0,48.0,85.0,05000US51093,51,093,D,Standard,Greater than RHUD80,95.1% AMI and above,0 or 1
+"Isle of Wight County, Virginia",55.0,48.0,86.0,05000US51093,51,093,D,Standard,Greater than RHUD80,95.1% AMI and above,2
+"Isle of Wight County, Virginia",0.0,161.0,87.0,05000US51093,51,093,D,Standard,Greater than RHUD80,95.1% AMI and above,3 or more

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Stafford County, Virginia",660.0,473.0,1.0,05000US51179,51,179,T,All,All,All
+"Stafford County, Virginia",0.0,161.0,2.0,05000US51179,51,179,S,Substandard,All,All
+"Stafford County, Virginia",660.0,473.0,3.0,05000US51179,51,179,S,Standard,All,All
+"Stafford County, Virginia",0.0,161.0,4.0,05000US51179,51,179,S,Standard,RHUD30,All
+"Stafford County, Virginia",0.0,161.0,5.0,05000US51179,51,179,D,Standard,RHUD30,0 or 1
+"Stafford County, Virginia",0.0,161.0,6.0,05000US51179,51,179,D,Standard,RHUD30,2
+"Stafford County, Virginia",0.0,161.0,7.0,05000US51179,51,179,D,Standard,RHUD30,3 or more
+"Stafford County, Virginia",455.0,404.0,8.0,05000US51179,51,179,S,Standard,RHUD50,All
+"Stafford County, Virginia",0.0,161.0,9.0,05000US51179,51,179,D,Standard,RHUD50,0 or 1
+"Stafford County, Virginia",380.0,386.0,10.0,05000US51179,51,179,D,Standard,RHUD50,2
+"Stafford County, Virginia",75.0,118.0,11.0,05000US51179,51,179,D,Standard,RHUD50,3 or more
+"Stafford County, Virginia",205.0,155.0,12.0,05000US51179,51,179,S,Standard,RHUD80,All
+"Stafford County, Virginia",0.0,161.0,13.0,05000US51179,51,179,D,Standard,RHUD80,0 or 1
+"Stafford County, Virginia",50.0,78.0,14.0,05000US51179,51,179,D,Standard,RHUD80,2
+"Stafford County, Virginia",155.0,134.0,15.0,05000US51179,51,179,D,Standard,RHUD80,3 or more
+"Stafford County, Virginia",0.0,161.0,16.0,05000US51179,51,179,S,Standard,Greater than RHUD80,All
+"Stafford County, Virginia",0.0,161.0,17.0,05000US51179,51,179,D,Standard,Greater than RHUD80,0 or 1
+"Stafford County, Virginia",0.0,161.0,18.0,05000US51179,51,179,D,Standard,Greater than RHUD80,2
+"Stafford County, Virginia",0.0,161.0,19.0,05000US51179,51,179,D,Standard,Greater than RHUD80,3 or more

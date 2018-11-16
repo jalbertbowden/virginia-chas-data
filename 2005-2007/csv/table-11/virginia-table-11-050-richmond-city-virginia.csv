@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income
+"Richmond city, Virginia",81610.0,1156.0,1.0,05000US51760,51,760,T,All,All,All
+"Richmond city, Virginia",38915.0,1326.0,2.0,05000US51760,51,760,S,Owner,All,All
+"Richmond city, Virginia",13010.0,1078.0,3.0,05000US51760,51,760,S,Owner,Yes,All
+"Richmond city, Virginia",1955.0,448.0,4.0,05000US51760,51,760,D,Owner,Yes,<=20% AMI
+"Richmond city, Virginia",1600.0,355.0,5.0,05000US51760,51,760,D,Owner,Yes,20.1-30% AMI
+"Richmond city, Virginia",1040.0,314.0,6.0,05000US51760,51,760,D,Owner,Yes,30.1-40% AMI
+"Richmond city, Virginia",1175.0,306.0,7.0,05000US51760,51,760,D,Owner,Yes,40.1-50% AMI
+"Richmond city, Virginia",1005.0,266.0,8.0,05000US51760,51,760,D,Owner,Yes,50.1-60% AMI
+"Richmond city, Virginia",585.0,189.0,9.0,05000US51760,51,760,D,Owner,Yes,60.1-65% AMI
+"Richmond city, Virginia",1605.0,352.0,10.0,05000US51760,51,760,D,Owner,Yes,65.1-80% AMI
+"Richmond city, Virginia",1415.0,306.0,11.0,05000US51760,51,760,D,Owner,Yes,80.1-95% AMI
+"Richmond city, Virginia",145.0,97.0,12.0,05000US51760,51,760,D,Owner,Yes,95.1-100% AMI
+"Richmond city, Virginia",850.0,264.0,13.0,05000US51760,51,760,D,Owner,Yes,100.1-115% AMI
+"Richmond city, Virginia",150.0,100.0,14.0,05000US51760,51,760,D,Owner,Yes,115.1-120% AMI
+"Richmond city, Virginia",545.0,236.0,15.0,05000US51760,51,760,D,Owner,Yes,120.1-140% AMI
+"Richmond city, Virginia",940.0,205.0,16.0,05000US51760,51,760,D,Owner,Yes,>140% AMI
+"Richmond city, Virginia",25775.0,1136.0,17.0,05000US51760,51,760,S,Owner,No,All
+"Richmond city, Virginia",70.0,70.0,18.0,05000US51760,51,760,D,Owner,No,<=20% AMI
+"Richmond city, Virginia",300.0,145.0,19.0,05000US51760,51,760,D,Owner,No,20.1-30% AMI
+"Richmond city, Virginia",385.0,176.0,20.0,05000US51760,51,760,D,Owner,No,30.1-40% AMI
+"Richmond city, Virginia",800.0,241.0,21.0,05000US51760,51,760,D,Owner,No,40.1-50% AMI
+"Richmond city, Virginia",1090.0,303.0,22.0,05000US51760,51,760,D,Owner,No,50.1-60% AMI
+"Richmond city, Virginia",530.0,158.0,23.0,05000US51760,51,760,D,Owner,No,60.1-65% AMI
+"Richmond city, Virginia",1795.0,382.0,24.0,05000US51760,51,760,D,Owner,No,65.1-80% AMI
+"Richmond city, Virginia",2305.0,390.0,25.0,05000US51760,51,760,D,Owner,No,80.1-95% AMI
+"Richmond city, Virginia",775.0,210.0,26.0,05000US51760,51,760,D,Owner,No,95.1-100% AMI
+"Richmond city, Virginia",2200.0,396.0,27.0,05000US51760,51,760,D,Owner,No,100.1-115% AMI
+"Richmond city, Virginia",555.0,189.0,28.0,05000US51760,51,760,D,Owner,No,115.1-120% AMI
+"Richmond city, Virginia",2590.0,442.0,29.0,05000US51760,51,760,D,Owner,No,120.1-140% AMI
+"Richmond city, Virginia",12380.0,738.0,30.0,05000US51760,51,760,D,Owner,No,>140% AMI
+"Richmond city, Virginia",135.0,82.0,31.0,05000US51760,51,760,S,Owner,N/A,All
+"Richmond city, Virginia",135.0,82.0,32.0,05000US51760,51,760,D,Owner,N/A,<=20% AMI
+"Richmond city, Virginia",0.0,161.0,33.0,05000US51760,51,760,D,Owner,N/A,20.1-30% AMI
+"Richmond city, Virginia",0.0,161.0,34.0,05000US51760,51,760,D,Owner,N/A,30.1-40% AMI
+"Richmond city, Virginia",0.0,161.0,35.0,05000US51760,51,760,D,Owner,N/A,40.1-50% AMI
+"Richmond city, Virginia",0.0,161.0,36.0,05000US51760,51,760,D,Owner,N/A,50.1-60% AMI
+"Richmond city, Virginia",0.0,161.0,37.0,05000US51760,51,760,D,Owner,N/A,60.1-65% AMI
+"Richmond city, Virginia",0.0,161.0,38.0,05000US51760,51,760,D,Owner,N/A,65.1-80% AMI
+"Richmond city, Virginia",0.0,161.0,39.0,05000US51760,51,760,D,Owner,N/A,80.1-95% AMI
+"Richmond city, Virginia",0.0,161.0,40.0,05000US51760,51,760,D,Owner,N/A,95.1-100% AMI
+"Richmond city, Virginia",0.0,161.0,41.0,05000US51760,51,760,D,Owner,N/A,100.1-115% AMI
+"Richmond city, Virginia",0.0,161.0,42.0,05000US51760,51,760,D,Owner,N/A,115.1-120% AMI
+"Richmond city, Virginia",0.0,161.0,43.0,05000US51760,51,760,D,Owner,N/A,120.1-140% AMI
+"Richmond city, Virginia",0.0,161.0,44.0,05000US51760,51,760,D,Owner,N/A,>140% AMI
+"Richmond city, Virginia",42695.0,1426.0,45.0,05000US51760,51,760,S,Renter,All,All
+"Richmond city, Virginia",21165.0,1359.0,46.0,05000US51760,51,760,S,Renter,Yes,All
+"Richmond city, Virginia",6210.0,664.0,47.0,05000US51760,51,760,D,Renter,Yes,<=20% AMI
+"Richmond city, Virginia",3595.0,566.0,48.0,05000US51760,51,760,D,Renter,Yes,20.1-30% AMI
+"Richmond city, Virginia",2880.0,481.0,49.0,05000US51760,51,760,D,Renter,Yes,30.1-40% AMI
+"Richmond city, Virginia",3520.0,588.0,50.0,05000US51760,51,760,D,Renter,Yes,40.1-50% AMI
+"Richmond city, Virginia",2240.0,645.0,51.0,05000US51760,51,760,D,Renter,Yes,50.1-60% AMI
+"Richmond city, Virginia",535.0,240.0,52.0,05000US51760,51,760,D,Renter,Yes,60.1-65% AMI
+"Richmond city, Virginia",1345.0,389.0,53.0,05000US51760,51,760,D,Renter,Yes,65.1-80% AMI
+"Richmond city, Virginia",410.0,208.0,54.0,05000US51760,51,760,D,Renter,Yes,80.1-95% AMI
+"Richmond city, Virginia",65.0,83.0,55.0,05000US51760,51,760,D,Renter,Yes,95.1-100% AMI
+"Richmond city, Virginia",75.0,82.0,56.0,05000US51760,51,760,D,Renter,Yes,100.1-115% AMI
+"Richmond city, Virginia",65.0,73.0,57.0,05000US51760,51,760,D,Renter,Yes,115.1-120% AMI
+"Richmond city, Virginia",105.0,88.0,58.0,05000US51760,51,760,D,Renter,Yes,120.1-140% AMI
+"Richmond city, Virginia",115.0,63.0,59.0,05000US51760,51,760,D,Renter,Yes,>140% AMI
+"Richmond city, Virginia",19565.0,1354.0,60.0,05000US51760,51,760,S,Renter,No,All
+"Richmond city, Virginia",1475.0,402.0,61.0,05000US51760,51,760,D,Renter,No,<=20% AMI
+"Richmond city, Virginia",1620.0,360.0,62.0,05000US51760,51,760,D,Renter,No,20.1-30% AMI
+"Richmond city, Virginia",565.0,206.0,63.0,05000US51760,51,760,D,Renter,No,30.1-40% AMI
+"Richmond city, Virginia",1295.0,378.0,64.0,05000US51760,51,760,D,Renter,No,40.1-50% AMI
+"Richmond city, Virginia",2190.0,504.0,65.0,05000US51760,51,760,D,Renter,No,50.1-60% AMI
+"Richmond city, Virginia",995.0,347.0,66.0,05000US51760,51,760,D,Renter,No,60.1-65% AMI
+"Richmond city, Virginia",2365.0,490.0,67.0,05000US51760,51,760,D,Renter,No,65.1-80% AMI
+"Richmond city, Virginia",2925.0,572.0,68.0,05000US51760,51,760,D,Renter,No,80.1-95% AMI
+"Richmond city, Virginia",895.0,332.0,69.0,05000US51760,51,760,D,Renter,No,95.1-100% AMI
+"Richmond city, Virginia",2075.0,596.0,70.0,05000US51760,51,760,D,Renter,No,100.1-115% AMI
+"Richmond city, Virginia",320.0,161.0,71.0,05000US51760,51,760,D,Renter,No,115.1-120% AMI
+"Richmond city, Virginia",1125.0,324.0,72.0,05000US51760,51,760,D,Renter,No,120.1-140% AMI
+"Richmond city, Virginia",1720.0,355.0,73.0,05000US51760,51,760,D,Renter,No,>140% AMI
+"Richmond city, Virginia",1965.0,350.0,74.0,05000US51760,51,760,S,Renter,N/A,All
+"Richmond city, Virginia",1145.0,266.0,75.0,05000US51760,51,760,D,Renter,N/A,<=20% AMI
+"Richmond city, Virginia",140.0,97.0,76.0,05000US51760,51,760,D,Renter,N/A,20.1-30% AMI
+"Richmond city, Virginia",220.0,138.0,77.0,05000US51760,51,760,D,Renter,N/A,30.1-40% AMI
+"Richmond city, Virginia",45.0,44.0,78.0,05000US51760,51,760,D,Renter,N/A,40.1-50% AMI
+"Richmond city, Virginia",105.0,106.0,79.0,05000US51760,51,760,D,Renter,N/A,50.1-60% AMI
+"Richmond city, Virginia",0.0,161.0,80.0,05000US51760,51,760,D,Renter,N/A,60.1-65% AMI
+"Richmond city, Virginia",35.0,43.0,81.0,05000US51760,51,760,D,Renter,N/A,65.1-80% AMI
+"Richmond city, Virginia",60.0,51.0,82.0,05000US51760,51,760,D,Renter,N/A,80.1-95% AMI
+"Richmond city, Virginia",50.0,59.0,83.0,05000US51760,51,760,D,Renter,N/A,95.1-100% AMI
+"Richmond city, Virginia",85.0,67.0,84.0,05000US51760,51,760,D,Renter,N/A,100.1-115% AMI
+"Richmond city, Virginia",0.0,161.0,85.0,05000US51760,51,760,D,Renter,N/A,115.1-120% AMI
+"Richmond city, Virginia",0.0,161.0,86.0,05000US51760,51,760,D,Renter,N/A,120.1-140% AMI
+"Richmond city, Virginia",80.0,66.0,87.0,05000US51760,51,760,D,Renter,N/A,>140% AMI

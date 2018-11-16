@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Fairfax County, Virginia",365095.0,2044.0,1.0,05000US51059,51,059,T,All,All,All
+"Fairfax County, Virginia",272625.0,2648.0,2.0,05000US51059,51,059,S,Owner,All,All
+"Fairfax County, Virginia",690.0,261.0,3.0,05000US51059,51,059,S,Owner,Substandard,All
+"Fairfax County, Virginia",90.0,83.0,4.0,05000US51059,51,059,D,Owner,Substandard,<=30% AMI
+"Fairfax County, Virginia",45.0,52.0,5.0,05000US51059,51,059,D,Owner,Substandard,30.1-50% AMI
+"Fairfax County, Virginia",25.0,45.0,6.0,05000US51059,51,059,D,Owner,Substandard,50.1-60% AMI
+"Fairfax County, Virginia",85.0,109.0,7.0,05000US51059,51,059,D,Owner,Substandard,60.1-80% AMI
+"Fairfax County, Virginia",15.0,32.0,8.0,05000US51059,51,059,D,Owner,Substandard,80.1-95% AMI
+"Fairfax County, Virginia",430.0,206.0,9.0,05000US51059,51,059,D,Owner,Substandard,>95% AMI
+"Fairfax County, Virginia",505.0,182.0,10.0,05000US51059,51,059,S,Owner,Severely overcrowded,All
+"Fairfax County, Virginia",35.0,45.0,11.0,05000US51059,51,059,D,Owner,Severely overcrowded,<=30% AMI
+"Fairfax County, Virginia",145.0,91.0,12.0,05000US51059,51,059,D,Owner,Severely overcrowded,30.1-50% AMI
+"Fairfax County, Virginia",50.0,77.0,13.0,05000US51059,51,059,D,Owner,Severely overcrowded,50.1-60% AMI
+"Fairfax County, Virginia",80.0,72.0,14.0,05000US51059,51,059,D,Owner,Severely overcrowded,60.1-80% AMI
+"Fairfax County, Virginia",70.0,66.0,15.0,05000US51059,51,059,D,Owner,Severely overcrowded,80.1-95% AMI
+"Fairfax County, Virginia",130.0,101.0,16.0,05000US51059,51,059,D,Owner,Severely overcrowded,>95% AMI
+"Fairfax County, Virginia",2555.0,467.0,17.0,05000US51059,51,059,S,Owner,Overcrowded,All
+"Fairfax County, Virginia",290.0,167.0,18.0,05000US51059,51,059,D,Owner,Overcrowded,<=30% AMI
+"Fairfax County, Virginia",395.0,221.0,19.0,05000US51059,51,059,D,Owner,Overcrowded,30.1-50% AMI
+"Fairfax County, Virginia",255.0,129.0,20.0,05000US51059,51,059,D,Owner,Overcrowded,50.1-60% AMI
+"Fairfax County, Virginia",550.0,228.0,21.0,05000US51059,51,059,D,Owner,Overcrowded,60.1-80% AMI
+"Fairfax County, Virginia",280.0,142.0,22.0,05000US51059,51,059,D,Owner,Overcrowded,80.1-95% AMI
+"Fairfax County, Virginia",785.0,241.0,23.0,05000US51059,51,059,D,Owner,Overcrowded,>95% AMI
+"Fairfax County, Virginia",26610.0,1445.0,24.0,05000US51059,51,059,S,Owner,Severely cost burdened,All
+"Fairfax County, Virginia",6500.0,731.0,25.0,05000US51059,51,059,D,Owner,Severely cost burdened,<=30% AMI
+"Fairfax County, Virginia",7240.0,751.0,26.0,05000US51059,51,059,D,Owner,Severely cost burdened,30.1-50% AMI
+"Fairfax County, Virginia",3195.0,540.0,27.0,05000US51059,51,059,D,Owner,Severely cost burdened,50.1-60% AMI
+"Fairfax County, Virginia",4785.0,747.0,28.0,05000US51059,51,059,D,Owner,Severely cost burdened,60.1-80% AMI
+"Fairfax County, Virginia",1755.0,393.0,29.0,05000US51059,51,059,D,Owner,Severely cost burdened,80.1-95% AMI
+"Fairfax County, Virginia",3130.0,564.0,30.0,05000US51059,51,059,D,Owner,Severely cost burdened,>95% AMI
+"Fairfax County, Virginia",49870.0,1708.0,31.0,05000US51059,51,059,S,Owner,Cost burdened,All
+"Fairfax County, Virginia",740.0,252.0,32.0,05000US51059,51,059,D,Owner,Cost burdened,<=30% AMI
+"Fairfax County, Virginia",3555.0,663.0,33.0,05000US51059,51,059,D,Owner,Cost burdened,30.1-50% AMI
+"Fairfax County, Virginia",2935.0,542.0,34.0,05000US51059,51,059,D,Owner,Cost burdened,50.1-60% AMI
+"Fairfax County, Virginia",7815.0,738.0,35.0,05000US51059,51,059,D,Owner,Cost burdened,60.1-80% AMI
+"Fairfax County, Virginia",7675.0,860.0,36.0,05000US51059,51,059,D,Owner,Cost burdened,80.1-95% AMI
+"Fairfax County, Virginia",27150.0,1353.0,37.0,05000US51059,51,059,D,Owner,Cost burdened,>95% AMI
+"Fairfax County, Virginia",1145.0,382.0,38.0,05000US51059,51,059,S,Owner,No income or no cash rent,All
+"Fairfax County, Virginia",1145.0,382.0,39.0,05000US51059,51,059,D,Owner,No income or no cash rent,<=30% AMI
+"Fairfax County, Virginia",0.0,161.0,40.0,05000US51059,51,059,D,Owner,No income or no cash rent,30.1-50% AMI
+"Fairfax County, Virginia",0.0,161.0,41.0,05000US51059,51,059,D,Owner,No income or no cash rent,50.1-60% AMI
+"Fairfax County, Virginia",0.0,161.0,42.0,05000US51059,51,059,D,Owner,No income or no cash rent,60.1-80% AMI
+"Fairfax County, Virginia",0.0,161.0,43.0,05000US51059,51,059,D,Owner,No income or no cash rent,80.1-95% AMI
+"Fairfax County, Virginia",0.0,161.0,44.0,05000US51059,51,059,D,Owner,No income or no cash rent,>95% AMI
+"Fairfax County, Virginia",191245.0,2584.0,45.0,05000US51059,51,059,S,Owner,No housing problems,All
+"Fairfax County, Virginia",570.0,199.0,46.0,05000US51059,51,059,D,Owner,No housing problems,<=30% AMI
+"Fairfax County, Virginia",3230.0,476.0,47.0,05000US51059,51,059,D,Owner,No housing problems,30.1-50% AMI
+"Fairfax County, Virginia",2430.0,389.0,48.0,05000US51059,51,059,D,Owner,No housing problems,50.1-60% AMI
+"Fairfax County, Virginia",9135.0,869.0,49.0,05000US51059,51,059,D,Owner,No housing problems,60.1-80% AMI
+"Fairfax County, Virginia",8290.0,826.0,50.0,05000US51059,51,059,D,Owner,No housing problems,80.1-95% AMI
+"Fairfax County, Virginia",167585.0,2428.0,51.0,05000US51059,51,059,D,Owner,No housing problems,>95% AMI
+"Fairfax County, Virginia",92470.0,2867.0,52.0,05000US51059,51,059,S,Renter,All,All
+"Fairfax County, Virginia",490.0,165.0,53.0,05000US51059,51,059,S,Renter,Substandard,All
+"Fairfax County, Virginia",235.0,137.0,54.0,05000US51059,51,059,D,Renter,Substandard,<=30% AMI
+"Fairfax County, Virginia",55.0,52.0,55.0,05000US51059,51,059,D,Renter,Substandard,30.1-50% AMI
+"Fairfax County, Virginia",45.0,58.0,56.0,05000US51059,51,059,D,Renter,Substandard,50.1-60% AMI
+"Fairfax County, Virginia",55.0,68.0,57.0,05000US51059,51,059,D,Renter,Substandard,60.1-80% AMI
+"Fairfax County, Virginia",0.0,161.0,58.0,05000US51059,51,059,D,Renter,Substandard,80.1-95% AMI
+"Fairfax County, Virginia",95.0,69.0,59.0,05000US51059,51,059,D,Renter,Substandard,>95% AMI
+"Fairfax County, Virginia",755.0,296.0,60.0,05000US51059,51,059,S,Renter,Severely overcrowded,All
+"Fairfax County, Virginia",295.0,177.0,61.0,05000US51059,51,059,D,Renter,Severely overcrowded,<=30% AMI
+"Fairfax County, Virginia",155.0,91.0,62.0,05000US51059,51,059,D,Renter,Severely overcrowded,30.1-50% AMI
+"Fairfax County, Virginia",80.0,107.0,63.0,05000US51059,51,059,D,Renter,Severely overcrowded,50.1-60% AMI
+"Fairfax County, Virginia",115.0,81.0,64.0,05000US51059,51,059,D,Renter,Severely overcrowded,60.1-80% AMI
+"Fairfax County, Virginia",15.0,26.0,65.0,05000US51059,51,059,D,Renter,Severely overcrowded,80.1-95% AMI
+"Fairfax County, Virginia",95.0,106.0,66.0,05000US51059,51,059,D,Renter,Severely overcrowded,>95% AMI
+"Fairfax County, Virginia",2000.0,463.0,67.0,05000US51059,51,059,S,Renter,Overcrowded,All
+"Fairfax County, Virginia",660.0,254.0,68.0,05000US51059,51,059,D,Renter,Overcrowded,<=30% AMI
+"Fairfax County, Virginia",305.0,193.0,69.0,05000US51059,51,059,D,Renter,Overcrowded,30.1-50% AMI
+"Fairfax County, Virginia",375.0,226.0,70.0,05000US51059,51,059,D,Renter,Overcrowded,50.1-60% AMI
+"Fairfax County, Virginia",220.0,127.0,71.0,05000US51059,51,059,D,Renter,Overcrowded,60.1-80% AMI
+"Fairfax County, Virginia",45.0,44.0,72.0,05000US51059,51,059,D,Renter,Overcrowded,80.1-95% AMI
+"Fairfax County, Virginia",390.0,208.0,73.0,05000US51059,51,059,D,Renter,Overcrowded,>95% AMI
+"Fairfax County, Virginia",16110.0,1387.0,74.0,05000US51059,51,059,S,Renter,Severely cost burdened,All
+"Fairfax County, Virginia",10235.0,1043.0,75.0,05000US51059,51,059,D,Renter,Severely cost burdened,<=30% AMI
+"Fairfax County, Virginia",4445.0,740.0,76.0,05000US51059,51,059,D,Renter,Severely cost burdened,30.1-50% AMI
+"Fairfax County, Virginia",815.0,372.0,77.0,05000US51059,51,059,D,Renter,Severely cost burdened,50.1-60% AMI
+"Fairfax County, Virginia",395.0,154.0,78.0,05000US51059,51,059,D,Renter,Severely cost burdened,60.1-80% AMI
+"Fairfax County, Virginia",30.0,34.0,79.0,05000US51059,51,059,D,Renter,Severely cost burdened,80.1-95% AMI
+"Fairfax County, Virginia",190.0,145.0,80.0,05000US51059,51,059,D,Renter,Severely cost burdened,>95% AMI
+"Fairfax County, Virginia",20780.0,1387.0,81.0,05000US51059,51,059,S,Renter,Cost burdened,All
+"Fairfax County, Virginia",1255.0,365.0,82.0,05000US51059,51,059,D,Renter,Cost burdened,<=30% AMI
+"Fairfax County, Virginia",5350.0,780.0,83.0,05000US51059,51,059,D,Renter,Cost burdened,30.1-50% AMI
+"Fairfax County, Virginia",3735.0,767.0,84.0,05000US51059,51,059,D,Renter,Cost burdened,50.1-60% AMI
+"Fairfax County, Virginia",6520.0,730.0,85.0,05000US51059,51,059,D,Renter,Cost burdened,60.1-80% AMI
+"Fairfax County, Virginia",1855.0,376.0,86.0,05000US51059,51,059,D,Renter,Cost burdened,80.1-95% AMI
+"Fairfax County, Virginia",2065.0,428.0,87.0,05000US51059,51,059,D,Renter,Cost burdened,>95% AMI
+"Fairfax County, Virginia",3915.0,512.0,88.0,05000US51059,51,059,S,Renter,No income or no cash rent,All
+"Fairfax County, Virginia",1835.0,374.0,89.0,05000US51059,51,059,D,Renter,No income or no cash rent,<=30% AMI
+"Fairfax County, Virginia",340.0,150.0,90.0,05000US51059,51,059,D,Renter,No income or no cash rent,30.1-50% AMI
+"Fairfax County, Virginia",225.0,131.0,91.0,05000US51059,51,059,D,Renter,No income or no cash rent,50.1-60% AMI
+"Fairfax County, Virginia",375.0,206.0,92.0,05000US51059,51,059,D,Renter,No income or no cash rent,60.1-80% AMI
+"Fairfax County, Virginia",200.0,133.0,93.0,05000US51059,51,059,D,Renter,No income or no cash rent,80.1-95% AMI
+"Fairfax County, Virginia",940.0,269.0,94.0,05000US51059,51,059,D,Renter,No income or no cash rent,>95% AMI
+"Fairfax County, Virginia",48420.0,2143.0,95.0,05000US51059,51,059,S,Renter,No housing problems,All
+"Fairfax County, Virginia",2160.0,452.0,96.0,05000US51059,51,059,D,Renter,No housing problems,<=30% AMI
+"Fairfax County, Virginia",1100.0,269.0,97.0,05000US51059,51,059,D,Renter,No housing problems,30.1-50% AMI
+"Fairfax County, Virginia",2360.0,720.0,98.0,05000US51059,51,059,D,Renter,No housing problems,50.1-60% AMI
+"Fairfax County, Virginia",6280.0,757.0,99.0,05000US51059,51,059,D,Renter,No housing problems,60.1-80% AMI
+"Fairfax County, Virginia",5880.0,835.0,100.0,05000US51059,51,059,D,Renter,No housing problems,80.1-95% AMI
+"Fairfax County, Virginia",30645.0,1679.0,101.0,05000US51059,51,059,D,Renter,No housing problems,>95% AMI

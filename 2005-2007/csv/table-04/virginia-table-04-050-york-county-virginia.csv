@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"York County, Virginia",22815.0,483.0,1.0,05000US51199,51,199,T,All,All,All,All
+"York County, Virginia",17535.0,615.0,2.0,05000US51199,51,199,S,Owner,All,All,All
+"York County, Virginia",3485.0,465.0,3.0,05000US51199,51,199,S,Owner,Yes,All,All
+"York County, Virginia",595.0,231.0,4.0,05000US51199,51,199,S,Owner,Yes,"Family, 1 parent",All
+"York County, Virginia",550.0,219.0,5.0,05000US51199,51,199,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"York County, Virginia",40.0,54.0,6.0,05000US51199,51,199,D,Owner,Yes,"Family, 1 parent",5 or more
+"York County, Virginia",1940.0,314.0,7.0,05000US51199,51,199,S,Owner,Yes,"Family, 2 parents",All
+"York County, Virginia",1655.0,306.0,8.0,05000US51199,51,199,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"York County, Virginia",285.0,140.0,9.0,05000US51199,51,199,D,Owner,Yes,"Family, 2 parents",5 or more
+"York County, Virginia",955.0,267.0,10.0,05000US51199,51,199,S,Owner,Yes,Non-family,All
+"York County, Virginia",955.0,267.0,11.0,05000US51199,51,199,D,Owner,Yes,Non-family,4 or fewer
+"York County, Virginia",0.0,161.0,12.0,05000US51199,51,199,D,Owner,Yes,Non-family,5 or more
+"York County, Virginia",14020.0,735.0,13.0,05000US51199,51,199,S,Owner,No,All,All
+"York County, Virginia",905.0,279.0,14.0,05000US51199,51,199,S,Owner,No,"Family, 1 parent",All
+"York County, Virginia",880.0,273.0,15.0,05000US51199,51,199,D,Owner,No,"Family, 1 parent",4 or fewer
+"York County, Virginia",25.0,42.0,16.0,05000US51199,51,199,D,Owner,No,"Family, 1 parent",5 or more
+"York County, Virginia",10730.0,633.0,17.0,05000US51199,51,199,S,Owner,No,"Family, 2 parents",All
+"York County, Virginia",9715.0,603.0,18.0,05000US51199,51,199,D,Owner,No,"Family, 2 parents",4 or fewer
+"York County, Virginia",1015.0,258.0,19.0,05000US51199,51,199,D,Owner,No,"Family, 2 parents",5 or more
+"York County, Virginia",2385.0,448.0,20.0,05000US51199,51,199,S,Owner,No,Non-family,All
+"York County, Virginia",2385.0,448.0,21.0,05000US51199,51,199,D,Owner,No,Non-family,4 or fewer
+"York County, Virginia",0.0,161.0,22.0,05000US51199,51,199,D,Owner,No,Non-family,5 or more
+"York County, Virginia",30.0,48.0,23.0,05000US51199,51,199,S,Owner,N/A,All,All
+"York County, Virginia",0.0,161.0,24.0,05000US51199,51,199,S,Owner,N/A,"Family, 1 parent",All
+"York County, Virginia",0.0,161.0,25.0,05000US51199,51,199,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"York County, Virginia",0.0,161.0,26.0,05000US51199,51,199,D,Owner,N/A,"Family, 1 parent",5 or more
+"York County, Virginia",0.0,161.0,27.0,05000US51199,51,199,S,Owner,N/A,"Family, 2 parents",All
+"York County, Virginia",0.0,161.0,28.0,05000US51199,51,199,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"York County, Virginia",0.0,161.0,29.0,05000US51199,51,199,D,Owner,N/A,"Family, 2 parents",5 or more
+"York County, Virginia",30.0,48.0,30.0,05000US51199,51,199,S,Owner,N/A,Non-family,All
+"York County, Virginia",30.0,48.0,31.0,05000US51199,51,199,D,Owner,N/A,Non-family,4 or fewer
+"York County, Virginia",0.0,161.0,32.0,05000US51199,51,199,D,Owner,N/A,Non-family,5 or more
+"York County, Virginia",5280.0,624.0,33.0,05000US51199,51,199,S,Renter,All,All,All
+"York County, Virginia",1460.0,405.0,34.0,05000US51199,51,199,S,Renter,Yes,All,All
+"York County, Virginia",405.0,172.0,35.0,05000US51199,51,199,S,Renter,Yes,"Family, 1 parent",All
+"York County, Virginia",390.0,169.0,36.0,05000US51199,51,199,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"York County, Virginia",15.0,24.0,37.0,05000US51199,51,199,D,Renter,Yes,"Family, 1 parent",5 or more
+"York County, Virginia",425.0,271.0,38.0,05000US51199,51,199,S,Renter,Yes,"Family, 2 parents",All
+"York County, Virginia",400.0,263.0,39.0,05000US51199,51,199,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"York County, Virginia",25.0,36.0,40.0,05000US51199,51,199,D,Renter,Yes,"Family, 2 parents",5 or more
+"York County, Virginia",635.0,270.0,41.0,05000US51199,51,199,S,Renter,Yes,Non-family,All
+"York County, Virginia",605.0,267.0,42.0,05000US51199,51,199,D,Renter,Yes,Non-family,4 or fewer
+"York County, Virginia",25.0,54.0,43.0,05000US51199,51,199,D,Renter,Yes,Non-family,5 or more
+"York County, Virginia",2840.0,513.0,44.0,05000US51199,51,199,S,Renter,No,All,All
+"York County, Virginia",715.0,326.0,45.0,05000US51199,51,199,S,Renter,No,"Family, 1 parent",All
+"York County, Virginia",575.0,308.0,46.0,05000US51199,51,199,D,Renter,No,"Family, 1 parent",4 or fewer
+"York County, Virginia",140.0,163.0,47.0,05000US51199,51,199,D,Renter,No,"Family, 1 parent",5 or more
+"York County, Virginia",1245.0,294.0,48.0,05000US51199,51,199,S,Renter,No,"Family, 2 parents",All
+"York County, Virginia",1105.0,303.0,49.0,05000US51199,51,199,D,Renter,No,"Family, 2 parents",4 or fewer
+"York County, Virginia",140.0,81.0,50.0,05000US51199,51,199,D,Renter,No,"Family, 2 parents",5 or more
+"York County, Virginia",880.0,276.0,51.0,05000US51199,51,199,S,Renter,No,Non-family,All
+"York County, Virginia",880.0,276.0,52.0,05000US51199,51,199,D,Renter,No,Non-family,4 or fewer
+"York County, Virginia",0.0,161.0,53.0,05000US51199,51,199,D,Renter,No,Non-family,5 or more
+"York County, Virginia",975.0,307.0,54.0,05000US51199,51,199,S,Renter,N/A,All,All
+"York County, Virginia",170.0,161.0,55.0,05000US51199,51,199,S,Renter,N/A,"Family, 1 parent",All
+"York County, Virginia",170.0,161.0,56.0,05000US51199,51,199,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"York County, Virginia",0.0,161.0,57.0,05000US51199,51,199,D,Renter,N/A,"Family, 1 parent",5 or more
+"York County, Virginia",705.0,244.0,58.0,05000US51199,51,199,S,Renter,N/A,"Family, 2 parents",All
+"York County, Virginia",410.0,154.0,59.0,05000US51199,51,199,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"York County, Virginia",295.0,222.0,60.0,05000US51199,51,199,D,Renter,N/A,"Family, 2 parents",5 or more
+"York County, Virginia",100.0,76.0,61.0,05000US51199,51,199,S,Renter,N/A,Non-family,All
+"York County, Virginia",100.0,76.0,62.0,05000US51199,51,199,D,Renter,N/A,Non-family,4 or fewer
+"York County, Virginia",0.0,161.0,63.0,05000US51199,51,199,D,Renter,N/A,Non-family,5 or more

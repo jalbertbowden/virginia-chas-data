@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Gloucester County, Virginia",14380.0,432.0,1.0,05000US51073,51,073,T,All,All,All
+"Gloucester County, Virginia",11495.0,586.0,2.0,05000US51073,51,073,S,Owner,All,All
+"Gloucester County, Virginia",795.0,257.0,3.0,05000US51073,51,073,S,Owner,2000+,All
+"Gloucester County, Virginia",225.0,139.0,4.0,05000US51073,51,073,D,Owner,2000+,Yes
+"Gloucester County, Virginia",570.0,222.0,5.0,05000US51073,51,073,D,Owner,2000+,No
+"Gloucester County, Virginia",6375.0,603.0,6.0,05000US51073,51,073,S,Owner,1980 to 1999,All
+"Gloucester County, Virginia",820.0,271.0,7.0,05000US51073,51,073,D,Owner,1980 to 1999,Yes
+"Gloucester County, Virginia",5555.0,613.0,8.0,05000US51073,51,073,D,Owner,1980 to 1999,No
+"Gloucester County, Virginia",2885.0,416.0,9.0,05000US51073,51,073,S,Owner,1960 to 1979,All
+"Gloucester County, Virginia",345.0,188.0,10.0,05000US51073,51,073,D,Owner,1960 to 1979,Yes
+"Gloucester County, Virginia",2540.0,423.0,11.0,05000US51073,51,073,D,Owner,1960 to 1979,No
+"Gloucester County, Virginia",715.0,210.0,12.0,05000US51073,51,073,S,Owner,1940 to 1959,All
+"Gloucester County, Virginia",15.0,32.0,13.0,05000US51073,51,073,D,Owner,1940 to 1959,Yes
+"Gloucester County, Virginia",700.0,207.0,14.0,05000US51073,51,073,D,Owner,1940 to 1959,No
+"Gloucester County, Virginia",725.0,233.0,15.0,05000US51073,51,073,S,Owner,1939-,All
+"Gloucester County, Virginia",175.0,138.0,16.0,05000US51073,51,073,D,Owner,1939-,Yes
+"Gloucester County, Virginia",550.0,202.0,17.0,05000US51073,51,073,D,Owner,1939-,No
+"Gloucester County, Virginia",2885.0,463.0,18.0,05000US51073,51,073,S,Renter,All,All
+"Gloucester County, Virginia",35.0,63.0,19.0,05000US51073,51,073,S,Renter,2000+,All
+"Gloucester County, Virginia",0.0,161.0,20.0,05000US51073,51,073,D,Renter,2000+,Yes
+"Gloucester County, Virginia",35.0,63.0,21.0,05000US51073,51,073,D,Renter,2000+,No
+"Gloucester County, Virginia",1250.0,402.0,22.0,05000US51073,51,073,S,Renter,1980 to 1999,All
+"Gloucester County, Virginia",470.0,254.0,23.0,05000US51073,51,073,D,Renter,1980 to 1999,Yes
+"Gloucester County, Virginia",780.0,339.0,24.0,05000US51073,51,073,D,Renter,1980 to 1999,No
+"Gloucester County, Virginia",1010.0,289.0,25.0,05000US51073,51,073,S,Renter,1960 to 1979,All
+"Gloucester County, Virginia",295.0,180.0,26.0,05000US51073,51,073,D,Renter,1960 to 1979,Yes
+"Gloucester County, Virginia",715.0,239.0,27.0,05000US51073,51,073,D,Renter,1960 to 1979,No
+"Gloucester County, Virginia",530.0,271.0,28.0,05000US51073,51,073,S,Renter,1940 to 1959,All
+"Gloucester County, Virginia",85.0,91.0,29.0,05000US51073,51,073,D,Renter,1940 to 1959,Yes
+"Gloucester County, Virginia",445.0,254.0,30.0,05000US51073,51,073,D,Renter,1940 to 1959,No
+"Gloucester County, Virginia",55.0,90.0,31.0,05000US51073,51,073,S,Renter,1939-,All
+"Gloucester County, Virginia",0.0,161.0,32.0,05000US51073,51,073,D,Renter,1939-,Yes
+"Gloucester County, Virginia",55.0,90.0,33.0,05000US51073,51,073,D,Renter,1939-,No

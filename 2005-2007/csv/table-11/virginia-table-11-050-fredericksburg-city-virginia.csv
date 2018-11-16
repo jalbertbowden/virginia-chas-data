@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income
+"Fredericksburg city, Virginia",8560.0,381.0,1.0,05000US51630,51,630,T,All,All,All
+"Fredericksburg city, Virginia",3215.0,371.0,2.0,05000US51630,51,630,S,Owner,All,All
+"Fredericksburg city, Virginia",680.0,239.0,3.0,05000US51630,51,630,S,Owner,Yes,All
+"Fredericksburg city, Virginia",145.0,109.0,4.0,05000US51630,51,630,D,Owner,Yes,<=20% AMI
+"Fredericksburg city, Virginia",90.0,87.0,5.0,05000US51630,51,630,D,Owner,Yes,20.1-30% AMI
+"Fredericksburg city, Virginia",65.0,66.0,6.0,05000US51630,51,630,D,Owner,Yes,30.1-40% AMI
+"Fredericksburg city, Virginia",45.0,57.0,7.0,05000US51630,51,630,D,Owner,Yes,40.1-50% AMI
+"Fredericksburg city, Virginia",25.0,45.0,8.0,05000US51630,51,630,D,Owner,Yes,50.1-60% AMI
+"Fredericksburg city, Virginia",70.0,58.0,9.0,05000US51630,51,630,D,Owner,Yes,60.1-65% AMI
+"Fredericksburg city, Virginia",95.0,98.0,10.0,05000US51630,51,630,D,Owner,Yes,65.1-80% AMI
+"Fredericksburg city, Virginia",90.0,85.0,11.0,05000US51630,51,630,D,Owner,Yes,80.1-95% AMI
+"Fredericksburg city, Virginia",15.0,29.0,12.0,05000US51630,51,630,D,Owner,Yes,95.1-100% AMI
+"Fredericksburg city, Virginia",0.0,161.0,13.0,05000US51630,51,630,D,Owner,Yes,100.1-115% AMI
+"Fredericksburg city, Virginia",0.0,161.0,14.0,05000US51630,51,630,D,Owner,Yes,115.1-120% AMI
+"Fredericksburg city, Virginia",0.0,161.0,15.0,05000US51630,51,630,D,Owner,Yes,120.1-140% AMI
+"Fredericksburg city, Virginia",45.0,45.0,16.0,05000US51630,51,630,D,Owner,Yes,>140% AMI
+"Fredericksburg city, Virginia",2535.0,382.0,17.0,05000US51630,51,630,S,Owner,No,All
+"Fredericksburg city, Virginia",20.0,35.0,18.0,05000US51630,51,630,D,Owner,No,<=20% AMI
+"Fredericksburg city, Virginia",80.0,80.0,19.0,05000US51630,51,630,D,Owner,No,20.1-30% AMI
+"Fredericksburg city, Virginia",190.0,138.0,20.0,05000US51630,51,630,D,Owner,No,30.1-40% AMI
+"Fredericksburg city, Virginia",100.0,89.0,21.0,05000US51630,51,630,D,Owner,No,40.1-50% AMI
+"Fredericksburg city, Virginia",155.0,108.0,22.0,05000US51630,51,630,D,Owner,No,50.1-60% AMI
+"Fredericksburg city, Virginia",110.0,99.0,23.0,05000US51630,51,630,D,Owner,No,60.1-65% AMI
+"Fredericksburg city, Virginia",200.0,135.0,24.0,05000US51630,51,630,D,Owner,No,65.1-80% AMI
+"Fredericksburg city, Virginia",290.0,148.0,25.0,05000US51630,51,630,D,Owner,No,80.1-95% AMI
+"Fredericksburg city, Virginia",70.0,68.0,26.0,05000US51630,51,630,D,Owner,No,95.1-100% AMI
+"Fredericksburg city, Virginia",230.0,169.0,27.0,05000US51630,51,630,D,Owner,No,100.1-115% AMI
+"Fredericksburg city, Virginia",60.0,68.0,28.0,05000US51630,51,630,D,Owner,No,115.1-120% AMI
+"Fredericksburg city, Virginia",275.0,134.0,29.0,05000US51630,51,630,D,Owner,No,120.1-140% AMI
+"Fredericksburg city, Virginia",755.0,229.0,30.0,05000US51630,51,630,D,Owner,No,>140% AMI
+"Fredericksburg city, Virginia",0.0,161.0,31.0,05000US51630,51,630,S,Owner,N/A,All
+"Fredericksburg city, Virginia",0.0,161.0,32.0,05000US51630,51,630,D,Owner,N/A,<=20% AMI
+"Fredericksburg city, Virginia",0.0,161.0,33.0,05000US51630,51,630,D,Owner,N/A,20.1-30% AMI
+"Fredericksburg city, Virginia",0.0,161.0,34.0,05000US51630,51,630,D,Owner,N/A,30.1-40% AMI
+"Fredericksburg city, Virginia",0.0,161.0,35.0,05000US51630,51,630,D,Owner,N/A,40.1-50% AMI
+"Fredericksburg city, Virginia",0.0,161.0,36.0,05000US51630,51,630,D,Owner,N/A,50.1-60% AMI
+"Fredericksburg city, Virginia",0.0,161.0,37.0,05000US51630,51,630,D,Owner,N/A,60.1-65% AMI
+"Fredericksburg city, Virginia",0.0,161.0,38.0,05000US51630,51,630,D,Owner,N/A,65.1-80% AMI
+"Fredericksburg city, Virginia",0.0,161.0,39.0,05000US51630,51,630,D,Owner,N/A,80.1-95% AMI
+"Fredericksburg city, Virginia",0.0,161.0,40.0,05000US51630,51,630,D,Owner,N/A,95.1-100% AMI
+"Fredericksburg city, Virginia",0.0,161.0,41.0,05000US51630,51,630,D,Owner,N/A,100.1-115% AMI
+"Fredericksburg city, Virginia",0.0,161.0,42.0,05000US51630,51,630,D,Owner,N/A,115.1-120% AMI
+"Fredericksburg city, Virginia",0.0,161.0,43.0,05000US51630,51,630,D,Owner,N/A,120.1-140% AMI
+"Fredericksburg city, Virginia",0.0,161.0,44.0,05000US51630,51,630,D,Owner,N/A,>140% AMI
+"Fredericksburg city, Virginia",5345.0,523.0,45.0,05000US51630,51,630,S,Renter,All,All
+"Fredericksburg city, Virginia",2955.0,459.0,46.0,05000US51630,51,630,S,Renter,Yes,All
+"Fredericksburg city, Virginia",925.0,264.0,47.0,05000US51630,51,630,D,Renter,Yes,<=20% AMI
+"Fredericksburg city, Virginia",560.0,209.0,48.0,05000US51630,51,630,D,Renter,Yes,20.1-30% AMI
+"Fredericksburg city, Virginia",695.0,244.0,49.0,05000US51630,51,630,D,Renter,Yes,30.1-40% AMI
+"Fredericksburg city, Virginia",355.0,177.0,50.0,05000US51630,51,630,D,Renter,Yes,40.1-50% AMI
+"Fredericksburg city, Virginia",230.0,152.0,51.0,05000US51630,51,630,D,Renter,Yes,50.1-60% AMI
+"Fredericksburg city, Virginia",20.0,40.0,52.0,05000US51630,51,630,D,Renter,Yes,60.1-65% AMI
+"Fredericksburg city, Virginia",65.0,57.0,53.0,05000US51630,51,630,D,Renter,Yes,65.1-80% AMI
+"Fredericksburg city, Virginia",100.0,97.0,54.0,05000US51630,51,630,D,Renter,Yes,80.1-95% AMI
+"Fredericksburg city, Virginia",0.0,161.0,55.0,05000US51630,51,630,D,Renter,Yes,95.1-100% AMI
+"Fredericksburg city, Virginia",0.0,161.0,56.0,05000US51630,51,630,D,Renter,Yes,100.1-115% AMI
+"Fredericksburg city, Virginia",0.0,161.0,57.0,05000US51630,51,630,D,Renter,Yes,115.1-120% AMI
+"Fredericksburg city, Virginia",0.0,161.0,58.0,05000US51630,51,630,D,Renter,Yes,120.1-140% AMI
+"Fredericksburg city, Virginia",0.0,161.0,59.0,05000US51630,51,630,D,Renter,Yes,>140% AMI
+"Fredericksburg city, Virginia",2290.0,405.0,60.0,05000US51630,51,630,S,Renter,No,All
+"Fredericksburg city, Virginia",150.0,111.0,61.0,05000US51630,51,630,D,Renter,No,<=20% AMI
+"Fredericksburg city, Virginia",110.0,115.0,62.0,05000US51630,51,630,D,Renter,No,20.1-30% AMI
+"Fredericksburg city, Virginia",80.0,102.0,63.0,05000US51630,51,630,D,Renter,No,30.1-40% AMI
+"Fredericksburg city, Virginia",195.0,126.0,64.0,05000US51630,51,630,D,Renter,No,40.1-50% AMI
+"Fredericksburg city, Virginia",155.0,112.0,65.0,05000US51630,51,630,D,Renter,No,50.1-60% AMI
+"Fredericksburg city, Virginia",235.0,134.0,66.0,05000US51630,51,630,D,Renter,No,60.1-65% AMI
+"Fredericksburg city, Virginia",270.0,155.0,67.0,05000US51630,51,630,D,Renter,No,65.1-80% AMI
+"Fredericksburg city, Virginia",380.0,248.0,68.0,05000US51630,51,630,D,Renter,No,80.1-95% AMI
+"Fredericksburg city, Virginia",160.0,107.0,69.0,05000US51630,51,630,D,Renter,No,95.1-100% AMI
+"Fredericksburg city, Virginia",260.0,157.0,70.0,05000US51630,51,630,D,Renter,No,100.1-115% AMI
+"Fredericksburg city, Virginia",15.0,32.0,71.0,05000US51630,51,630,D,Renter,No,115.1-120% AMI
+"Fredericksburg city, Virginia",55.0,68.0,72.0,05000US51630,51,630,D,Renter,No,120.1-140% AMI
+"Fredericksburg city, Virginia",215.0,136.0,73.0,05000US51630,51,630,D,Renter,No,>140% AMI
+"Fredericksburg city, Virginia",105.0,70.0,74.0,05000US51630,51,630,S,Renter,N/A,All
+"Fredericksburg city, Virginia",45.0,44.0,75.0,05000US51630,51,630,D,Renter,N/A,<=20% AMI
+"Fredericksburg city, Virginia",0.0,161.0,76.0,05000US51630,51,630,D,Renter,N/A,20.1-30% AMI
+"Fredericksburg city, Virginia",35.0,41.0,77.0,05000US51630,51,630,D,Renter,N/A,30.1-40% AMI
+"Fredericksburg city, Virginia",0.0,161.0,78.0,05000US51630,51,630,D,Renter,N/A,40.1-50% AMI
+"Fredericksburg city, Virginia",25.0,42.0,79.0,05000US51630,51,630,D,Renter,N/A,50.1-60% AMI
+"Fredericksburg city, Virginia",0.0,161.0,80.0,05000US51630,51,630,D,Renter,N/A,60.1-65% AMI
+"Fredericksburg city, Virginia",0.0,161.0,81.0,05000US51630,51,630,D,Renter,N/A,65.1-80% AMI
+"Fredericksburg city, Virginia",0.0,161.0,82.0,05000US51630,51,630,D,Renter,N/A,80.1-95% AMI
+"Fredericksburg city, Virginia",0.0,161.0,83.0,05000US51630,51,630,D,Renter,N/A,95.1-100% AMI
+"Fredericksburg city, Virginia",0.0,161.0,84.0,05000US51630,51,630,D,Renter,N/A,100.1-115% AMI
+"Fredericksburg city, Virginia",0.0,161.0,85.0,05000US51630,51,630,D,Renter,N/A,115.1-120% AMI
+"Fredericksburg city, Virginia",0.0,161.0,86.0,05000US51630,51,630,D,Renter,N/A,120.1-140% AMI
+"Fredericksburg city, Virginia",0.0,161.0,87.0,05000US51630,51,630,D,Renter,N/A,>140% AMI

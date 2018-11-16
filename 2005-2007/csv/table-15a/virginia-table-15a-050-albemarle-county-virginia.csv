@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Albemarle County, Virginia",17255.0,823.0,1.0,05000US51003,51,003,T,All,All,All,All
+"Albemarle County, Virginia",60.0,59.0,2.0,05000US51003,51,003,S,Substandard,All,All,All
+"Albemarle County, Virginia",17195.0,820.0,3.0,05000US51003,51,003,S,Standard,All,All,All
+"Albemarle County, Virginia",750.0,210.0,4.0,05000US51003,51,003,S,Standard,VHUD50,All,All
+"Albemarle County, Virginia",110.0,89.0,5.0,05000US51003,51,003,S,Standard,VHUD50,30% AMI or less,All
+"Albemarle County, Virginia",0.0,161.0,6.0,05000US51003,51,003,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Albemarle County, Virginia",20.0,35.0,7.0,05000US51003,51,003,D,Standard,VHUD50,30% AMI or less,2
+"Albemarle County, Virginia",90.0,83.0,8.0,05000US51003,51,003,D,Standard,VHUD50,30% AMI or less,3 or more
+"Albemarle County, Virginia",120.0,82.0,9.0,05000US51003,51,003,S,Standard,VHUD50,30.1-50% AMI,All
+"Albemarle County, Virginia",0.0,161.0,10.0,05000US51003,51,003,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Albemarle County, Virginia",10.0,25.0,11.0,05000US51003,51,003,D,Standard,VHUD50,30.1-50% AMI,2
+"Albemarle County, Virginia",110.0,79.0,12.0,05000US51003,51,003,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Albemarle County, Virginia",90.0,62.0,13.0,05000US51003,51,003,S,Standard,VHUD50,50.1-80% AMI,All
+"Albemarle County, Virginia",0.0,161.0,14.0,05000US51003,51,003,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Albemarle County, Virginia",15.0,30.0,15.0,05000US51003,51,003,D,Standard,VHUD50,50.1-80% AMI,2
+"Albemarle County, Virginia",70.0,60.0,16.0,05000US51003,51,003,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Albemarle County, Virginia",130.0,100.0,17.0,05000US51003,51,003,S,Standard,VHUD50,80.1-95% AMI,All
+"Albemarle County, Virginia",0.0,161.0,18.0,05000US51003,51,003,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Albemarle County, Virginia",0.0,161.0,19.0,05000US51003,51,003,D,Standard,VHUD50,80.1-95% AMI,2
+"Albemarle County, Virginia",130.0,100.0,20.0,05000US51003,51,003,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Albemarle County, Virginia",295.0,154.0,21.0,05000US51003,51,003,S,Standard,VHUD50,95.1% AMI and above,All
+"Albemarle County, Virginia",0.0,161.0,22.0,05000US51003,51,003,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Albemarle County, Virginia",0.0,161.0,23.0,05000US51003,51,003,D,Standard,VHUD50,95.1% AMI and above,2
+"Albemarle County, Virginia",295.0,154.0,24.0,05000US51003,51,003,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Albemarle County, Virginia",2565.0,488.0,25.0,05000US51003,51,003,S,Standard,VHUD80,All,All
+"Albemarle County, Virginia",170.0,98.0,26.0,05000US51003,51,003,S,Standard,VHUD80,30% AMI or less,All
+"Albemarle County, Virginia",15.0,27.0,27.0,05000US51003,51,003,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Albemarle County, Virginia",0.0,161.0,28.0,05000US51003,51,003,D,Standard,VHUD80,30% AMI or less,2
+"Albemarle County, Virginia",150.0,94.0,29.0,05000US51003,51,003,D,Standard,VHUD80,30% AMI or less,3 or more
+"Albemarle County, Virginia",300.0,192.0,30.0,05000US51003,51,003,S,Standard,VHUD80,30.1-50% AMI,All
+"Albemarle County, Virginia",0.0,161.0,31.0,05000US51003,51,003,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Albemarle County, Virginia",75.0,77.0,32.0,05000US51003,51,003,D,Standard,VHUD80,30.1-50% AMI,2
+"Albemarle County, Virginia",225.0,144.0,33.0,05000US51003,51,003,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Albemarle County, Virginia",425.0,188.0,34.0,05000US51003,51,003,S,Standard,VHUD80,50.1-80% AMI,All
+"Albemarle County, Virginia",45.0,51.0,35.0,05000US51003,51,003,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Albemarle County, Virginia",35.0,47.0,36.0,05000US51003,51,003,D,Standard,VHUD80,50.1-80% AMI,2
+"Albemarle County, Virginia",345.0,177.0,37.0,05000US51003,51,003,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Albemarle County, Virginia",470.0,222.0,38.0,05000US51003,51,003,S,Standard,VHUD80,80.1-95% AMI,All
+"Albemarle County, Virginia",0.0,161.0,39.0,05000US51003,51,003,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Albemarle County, Virginia",145.0,179.0,40.0,05000US51003,51,003,D,Standard,VHUD80,80.1-95% AMI,2
+"Albemarle County, Virginia",320.0,131.0,41.0,05000US51003,51,003,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Albemarle County, Virginia",1205.0,314.0,42.0,05000US51003,51,003,S,Standard,VHUD80,95.1% AMI and above,All
+"Albemarle County, Virginia",35.0,41.0,43.0,05000US51003,51,003,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Albemarle County, Virginia",85.0,67.0,44.0,05000US51003,51,003,D,Standard,VHUD80,95.1% AMI and above,2
+"Albemarle County, Virginia",1085.0,314.0,45.0,05000US51003,51,003,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Albemarle County, Virginia",2110.0,405.0,46.0,05000US51003,51,003,S,Standard,VHUD100,All,All
+"Albemarle County, Virginia",30.0,35.0,47.0,05000US51003,51,003,S,Standard,VHUD100,30% AMI or less,All
+"Albemarle County, Virginia",0.0,161.0,48.0,05000US51003,51,003,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Albemarle County, Virginia",4.0,5.0,49.0,05000US51003,51,003,D,Standard,VHUD100,30% AMI or less,2
+"Albemarle County, Virginia",30.0,34.0,50.0,05000US51003,51,003,D,Standard,VHUD100,30% AMI or less,3 or more
+"Albemarle County, Virginia",145.0,93.0,51.0,05000US51003,51,003,S,Standard,VHUD100,30.1-50% AMI,All
+"Albemarle County, Virginia",0.0,161.0,52.0,05000US51003,51,003,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Albemarle County, Virginia",55.0,64.0,53.0,05000US51003,51,003,D,Standard,VHUD100,30.1-50% AMI,2
+"Albemarle County, Virginia",90.0,73.0,54.0,05000US51003,51,003,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Albemarle County, Virginia",215.0,136.0,55.0,05000US51003,51,003,S,Standard,VHUD100,50.1-80% AMI,All
+"Albemarle County, Virginia",0.0,161.0,56.0,05000US51003,51,003,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Albemarle County, Virginia",0.0,161.0,57.0,05000US51003,51,003,D,Standard,VHUD100,50.1-80% AMI,2
+"Albemarle County, Virginia",215.0,136.0,58.0,05000US51003,51,003,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Albemarle County, Virginia",405.0,241.0,59.0,05000US51003,51,003,S,Standard,VHUD100,80.1-95% AMI,All
+"Albemarle County, Virginia",0.0,161.0,60.0,05000US51003,51,003,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Albemarle County, Virginia",70.0,120.0,61.0,05000US51003,51,003,D,Standard,VHUD100,80.1-95% AMI,2
+"Albemarle County, Virginia",330.0,202.0,62.0,05000US51003,51,003,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Albemarle County, Virginia",1315.0,313.0,63.0,05000US51003,51,003,S,Standard,VHUD100,95.1% AMI and above,All
+"Albemarle County, Virginia",20.0,37.0,64.0,05000US51003,51,003,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Albemarle County, Virginia",225.0,187.0,65.0,05000US51003,51,003,D,Standard,VHUD100,95.1% AMI and above,2
+"Albemarle County, Virginia",1070.0,264.0,66.0,05000US51003,51,003,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Albemarle County, Virginia",11765.0,726.0,67.0,05000US51003,51,003,S,Standard,Greater than VHUD100,All,All
+"Albemarle County, Virginia",215.0,145.0,68.0,05000US51003,51,003,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Albemarle County, Virginia",0.0,161.0,69.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Albemarle County, Virginia",0.0,161.0,70.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Albemarle County, Virginia",215.0,145.0,71.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Albemarle County, Virginia",315.0,160.0,72.0,05000US51003,51,003,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Albemarle County, Virginia",0.0,161.0,73.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Albemarle County, Virginia",50.0,54.0,74.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Albemarle County, Virginia",260.0,156.0,75.0,05000US51003,51,003,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Albemarle County, Virginia",410.0,141.0,76.0,05000US51003,51,003,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Albemarle County, Virginia",0.0,161.0,77.0,05000US51003,51,003,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Albemarle County, Virginia",40.0,45.0,78.0,05000US51003,51,003,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Albemarle County, Virginia",370.0,144.0,79.0,05000US51003,51,003,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Albemarle County, Virginia",665.0,228.0,80.0,05000US51003,51,003,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Albemarle County, Virginia",0.0,161.0,81.0,05000US51003,51,003,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Albemarle County, Virginia",125.0,86.0,82.0,05000US51003,51,003,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Albemarle County, Virginia",540.0,221.0,83.0,05000US51003,51,003,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Albemarle County, Virginia",10165.0,749.0,84.0,05000US51003,51,003,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Albemarle County, Virginia",25.0,41.0,85.0,05000US51003,51,003,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Albemarle County, Virginia",450.0,251.0,86.0,05000US51003,51,003,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Albemarle County, Virginia",9695.0,685.0,87.0,05000US51003,51,003,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

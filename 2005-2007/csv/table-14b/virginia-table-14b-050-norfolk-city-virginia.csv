@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Norfolk city, Virginia",3095.0,545.0,1.0,05000US51710,51,710,T,All,All,All
+"Norfolk city, Virginia",0.0,161.0,2.0,05000US51710,51,710,S,Substandard,All,All
+"Norfolk city, Virginia",3095.0,545.0,3.0,05000US51710,51,710,S,Standard,All,All
+"Norfolk city, Virginia",375.0,187.0,4.0,05000US51710,51,710,S,Standard,RHUD30,All
+"Norfolk city, Virginia",95.0,112.0,5.0,05000US51710,51,710,D,Standard,RHUD30,0 or 1
+"Norfolk city, Virginia",145.0,114.0,6.0,05000US51710,51,710,D,Standard,RHUD30,2
+"Norfolk city, Virginia",135.0,120.0,7.0,05000US51710,51,710,D,Standard,RHUD30,3 or more
+"Norfolk city, Virginia",1525.0,492.0,8.0,05000US51710,51,710,S,Standard,RHUD50,All
+"Norfolk city, Virginia",460.0,242.0,9.0,05000US51710,51,710,D,Standard,RHUD50,0 or 1
+"Norfolk city, Virginia",780.0,415.0,10.0,05000US51710,51,710,D,Standard,RHUD50,2
+"Norfolk city, Virginia",280.0,159.0,11.0,05000US51710,51,710,D,Standard,RHUD50,3 or more
+"Norfolk city, Virginia",960.0,342.0,12.0,05000US51710,51,710,S,Standard,RHUD80,All
+"Norfolk city, Virginia",180.0,150.0,13.0,05000US51710,51,710,D,Standard,RHUD80,0 or 1
+"Norfolk city, Virginia",580.0,256.0,14.0,05000US51710,51,710,D,Standard,RHUD80,2
+"Norfolk city, Virginia",200.0,155.0,15.0,05000US51710,51,710,D,Standard,RHUD80,3 or more
+"Norfolk city, Virginia",235.0,162.0,16.0,05000US51710,51,710,S,Standard,Greater than RHUD80,All
+"Norfolk city, Virginia",95.0,97.0,17.0,05000US51710,51,710,D,Standard,Greater than RHUD80,0 or 1
+"Norfolk city, Virginia",50.0,78.0,18.0,05000US51710,51,710,D,Standard,Greater than RHUD80,2
+"Norfolk city, Virginia",90.0,105.0,19.0,05000US51710,51,710,D,Standard,Greater than RHUD80,3 or more

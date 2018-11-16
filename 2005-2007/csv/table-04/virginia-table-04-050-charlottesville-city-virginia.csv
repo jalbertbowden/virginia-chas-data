@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Charlottesville city, Virginia",16695.0,444.0,1.0,05000US51540,51,540,T,All,All,All,All
+"Charlottesville city, Virginia",7685.0,483.0,2.0,05000US51540,51,540,S,Owner,All,All,All
+"Charlottesville city, Virginia",2735.0,421.0,3.0,05000US51540,51,540,S,Owner,Yes,All,All
+"Charlottesville city, Virginia",460.0,199.0,4.0,05000US51540,51,540,S,Owner,Yes,"Family, 1 parent",All
+"Charlottesville city, Virginia",405.0,180.0,5.0,05000US51540,51,540,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",55.0,53.0,6.0,05000US51540,51,540,D,Owner,Yes,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",880.0,232.0,7.0,05000US51540,51,540,S,Owner,Yes,"Family, 2 parents",All
+"Charlottesville city, Virginia",715.0,211.0,8.0,05000US51540,51,540,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",170.0,100.0,9.0,05000US51540,51,540,D,Owner,Yes,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",1390.0,285.0,10.0,05000US51540,51,540,S,Owner,Yes,Non-family,All
+"Charlottesville city, Virginia",1390.0,285.0,11.0,05000US51540,51,540,D,Owner,Yes,Non-family,4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,12.0,05000US51540,51,540,D,Owner,Yes,Non-family,5 or more
+"Charlottesville city, Virginia",4920.0,410.0,13.0,05000US51540,51,540,S,Owner,No,All,All
+"Charlottesville city, Virginia",560.0,163.0,14.0,05000US51540,51,540,S,Owner,No,"Family, 1 parent",All
+"Charlottesville city, Virginia",560.0,163.0,15.0,05000US51540,51,540,D,Owner,No,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,16.0,05000US51540,51,540,D,Owner,No,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",2650.0,288.0,17.0,05000US51540,51,540,S,Owner,No,"Family, 2 parents",All
+"Charlottesville city, Virginia",2565.0,298.0,18.0,05000US51540,51,540,D,Owner,No,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",80.0,72.0,19.0,05000US51540,51,540,D,Owner,No,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",1710.0,304.0,20.0,05000US51540,51,540,S,Owner,No,Non-family,All
+"Charlottesville city, Virginia",1710.0,304.0,21.0,05000US51540,51,540,D,Owner,No,Non-family,4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,22.0,05000US51540,51,540,D,Owner,No,Non-family,5 or more
+"Charlottesville city, Virginia",35.0,35.0,23.0,05000US51540,51,540,S,Owner,N/A,All,All
+"Charlottesville city, Virginia",0.0,161.0,24.0,05000US51540,51,540,S,Owner,N/A,"Family, 1 parent",All
+"Charlottesville city, Virginia",0.0,161.0,25.0,05000US51540,51,540,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,26.0,05000US51540,51,540,D,Owner,N/A,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",0.0,161.0,27.0,05000US51540,51,540,S,Owner,N/A,"Family, 2 parents",All
+"Charlottesville city, Virginia",0.0,161.0,28.0,05000US51540,51,540,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,29.0,05000US51540,51,540,D,Owner,N/A,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",35.0,35.0,30.0,05000US51540,51,540,S,Owner,N/A,Non-family,All
+"Charlottesville city, Virginia",35.0,35.0,31.0,05000US51540,51,540,D,Owner,N/A,Non-family,4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,32.0,05000US51540,51,540,D,Owner,N/A,Non-family,5 or more
+"Charlottesville city, Virginia",9010.0,605.0,33.0,05000US51540,51,540,S,Renter,All,All,All
+"Charlottesville city, Virginia",5325.0,574.0,34.0,05000US51540,51,540,S,Renter,Yes,All,All
+"Charlottesville city, Virginia",1025.0,299.0,35.0,05000US51540,51,540,S,Renter,Yes,"Family, 1 parent",All
+"Charlottesville city, Virginia",935.0,294.0,36.0,05000US51540,51,540,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",90.0,93.0,37.0,05000US51540,51,540,D,Renter,Yes,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",250.0,133.0,38.0,05000US51540,51,540,S,Renter,Yes,"Family, 2 parents",All
+"Charlottesville city, Virginia",155.0,97.0,39.0,05000US51540,51,540,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",95.0,94.0,40.0,05000US51540,51,540,D,Renter,Yes,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",4050.0,490.0,41.0,05000US51540,51,540,S,Renter,Yes,Non-family,All
+"Charlottesville city, Virginia",3840.0,503.0,42.0,05000US51540,51,540,D,Renter,Yes,Non-family,4 or fewer
+"Charlottesville city, Virginia",210.0,123.0,43.0,05000US51540,51,540,D,Renter,Yes,Non-family,5 or more
+"Charlottesville city, Virginia",3380.0,506.0,44.0,05000US51540,51,540,S,Renter,No,All,All
+"Charlottesville city, Virginia",545.0,260.0,45.0,05000US51540,51,540,S,Renter,No,"Family, 1 parent",All
+"Charlottesville city, Virginia",545.0,260.0,46.0,05000US51540,51,540,D,Renter,No,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,47.0,05000US51540,51,540,D,Renter,No,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",630.0,212.0,48.0,05000US51540,51,540,S,Renter,No,"Family, 2 parents",All
+"Charlottesville city, Virginia",585.0,200.0,49.0,05000US51540,51,540,D,Renter,No,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",40.0,59.0,50.0,05000US51540,51,540,D,Renter,No,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",2205.0,321.0,51.0,05000US51540,51,540,S,Renter,No,Non-family,All
+"Charlottesville city, Virginia",2200.0,322.0,52.0,05000US51540,51,540,D,Renter,No,Non-family,4 or fewer
+"Charlottesville city, Virginia",4.0,11.0,53.0,05000US51540,51,540,D,Renter,No,Non-family,5 or more
+"Charlottesville city, Virginia",305.0,130.0,54.0,05000US51540,51,540,S,Renter,N/A,All,All
+"Charlottesville city, Virginia",40.0,55.0,55.0,05000US51540,51,540,S,Renter,N/A,"Family, 1 parent",All
+"Charlottesville city, Virginia",40.0,55.0,56.0,05000US51540,51,540,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,57.0,05000US51540,51,540,D,Renter,N/A,"Family, 1 parent",5 or more
+"Charlottesville city, Virginia",15.0,24.0,58.0,05000US51540,51,540,S,Renter,N/A,"Family, 2 parents",All
+"Charlottesville city, Virginia",15.0,24.0,59.0,05000US51540,51,540,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,60.0,05000US51540,51,540,D,Renter,N/A,"Family, 2 parents",5 or more
+"Charlottesville city, Virginia",250.0,114.0,61.0,05000US51540,51,540,S,Renter,N/A,Non-family,All
+"Charlottesville city, Virginia",250.0,114.0,62.0,05000US51540,51,540,D,Renter,N/A,Non-family,4 or fewer
+"Charlottesville city, Virginia",0.0,161.0,63.0,05000US51540,51,540,D,Renter,N/A,Non-family,5 or more

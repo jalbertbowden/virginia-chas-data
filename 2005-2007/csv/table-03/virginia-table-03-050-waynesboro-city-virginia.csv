@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Waynesboro city, Virginia",8595.0,339.0,1.0,05000US51820,51,820,T,All,All,All
+"Waynesboro city, Virginia",5290.0,444.0,2.0,05000US51820,51,820,S,Owner,All,All
+"Waynesboro city, Virginia",0.0,161.0,3.0,05000US51820,51,820,S,Owner,Substandard,All
+"Waynesboro city, Virginia",0.0,161.0,4.0,05000US51820,51,820,D,Owner,Substandard,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,5.0,05000US51820,51,820,D,Owner,Substandard,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,6.0,05000US51820,51,820,D,Owner,Substandard,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,7.0,05000US51820,51,820,D,Owner,Substandard,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,8.0,05000US51820,51,820,D,Owner,Substandard,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,9.0,05000US51820,51,820,D,Owner,Substandard,>95% AMI
+"Waynesboro city, Virginia",0.0,161.0,10.0,05000US51820,51,820,S,Owner,Severely overcrowded,All
+"Waynesboro city, Virginia",0.0,161.0,11.0,05000US51820,51,820,D,Owner,Severely overcrowded,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,12.0,05000US51820,51,820,D,Owner,Severely overcrowded,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,13.0,05000US51820,51,820,D,Owner,Severely overcrowded,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,14.0,05000US51820,51,820,D,Owner,Severely overcrowded,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,15.0,05000US51820,51,820,D,Owner,Severely overcrowded,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,16.0,05000US51820,51,820,D,Owner,Severely overcrowded,>95% AMI
+"Waynesboro city, Virginia",0.0,161.0,17.0,05000US51820,51,820,S,Owner,Overcrowded,All
+"Waynesboro city, Virginia",0.0,161.0,18.0,05000US51820,51,820,D,Owner,Overcrowded,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,19.0,05000US51820,51,820,D,Owner,Overcrowded,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,20.0,05000US51820,51,820,D,Owner,Overcrowded,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,21.0,05000US51820,51,820,D,Owner,Overcrowded,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,22.0,05000US51820,51,820,D,Owner,Overcrowded,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,23.0,05000US51820,51,820,D,Owner,Overcrowded,>95% AMI
+"Waynesboro city, Virginia",455.0,177.0,24.0,05000US51820,51,820,S,Owner,Severely cost burdened,All
+"Waynesboro city, Virginia",190.0,106.0,25.0,05000US51820,51,820,D,Owner,Severely cost burdened,<=30% AMI
+"Waynesboro city, Virginia",170.0,131.0,26.0,05000US51820,51,820,D,Owner,Severely cost burdened,30.1-50% AMI
+"Waynesboro city, Virginia",45.0,56.0,27.0,05000US51820,51,820,D,Owner,Severely cost burdened,50.1-60% AMI
+"Waynesboro city, Virginia",30.0,39.0,28.0,05000US51820,51,820,D,Owner,Severely cost burdened,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,29.0,05000US51820,51,820,D,Owner,Severely cost burdened,80.1-95% AMI
+"Waynesboro city, Virginia",25.0,42.0,30.0,05000US51820,51,820,D,Owner,Severely cost burdened,>95% AMI
+"Waynesboro city, Virginia",775.0,249.0,31.0,05000US51820,51,820,S,Owner,Cost burdened,All
+"Waynesboro city, Virginia",25.0,41.0,32.0,05000US51820,51,820,D,Owner,Cost burdened,<=30% AMI
+"Waynesboro city, Virginia",235.0,154.0,33.0,05000US51820,51,820,D,Owner,Cost burdened,30.1-50% AMI
+"Waynesboro city, Virginia",60.0,64.0,34.0,05000US51820,51,820,D,Owner,Cost burdened,50.1-60% AMI
+"Waynesboro city, Virginia",120.0,77.0,35.0,05000US51820,51,820,D,Owner,Cost burdened,60.1-80% AMI
+"Waynesboro city, Virginia",175.0,178.0,36.0,05000US51820,51,820,D,Owner,Cost burdened,80.1-95% AMI
+"Waynesboro city, Virginia",160.0,105.0,37.0,05000US51820,51,820,D,Owner,Cost burdened,>95% AMI
+"Waynesboro city, Virginia",0.0,161.0,38.0,05000US51820,51,820,S,Owner,No income or no cash rent,All
+"Waynesboro city, Virginia",0.0,161.0,39.0,05000US51820,51,820,D,Owner,No income or no cash rent,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,40.0,05000US51820,51,820,D,Owner,No income or no cash rent,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,41.0,05000US51820,51,820,D,Owner,No income or no cash rent,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,42.0,05000US51820,51,820,D,Owner,No income or no cash rent,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,43.0,05000US51820,51,820,D,Owner,No income or no cash rent,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,44.0,05000US51820,51,820,D,Owner,No income or no cash rent,>95% AMI
+"Waynesboro city, Virginia",4060.0,408.0,45.0,05000US51820,51,820,S,Owner,No housing problems,All
+"Waynesboro city, Virginia",10.0,24.0,46.0,05000US51820,51,820,D,Owner,No housing problems,<=30% AMI
+"Waynesboro city, Virginia",110.0,87.0,47.0,05000US51820,51,820,D,Owner,No housing problems,30.1-50% AMI
+"Waynesboro city, Virginia",170.0,92.0,48.0,05000US51820,51,820,D,Owner,No housing problems,50.1-60% AMI
+"Waynesboro city, Virginia",210.0,135.0,49.0,05000US51820,51,820,D,Owner,No housing problems,60.1-80% AMI
+"Waynesboro city, Virginia",260.0,156.0,50.0,05000US51820,51,820,D,Owner,No housing problems,80.1-95% AMI
+"Waynesboro city, Virginia",3295.0,410.0,51.0,05000US51820,51,820,D,Owner,No housing problems,>95% AMI
+"Waynesboro city, Virginia",3305.0,546.0,52.0,05000US51820,51,820,S,Renter,All,All
+"Waynesboro city, Virginia",125.0,155.0,53.0,05000US51820,51,820,S,Renter,Substandard,All
+"Waynesboro city, Virginia",0.0,161.0,54.0,05000US51820,51,820,D,Renter,Substandard,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,55.0,05000US51820,51,820,D,Renter,Substandard,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,56.0,05000US51820,51,820,D,Renter,Substandard,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,57.0,05000US51820,51,820,D,Renter,Substandard,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,58.0,05000US51820,51,820,D,Renter,Substandard,80.1-95% AMI
+"Waynesboro city, Virginia",125.0,155.0,59.0,05000US51820,51,820,D,Renter,Substandard,>95% AMI
+"Waynesboro city, Virginia",30.0,52.0,60.0,05000US51820,51,820,S,Renter,Severely overcrowded,All
+"Waynesboro city, Virginia",0.0,161.0,61.0,05000US51820,51,820,D,Renter,Severely overcrowded,<=30% AMI
+"Waynesboro city, Virginia",30.0,52.0,62.0,05000US51820,51,820,D,Renter,Severely overcrowded,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,63.0,05000US51820,51,820,D,Renter,Severely overcrowded,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,64.0,05000US51820,51,820,D,Renter,Severely overcrowded,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,65.0,05000US51820,51,820,D,Renter,Severely overcrowded,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,66.0,05000US51820,51,820,D,Renter,Severely overcrowded,>95% AMI
+"Waynesboro city, Virginia",70.0,80.0,67.0,05000US51820,51,820,S,Renter,Overcrowded,All
+"Waynesboro city, Virginia",55.0,80.0,68.0,05000US51820,51,820,D,Renter,Overcrowded,<=30% AMI
+"Waynesboro city, Virginia",0.0,161.0,69.0,05000US51820,51,820,D,Renter,Overcrowded,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,70.0,05000US51820,51,820,D,Renter,Overcrowded,50.1-60% AMI
+"Waynesboro city, Virginia",10.0,21.0,71.0,05000US51820,51,820,D,Renter,Overcrowded,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,72.0,05000US51820,51,820,D,Renter,Overcrowded,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,73.0,05000US51820,51,820,D,Renter,Overcrowded,>95% AMI
+"Waynesboro city, Virginia",615.0,208.0,74.0,05000US51820,51,820,S,Renter,Severely cost burdened,All
+"Waynesboro city, Virginia",505.0,187.0,75.0,05000US51820,51,820,D,Renter,Severely cost burdened,<=30% AMI
+"Waynesboro city, Virginia",95.0,71.0,76.0,05000US51820,51,820,D,Renter,Severely cost burdened,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,77.0,05000US51820,51,820,D,Renter,Severely cost burdened,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,78.0,05000US51820,51,820,D,Renter,Severely cost burdened,60.1-80% AMI
+"Waynesboro city, Virginia",15.0,27.0,79.0,05000US51820,51,820,D,Renter,Severely cost burdened,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,80.0,05000US51820,51,820,D,Renter,Severely cost burdened,>95% AMI
+"Waynesboro city, Virginia",760.0,340.0,81.0,05000US51820,51,820,S,Renter,Cost burdened,All
+"Waynesboro city, Virginia",315.0,192.0,82.0,05000US51820,51,820,D,Renter,Cost burdened,<=30% AMI
+"Waynesboro city, Virginia",30.0,44.0,83.0,05000US51820,51,820,D,Renter,Cost burdened,30.1-50% AMI
+"Waynesboro city, Virginia",135.0,134.0,84.0,05000US51820,51,820,D,Renter,Cost burdened,50.1-60% AMI
+"Waynesboro city, Virginia",190.0,181.0,85.0,05000US51820,51,820,D,Renter,Cost burdened,60.1-80% AMI
+"Waynesboro city, Virginia",90.0,135.0,86.0,05000US51820,51,820,D,Renter,Cost burdened,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,87.0,05000US51820,51,820,D,Renter,Cost burdened,>95% AMI
+"Waynesboro city, Virginia",85.0,73.0,88.0,05000US51820,51,820,S,Renter,No income or no cash rent,All
+"Waynesboro city, Virginia",60.0,58.0,89.0,05000US51820,51,820,D,Renter,No income or no cash rent,<=30% AMI
+"Waynesboro city, Virginia",25.0,44.0,90.0,05000US51820,51,820,D,Renter,No income or no cash rent,30.1-50% AMI
+"Waynesboro city, Virginia",0.0,161.0,91.0,05000US51820,51,820,D,Renter,No income or no cash rent,50.1-60% AMI
+"Waynesboro city, Virginia",0.0,161.0,92.0,05000US51820,51,820,D,Renter,No income or no cash rent,60.1-80% AMI
+"Waynesboro city, Virginia",0.0,161.0,93.0,05000US51820,51,820,D,Renter,No income or no cash rent,80.1-95% AMI
+"Waynesboro city, Virginia",0.0,161.0,94.0,05000US51820,51,820,D,Renter,No income or no cash rent,>95% AMI
+"Waynesboro city, Virginia",1620.0,426.0,95.0,05000US51820,51,820,S,Renter,No housing problems,All
+"Waynesboro city, Virginia",130.0,103.0,96.0,05000US51820,51,820,D,Renter,No housing problems,<=30% AMI
+"Waynesboro city, Virginia",190.0,134.0,97.0,05000US51820,51,820,D,Renter,No housing problems,30.1-50% AMI
+"Waynesboro city, Virginia",150.0,170.0,98.0,05000US51820,51,820,D,Renter,No housing problems,50.1-60% AMI
+"Waynesboro city, Virginia",215.0,138.0,99.0,05000US51820,51,820,D,Renter,No housing problems,60.1-80% AMI
+"Waynesboro city, Virginia",385.0,201.0,100.0,05000US51820,51,820,D,Renter,No housing problems,80.1-95% AMI
+"Waynesboro city, Virginia",555.0,199.0,101.0,05000US51820,51,820,D,Renter,No housing problems,>95% AMI

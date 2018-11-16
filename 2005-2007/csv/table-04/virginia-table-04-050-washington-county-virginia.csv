@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Washington County, Virginia",22135.0,557.0,1.0,05000US51191,51,191,T,All,All,All,All
+"Washington County, Virginia",16715.0,653.0,2.0,05000US51191,51,191,S,Owner,All,All,All
+"Washington County, Virginia",3060.0,456.0,3.0,05000US51191,51,191,S,Owner,Yes,All,All
+"Washington County, Virginia",575.0,250.0,4.0,05000US51191,51,191,S,Owner,Yes,"Family, 1 parent",All
+"Washington County, Virginia",575.0,250.0,5.0,05000US51191,51,191,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",0.0,161.0,6.0,05000US51191,51,191,D,Owner,Yes,"Family, 1 parent",5 or more
+"Washington County, Virginia",1450.0,305.0,7.0,05000US51191,51,191,S,Owner,Yes,"Family, 2 parents",All
+"Washington County, Virginia",1255.0,284.0,8.0,05000US51191,51,191,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",195.0,103.0,9.0,05000US51191,51,191,D,Owner,Yes,"Family, 2 parents",5 or more
+"Washington County, Virginia",1035.0,272.0,10.0,05000US51191,51,191,S,Owner,Yes,Non-family,All
+"Washington County, Virginia",1035.0,272.0,11.0,05000US51191,51,191,D,Owner,Yes,Non-family,4 or fewer
+"Washington County, Virginia",0.0,161.0,12.0,05000US51191,51,191,D,Owner,Yes,Non-family,5 or more
+"Washington County, Virginia",13635.0,600.0,13.0,05000US51191,51,191,S,Owner,No,All,All
+"Washington County, Virginia",1565.0,332.0,14.0,05000US51191,51,191,S,Owner,No,"Family, 1 parent",All
+"Washington County, Virginia",1565.0,332.0,15.0,05000US51191,51,191,D,Owner,No,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",0.0,161.0,16.0,05000US51191,51,191,D,Owner,No,"Family, 1 parent",5 or more
+"Washington County, Virginia",9440.0,691.0,17.0,05000US51191,51,191,S,Owner,No,"Family, 2 parents",All
+"Washington County, Virginia",8875.0,670.0,18.0,05000US51191,51,191,D,Owner,No,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",560.0,162.0,19.0,05000US51191,51,191,D,Owner,No,"Family, 2 parents",5 or more
+"Washington County, Virginia",2630.0,356.0,20.0,05000US51191,51,191,S,Owner,No,Non-family,All
+"Washington County, Virginia",2630.0,356.0,21.0,05000US51191,51,191,D,Owner,No,Non-family,4 or fewer
+"Washington County, Virginia",0.0,161.0,22.0,05000US51191,51,191,D,Owner,No,Non-family,5 or more
+"Washington County, Virginia",25.0,35.0,23.0,05000US51191,51,191,S,Owner,N/A,All,All
+"Washington County, Virginia",0.0,161.0,24.0,05000US51191,51,191,S,Owner,N/A,"Family, 1 parent",All
+"Washington County, Virginia",0.0,161.0,25.0,05000US51191,51,191,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",0.0,161.0,26.0,05000US51191,51,191,D,Owner,N/A,"Family, 1 parent",5 or more
+"Washington County, Virginia",4.0,9.0,27.0,05000US51191,51,191,S,Owner,N/A,"Family, 2 parents",All
+"Washington County, Virginia",4.0,9.0,28.0,05000US51191,51,191,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",0.0,161.0,29.0,05000US51191,51,191,D,Owner,N/A,"Family, 2 parents",5 or more
+"Washington County, Virginia",20.0,35.0,30.0,05000US51191,51,191,S,Owner,N/A,Non-family,All
+"Washington County, Virginia",20.0,35.0,31.0,05000US51191,51,191,D,Owner,N/A,Non-family,4 or fewer
+"Washington County, Virginia",0.0,161.0,32.0,05000US51191,51,191,D,Owner,N/A,Non-family,5 or more
+"Washington County, Virginia",5420.0,677.0,33.0,05000US51191,51,191,S,Renter,All,All,All
+"Washington County, Virginia",2440.0,605.0,34.0,05000US51191,51,191,S,Renter,Yes,All,All
+"Washington County, Virginia",680.0,409.0,35.0,05000US51191,51,191,S,Renter,Yes,"Family, 1 parent",All
+"Washington County, Virginia",640.0,404.0,36.0,05000US51191,51,191,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",40.0,52.0,37.0,05000US51191,51,191,D,Renter,Yes,"Family, 1 parent",5 or more
+"Washington County, Virginia",330.0,159.0,38.0,05000US51191,51,191,S,Renter,Yes,"Family, 2 parents",All
+"Washington County, Virginia",245.0,140.0,39.0,05000US51191,51,191,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",80.0,91.0,40.0,05000US51191,51,191,D,Renter,Yes,"Family, 2 parents",5 or more
+"Washington County, Virginia",1430.0,454.0,41.0,05000US51191,51,191,S,Renter,Yes,Non-family,All
+"Washington County, Virginia",1430.0,454.0,42.0,05000US51191,51,191,D,Renter,Yes,Non-family,4 or fewer
+"Washington County, Virginia",0.0,161.0,43.0,05000US51191,51,191,D,Renter,Yes,Non-family,5 or more
+"Washington County, Virginia",2240.0,444.0,44.0,05000US51191,51,191,S,Renter,No,All,All
+"Washington County, Virginia",450.0,232.0,45.0,05000US51191,51,191,S,Renter,No,"Family, 1 parent",All
+"Washington County, Virginia",430.0,234.0,46.0,05000US51191,51,191,D,Renter,No,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",25.0,41.0,47.0,05000US51191,51,191,D,Renter,No,"Family, 1 parent",5 or more
+"Washington County, Virginia",745.0,243.0,48.0,05000US51191,51,191,S,Renter,No,"Family, 2 parents",All
+"Washington County, Virginia",655.0,226.0,49.0,05000US51191,51,191,D,Renter,No,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",85.0,99.0,50.0,05000US51191,51,191,D,Renter,No,"Family, 2 parents",5 or more
+"Washington County, Virginia",1045.0,309.0,51.0,05000US51191,51,191,S,Renter,No,Non-family,All
+"Washington County, Virginia",990.0,304.0,52.0,05000US51191,51,191,D,Renter,No,Non-family,4 or fewer
+"Washington County, Virginia",55.0,56.0,53.0,05000US51191,51,191,D,Renter,No,Non-family,5 or more
+"Washington County, Virginia",740.0,268.0,54.0,05000US51191,51,191,S,Renter,N/A,All,All
+"Washington County, Virginia",130.0,147.0,55.0,05000US51191,51,191,S,Renter,N/A,"Family, 1 parent",All
+"Washington County, Virginia",130.0,147.0,56.0,05000US51191,51,191,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Washington County, Virginia",0.0,161.0,57.0,05000US51191,51,191,D,Renter,N/A,"Family, 1 parent",5 or more
+"Washington County, Virginia",270.0,120.0,58.0,05000US51191,51,191,S,Renter,N/A,"Family, 2 parents",All
+"Washington County, Virginia",250.0,115.0,59.0,05000US51191,51,191,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Washington County, Virginia",20.0,40.0,60.0,05000US51191,51,191,D,Renter,N/A,"Family, 2 parents",5 or more
+"Washington County, Virginia",335.0,196.0,61.0,05000US51191,51,191,S,Renter,N/A,Non-family,All
+"Washington County, Virginia",335.0,196.0,62.0,05000US51191,51,191,D,Renter,N/A,Non-family,4 or fewer
+"Washington County, Virginia",0.0,161.0,63.0,05000US51191,51,191,D,Renter,N/A,Non-family,5 or more

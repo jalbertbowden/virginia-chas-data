@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Newport News city, Virginia",28985.0,1150.0,1.0,05000US51700,51,700,T,All,All,All,All
+"Newport News city, Virginia",70.0,73.0,2.0,05000US51700,51,700,S,Substandard,All,All,All
+"Newport News city, Virginia",28915.0,1148.0,3.0,05000US51700,51,700,S,Standard,All,All,All
+"Newport News city, Virginia",4105.0,529.0,4.0,05000US51700,51,700,S,Standard,VHUD50,All,All
+"Newport News city, Virginia",505.0,288.0,5.0,05000US51700,51,700,S,Standard,VHUD50,30% AMI or less,All
+"Newport News city, Virginia",0.0,161.0,6.0,05000US51700,51,700,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Newport News city, Virginia",100.0,81.0,7.0,05000US51700,51,700,D,Standard,VHUD50,30% AMI or less,2
+"Newport News city, Virginia",405.0,294.0,8.0,05000US51700,51,700,D,Standard,VHUD50,30% AMI or less,3 or more
+"Newport News city, Virginia",600.0,233.0,9.0,05000US51700,51,700,S,Standard,VHUD50,30.1-50% AMI,All
+"Newport News city, Virginia",0.0,161.0,10.0,05000US51700,51,700,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Newport News city, Virginia",225.0,141.0,11.0,05000US51700,51,700,D,Standard,VHUD50,30.1-50% AMI,2
+"Newport News city, Virginia",375.0,211.0,12.0,05000US51700,51,700,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Newport News city, Virginia",1045.0,308.0,13.0,05000US51700,51,700,S,Standard,VHUD50,50.1-80% AMI,All
+"Newport News city, Virginia",20.0,31.0,14.0,05000US51700,51,700,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Newport News city, Virginia",390.0,163.0,15.0,05000US51700,51,700,D,Standard,VHUD50,50.1-80% AMI,2
+"Newport News city, Virginia",640.0,257.0,16.0,05000US51700,51,700,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Newport News city, Virginia",490.0,165.0,17.0,05000US51700,51,700,S,Standard,VHUD50,80.1-95% AMI,All
+"Newport News city, Virginia",0.0,161.0,18.0,05000US51700,51,700,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Newport News city, Virginia",165.0,100.0,19.0,05000US51700,51,700,D,Standard,VHUD50,80.1-95% AMI,2
+"Newport News city, Virginia",325.0,137.0,20.0,05000US51700,51,700,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Newport News city, Virginia",1465.0,324.0,21.0,05000US51700,51,700,S,Standard,VHUD50,95.1% AMI and above,All
+"Newport News city, Virginia",20.0,36.0,22.0,05000US51700,51,700,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Newport News city, Virginia",270.0,112.0,23.0,05000US51700,51,700,D,Standard,VHUD50,95.1% AMI and above,2
+"Newport News city, Virginia",1170.0,341.0,24.0,05000US51700,51,700,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Newport News city, Virginia",10090.0,840.0,25.0,05000US51700,51,700,S,Standard,VHUD80,All,All
+"Newport News city, Virginia",370.0,152.0,26.0,05000US51700,51,700,S,Standard,VHUD80,30% AMI or less,All
+"Newport News city, Virginia",0.0,161.0,27.0,05000US51700,51,700,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Newport News city, Virginia",15.0,27.0,28.0,05000US51700,51,700,D,Standard,VHUD80,30% AMI or less,2
+"Newport News city, Virginia",355.0,147.0,29.0,05000US51700,51,700,D,Standard,VHUD80,30% AMI or less,3 or more
+"Newport News city, Virginia",555.0,225.0,30.0,05000US51700,51,700,S,Standard,VHUD80,30.1-50% AMI,All
+"Newport News city, Virginia",0.0,161.0,31.0,05000US51700,51,700,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Newport News city, Virginia",145.0,117.0,32.0,05000US51700,51,700,D,Standard,VHUD80,30.1-50% AMI,2
+"Newport News city, Virginia",410.0,177.0,33.0,05000US51700,51,700,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Newport News city, Virginia",1515.0,329.0,34.0,05000US51700,51,700,S,Standard,VHUD80,50.1-80% AMI,All
+"Newport News city, Virginia",0.0,161.0,35.0,05000US51700,51,700,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Newport News city, Virginia",180.0,97.0,36.0,05000US51700,51,700,D,Standard,VHUD80,50.1-80% AMI,2
+"Newport News city, Virginia",1335.0,306.0,37.0,05000US51700,51,700,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Newport News city, Virginia",980.0,302.0,38.0,05000US51700,51,700,S,Standard,VHUD80,80.1-95% AMI,All
+"Newport News city, Virginia",45.0,53.0,39.0,05000US51700,51,700,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Newport News city, Virginia",235.0,161.0,40.0,05000US51700,51,700,D,Standard,VHUD80,80.1-95% AMI,2
+"Newport News city, Virginia",700.0,239.0,41.0,05000US51700,51,700,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Newport News city, Virginia",6670.0,786.0,42.0,05000US51700,51,700,S,Standard,VHUD80,95.1% AMI and above,All
+"Newport News city, Virginia",15.0,21.0,43.0,05000US51700,51,700,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Newport News city, Virginia",645.0,196.0,44.0,05000US51700,51,700,D,Standard,VHUD80,95.1% AMI and above,2
+"Newport News city, Virginia",6010.0,740.0,45.0,05000US51700,51,700,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Newport News city, Virginia",5885.0,817.0,46.0,05000US51700,51,700,S,Standard,VHUD100,All,All
+"Newport News city, Virginia",260.0,156.0,47.0,05000US51700,51,700,S,Standard,VHUD100,30% AMI or less,All
+"Newport News city, Virginia",0.0,161.0,48.0,05000US51700,51,700,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Newport News city, Virginia",105.0,135.0,49.0,05000US51700,51,700,D,Standard,VHUD100,30% AMI or less,2
+"Newport News city, Virginia",160.0,91.0,50.0,05000US51700,51,700,D,Standard,VHUD100,30% AMI or less,3 or more
+"Newport News city, Virginia",225.0,148.0,51.0,05000US51700,51,700,S,Standard,VHUD100,30.1-50% AMI,All
+"Newport News city, Virginia",0.0,161.0,52.0,05000US51700,51,700,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Newport News city, Virginia",0.0,161.0,53.0,05000US51700,51,700,D,Standard,VHUD100,30.1-50% AMI,2
+"Newport News city, Virginia",225.0,148.0,54.0,05000US51700,51,700,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Newport News city, Virginia",540.0,230.0,55.0,05000US51700,51,700,S,Standard,VHUD100,50.1-80% AMI,All
+"Newport News city, Virginia",0.0,161.0,56.0,05000US51700,51,700,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Newport News city, Virginia",50.0,52.0,57.0,05000US51700,51,700,D,Standard,VHUD100,50.1-80% AMI,2
+"Newport News city, Virginia",490.0,210.0,58.0,05000US51700,51,700,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Newport News city, Virginia",385.0,211.0,59.0,05000US51700,51,700,S,Standard,VHUD100,80.1-95% AMI,All
+"Newport News city, Virginia",0.0,161.0,60.0,05000US51700,51,700,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Newport News city, Virginia",40.0,53.0,61.0,05000US51700,51,700,D,Standard,VHUD100,80.1-95% AMI,2
+"Newport News city, Virginia",345.0,200.0,62.0,05000US51700,51,700,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Newport News city, Virginia",4475.0,676.0,63.0,05000US51700,51,700,S,Standard,VHUD100,95.1% AMI and above,All
+"Newport News city, Virginia",15.0,31.0,64.0,05000US51700,51,700,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Newport News city, Virginia",345.0,141.0,65.0,05000US51700,51,700,D,Standard,VHUD100,95.1% AMI and above,2
+"Newport News city, Virginia",4115.0,620.0,66.0,05000US51700,51,700,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Newport News city, Virginia",8835.0,715.0,67.0,05000US51700,51,700,S,Standard,Greater than VHUD100,All,All
+"Newport News city, Virginia",175.0,117.0,68.0,05000US51700,51,700,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Newport News city, Virginia",0.0,161.0,69.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Newport News city, Virginia",20.0,40.0,70.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Newport News city, Virginia",155.0,108.0,71.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Newport News city, Virginia",265.0,129.0,72.0,05000US51700,51,700,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Newport News city, Virginia",0.0,161.0,73.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Newport News city, Virginia",25.0,43.0,74.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Newport News city, Virginia",240.0,127.0,75.0,05000US51700,51,700,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Newport News city, Virginia",560.0,173.0,76.0,05000US51700,51,700,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Newport News city, Virginia",30.0,50.0,77.0,05000US51700,51,700,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Newport News city, Virginia",40.0,46.0,78.0,05000US51700,51,700,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Newport News city, Virginia",490.0,168.0,79.0,05000US51700,51,700,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Newport News city, Virginia",645.0,257.0,80.0,05000US51700,51,700,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Newport News city, Virginia",0.0,161.0,81.0,05000US51700,51,700,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Newport News city, Virginia",30.0,35.0,82.0,05000US51700,51,700,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Newport News city, Virginia",615.0,252.0,83.0,05000US51700,51,700,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Newport News city, Virginia",7190.0,757.0,84.0,05000US51700,51,700,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Newport News city, Virginia",0.0,161.0,85.0,05000US51700,51,700,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Newport News city, Virginia",160.0,95.0,86.0,05000US51700,51,700,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Newport News city, Virginia",7030.0,746.0,87.0,05000US51700,51,700,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

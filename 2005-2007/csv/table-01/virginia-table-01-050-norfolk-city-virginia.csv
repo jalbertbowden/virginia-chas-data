@@ -1,0 +1,250 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Race
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All,All
+"Norfolk city, Virginia",13810.0,1036.0,3.0,05000US51710,51,710,S,Owner,Yes,All,All
+"Norfolk city, Virginia",2500.0,409.0,4.0,05000US51710,51,710,S,Owner,Yes,30% AMI or less,All
+"Norfolk city, Virginia",1400.0,287.0,5.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,White
+"Norfolk city, Virginia",920.0,246.0,6.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,Black
+"Norfolk city, Virginia",65.0,61.0,7.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,Asian
+"Norfolk city, Virginia",0.0,161.0,8.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,9.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",30.0,40.0,10.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,Hispanic
+"Norfolk city, Virginia",85.0,62.0,11.0,05000US51710,51,710,D,Owner,Yes,30% AMI or less,Other
+"Norfolk city, Virginia",2525.0,394.0,12.0,05000US51710,51,710,S,Owner,Yes,30.1-50% AMI,All
+"Norfolk city, Virginia",1235.0,263.0,13.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,White
+"Norfolk city, Virginia",1170.0,286.0,14.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,Black
+"Norfolk city, Virginia",85.0,59.0,15.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,16.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,17.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",20.0,30.0,18.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",10.0,21.0,19.0,05000US51710,51,710,D,Owner,Yes,30.1-50% AMI,Other
+"Norfolk city, Virginia",3880.0,528.0,20.0,05000US51710,51,710,S,Owner,Yes,50.1-80% AMI,All
+"Norfolk city, Virginia",2115.0,400.0,21.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,White
+"Norfolk city, Virginia",1410.0,362.0,22.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,Black
+"Norfolk city, Virginia",155.0,102.0,23.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,Asian
+"Norfolk city, Virginia",15.0,37.0,24.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,25.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",95.0,72.0,26.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",90.0,104.0,27.0,05000US51710,51,710,D,Owner,Yes,50.1-80% AMI,Other
+"Norfolk city, Virginia",1285.0,337.0,28.0,05000US51710,51,710,S,Owner,Yes,80.1-95% AMI,All
+"Norfolk city, Virginia",835.0,280.0,29.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,White
+"Norfolk city, Virginia",280.0,145.0,30.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,Black
+"Norfolk city, Virginia",25.0,33.0,31.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,32.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,33.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",110.0,95.0,34.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",35.0,44.0,35.0,05000US51710,51,710,D,Owner,Yes,80.1-95% AMI,Other
+"Norfolk city, Virginia",3620.0,554.0,36.0,05000US51710,51,710,S,Owner,Yes,95.1% AMI and above,All
+"Norfolk city, Virginia",2670.0,496.0,37.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,White
+"Norfolk city, Virginia",680.0,240.0,38.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,Black
+"Norfolk city, Virginia",125.0,80.0,39.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,Asian
+"Norfolk city, Virginia",0.0,161.0,40.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",0.0,161.0,41.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",125.0,83.0,42.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",25.0,40.0,43.0,05000US51710,51,710,D,Owner,Yes,95.1% AMI and above,Other
+"Norfolk city, Virginia",25975.0,949.0,44.0,05000US51710,51,710,S,Owner,No,All,All
+"Norfolk city, Virginia",330.0,140.0,45.0,05000US51710,51,710,S,Owner,No,30% AMI or less,All
+"Norfolk city, Virginia",110.0,74.0,46.0,05000US51710,51,710,D,Owner,No,30% AMI or less,White
+"Norfolk city, Virginia",175.0,98.0,47.0,05000US51710,51,710,D,Owner,No,30% AMI or less,Black
+"Norfolk city, Virginia",15.0,23.0,48.0,05000US51710,51,710,D,Owner,No,30% AMI or less,Asian
+"Norfolk city, Virginia",15.0,29.0,49.0,05000US51710,51,710,D,Owner,No,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,50.0,05000US51710,51,710,D,Owner,No,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",15.0,26.0,51.0,05000US51710,51,710,D,Owner,No,30% AMI or less,Hispanic
+"Norfolk city, Virginia",0.0,161.0,52.0,05000US51710,51,710,D,Owner,No,30% AMI or less,Other
+"Norfolk city, Virginia",750.0,172.0,53.0,05000US51710,51,710,S,Owner,No,30.1-50% AMI,All
+"Norfolk city, Virginia",480.0,149.0,54.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,White
+"Norfolk city, Virginia",250.0,120.0,55.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,56.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,57.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,58.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,59.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",20.0,34.0,60.0,05000US51710,51,710,D,Owner,No,30.1-50% AMI,Other
+"Norfolk city, Virginia",3285.0,406.0,61.0,05000US51710,51,710,S,Owner,No,50.1-80% AMI,All
+"Norfolk city, Virginia",2070.0,337.0,62.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,White
+"Norfolk city, Virginia",1000.0,255.0,63.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,Black
+"Norfolk city, Virginia",70.0,71.0,64.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,Asian
+"Norfolk city, Virginia",55.0,74.0,65.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,66.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",30.0,26.0,67.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",55.0,53.0,68.0,05000US51710,51,710,D,Owner,No,50.1-80% AMI,Other
+"Norfolk city, Virginia",2275.0,325.0,69.0,05000US51710,51,710,S,Owner,No,80.1-95% AMI,All
+"Norfolk city, Virginia",1415.0,237.0,70.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,White
+"Norfolk city, Virginia",690.0,184.0,71.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,Black
+"Norfolk city, Virginia",50.0,49.0,72.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,Asian
+"Norfolk city, Virginia",30.0,45.0,73.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",10.0,24.0,74.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",40.0,41.0,75.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",35.0,40.0,76.0,05000US51710,51,710,D,Owner,No,80.1-95% AMI,Other
+"Norfolk city, Virginia",19330.0,974.0,77.0,05000US51710,51,710,S,Owner,No,95.1% AMI and above,All
+"Norfolk city, Virginia",14335.0,752.0,78.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,White
+"Norfolk city, Virginia",3965.0,499.0,79.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,Black
+"Norfolk city, Virginia",595.0,167.0,80.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,Asian
+"Norfolk city, Virginia",10.0,20.0,81.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",0.0,161.0,82.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",210.0,94.0,83.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",215.0,98.0,84.0,05000US51710,51,710,D,Owner,No,95.1% AMI and above,Other
+"Norfolk city, Virginia",220.0,140.0,85.0,05000US51710,51,710,S,Owner,N/A,All,All
+"Norfolk city, Virginia",220.0,140.0,86.0,05000US51710,51,710,S,Owner,N/A,30% AMI or less,All
+"Norfolk city, Virginia",125.0,96.0,87.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,White
+"Norfolk city, Virginia",95.0,103.0,88.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Black
+"Norfolk city, Virginia",0.0,161.0,89.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Asian
+"Norfolk city, Virginia",0.0,161.0,90.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,91.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,92.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Hispanic
+"Norfolk city, Virginia",0.0,161.0,93.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Other
+"Norfolk city, Virginia",0.0,161.0,94.0,05000US51710,51,710,S,Owner,N/A,30.1-50% AMI,All
+"Norfolk city, Virginia",0.0,161.0,95.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,White
+"Norfolk city, Virginia",0.0,161.0,96.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,97.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,98.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,99.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,100.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,101.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Other
+"Norfolk city, Virginia",0.0,161.0,102.0,05000US51710,51,710,S,Owner,N/A,50.1-80% AMI,All
+"Norfolk city, Virginia",0.0,161.0,103.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,White
+"Norfolk city, Virginia",0.0,161.0,104.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,105.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,106.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,107.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,108.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,109.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Other
+"Norfolk city, Virginia",0.0,161.0,110.0,05000US51710,51,710,S,Owner,N/A,80.1-95% AMI,All
+"Norfolk city, Virginia",0.0,161.0,111.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,White
+"Norfolk city, Virginia",0.0,161.0,112.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,113.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,114.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,115.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,116.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,117.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Other
+"Norfolk city, Virginia",0.0,161.0,118.0,05000US51710,51,710,S,Owner,N/A,95.1% AMI and above,All
+"Norfolk city, Virginia",0.0,161.0,119.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,White
+"Norfolk city, Virginia",0.0,161.0,120.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Black
+"Norfolk city, Virginia",0.0,161.0,121.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Asian
+"Norfolk city, Virginia",0.0,161.0,122.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",0.0,161.0,123.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,124.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",0.0,161.0,125.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Other
+"Norfolk city, Virginia",45125.0,1197.0,126.0,05000US51710,51,710,S,Renter,All,All,All
+"Norfolk city, Virginia",21790.0,1045.0,127.0,05000US51710,51,710,S,Renter,Yes,All,All
+"Norfolk city, Virginia",8205.0,771.0,128.0,05000US51710,51,710,S,Renter,Yes,30% AMI or less,All
+"Norfolk city, Virginia",1995.0,342.0,129.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,White
+"Norfolk city, Virginia",5685.0,687.0,130.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Black
+"Norfolk city, Virginia",35.0,44.0,131.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Asian
+"Norfolk city, Virginia",20.0,29.0,132.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,133.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",235.0,162.0,134.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Hispanic
+"Norfolk city, Virginia",235.0,121.0,135.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Other
+"Norfolk city, Virginia",7100.0,845.0,136.0,05000US51710,51,710,S,Renter,Yes,30.1-50% AMI,All
+"Norfolk city, Virginia",2325.0,461.0,137.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,White
+"Norfolk city, Virginia",4185.0,684.0,138.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Black
+"Norfolk city, Virginia",105.0,82.0,139.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,140.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,141.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",330.0,163.0,142.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",155.0,106.0,143.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Other
+"Norfolk city, Virginia",5190.0,654.0,144.0,05000US51710,51,710,S,Renter,Yes,50.1-80% AMI,All
+"Norfolk city, Virginia",2190.0,422.0,145.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,White
+"Norfolk city, Virginia",2805.0,490.0,146.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Black
+"Norfolk city, Virginia",80.0,76.0,147.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,148.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,149.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",80.0,48.0,150.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",35.0,43.0,151.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Other
+"Norfolk city, Virginia",505.0,222.0,152.0,05000US51710,51,710,S,Renter,Yes,80.1-95% AMI,All
+"Norfolk city, Virginia",405.0,214.0,153.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,White
+"Norfolk city, Virginia",90.0,96.0,154.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,155.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,156.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,157.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",15.0,24.0,158.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,159.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Other
+"Norfolk city, Virginia",790.0,268.0,160.0,05000US51710,51,710,S,Renter,Yes,95.1% AMI and above,All
+"Norfolk city, Virginia",245.0,147.0,161.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,White
+"Norfolk city, Virginia",270.0,174.0,162.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Black
+"Norfolk city, Virginia",25.0,36.0,163.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Asian
+"Norfolk city, Virginia",25.0,45.0,164.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",0.0,161.0,165.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",190.0,119.0,166.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",35.0,42.0,167.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Other
+"Norfolk city, Virginia",21185.0,1293.0,168.0,05000US51710,51,710,S,Renter,No,All,All
+"Norfolk city, Virginia",2270.0,439.0,169.0,05000US51710,51,710,S,Renter,No,30% AMI or less,All
+"Norfolk city, Virginia",245.0,114.0,170.0,05000US51710,51,710,D,Renter,No,30% AMI or less,White
+"Norfolk city, Virginia",2005.0,449.0,171.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Black
+"Norfolk city, Virginia",0.0,161.0,172.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Asian
+"Norfolk city, Virginia",0.0,161.0,173.0,05000US51710,51,710,D,Renter,No,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,174.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,175.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Hispanic
+"Norfolk city, Virginia",20.0,37.0,176.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Other
+"Norfolk city, Virginia",955.0,292.0,177.0,05000US51710,51,710,S,Renter,No,30.1-50% AMI,All
+"Norfolk city, Virginia",55.0,45.0,178.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,White
+"Norfolk city, Virginia",850.0,283.0,179.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Black
+"Norfolk city, Virginia",20.0,37.0,180.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,181.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,182.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",15.0,21.0,183.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",15.0,28.0,184.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Other
+"Norfolk city, Virginia",5780.0,623.0,185.0,05000US51710,51,710,S,Renter,No,50.1-80% AMI,All
+"Norfolk city, Virginia",2140.0,401.0,186.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,White
+"Norfolk city, Virginia",3105.0,489.0,187.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Black
+"Norfolk city, Virginia",135.0,85.0,188.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Asian
+"Norfolk city, Virginia",15.0,26.0,189.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,190.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",210.0,121.0,191.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",175.0,139.0,192.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Other
+"Norfolk city, Virginia",2990.0,590.0,193.0,05000US51710,51,710,S,Renter,No,80.1-95% AMI,All
+"Norfolk city, Virginia",1375.0,425.0,194.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,White
+"Norfolk city, Virginia",1155.0,319.0,195.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Black
+"Norfolk city, Virginia",75.0,93.0,196.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,197.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",35.0,42.0,198.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",255.0,160.0,199.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",95.0,113.0,200.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Other
+"Norfolk city, Virginia",9190.0,957.0,201.0,05000US51710,51,710,S,Renter,No,95.1% AMI and above,All
+"Norfolk city, Virginia",5175.0,646.0,202.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,White
+"Norfolk city, Virginia",3480.0,563.0,203.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Black
+"Norfolk city, Virginia",155.0,81.0,204.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Asian
+"Norfolk city, Virginia",0.0,161.0,205.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",10.0,17.0,206.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",260.0,147.0,207.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",115.0,109.0,208.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Other
+"Norfolk city, Virginia",2150.0,471.0,209.0,05000US51710,51,710,S,Renter,N/A,All,All
+"Norfolk city, Virginia",1280.0,400.0,210.0,05000US51710,51,710,S,Renter,N/A,30% AMI or less,All
+"Norfolk city, Virginia",525.0,240.0,211.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,White
+"Norfolk city, Virginia",645.0,255.0,212.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Black
+"Norfolk city, Virginia",55.0,57.0,213.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Asian
+"Norfolk city, Virginia",0.0,161.0,214.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,American Indian
+"Norfolk city, Virginia",0.0,161.0,215.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Pacific Islander
+"Norfolk city, Virginia",35.0,44.0,216.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Hispanic
+"Norfolk city, Virginia",25.0,30.0,217.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Other
+"Norfolk city, Virginia",185.0,103.0,218.0,05000US51710,51,710,S,Renter,N/A,30.1-50% AMI,All
+"Norfolk city, Virginia",105.0,75.0,219.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,White
+"Norfolk city, Virginia",80.0,74.0,220.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,221.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,222.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,223.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,224.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,225.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Other
+"Norfolk city, Virginia",360.0,207.0,226.0,05000US51710,51,710,S,Renter,N/A,50.1-80% AMI,All
+"Norfolk city, Virginia",115.0,107.0,227.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,White
+"Norfolk city, Virginia",225.0,177.0,228.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,229.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,230.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,231.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Pacific Islander
+"Norfolk city, Virginia",20.0,39.0,232.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,233.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Other
+"Norfolk city, Virginia",60.0,70.0,234.0,05000US51710,51,710,S,Renter,N/A,80.1-95% AMI,All
+"Norfolk city, Virginia",25.0,43.0,235.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,White
+"Norfolk city, Virginia",35.0,56.0,236.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Black
+"Norfolk city, Virginia",0.0,161.0,237.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Asian
+"Norfolk city, Virginia",0.0,161.0,238.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,American Indian
+"Norfolk city, Virginia",0.0,161.0,239.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Pacific Islander
+"Norfolk city, Virginia",0.0,161.0,240.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Hispanic
+"Norfolk city, Virginia",0.0,161.0,241.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Other
+"Norfolk city, Virginia",260.0,140.0,242.0,05000US51710,51,710,S,Renter,N/A,95.1% AMI and above,All
+"Norfolk city, Virginia",195.0,120.0,243.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,White
+"Norfolk city, Virginia",50.0,62.0,244.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Black
+"Norfolk city, Virginia",0.0,161.0,245.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Asian
+"Norfolk city, Virginia",0.0,161.0,246.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,American Indian
+"Norfolk city, Virginia",0.0,161.0,247.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Pacific Islander
+"Norfolk city, Virginia",15.0,28.0,248.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Hispanic
+"Norfolk city, Virginia",0.0,161.0,249.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Other

@@ -1,0 +1,134 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Income,Cost_Burden,Substandard
+"Newport News city, Virginia",73275.0,721.0,1.0,05000US51700,51,700,T,All,All,All,All
+"Newport News city, Virginia",38530.0,1070.0,2.0,05000US51700,51,700,S,Owner,All,All,All
+"Newport News city, Virginia",2620.0,482.0,3.0,05000US51700,51,700,S,Owner,30% AMI or less,All,All
+"Newport News city, Virginia",325.0,146.0,4.0,05000US51700,51,700,S,Owner,30% AMI or less,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,5.0,05000US51700,51,700,D,Owner,30% AMI or less,No cost burden,substandard
+"Newport News city, Virginia",325.0,146.0,6.0,05000US51700,51,700,D,Owner,30% AMI or less,No cost burden,standard
+"Newport News city, Virginia",405.0,143.0,7.0,05000US51700,51,700,S,Owner,30% AMI or less,Moderate cost burden,All
+"Newport News city, Virginia",25.0,45.0,8.0,05000US51700,51,700,D,Owner,30% AMI or less,Moderate cost burden,substandard
+"Newport News city, Virginia",375.0,139.0,9.0,05000US51700,51,700,D,Owner,30% AMI or less,Moderate cost burden,standard
+"Newport News city, Virginia",1670.0,426.0,10.0,05000US51700,51,700,S,Owner,30% AMI or less,Severe cost burden,All
+"Newport News city, Virginia",10.0,19.0,11.0,05000US51700,51,700,D,Owner,30% AMI or less,Severe cost burden,substandard
+"Newport News city, Virginia",1660.0,425.0,12.0,05000US51700,51,700,D,Owner,30% AMI or less,Severe cost burden,standard
+"Newport News city, Virginia",225.0,114.0,13.0,05000US51700,51,700,S,Owner,30% AMI or less,N/A,All
+"Newport News city, Virginia",0.0,161.0,14.0,05000US51700,51,700,D,Owner,30% AMI or less,N/A,substandard
+"Newport News city, Virginia",225.0,114.0,15.0,05000US51700,51,700,D,Owner,30% AMI or less,N/A,standard
+"Newport News city, Virginia",2730.0,486.0,16.0,05000US51700,51,700,S,Owner,30.1-50% AMI,All,All
+"Newport News city, Virginia",910.0,330.0,17.0,05000US51700,51,700,S,Owner,30.1-50% AMI,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,18.0,05000US51700,51,700,D,Owner,30.1-50% AMI,No cost burden,substandard
+"Newport News city, Virginia",910.0,330.0,19.0,05000US51700,51,700,D,Owner,30.1-50% AMI,No cost burden,standard
+"Newport News city, Virginia",725.0,255.0,20.0,05000US51700,51,700,S,Owner,30.1-50% AMI,Moderate cost burden,All
+"Newport News city, Virginia",0.0,161.0,21.0,05000US51700,51,700,D,Owner,30.1-50% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",725.0,255.0,22.0,05000US51700,51,700,D,Owner,30.1-50% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",1095.0,312.0,23.0,05000US51700,51,700,S,Owner,30.1-50% AMI,Severe cost burden,All
+"Newport News city, Virginia",20.0,37.0,24.0,05000US51700,51,700,D,Owner,30.1-50% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",1075.0,310.0,25.0,05000US51700,51,700,D,Owner,30.1-50% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,26.0,05000US51700,51,700,S,Owner,30.1-50% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,27.0,05000US51700,51,700,D,Owner,30.1-50% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,28.0,05000US51700,51,700,D,Owner,30.1-50% AMI,N/A,standard
+"Newport News city, Virginia",5930.0,599.0,29.0,05000US51700,51,700,S,Owner,50.1-80% AMI,All,All
+"Newport News city, Virginia",3340.0,453.0,30.0,05000US51700,51,700,S,Owner,50.1-80% AMI,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,31.0,05000US51700,51,700,D,Owner,50.1-80% AMI,No cost burden,substandard
+"Newport News city, Virginia",3340.0,453.0,32.0,05000US51700,51,700,D,Owner,50.1-80% AMI,No cost burden,standard
+"Newport News city, Virginia",2005.0,352.0,33.0,05000US51700,51,700,S,Owner,50.1-80% AMI,Moderate cost burden,All
+"Newport News city, Virginia",40.0,66.0,34.0,05000US51700,51,700,D,Owner,50.1-80% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",1970.0,345.0,35.0,05000US51700,51,700,D,Owner,50.1-80% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",585.0,192.0,36.0,05000US51700,51,700,S,Owner,50.1-80% AMI,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,37.0,05000US51700,51,700,D,Owner,50.1-80% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",585.0,192.0,38.0,05000US51700,51,700,D,Owner,50.1-80% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,39.0,05000US51700,51,700,S,Owner,50.1-80% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,40.0,05000US51700,51,700,D,Owner,50.1-80% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,41.0,05000US51700,51,700,D,Owner,50.1-80% AMI,N/A,standard
+"Newport News city, Virginia",3180.0,529.0,42.0,05000US51700,51,700,S,Owner,80.1-95% AMI,All,All
+"Newport News city, Virginia",1945.0,363.0,43.0,05000US51700,51,700,S,Owner,80.1-95% AMI,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,44.0,05000US51700,51,700,D,Owner,80.1-95% AMI,No cost burden,substandard
+"Newport News city, Virginia",1945.0,363.0,45.0,05000US51700,51,700,D,Owner,80.1-95% AMI,No cost burden,standard
+"Newport News city, Virginia",1110.0,342.0,46.0,05000US51700,51,700,S,Owner,80.1-95% AMI,Moderate cost burden,All
+"Newport News city, Virginia",0.0,161.0,47.0,05000US51700,51,700,D,Owner,80.1-95% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",1110.0,342.0,48.0,05000US51700,51,700,D,Owner,80.1-95% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",125.0,106.0,49.0,05000US51700,51,700,S,Owner,80.1-95% AMI,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,50.0,05000US51700,51,700,D,Owner,80.1-95% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",125.0,106.0,51.0,05000US51700,51,700,D,Owner,80.1-95% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,52.0,05000US51700,51,700,S,Owner,80.1-95% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,53.0,05000US51700,51,700,D,Owner,80.1-95% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,54.0,05000US51700,51,700,D,Owner,80.1-95% AMI,N/A,standard
+"Newport News city, Virginia",24070.0,1134.0,55.0,05000US51700,51,700,S,Owner,95.1% AMI and above,All,All
+"Newport News city, Virginia",21595.0,1194.0,56.0,05000US51700,51,700,S,Owner,95.1% AMI and above,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,57.0,05000US51700,51,700,D,Owner,95.1% AMI and above,No cost burden,substandard
+"Newport News city, Virginia",21595.0,1194.0,58.0,05000US51700,51,700,D,Owner,95.1% AMI and above,No cost burden,standard
+"Newport News city, Virginia",2345.0,503.0,59.0,05000US51700,51,700,S,Owner,95.1% AMI and above,Moderate cost burden,All
+"Newport News city, Virginia",0.0,161.0,60.0,05000US51700,51,700,D,Owner,95.1% AMI and above,Moderate cost burden,substandard
+"Newport News city, Virginia",2345.0,503.0,61.0,05000US51700,51,700,D,Owner,95.1% AMI and above,Moderate cost burden,standard
+"Newport News city, Virginia",130.0,96.0,62.0,05000US51700,51,700,S,Owner,95.1% AMI and above,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,63.0,05000US51700,51,700,D,Owner,95.1% AMI and above,Severe cost burden,substandard
+"Newport News city, Virginia",130.0,96.0,64.0,05000US51700,51,700,D,Owner,95.1% AMI and above,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,65.0,05000US51700,51,700,S,Owner,95.1% AMI and above,N/A,All
+"Newport News city, Virginia",0.0,161.0,66.0,05000US51700,51,700,D,Owner,95.1% AMI and above,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,67.0,05000US51700,51,700,D,Owner,95.1% AMI and above,N/A,standard
+"Newport News city, Virginia",34745.0,1133.0,68.0,05000US51700,51,700,S,Renter,All,All,All
+"Newport News city, Virginia",7985.0,790.0,69.0,05000US51700,51,700,S,Renter,30% AMI or less,All,All
+"Newport News city, Virginia",1415.0,344.0,70.0,05000US51700,51,700,S,Renter,30% AMI or less,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,71.0,05000US51700,51,700,D,Renter,30% AMI or less,No cost burden,substandard
+"Newport News city, Virginia",1415.0,344.0,72.0,05000US51700,51,700,D,Renter,30% AMI or less,No cost burden,standard
+"Newport News city, Virginia",830.0,246.0,73.0,05000US51700,51,700,S,Renter,30% AMI or less,Moderate cost burden,All
+"Newport News city, Virginia",35.0,46.0,74.0,05000US51700,51,700,D,Renter,30% AMI or less,Moderate cost burden,substandard
+"Newport News city, Virginia",795.0,239.0,75.0,05000US51700,51,700,D,Renter,30% AMI or less,Moderate cost burden,standard
+"Newport News city, Virginia",5135.0,762.0,76.0,05000US51700,51,700,S,Renter,30% AMI or less,Severe cost burden,All
+"Newport News city, Virginia",75.0,94.0,77.0,05000US51700,51,700,D,Renter,30% AMI or less,Severe cost burden,substandard
+"Newport News city, Virginia",5060.0,760.0,78.0,05000US51700,51,700,D,Renter,30% AMI or less,Severe cost burden,standard
+"Newport News city, Virginia",605.0,232.0,79.0,05000US51700,51,700,S,Renter,30% AMI or less,N/A,All
+"Newport News city, Virginia",60.0,76.0,80.0,05000US51700,51,700,D,Renter,30% AMI or less,N/A,substandard
+"Newport News city, Virginia",545.0,212.0,81.0,05000US51700,51,700,D,Renter,30% AMI or less,N/A,standard
+"Newport News city, Virginia",6265.0,831.0,82.0,05000US51700,51,700,S,Renter,30.1-50% AMI,All,All
+"Newport News city, Virginia",1085.0,282.0,83.0,05000US51700,51,700,S,Renter,30.1-50% AMI,No cost burden,All
+"Newport News city, Virginia",0.0,161.0,84.0,05000US51700,51,700,D,Renter,30.1-50% AMI,No cost burden,substandard
+"Newport News city, Virginia",1085.0,282.0,85.0,05000US51700,51,700,D,Renter,30.1-50% AMI,No cost burden,standard
+"Newport News city, Virginia",3440.0,643.0,86.0,05000US51700,51,700,S,Renter,30.1-50% AMI,Moderate cost burden,All
+"Newport News city, Virginia",15.0,31.0,87.0,05000US51700,51,700,D,Renter,30.1-50% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",3425.0,634.0,88.0,05000US51700,51,700,D,Renter,30.1-50% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",1740.0,414.0,89.0,05000US51700,51,700,S,Renter,30.1-50% AMI,Severe cost burden,All
+"Newport News city, Virginia",20.0,36.0,90.0,05000US51700,51,700,D,Renter,30.1-50% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",1720.0,415.0,91.0,05000US51700,51,700,D,Renter,30.1-50% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,92.0,05000US51700,51,700,S,Renter,30.1-50% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,93.0,05000US51700,51,700,D,Renter,30.1-50% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,94.0,05000US51700,51,700,D,Renter,30.1-50% AMI,N/A,standard
+"Newport News city, Virginia",7810.0,820.0,95.0,05000US51700,51,700,S,Renter,50.1-80% AMI,All,All
+"Newport News city, Virginia",3975.0,758.0,96.0,05000US51700,51,700,S,Renter,50.1-80% AMI,No cost burden,All
+"Newport News city, Virginia",75.0,100.0,97.0,05000US51700,51,700,D,Renter,50.1-80% AMI,No cost burden,substandard
+"Newport News city, Virginia",3900.0,744.0,98.0,05000US51700,51,700,D,Renter,50.1-80% AMI,No cost burden,standard
+"Newport News city, Virginia",3590.0,633.0,99.0,05000US51700,51,700,S,Renter,50.1-80% AMI,Moderate cost burden,All
+"Newport News city, Virginia",15.0,26.0,100.0,05000US51700,51,700,D,Renter,50.1-80% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",3575.0,634.0,101.0,05000US51700,51,700,D,Renter,50.1-80% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",245.0,170.0,102.0,05000US51700,51,700,S,Renter,50.1-80% AMI,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,103.0,05000US51700,51,700,D,Renter,50.1-80% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",245.0,170.0,104.0,05000US51700,51,700,D,Renter,50.1-80% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,105.0,05000US51700,51,700,S,Renter,50.1-80% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,106.0,05000US51700,51,700,D,Renter,50.1-80% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,107.0,05000US51700,51,700,D,Renter,50.1-80% AMI,N/A,standard
+"Newport News city, Virginia",3450.0,631.0,108.0,05000US51700,51,700,S,Renter,80.1-95% AMI,All,All
+"Newport News city, Virginia",3045.0,581.0,109.0,05000US51700,51,700,S,Renter,80.1-95% AMI,No cost burden,All
+"Newport News city, Virginia",15.0,28.0,110.0,05000US51700,51,700,D,Renter,80.1-95% AMI,No cost burden,substandard
+"Newport News city, Virginia",3025.0,590.0,111.0,05000US51700,51,700,D,Renter,80.1-95% AMI,No cost burden,standard
+"Newport News city, Virginia",385.0,190.0,112.0,05000US51700,51,700,S,Renter,80.1-95% AMI,Moderate cost burden,All
+"Newport News city, Virginia",0.0,161.0,113.0,05000US51700,51,700,D,Renter,80.1-95% AMI,Moderate cost burden,substandard
+"Newport News city, Virginia",385.0,190.0,114.0,05000US51700,51,700,D,Renter,80.1-95% AMI,Moderate cost burden,standard
+"Newport News city, Virginia",25.0,44.0,115.0,05000US51700,51,700,S,Renter,80.1-95% AMI,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,116.0,05000US51700,51,700,D,Renter,80.1-95% AMI,Severe cost burden,substandard
+"Newport News city, Virginia",25.0,44.0,117.0,05000US51700,51,700,D,Renter,80.1-95% AMI,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,118.0,05000US51700,51,700,S,Renter,80.1-95% AMI,N/A,All
+"Newport News city, Virginia",0.0,161.0,119.0,05000US51700,51,700,D,Renter,80.1-95% AMI,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,120.0,05000US51700,51,700,D,Renter,80.1-95% AMI,N/A,standard
+"Newport News city, Virginia",9240.0,1104.0,121.0,05000US51700,51,700,S,Renter,95.1% AMI and above,All,All
+"Newport News city, Virginia",8925.0,1076.0,122.0,05000US51700,51,700,S,Renter,95.1% AMI and above,No cost burden,All
+"Newport News city, Virginia",150.0,146.0,123.0,05000US51700,51,700,D,Renter,95.1% AMI and above,No cost burden,substandard
+"Newport News city, Virginia",8770.0,1076.0,124.0,05000US51700,51,700,D,Renter,95.1% AMI and above,No cost burden,standard
+"Newport News city, Virginia",255.0,122.0,125.0,05000US51700,51,700,S,Renter,95.1% AMI and above,Moderate cost burden,All
+"Newport News city, Virginia",0.0,161.0,126.0,05000US51700,51,700,D,Renter,95.1% AMI and above,Moderate cost burden,substandard
+"Newport News city, Virginia",255.0,122.0,127.0,05000US51700,51,700,D,Renter,95.1% AMI and above,Moderate cost burden,standard
+"Newport News city, Virginia",60.0,59.0,128.0,05000US51700,51,700,S,Renter,95.1% AMI and above,Severe cost burden,All
+"Newport News city, Virginia",0.0,161.0,129.0,05000US51700,51,700,D,Renter,95.1% AMI and above,Severe cost burden,substandard
+"Newport News city, Virginia",60.0,59.0,130.0,05000US51700,51,700,D,Renter,95.1% AMI and above,Severe cost burden,standard
+"Newport News city, Virginia",0.0,161.0,131.0,05000US51700,51,700,S,Renter,95.1% AMI and above,N/A,All
+"Newport News city, Virginia",0.0,161.0,132.0,05000US51700,51,700,D,Renter,95.1% AMI and above,N/A,substandard
+"Newport News city, Virginia",0.0,161.0,133.0,05000US51700,51,700,D,Renter,95.1% AMI and above,N/A,standard

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Carroll County, Virginia",125.0,132.0,1.0,05000US51035,51,035,T,All,All,All
+"Carroll County, Virginia",0.0,161.0,2.0,05000US51035,51,035,S,Substandard,All,All
+"Carroll County, Virginia",125.0,132.0,3.0,05000US51035,51,035,S,Standard,All,All
+"Carroll County, Virginia",55.0,68.0,4.0,05000US51035,51,035,S,Standard,RHUD30,All
+"Carroll County, Virginia",0.0,161.0,5.0,05000US51035,51,035,D,Standard,RHUD30,0 or 1
+"Carroll County, Virginia",55.0,68.0,6.0,05000US51035,51,035,D,Standard,RHUD30,2
+"Carroll County, Virginia",0.0,161.0,7.0,05000US51035,51,035,D,Standard,RHUD30,3 or more
+"Carroll County, Virginia",75.0,115.0,8.0,05000US51035,51,035,S,Standard,RHUD50,All
+"Carroll County, Virginia",0.0,161.0,9.0,05000US51035,51,035,D,Standard,RHUD50,0 or 1
+"Carroll County, Virginia",75.0,115.0,10.0,05000US51035,51,035,D,Standard,RHUD50,2
+"Carroll County, Virginia",0.0,161.0,11.0,05000US51035,51,035,D,Standard,RHUD50,3 or more
+"Carroll County, Virginia",0.0,161.0,12.0,05000US51035,51,035,S,Standard,RHUD80,All
+"Carroll County, Virginia",0.0,161.0,13.0,05000US51035,51,035,D,Standard,RHUD80,0 or 1
+"Carroll County, Virginia",0.0,161.0,14.0,05000US51035,51,035,D,Standard,RHUD80,2
+"Carroll County, Virginia",0.0,161.0,15.0,05000US51035,51,035,D,Standard,RHUD80,3 or more
+"Carroll County, Virginia",0.0,161.0,16.0,05000US51035,51,035,S,Standard,Greater than RHUD80,All
+"Carroll County, Virginia",0.0,161.0,17.0,05000US51035,51,035,D,Standard,Greater than RHUD80,0 or 1
+"Carroll County, Virginia",0.0,161.0,18.0,05000US51035,51,035,D,Standard,Greater than RHUD80,2
+"Carroll County, Virginia",0.0,161.0,19.0,05000US51035,51,035,D,Standard,Greater than RHUD80,3 or more

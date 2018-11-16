@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Fairfax County, Virginia",365095.0,2044.0,1.0,05000US51059,51,059,T,All,All,All,All
+"Fairfax County, Virginia",272625.0,2648.0,2.0,05000US51059,51,059,S,Owner,All,All,All
+"Fairfax County, Virginia",80235.0,1941.0,3.0,05000US51059,51,059,S,Owner,Yes,All,All
+"Fairfax County, Virginia",7660.0,780.0,4.0,05000US51059,51,059,S,Owner,Yes,30% AMI or less,All
+"Fairfax County, Virginia",1020.0,273.0,5.0,05000US51059,51,059,D,Owner,Yes,30% AMI or less,Disabled
+"Fairfax County, Virginia",6635.0,735.0,6.0,05000US51059,51,059,D,Owner,Yes,30% AMI or less,Not disabled
+"Fairfax County, Virginia",11385.0,992.0,7.0,05000US51059,51,059,S,Owner,Yes,30.1-50% AMI,All
+"Fairfax County, Virginia",1240.0,297.0,8.0,05000US51059,51,059,D,Owner,Yes,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",10145.0,940.0,9.0,05000US51059,51,059,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",19780.0,1272.0,10.0,05000US51059,51,059,S,Owner,Yes,50.1-80% AMI,All
+"Fairfax County, Virginia",1200.0,271.0,11.0,05000US51059,51,059,D,Owner,Yes,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",18580.0,1281.0,12.0,05000US51059,51,059,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",41415.0,1705.0,13.0,05000US51059,51,059,S,Owner,Yes,80.1% AMI and above,All
+"Fairfax County, Virginia",2240.0,442.0,14.0,05000US51059,51,059,D,Owner,Yes,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",39175.0,1645.0,15.0,05000US51059,51,059,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Fairfax County, Virginia",191245.0,2584.0,16.0,05000US51059,51,059,S,Owner,No,All,All
+"Fairfax County, Virginia",570.0,199.0,17.0,05000US51059,51,059,S,Owner,No,30% AMI or less,All
+"Fairfax County, Virginia",95.0,60.0,18.0,05000US51059,51,059,D,Owner,No,30% AMI or less,Disabled
+"Fairfax County, Virginia",475.0,197.0,19.0,05000US51059,51,059,D,Owner,No,30% AMI or less,Not disabled
+"Fairfax County, Virginia",3230.0,476.0,20.0,05000US51059,51,059,S,Owner,No,30.1-50% AMI,All
+"Fairfax County, Virginia",370.0,141.0,21.0,05000US51059,51,059,D,Owner,No,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",2860.0,461.0,22.0,05000US51059,51,059,D,Owner,No,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",11565.0,991.0,23.0,05000US51059,51,059,S,Owner,No,50.1-80% AMI,All
+"Fairfax County, Virginia",1600.0,265.0,24.0,05000US51059,51,059,D,Owner,No,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",9965.0,944.0,25.0,05000US51059,51,059,D,Owner,No,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",175875.0,2508.0,26.0,05000US51059,51,059,S,Owner,No,80.1% AMI and above,All
+"Fairfax County, Virginia",8045.0,713.0,27.0,05000US51059,51,059,D,Owner,No,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",167830.0,2509.0,28.0,05000US51059,51,059,D,Owner,No,80.1% AMI and above,Not disabled
+"Fairfax County, Virginia",1145.0,382.0,29.0,05000US51059,51,059,S,Owner,N/A,All,All
+"Fairfax County, Virginia",1145.0,382.0,30.0,05000US51059,51,059,S,Owner,N/A,30% AMI or less,All
+"Fairfax County, Virginia",20.0,40.0,31.0,05000US51059,51,059,D,Owner,N/A,30% AMI or less,Disabled
+"Fairfax County, Virginia",1125.0,386.0,32.0,05000US51059,51,059,D,Owner,N/A,30% AMI or less,Not disabled
+"Fairfax County, Virginia",0.0,161.0,33.0,05000US51059,51,059,S,Owner,N/A,30.1-50% AMI,All
+"Fairfax County, Virginia",0.0,161.0,34.0,05000US51059,51,059,D,Owner,N/A,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",0.0,161.0,35.0,05000US51059,51,059,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",0.0,161.0,36.0,05000US51059,51,059,S,Owner,N/A,50.1-80% AMI,All
+"Fairfax County, Virginia",0.0,161.0,37.0,05000US51059,51,059,D,Owner,N/A,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",0.0,161.0,38.0,05000US51059,51,059,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",0.0,161.0,39.0,05000US51059,51,059,S,Owner,N/A,80.1% AMI and above,All
+"Fairfax County, Virginia",0.0,161.0,40.0,05000US51059,51,059,D,Owner,N/A,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",0.0,161.0,41.0,05000US51059,51,059,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Fairfax County, Virginia",92470.0,2867.0,42.0,05000US51059,51,059,S,Renter,All,All,All
+"Fairfax County, Virginia",40130.0,2126.0,43.0,05000US51059,51,059,S,Renter,Yes,All,All
+"Fairfax County, Virginia",12680.0,1151.0,44.0,05000US51059,51,059,S,Renter,Yes,30% AMI or less,All
+"Fairfax County, Virginia",1600.0,357.0,45.0,05000US51059,51,059,D,Renter,Yes,30% AMI or less,Disabled
+"Fairfax County, Virginia",11075.0,1168.0,46.0,05000US51059,51,059,D,Renter,Yes,30% AMI or less,Not disabled
+"Fairfax County, Virginia",10310.0,1095.0,47.0,05000US51059,51,059,S,Renter,Yes,30.1-50% AMI,All
+"Fairfax County, Virginia",695.0,245.0,48.0,05000US51059,51,059,D,Renter,Yes,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",9615.0,1075.0,49.0,05000US51059,51,059,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",12360.0,1314.0,50.0,05000US51059,51,059,S,Renter,Yes,50.1-80% AMI,All
+"Fairfax County, Virginia",600.0,284.0,51.0,05000US51059,51,059,D,Renter,Yes,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",11760.0,1206.0,52.0,05000US51059,51,059,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",4785.0,582.0,53.0,05000US51059,51,059,S,Renter,Yes,80.1% AMI and above,All
+"Fairfax County, Virginia",275.0,110.0,54.0,05000US51059,51,059,D,Renter,Yes,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",4505.0,579.0,55.0,05000US51059,51,059,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Fairfax County, Virginia",48420.0,2143.0,56.0,05000US51059,51,059,S,Renter,No,All,All
+"Fairfax County, Virginia",2160.0,452.0,57.0,05000US51059,51,059,S,Renter,No,30% AMI or less,All
+"Fairfax County, Virginia",575.0,227.0,58.0,05000US51059,51,059,D,Renter,No,30% AMI or less,Disabled
+"Fairfax County, Virginia",1585.0,384.0,59.0,05000US51059,51,059,D,Renter,No,30% AMI or less,Not disabled
+"Fairfax County, Virginia",1100.0,269.0,60.0,05000US51059,51,059,S,Renter,No,30.1-50% AMI,All
+"Fairfax County, Virginia",170.0,109.0,61.0,05000US51059,51,059,D,Renter,No,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",930.0,243.0,62.0,05000US51059,51,059,D,Renter,No,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",8640.0,1068.0,63.0,05000US51059,51,059,S,Renter,No,50.1-80% AMI,All
+"Fairfax County, Virginia",300.0,160.0,64.0,05000US51059,51,059,D,Renter,No,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",8340.0,1063.0,65.0,05000US51059,51,059,D,Renter,No,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",36525.0,1850.0,66.0,05000US51059,51,059,S,Renter,No,80.1% AMI and above,All
+"Fairfax County, Virginia",1110.0,321.0,67.0,05000US51059,51,059,D,Renter,No,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",35415.0,1844.0,68.0,05000US51059,51,059,D,Renter,No,80.1% AMI and above,Not disabled
+"Fairfax County, Virginia",3915.0,512.0,69.0,05000US51059,51,059,S,Renter,N/A,All,All
+"Fairfax County, Virginia",1835.0,374.0,70.0,05000US51059,51,059,S,Renter,N/A,30% AMI or less,All
+"Fairfax County, Virginia",255.0,143.0,71.0,05000US51059,51,059,D,Renter,N/A,30% AMI or less,Disabled
+"Fairfax County, Virginia",1585.0,344.0,72.0,05000US51059,51,059,D,Renter,N/A,30% AMI or less,Not disabled
+"Fairfax County, Virginia",340.0,150.0,73.0,05000US51059,51,059,S,Renter,N/A,30.1-50% AMI,All
+"Fairfax County, Virginia",40.0,48.0,74.0,05000US51059,51,059,D,Renter,N/A,30.1-50% AMI,Disabled
+"Fairfax County, Virginia",295.0,142.0,75.0,05000US51059,51,059,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Fairfax County, Virginia",600.0,233.0,76.0,05000US51059,51,059,S,Renter,N/A,50.1-80% AMI,All
+"Fairfax County, Virginia",40.0,47.0,77.0,05000US51059,51,059,D,Renter,N/A,50.1-80% AMI,Disabled
+"Fairfax County, Virginia",560.0,221.0,78.0,05000US51059,51,059,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Fairfax County, Virginia",1140.0,296.0,79.0,05000US51059,51,059,S,Renter,N/A,80.1% AMI and above,All
+"Fairfax County, Virginia",150.0,93.0,80.0,05000US51059,51,059,D,Renter,N/A,80.1% AMI and above,Disabled
+"Fairfax County, Virginia",995.0,285.0,81.0,05000US51059,51,059,D,Renter,N/A,80.1% AMI and above,Not disabled

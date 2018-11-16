@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Richmond city, Virginia",81610.0,1156.0,1.0,05000US51760,51,760,T,All,All,All,All
+"Richmond city, Virginia",38915.0,1326.0,2.0,05000US51760,51,760,S,Owner,All,All,All
+"Richmond city, Virginia",935.0,254.0,3.0,05000US51760,51,760,S,Owner,2000+,All,All
+"Richmond city, Virginia",125.0,91.0,4.0,05000US51760,51,760,S,Owner,2000+,<=50% AMI,All
+"Richmond city, Virginia",0.0,161.0,5.0,05000US51760,51,760,D,Owner,2000+,<=50% AMI,No cost burden
+"Richmond city, Virginia",25.0,42.0,6.0,05000US51760,51,760,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",105.0,82.0,7.0,05000US51760,51,760,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,8.0,05000US51760,51,760,D,Owner,2000+,<=50% AMI,N/A
+"Richmond city, Virginia",150.0,101.0,9.0,05000US51760,51,760,S,Owner,2000+,50.1-80% AMI,All
+"Richmond city, Virginia",55.0,83.0,10.0,05000US51760,51,760,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",90.0,74.0,11.0,05000US51760,51,760,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,12.0,05000US51760,51,760,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,13.0,05000US51760,51,760,D,Owner,2000+,50.1-80% AMI,N/A
+"Richmond city, Virginia",210.0,127.0,14.0,05000US51760,51,760,S,Owner,2000+,80.1-120% AMI,All
+"Richmond city, Virginia",155.0,119.0,15.0,05000US51760,51,760,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",45.0,52.0,16.0,05000US51760,51,760,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",10.0,18.0,17.0,05000US51760,51,760,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,18.0,05000US51760,51,760,D,Owner,2000+,80.1-120% AMI,N/A
+"Richmond city, Virginia",450.0,201.0,19.0,05000US51760,51,760,S,Owner,2000+,>120% AMI,All
+"Richmond city, Virginia",430.0,197.0,20.0,05000US51760,51,760,D,Owner,2000+,>120% AMI,No cost burden
+"Richmond city, Virginia",20.0,35.0,21.0,05000US51760,51,760,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,22.0,05000US51760,51,760,D,Owner,2000+,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,23.0,05000US51760,51,760,D,Owner,2000+,>120% AMI,N/A
+"Richmond city, Virginia",3295.0,470.0,24.0,05000US51760,51,760,S,Owner,1980 to 1999,All,All
+"Richmond city, Virginia",525.0,223.0,25.0,05000US51760,51,760,S,Owner,1980 to 1999,<=50% AMI,All
+"Richmond city, Virginia",225.0,114.0,26.0,05000US51760,51,760,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Richmond city, Virginia",15.0,25.0,27.0,05000US51760,51,760,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",285.0,184.0,28.0,05000US51760,51,760,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,29.0,05000US51760,51,760,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Richmond city, Virginia",430.0,188.0,30.0,05000US51760,51,760,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Richmond city, Virginia",210.0,119.0,31.0,05000US51760,51,760,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",165.0,105.0,32.0,05000US51760,51,760,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",55.0,54.0,33.0,05000US51760,51,760,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,34.0,05000US51760,51,760,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Richmond city, Virginia",775.0,241.0,35.0,05000US51760,51,760,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Richmond city, Virginia",540.0,202.0,36.0,05000US51760,51,760,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",215.0,105.0,37.0,05000US51760,51,760,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",20.0,37.0,38.0,05000US51760,51,760,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,39.0,05000US51760,51,760,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Richmond city, Virginia",1570.0,357.0,40.0,05000US51760,51,760,S,Owner,1980 to 1999,>120% AMI,All
+"Richmond city, Virginia",1485.0,343.0,41.0,05000US51760,51,760,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Richmond city, Virginia",85.0,74.0,42.0,05000US51760,51,760,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,43.0,05000US51760,51,760,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,44.0,05000US51760,51,760,D,Owner,1980 to 1999,>120% AMI,N/A
+"Richmond city, Virginia",6925.0,649.0,45.0,05000US51760,51,760,S,Owner,1960 to 1979,All,All
+"Richmond city, Virginia",1690.0,376.0,46.0,05000US51760,51,760,S,Owner,1960 to 1979,<=50% AMI,All
+"Richmond city, Virginia",450.0,179.0,47.0,05000US51760,51,760,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Richmond city, Virginia",415.0,225.0,48.0,05000US51760,51,760,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",780.0,276.0,49.0,05000US51760,51,760,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",45.0,37.0,50.0,05000US51760,51,760,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Richmond city, Virginia",1340.0,351.0,51.0,05000US51760,51,760,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Richmond city, Virginia",800.0,281.0,52.0,05000US51760,51,760,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",450.0,172.0,53.0,05000US51760,51,760,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",90.0,60.0,54.0,05000US51760,51,760,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,55.0,05000US51760,51,760,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Richmond city, Virginia",1745.0,361.0,56.0,05000US51760,51,760,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Richmond city, Virginia",1420.0,327.0,57.0,05000US51760,51,760,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",310.0,159.0,58.0,05000US51760,51,760,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",15.0,27.0,59.0,05000US51760,51,760,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,60.0,05000US51760,51,760,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Richmond city, Virginia",2150.0,345.0,61.0,05000US51760,51,760,S,Owner,1960 to 1979,>120% AMI,All
+"Richmond city, Virginia",2065.0,322.0,62.0,05000US51760,51,760,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Richmond city, Virginia",85.0,71.0,63.0,05000US51760,51,760,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,64.0,05000US51760,51,760,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,65.0,05000US51760,51,760,D,Owner,1960 to 1979,>120% AMI,N/A
+"Richmond city, Virginia",13805.0,1030.0,66.0,05000US51760,51,760,S,Owner,1940 to 1959,All,All
+"Richmond city, Virginia",2830.0,455.0,67.0,05000US51760,51,760,S,Owner,1940 to 1959,<=50% AMI,All
+"Richmond city, Virginia",605.0,188.0,68.0,05000US51760,51,760,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Richmond city, Virginia",550.0,140.0,69.0,05000US51760,51,760,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",1590.0,407.0,70.0,05000US51760,51,760,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",90.0,73.0,71.0,05000US51760,51,760,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Richmond city, Virginia",2665.0,392.0,72.0,05000US51760,51,760,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Richmond city, Virginia",1515.0,343.0,73.0,05000US51760,51,760,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",810.0,249.0,74.0,05000US51760,51,760,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",345.0,143.0,75.0,05000US51760,51,760,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,76.0,05000US51760,51,760,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Richmond city, Virginia",3400.0,500.0,77.0,05000US51760,51,760,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Richmond city, Virginia",2450.0,395.0,78.0,05000US51760,51,760,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",830.0,280.0,79.0,05000US51760,51,760,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",125.0,98.0,80.0,05000US51760,51,760,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,81.0,05000US51760,51,760,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Richmond city, Virginia",4905.0,559.0,82.0,05000US51760,51,760,S,Owner,1940 to 1959,>120% AMI,All
+"Richmond city, Virginia",4570.0,574.0,83.0,05000US51760,51,760,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Richmond city, Virginia",275.0,103.0,84.0,05000US51760,51,760,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",65.0,61.0,85.0,05000US51760,51,760,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,86.0,05000US51760,51,760,D,Owner,1940 to 1959,>120% AMI,N/A
+"Richmond city, Virginia",13960.0,845.0,87.0,05000US51760,51,760,S,Owner,1939-,All,All
+"Richmond city, Virginia",2285.0,476.0,88.0,05000US51760,51,760,S,Owner,1939-,<=50% AMI,All
+"Richmond city, Virginia",275.0,133.0,89.0,05000US51760,51,760,D,Owner,1939-,<=50% AMI,No cost burden
+"Richmond city, Virginia",530.0,176.0,90.0,05000US51760,51,760,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",1480.0,418.0,91.0,05000US51760,51,760,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,92.0,05000US51760,51,760,D,Owner,1939-,<=50% AMI,N/A
+"Richmond city, Virginia",2025.0,395.0,93.0,05000US51760,51,760,S,Owner,1939-,50.1-80% AMI,All
+"Richmond city, Virginia",930.0,247.0,94.0,05000US51760,51,760,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",790.0,256.0,95.0,05000US51760,51,760,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",310.0,158.0,96.0,05000US51760,51,760,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,97.0,05000US51760,51,760,D,Owner,1939-,50.1-80% AMI,N/A
+"Richmond city, Virginia",2260.0,368.0,98.0,05000US51760,51,760,S,Owner,1939-,80.1-120% AMI,All
+"Richmond city, Virginia",1380.0,292.0,99.0,05000US51760,51,760,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",590.0,177.0,100.0,05000US51760,51,760,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",290.0,148.0,101.0,05000US51760,51,760,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,102.0,05000US51760,51,760,D,Owner,1939-,80.1-120% AMI,N/A
+"Richmond city, Virginia",7385.0,568.0,103.0,05000US51760,51,760,S,Owner,1939-,>120% AMI,All
+"Richmond city, Virginia",6515.0,583.0,104.0,05000US51760,51,760,D,Owner,1939-,>120% AMI,No cost burden
+"Richmond city, Virginia",725.0,209.0,105.0,05000US51760,51,760,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",145.0,119.0,106.0,05000US51760,51,760,D,Owner,1939-,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,107.0,05000US51760,51,760,D,Owner,1939-,>120% AMI,N/A
+"Richmond city, Virginia",42695.0,1426.0,108.0,05000US51760,51,760,S,Renter,All,All,All
+"Richmond city, Virginia",1270.0,323.0,109.0,05000US51760,51,760,S,Renter,2000+,All,All
+"Richmond city, Virginia",860.0,273.0,110.0,05000US51760,51,760,S,Renter,2000+,<=50% AMI,All
+"Richmond city, Virginia",160.0,121.0,111.0,05000US51760,51,760,D,Renter,2000+,<=50% AMI,No cost burden
+"Richmond city, Virginia",220.0,135.0,112.0,05000US51760,51,760,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",415.0,184.0,113.0,05000US51760,51,760,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",60.0,54.0,114.0,05000US51760,51,760,D,Renter,2000+,<=50% AMI,N/A
+"Richmond city, Virginia",150.0,72.0,115.0,05000US51760,51,760,S,Renter,2000+,50.1-80% AMI,All
+"Richmond city, Virginia",95.0,61.0,116.0,05000US51760,51,760,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",50.0,40.0,117.0,05000US51760,51,760,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,118.0,05000US51760,51,760,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,119.0,05000US51760,51,760,D,Renter,2000+,50.1-80% AMI,N/A
+"Richmond city, Virginia",215.0,141.0,120.0,05000US51760,51,760,S,Renter,2000+,80.1-120% AMI,All
+"Richmond city, Virginia",190.0,134.0,121.0,05000US51760,51,760,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",25.0,41.0,122.0,05000US51760,51,760,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,123.0,05000US51760,51,760,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,124.0,05000US51760,51,760,D,Renter,2000+,80.1-120% AMI,N/A
+"Richmond city, Virginia",50.0,47.0,125.0,05000US51760,51,760,S,Renter,2000+,>120% AMI,All
+"Richmond city, Virginia",50.0,47.0,126.0,05000US51760,51,760,D,Renter,2000+,>120% AMI,No cost burden
+"Richmond city, Virginia",0.0,161.0,127.0,05000US51760,51,760,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,128.0,05000US51760,51,760,D,Renter,2000+,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,129.0,05000US51760,51,760,D,Renter,2000+,>120% AMI,N/A
+"Richmond city, Virginia",6185.0,743.0,130.0,05000US51760,51,760,S,Renter,1980 to 1999,All,All
+"Richmond city, Virginia",3125.0,486.0,131.0,05000US51760,51,760,S,Renter,1980 to 1999,<=50% AMI,All
+"Richmond city, Virginia",860.0,311.0,132.0,05000US51760,51,760,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Richmond city, Virginia",860.0,286.0,133.0,05000US51760,51,760,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",1275.0,337.0,134.0,05000US51760,51,760,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",130.0,77.0,135.0,05000US51760,51,760,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Richmond city, Virginia",1485.0,503.0,136.0,05000US51760,51,760,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Richmond city, Virginia",915.0,409.0,137.0,05000US51760,51,760,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",575.0,266.0,138.0,05000US51760,51,760,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,139.0,05000US51760,51,760,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,140.0,05000US51760,51,760,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Richmond city, Virginia",1015.0,393.0,141.0,05000US51760,51,760,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Richmond city, Virginia",975.0,391.0,142.0,05000US51760,51,760,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",25.0,46.0,143.0,05000US51760,51,760,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,144.0,05000US51760,51,760,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",15.0,23.0,145.0,05000US51760,51,760,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Richmond city, Virginia",560.0,269.0,146.0,05000US51760,51,760,S,Renter,1980 to 1999,>120% AMI,All
+"Richmond city, Virginia",530.0,266.0,147.0,05000US51760,51,760,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Richmond city, Virginia",25.0,48.0,148.0,05000US51760,51,760,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,149.0,05000US51760,51,760,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,150.0,05000US51760,51,760,D,Renter,1980 to 1999,>120% AMI,N/A
+"Richmond city, Virginia",14990.0,1095.0,151.0,05000US51760,51,760,S,Renter,1960 to 1979,All,All
+"Richmond city, Virginia",8400.0,878.0,152.0,05000US51760,51,760,S,Renter,1960 to 1979,<=50% AMI,All
+"Richmond city, Virginia",1935.0,457.0,153.0,05000US51760,51,760,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Richmond city, Virginia",2460.0,573.0,154.0,05000US51760,51,760,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",3485.0,645.0,155.0,05000US51760,51,760,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",515.0,157.0,156.0,05000US51760,51,760,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Richmond city, Virginia",3390.0,657.0,157.0,05000US51760,51,760,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Richmond city, Virginia",2120.0,431.0,158.0,05000US51760,51,760,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",1190.0,497.0,159.0,05000US51760,51,760,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",80.0,76.0,160.0,05000US51760,51,760,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,161.0,05000US51760,51,760,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Richmond city, Virginia",2510.0,577.0,162.0,05000US51760,51,760,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Richmond city, Virginia",2390.0,590.0,163.0,05000US51760,51,760,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",65.0,77.0,164.0,05000US51760,51,760,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",25.0,48.0,165.0,05000US51760,51,760,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",25.0,36.0,166.0,05000US51760,51,760,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Richmond city, Virginia",690.0,264.0,167.0,05000US51760,51,760,S,Renter,1960 to 1979,>120% AMI,All
+"Richmond city, Virginia",665.0,256.0,168.0,05000US51760,51,760,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Richmond city, Virginia",0.0,161.0,169.0,05000US51760,51,760,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",25.0,40.0,170.0,05000US51760,51,760,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Richmond city, Virginia",0.0,161.0,171.0,05000US51760,51,760,D,Renter,1960 to 1979,>120% AMI,N/A
+"Richmond city, Virginia",9825.0,857.0,172.0,05000US51760,51,760,S,Renter,1940 to 1959,All,All
+"Richmond city, Virginia",5185.0,623.0,173.0,05000US51760,51,760,S,Renter,1940 to 1959,<=50% AMI,All
+"Richmond city, Virginia",1480.0,345.0,174.0,05000US51760,51,760,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Richmond city, Virginia",1095.0,269.0,175.0,05000US51760,51,760,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",2070.0,434.0,176.0,05000US51760,51,760,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",535.0,213.0,177.0,05000US51760,51,760,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Richmond city, Virginia",2510.0,519.0,178.0,05000US51760,51,760,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Richmond city, Virginia",1465.0,467.0,179.0,05000US51760,51,760,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",970.0,389.0,180.0,05000US51760,51,760,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,181.0,05000US51760,51,760,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",75.0,95.0,182.0,05000US51760,51,760,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Richmond city, Virginia",1440.0,391.0,183.0,05000US51760,51,760,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Richmond city, Virginia",1315.0,404.0,184.0,05000US51760,51,760,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",95.0,79.0,185.0,05000US51760,51,760,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,186.0,05000US51760,51,760,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",30.0,34.0,187.0,05000US51760,51,760,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Richmond city, Virginia",690.0,193.0,188.0,05000US51760,51,760,S,Renter,1940 to 1959,>120% AMI,All
+"Richmond city, Virginia",605.0,174.0,189.0,05000US51760,51,760,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Richmond city, Virginia",45.0,59.0,190.0,05000US51760,51,760,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,191.0,05000US51760,51,760,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Richmond city, Virginia",35.0,42.0,192.0,05000US51760,51,760,D,Renter,1940 to 1959,>120% AMI,N/A
+"Richmond city, Virginia",10420.0,921.0,193.0,05000US51760,51,760,S,Renter,1939-,All,All
+"Richmond city, Virginia",5145.0,773.0,194.0,05000US51760,51,760,S,Renter,1939-,<=50% AMI,All
+"Richmond city, Virginia",730.0,297.0,195.0,05000US51760,51,760,D,Renter,1939-,<=50% AMI,No cost burden
+"Richmond city, Virginia",1400.0,426.0,196.0,05000US51760,51,760,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Richmond city, Virginia",2590.0,602.0,197.0,05000US51760,51,760,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Richmond city, Virginia",425.0,179.0,198.0,05000US51760,51,760,D,Renter,1939-,<=50% AMI,N/A
+"Richmond city, Virginia",2270.0,410.0,199.0,05000US51760,51,760,S,Renter,1939-,50.1-80% AMI,All
+"Richmond city, Virginia",1295.0,288.0,200.0,05000US51760,51,760,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Richmond city, Virginia",825.0,280.0,201.0,05000US51760,51,760,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Richmond city, Virginia",85.0,83.0,202.0,05000US51760,51,760,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Richmond city, Virginia",65.0,64.0,203.0,05000US51760,51,760,D,Renter,1939-,50.1-80% AMI,N/A
+"Richmond city, Virginia",1850.0,364.0,204.0,05000US51760,51,760,S,Renter,1939-,80.1-120% AMI,All
+"Richmond city, Virginia",1450.0,338.0,205.0,05000US51760,51,760,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Richmond city, Virginia",270.0,211.0,206.0,05000US51760,51,760,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,207.0,05000US51760,51,760,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Richmond city, Virginia",130.0,85.0,208.0,05000US51760,51,760,D,Renter,1939-,80.1-120% AMI,N/A
+"Richmond city, Virginia",1160.0,260.0,209.0,05000US51760,51,760,S,Renter,1939-,>120% AMI,All
+"Richmond city, Virginia",1020.0,231.0,210.0,05000US51760,51,760,D,Renter,1939-,>120% AMI,No cost burden
+"Richmond city, Virginia",75.0,73.0,211.0,05000US51760,51,760,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Richmond city, Virginia",0.0,161.0,212.0,05000US51760,51,760,D,Renter,1939-,>120% AMI,Severe cost burden
+"Richmond city, Virginia",65.0,59.0,213.0,05000US51760,51,760,D,Renter,1939-,>120% AMI,N/A

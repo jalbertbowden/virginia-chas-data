@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Petersburg city, Virginia",12445.0,526.0,1.0,05000US51730,51,730,T,All,All,All
+"Petersburg city, Virginia",6355.0,473.0,2.0,05000US51730,51,730,S,Owner,All,All
+"Petersburg city, Virginia",50.0,50.0,3.0,05000US51730,51,730,S,Owner,2000+,All
+"Petersburg city, Virginia",0.0,161.0,4.0,05000US51730,51,730,D,Owner,2000+,Yes
+"Petersburg city, Virginia",50.0,50.0,5.0,05000US51730,51,730,D,Owner,2000+,No
+"Petersburg city, Virginia",475.0,158.0,6.0,05000US51730,51,730,S,Owner,1980 to 1999,All
+"Petersburg city, Virginia",30.0,34.0,7.0,05000US51730,51,730,D,Owner,1980 to 1999,Yes
+"Petersburg city, Virginia",445.0,157.0,8.0,05000US51730,51,730,D,Owner,1980 to 1999,No
+"Petersburg city, Virginia",2785.0,380.0,9.0,05000US51730,51,730,S,Owner,1960 to 1979,All
+"Petersburg city, Virginia",315.0,174.0,10.0,05000US51730,51,730,D,Owner,1960 to 1979,Yes
+"Petersburg city, Virginia",2470.0,325.0,11.0,05000US51730,51,730,D,Owner,1960 to 1979,No
+"Petersburg city, Virginia",1780.0,326.0,12.0,05000US51730,51,730,S,Owner,1940 to 1959,All
+"Petersburg city, Virginia",130.0,69.0,13.0,05000US51730,51,730,D,Owner,1940 to 1959,Yes
+"Petersburg city, Virginia",1650.0,317.0,14.0,05000US51730,51,730,D,Owner,1940 to 1959,No
+"Petersburg city, Virginia",1265.0,300.0,15.0,05000US51730,51,730,S,Owner,1939-,All
+"Petersburg city, Virginia",85.0,88.0,16.0,05000US51730,51,730,D,Owner,1939-,Yes
+"Petersburg city, Virginia",1180.0,280.0,17.0,05000US51730,51,730,D,Owner,1939-,No
+"Petersburg city, Virginia",6095.0,610.0,18.0,05000US51730,51,730,S,Renter,All,All
+"Petersburg city, Virginia",140.0,147.0,19.0,05000US51730,51,730,S,Renter,2000+,All
+"Petersburg city, Virginia",70.0,117.0,20.0,05000US51730,51,730,D,Renter,2000+,Yes
+"Petersburg city, Virginia",70.0,88.0,21.0,05000US51730,51,730,D,Renter,2000+,No
+"Petersburg city, Virginia",865.0,237.0,22.0,05000US51730,51,730,S,Renter,1980 to 1999,All
+"Petersburg city, Virginia",170.0,108.0,23.0,05000US51730,51,730,D,Renter,1980 to 1999,Yes
+"Petersburg city, Virginia",695.0,206.0,24.0,05000US51730,51,730,D,Renter,1980 to 1999,No
+"Petersburg city, Virginia",2605.0,422.0,25.0,05000US51730,51,730,S,Renter,1960 to 1979,All
+"Petersburg city, Virginia",435.0,164.0,26.0,05000US51730,51,730,D,Renter,1960 to 1979,Yes
+"Petersburg city, Virginia",2170.0,415.0,27.0,05000US51730,51,730,D,Renter,1960 to 1979,No
+"Petersburg city, Virginia",1175.0,331.0,28.0,05000US51730,51,730,S,Renter,1940 to 1959,All
+"Petersburg city, Virginia",175.0,144.0,29.0,05000US51730,51,730,D,Renter,1940 to 1959,Yes
+"Petersburg city, Virginia",1000.0,298.0,30.0,05000US51730,51,730,D,Renter,1940 to 1959,No
+"Petersburg city, Virginia",1305.0,307.0,31.0,05000US51730,51,730,S,Renter,1939-,All
+"Petersburg city, Virginia",185.0,114.0,32.0,05000US51730,51,730,D,Renter,1939-,Yes
+"Petersburg city, Virginia",1125.0,293.0,33.0,05000US51730,51,730,D,Renter,1939-,No

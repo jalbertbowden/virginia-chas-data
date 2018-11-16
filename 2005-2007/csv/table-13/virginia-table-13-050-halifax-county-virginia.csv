@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Halifax County, Virginia",14465.0,534.0,1.0,05000US51083,51,083,T,All,All,All
+"Halifax County, Virginia",11060.0,580.0,2.0,05000US51083,51,083,S,Owner,All,All
+"Halifax County, Virginia",710.0,248.0,3.0,05000US51083,51,083,S,Owner,2000+,All
+"Halifax County, Virginia",110.0,103.0,4.0,05000US51083,51,083,D,Owner,2000+,Yes
+"Halifax County, Virginia",600.0,234.0,5.0,05000US51083,51,083,D,Owner,2000+,No
+"Halifax County, Virginia",3920.0,608.0,6.0,05000US51083,51,083,S,Owner,1980 to 1999,All
+"Halifax County, Virginia",500.0,240.0,7.0,05000US51083,51,083,D,Owner,1980 to 1999,Yes
+"Halifax County, Virginia",3415.0,540.0,8.0,05000US51083,51,083,D,Owner,1980 to 1999,No
+"Halifax County, Virginia",3580.0,459.0,9.0,05000US51083,51,083,S,Owner,1960 to 1979,All
+"Halifax County, Virginia",250.0,154.0,10.0,05000US51083,51,083,D,Owner,1960 to 1979,Yes
+"Halifax County, Virginia",3330.0,437.0,11.0,05000US51083,51,083,D,Owner,1960 to 1979,No
+"Halifax County, Virginia",1680.0,285.0,12.0,05000US51083,51,083,S,Owner,1940 to 1959,All
+"Halifax County, Virginia",105.0,89.0,13.0,05000US51083,51,083,D,Owner,1940 to 1959,Yes
+"Halifax County, Virginia",1580.0,263.0,14.0,05000US51083,51,083,D,Owner,1940 to 1959,No
+"Halifax County, Virginia",1170.0,267.0,15.0,05000US51083,51,083,S,Owner,1939-,All
+"Halifax County, Virginia",155.0,149.0,16.0,05000US51083,51,083,D,Owner,1939-,Yes
+"Halifax County, Virginia",1015.0,225.0,17.0,05000US51083,51,083,D,Owner,1939-,No
+"Halifax County, Virginia",3405.0,476.0,18.0,05000US51083,51,083,S,Renter,All,All
+"Halifax County, Virginia",40.0,49.0,19.0,05000US51083,51,083,S,Renter,2000+,All
+"Halifax County, Virginia",0.0,161.0,20.0,05000US51083,51,083,D,Renter,2000+,Yes
+"Halifax County, Virginia",40.0,49.0,21.0,05000US51083,51,083,D,Renter,2000+,No
+"Halifax County, Virginia",1070.0,356.0,22.0,05000US51083,51,083,S,Renter,1980 to 1999,All
+"Halifax County, Virginia",200.0,137.0,23.0,05000US51083,51,083,D,Renter,1980 to 1999,Yes
+"Halifax County, Virginia",870.0,302.0,24.0,05000US51083,51,083,D,Renter,1980 to 1999,No
+"Halifax County, Virginia",980.0,279.0,25.0,05000US51083,51,083,S,Renter,1960 to 1979,All
+"Halifax County, Virginia",160.0,111.0,26.0,05000US51083,51,083,D,Renter,1960 to 1979,Yes
+"Halifax County, Virginia",820.0,280.0,27.0,05000US51083,51,083,D,Renter,1960 to 1979,No
+"Halifax County, Virginia",1000.0,323.0,28.0,05000US51083,51,083,S,Renter,1940 to 1959,All
+"Halifax County, Virginia",135.0,88.0,29.0,05000US51083,51,083,D,Renter,1940 to 1959,Yes
+"Halifax County, Virginia",865.0,315.0,30.0,05000US51083,51,083,D,Renter,1940 to 1959,No
+"Halifax County, Virginia",310.0,160.0,31.0,05000US51083,51,083,S,Renter,1939-,All
+"Halifax County, Virginia",45.0,57.0,32.0,05000US51083,51,083,D,Renter,1939-,Yes
+"Halifax County, Virginia",265.0,151.0,33.0,05000US51083,51,083,D,Renter,1939-,No

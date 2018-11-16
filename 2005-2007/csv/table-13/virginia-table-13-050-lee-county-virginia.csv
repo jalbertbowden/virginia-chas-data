@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Lee County, Virginia",9415.0,468.0,1.0,05000US51105,51,105,T,All,All,All
+"Lee County, Virginia",6710.0,434.0,2.0,05000US51105,51,105,S,Owner,All,All
+"Lee County, Virginia",315.0,143.0,3.0,05000US51105,51,105,S,Owner,2000+,All
+"Lee County, Virginia",0.0,161.0,4.0,05000US51105,51,105,D,Owner,2000+,Yes
+"Lee County, Virginia",315.0,143.0,5.0,05000US51105,51,105,D,Owner,2000+,No
+"Lee County, Virginia",1695.0,346.0,6.0,05000US51105,51,105,S,Owner,1980 to 1999,All
+"Lee County, Virginia",160.0,138.0,7.0,05000US51105,51,105,D,Owner,1980 to 1999,Yes
+"Lee County, Virginia",1535.0,324.0,8.0,05000US51105,51,105,D,Owner,1980 to 1999,No
+"Lee County, Virginia",2050.0,334.0,9.0,05000US51105,51,105,S,Owner,1960 to 1979,All
+"Lee County, Virginia",275.0,176.0,10.0,05000US51105,51,105,D,Owner,1960 to 1979,Yes
+"Lee County, Virginia",1775.0,333.0,11.0,05000US51105,51,105,D,Owner,1960 to 1979,No
+"Lee County, Virginia",1795.0,369.0,12.0,05000US51105,51,105,S,Owner,1940 to 1959,All
+"Lee County, Virginia",110.0,109.0,13.0,05000US51105,51,105,D,Owner,1940 to 1959,Yes
+"Lee County, Virginia",1680.0,367.0,14.0,05000US51105,51,105,D,Owner,1940 to 1959,No
+"Lee County, Virginia",860.0,279.0,15.0,05000US51105,51,105,S,Owner,1939-,All
+"Lee County, Virginia",30.0,49.0,16.0,05000US51105,51,105,D,Owner,1939-,Yes
+"Lee County, Virginia",825.0,273.0,17.0,05000US51105,51,105,D,Owner,1939-,No
+"Lee County, Virginia",2705.0,450.0,18.0,05000US51105,51,105,S,Renter,All,All
+"Lee County, Virginia",15.0,24.0,19.0,05000US51105,51,105,S,Renter,2000+,All
+"Lee County, Virginia",0.0,161.0,20.0,05000US51105,51,105,D,Renter,2000+,Yes
+"Lee County, Virginia",15.0,24.0,21.0,05000US51105,51,105,D,Renter,2000+,No
+"Lee County, Virginia",1035.0,323.0,22.0,05000US51105,51,105,S,Renter,1980 to 1999,All
+"Lee County, Virginia",75.0,66.0,23.0,05000US51105,51,105,D,Renter,1980 to 1999,Yes
+"Lee County, Virginia",960.0,318.0,24.0,05000US51105,51,105,D,Renter,1980 to 1999,No
+"Lee County, Virginia",1005.0,310.0,25.0,05000US51105,51,105,S,Renter,1960 to 1979,All
+"Lee County, Virginia",310.0,161.0,26.0,05000US51105,51,105,D,Renter,1960 to 1979,Yes
+"Lee County, Virginia",695.0,256.0,27.0,05000US51105,51,105,D,Renter,1960 to 1979,No
+"Lee County, Virginia",400.0,170.0,28.0,05000US51105,51,105,S,Renter,1940 to 1959,All
+"Lee County, Virginia",50.0,65.0,29.0,05000US51105,51,105,D,Renter,1940 to 1959,Yes
+"Lee County, Virginia",350.0,156.0,30.0,05000US51105,51,105,D,Renter,1940 to 1959,No
+"Lee County, Virginia",250.0,133.0,31.0,05000US51105,51,105,S,Renter,1939-,All
+"Lee County, Virginia",15.0,18.0,32.0,05000US51105,51,105,D,Renter,1939-,Yes
+"Lee County, Virginia",230.0,134.0,33.0,05000US51105,51,105,D,Renter,1939-,No

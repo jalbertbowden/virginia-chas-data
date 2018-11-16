@@ -1,0 +1,250 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Severe_Housing_Problems,Household_Income,Race
+"Chesterfield County, Virginia",108690.0,1007.0,1.0,05000US51041,51,041,T,All,All,All,All
+"Chesterfield County, Virginia",85810.0,1315.0,2.0,05000US51041,51,041,S,Owner,All,All,All
+"Chesterfield County, Virginia",6090.0,600.0,3.0,05000US51041,51,041,S,Owner,Yes,All,All
+"Chesterfield County, Virginia",2015.0,365.0,4.0,05000US51041,51,041,S,Owner,Yes,30% AMI or less,All
+"Chesterfield County, Virginia",1620.0,321.0,5.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,White
+"Chesterfield County, Virginia",285.0,132.0,6.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,Black
+"Chesterfield County, Virginia",35.0,34.0,7.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,Asian
+"Chesterfield County, Virginia",0.0,161.0,8.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,9.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",45.0,46.0,10.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",30.0,35.0,11.0,05000US51041,51,041,D,Owner,Yes,30% AMI or less,Other
+"Chesterfield County, Virginia",1725.0,353.0,12.0,05000US51041,51,041,S,Owner,Yes,30.1-50% AMI,All
+"Chesterfield County, Virginia",845.0,243.0,13.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,White
+"Chesterfield County, Virginia",560.0,214.0,14.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,Black
+"Chesterfield County, Virginia",45.0,52.0,15.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,16.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,17.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",260.0,137.0,18.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",15.0,24.0,19.0,05000US51041,51,041,D,Owner,Yes,30.1-50% AMI,Other
+"Chesterfield County, Virginia",1300.0,269.0,20.0,05000US51041,51,041,S,Owner,Yes,50.1-80% AMI,All
+"Chesterfield County, Virginia",830.0,205.0,21.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,White
+"Chesterfield County, Virginia",240.0,150.0,22.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,Black
+"Chesterfield County, Virginia",35.0,34.0,23.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,24.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,25.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",125.0,80.0,26.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",65.0,60.0,27.0,05000US51041,51,041,D,Owner,Yes,50.1-80% AMI,Other
+"Chesterfield County, Virginia",300.0,146.0,28.0,05000US51041,51,041,S,Owner,Yes,80.1-95% AMI,All
+"Chesterfield County, Virginia",180.0,90.0,29.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,White
+"Chesterfield County, Virginia",15.0,33.0,30.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,31.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,32.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,33.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",40.0,65.0,34.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",60.0,100.0,35.0,05000US51041,51,041,D,Owner,Yes,80.1-95% AMI,Other
+"Chesterfield County, Virginia",750.0,222.0,36.0,05000US51041,51,041,S,Owner,Yes,95.1% AMI and above,All
+"Chesterfield County, Virginia",585.0,199.0,37.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,White
+"Chesterfield County, Virginia",120.0,102.0,38.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,Black
+"Chesterfield County, Virginia",35.0,37.0,39.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",0.0,161.0,40.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",0.0,161.0,41.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,42.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",10.0,19.0,43.0,05000US51041,51,041,D,Owner,Yes,95.1% AMI and above,Other
+"Chesterfield County, Virginia",79415.0,1381.0,44.0,05000US51041,51,041,S,Owner,No,All,All
+"Chesterfield County, Virginia",960.0,223.0,45.0,05000US51041,51,041,S,Owner,No,30% AMI or less,All
+"Chesterfield County, Virginia",775.0,220.0,46.0,05000US51041,51,041,D,Owner,No,30% AMI or less,White
+"Chesterfield County, Virginia",85.0,57.0,47.0,05000US51041,51,041,D,Owner,No,30% AMI or less,Black
+"Chesterfield County, Virginia",25.0,44.0,48.0,05000US51041,51,041,D,Owner,No,30% AMI or less,Asian
+"Chesterfield County, Virginia",20.0,31.0,49.0,05000US51041,51,041,D,Owner,No,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,50.0,05000US51041,51,041,D,Owner,No,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",55.0,55.0,51.0,05000US51041,51,041,D,Owner,No,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,52.0,05000US51041,51,041,D,Owner,No,30% AMI or less,Other
+"Chesterfield County, Virginia",2740.0,354.0,53.0,05000US51041,51,041,S,Owner,No,30.1-50% AMI,All
+"Chesterfield County, Virginia",2405.0,315.0,54.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,White
+"Chesterfield County, Virginia",155.0,76.0,55.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,Black
+"Chesterfield County, Virginia",35.0,59.0,56.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,57.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,58.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",130.0,127.0,59.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",15.0,31.0,60.0,05000US51041,51,041,D,Owner,No,30.1-50% AMI,Other
+"Chesterfield County, Virginia",9840.0,722.0,61.0,05000US51041,51,041,S,Owner,No,50.1-80% AMI,All
+"Chesterfield County, Virginia",7490.0,630.0,62.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,White
+"Chesterfield County, Virginia",1760.0,418.0,63.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,Black
+"Chesterfield County, Virginia",215.0,118.0,64.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,65.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,66.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",320.0,166.0,67.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",55.0,55.0,68.0,05000US51041,51,041,D,Owner,No,50.1-80% AMI,Other
+"Chesterfield County, Virginia",5920.0,629.0,69.0,05000US51041,51,041,S,Owner,No,80.1-95% AMI,All
+"Chesterfield County, Virginia",4410.0,472.0,70.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,White
+"Chesterfield County, Virginia",1150.0,384.0,71.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,Black
+"Chesterfield County, Virginia",200.0,111.0,72.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,73.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,74.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",100.0,83.0,75.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",60.0,62.0,76.0,05000US51041,51,041,D,Owner,No,80.1-95% AMI,Other
+"Chesterfield County, Virginia",59950.0,1404.0,77.0,05000US51041,51,041,S,Owner,No,95.1% AMI and above,All
+"Chesterfield County, Virginia",46995.0,1083.0,78.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,White
+"Chesterfield County, Virginia",9700.0,665.0,79.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,Black
+"Chesterfield County, Virginia",1550.0,237.0,80.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",125.0,98.0,81.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",25.0,42.0,82.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",1070.0,256.0,83.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",485.0,197.0,84.0,05000US51041,51,041,D,Owner,No,95.1% AMI and above,Other
+"Chesterfield County, Virginia",305.0,154.0,85.0,05000US51041,51,041,S,Owner,N/A,All,All
+"Chesterfield County, Virginia",305.0,154.0,86.0,05000US51041,51,041,S,Owner,N/A,30% AMI or less,All
+"Chesterfield County, Virginia",210.0,153.0,87.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,White
+"Chesterfield County, Virginia",60.0,94.0,88.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Black
+"Chesterfield County, Virginia",0.0,161.0,89.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Asian
+"Chesterfield County, Virginia",0.0,161.0,90.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,91.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",35.0,39.0,92.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,93.0,05000US51041,51,041,D,Owner,N/A,30% AMI or less,Other
+"Chesterfield County, Virginia",0.0,161.0,94.0,05000US51041,51,041,S,Owner,N/A,30.1-50% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,95.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,White
+"Chesterfield County, Virginia",0.0,161.0,96.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,97.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,98.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,99.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,100.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,101.0,05000US51041,51,041,D,Owner,N/A,30.1-50% AMI,Other
+"Chesterfield County, Virginia",0.0,161.0,102.0,05000US51041,51,041,S,Owner,N/A,50.1-80% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,103.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,White
+"Chesterfield County, Virginia",0.0,161.0,104.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,105.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,106.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,107.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,108.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,109.0,05000US51041,51,041,D,Owner,N/A,50.1-80% AMI,Other
+"Chesterfield County, Virginia",0.0,161.0,110.0,05000US51041,51,041,S,Owner,N/A,80.1-95% AMI,All
+"Chesterfield County, Virginia",0.0,161.0,111.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,White
+"Chesterfield County, Virginia",0.0,161.0,112.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,113.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,114.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,115.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,116.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,117.0,05000US51041,51,041,D,Owner,N/A,80.1-95% AMI,Other
+"Chesterfield County, Virginia",0.0,161.0,118.0,05000US51041,51,041,S,Owner,N/A,95.1% AMI and above,All
+"Chesterfield County, Virginia",0.0,161.0,119.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,White
+"Chesterfield County, Virginia",0.0,161.0,120.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Black
+"Chesterfield County, Virginia",0.0,161.0,121.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",0.0,161.0,122.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",0.0,161.0,123.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,124.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,125.0,05000US51041,51,041,D,Owner,N/A,95.1% AMI and above,Other
+"Chesterfield County, Virginia",22880.0,1132.0,126.0,05000US51041,51,041,S,Renter,All,All,All
+"Chesterfield County, Virginia",4250.0,687.0,127.0,05000US51041,51,041,S,Renter,Yes,All,All
+"Chesterfield County, Virginia",2730.0,632.0,128.0,05000US51041,51,041,S,Renter,Yes,30% AMI or less,All
+"Chesterfield County, Virginia",1040.0,363.0,129.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,White
+"Chesterfield County, Virginia",1175.0,541.0,130.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Black
+"Chesterfield County, Virginia",75.0,80.0,131.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Asian
+"Chesterfield County, Virginia",0.0,161.0,132.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,133.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",340.0,171.0,134.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",100.0,101.0,135.0,05000US51041,51,041,D,Renter,Yes,30% AMI or less,Other
+"Chesterfield County, Virginia",1140.0,325.0,136.0,05000US51041,51,041,S,Renter,Yes,30.1-50% AMI,All
+"Chesterfield County, Virginia",645.0,225.0,137.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,White
+"Chesterfield County, Virginia",445.0,243.0,138.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Black
+"Chesterfield County, Virginia",20.0,35.0,139.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,140.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,141.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",30.0,40.0,142.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,143.0,05000US51041,51,041,D,Renter,Yes,30.1-50% AMI,Other
+"Chesterfield County, Virginia",180.0,100.0,144.0,05000US51041,51,041,S,Renter,Yes,50.1-80% AMI,All
+"Chesterfield County, Virginia",110.0,69.0,145.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,White
+"Chesterfield County, Virginia",40.0,65.0,146.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Black
+"Chesterfield County, Virginia",15.0,26.0,147.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,148.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,149.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",15.0,24.0,150.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,151.0,05000US51041,51,041,D,Renter,Yes,50.1-80% AMI,Other
+"Chesterfield County, Virginia",10.0,22.0,152.0,05000US51041,51,041,S,Renter,Yes,80.1-95% AMI,All
+"Chesterfield County, Virginia",10.0,22.0,153.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,White
+"Chesterfield County, Virginia",0.0,161.0,154.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,155.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,156.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,157.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,158.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,159.0,05000US51041,51,041,D,Renter,Yes,80.1-95% AMI,Other
+"Chesterfield County, Virginia",190.0,178.0,160.0,05000US51041,51,041,S,Renter,Yes,95.1% AMI and above,All
+"Chesterfield County, Virginia",10.0,19.0,161.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,White
+"Chesterfield County, Virginia",180.0,179.0,162.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Black
+"Chesterfield County, Virginia",0.0,161.0,163.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",0.0,161.0,164.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",0.0,161.0,165.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,166.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,167.0,05000US51041,51,041,D,Renter,Yes,95.1% AMI and above,Other
+"Chesterfield County, Virginia",17795.0,1085.0,168.0,05000US51041,51,041,S,Renter,No,All,All
+"Chesterfield County, Virginia",490.0,185.0,169.0,05000US51041,51,041,S,Renter,No,30% AMI or less,All
+"Chesterfield County, Virginia",275.0,162.0,170.0,05000US51041,51,041,D,Renter,No,30% AMI or less,White
+"Chesterfield County, Virginia",170.0,108.0,171.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Black
+"Chesterfield County, Virginia",0.0,161.0,172.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Asian
+"Chesterfield County, Virginia",0.0,161.0,173.0,05000US51041,51,041,D,Renter,No,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,174.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",45.0,55.0,175.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,176.0,05000US51041,51,041,D,Renter,No,30% AMI or less,Other
+"Chesterfield County, Virginia",2000.0,579.0,177.0,05000US51041,51,041,S,Renter,No,30.1-50% AMI,All
+"Chesterfield County, Virginia",810.0,305.0,178.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,White
+"Chesterfield County, Virginia",855.0,397.0,179.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Black
+"Chesterfield County, Virginia",65.0,76.0,180.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",15.0,34.0,181.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,182.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",215.0,144.0,183.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",40.0,46.0,184.0,05000US51041,51,041,D,Renter,No,30.1-50% AMI,Other
+"Chesterfield County, Virginia",6125.0,879.0,185.0,05000US51041,51,041,S,Renter,No,50.1-80% AMI,All
+"Chesterfield County, Virginia",3060.0,556.0,186.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,White
+"Chesterfield County, Virginia",2245.0,525.0,187.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Black
+"Chesterfield County, Virginia",70.0,82.0,188.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,189.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,190.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",590.0,165.0,191.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",165.0,138.0,192.0,05000US51041,51,041,D,Renter,No,50.1-80% AMI,Other
+"Chesterfield County, Virginia",2860.0,480.0,193.0,05000US51041,51,041,S,Renter,No,80.1-95% AMI,All
+"Chesterfield County, Virginia",1760.0,378.0,194.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,White
+"Chesterfield County, Virginia",740.0,267.0,195.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Black
+"Chesterfield County, Virginia",75.0,84.0,196.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",20.0,34.0,197.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,198.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",215.0,137.0,199.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",50.0,82.0,200.0,05000US51041,51,041,D,Renter,No,80.1-95% AMI,Other
+"Chesterfield County, Virginia",6315.0,823.0,201.0,05000US51041,51,041,S,Renter,No,95.1% AMI and above,All
+"Chesterfield County, Virginia",4180.0,664.0,202.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,White
+"Chesterfield County, Virginia",1495.0,337.0,203.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Black
+"Chesterfield County, Virginia",120.0,77.0,204.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",0.0,161.0,205.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",0.0,161.0,206.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",520.0,213.0,207.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,208.0,05000US51041,51,041,D,Renter,No,95.1% AMI and above,Other
+"Chesterfield County, Virginia",835.0,236.0,209.0,05000US51041,51,041,S,Renter,N/A,All,All
+"Chesterfield County, Virginia",225.0,143.0,210.0,05000US51041,51,041,S,Renter,N/A,30% AMI or less,All
+"Chesterfield County, Virginia",135.0,79.0,211.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,White
+"Chesterfield County, Virginia",85.0,116.0,212.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Black
+"Chesterfield County, Virginia",0.0,161.0,213.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Asian
+"Chesterfield County, Virginia",0.0,161.0,214.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,American Indian
+"Chesterfield County, Virginia",0.0,161.0,215.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,216.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,217.0,05000US51041,51,041,D,Renter,N/A,30% AMI or less,Other
+"Chesterfield County, Virginia",115.0,81.0,218.0,05000US51041,51,041,S,Renter,N/A,30.1-50% AMI,All
+"Chesterfield County, Virginia",75.0,63.0,219.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,White
+"Chesterfield County, Virginia",20.0,33.0,220.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,221.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,222.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,223.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Pacific Islander
+"Chesterfield County, Virginia",25.0,41.0,224.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,225.0,05000US51041,51,041,D,Renter,N/A,30.1-50% AMI,Other
+"Chesterfield County, Virginia",195.0,105.0,226.0,05000US51041,51,041,S,Renter,N/A,50.1-80% AMI,All
+"Chesterfield County, Virginia",115.0,80.0,227.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,White
+"Chesterfield County, Virginia",55.0,65.0,228.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,229.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Asian
+"Chesterfield County, Virginia",25.0,43.0,230.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,231.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,232.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,233.0,05000US51041,51,041,D,Renter,N/A,50.1-80% AMI,Other
+"Chesterfield County, Virginia",80.0,69.0,234.0,05000US51041,51,041,S,Renter,N/A,80.1-95% AMI,All
+"Chesterfield County, Virginia",80.0,69.0,235.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,White
+"Chesterfield County, Virginia",0.0,161.0,236.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Black
+"Chesterfield County, Virginia",0.0,161.0,237.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Asian
+"Chesterfield County, Virginia",0.0,161.0,238.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,American Indian
+"Chesterfield County, Virginia",0.0,161.0,239.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Pacific Islander
+"Chesterfield County, Virginia",0.0,161.0,240.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,241.0,05000US51041,51,041,D,Renter,N/A,80.1-95% AMI,Other
+"Chesterfield County, Virginia",225.0,129.0,242.0,05000US51041,51,041,S,Renter,N/A,95.1% AMI and above,All
+"Chesterfield County, Virginia",185.0,118.0,243.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,White
+"Chesterfield County, Virginia",20.0,35.0,244.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Black
+"Chesterfield County, Virginia",0.0,161.0,245.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Asian
+"Chesterfield County, Virginia",0.0,161.0,246.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,American Indian
+"Chesterfield County, Virginia",0.0,161.0,247.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Pacific Islander
+"Chesterfield County, Virginia",20.0,40.0,248.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Hispanic
+"Chesterfield County, Virginia",0.0,161.0,249.0,05000US51041,51,041,D,Renter,N/A,95.1% AMI and above,Other

@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Pulaski County, Virginia",14885.0,484.0,1.0,05000US51155,51,155,T,All,All,All,All
+"Pulaski County, Virginia",10650.0,581.0,2.0,05000US51155,51,155,S,Owner,All,All,All
+"Pulaski County, Virginia",1920.0,412.0,3.0,05000US51155,51,155,S,Owner,Yes,All,All
+"Pulaski County, Virginia",405.0,130.0,4.0,05000US51155,51,155,S,Owner,Yes,30% AMI or less,All
+"Pulaski County, Virginia",90.0,82.0,5.0,05000US51155,51,155,D,Owner,Yes,30% AMI or less,Disabled
+"Pulaski County, Virginia",315.0,120.0,6.0,05000US51155,51,155,D,Owner,Yes,30% AMI or less,Not disabled
+"Pulaski County, Virginia",555.0,265.0,7.0,05000US51155,51,155,S,Owner,Yes,30.1-50% AMI,All
+"Pulaski County, Virginia",280.0,205.0,8.0,05000US51155,51,155,D,Owner,Yes,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",275.0,166.0,9.0,05000US51155,51,155,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",600.0,254.0,10.0,05000US51155,51,155,S,Owner,Yes,50.1-80% AMI,All
+"Pulaski County, Virginia",55.0,65.0,11.0,05000US51155,51,155,D,Owner,Yes,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",545.0,247.0,12.0,05000US51155,51,155,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",360.0,153.0,13.0,05000US51155,51,155,S,Owner,Yes,80.1% AMI and above,All
+"Pulaski County, Virginia",30.0,40.0,14.0,05000US51155,51,155,D,Owner,Yes,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",330.0,149.0,15.0,05000US51155,51,155,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Pulaski County, Virginia",8600.0,564.0,16.0,05000US51155,51,155,S,Owner,No,All,All
+"Pulaski County, Virginia",290.0,139.0,17.0,05000US51155,51,155,S,Owner,No,30% AMI or less,All
+"Pulaski County, Virginia",60.0,72.0,18.0,05000US51155,51,155,D,Owner,No,30% AMI or less,Disabled
+"Pulaski County, Virginia",230.0,119.0,19.0,05000US51155,51,155,D,Owner,No,30% AMI or less,Not disabled
+"Pulaski County, Virginia",985.0,258.0,20.0,05000US51155,51,155,S,Owner,No,30.1-50% AMI,All
+"Pulaski County, Virginia",345.0,151.0,21.0,05000US51155,51,155,D,Owner,No,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",645.0,223.0,22.0,05000US51155,51,155,D,Owner,No,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",1830.0,327.0,23.0,05000US51155,51,155,S,Owner,No,50.1-80% AMI,All
+"Pulaski County, Virginia",340.0,138.0,24.0,05000US51155,51,155,D,Owner,No,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",1495.0,319.0,25.0,05000US51155,51,155,D,Owner,No,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",5490.0,496.0,26.0,05000US51155,51,155,S,Owner,No,80.1% AMI and above,All
+"Pulaski County, Virginia",400.0,145.0,27.0,05000US51155,51,155,D,Owner,No,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",5090.0,448.0,28.0,05000US51155,51,155,D,Owner,No,80.1% AMI and above,Not disabled
+"Pulaski County, Virginia",135.0,121.0,29.0,05000US51155,51,155,S,Owner,N/A,All,All
+"Pulaski County, Virginia",135.0,121.0,30.0,05000US51155,51,155,S,Owner,N/A,30% AMI or less,All
+"Pulaski County, Virginia",0.0,161.0,31.0,05000US51155,51,155,D,Owner,N/A,30% AMI or less,Disabled
+"Pulaski County, Virginia",135.0,121.0,32.0,05000US51155,51,155,D,Owner,N/A,30% AMI or less,Not disabled
+"Pulaski County, Virginia",0.0,161.0,33.0,05000US51155,51,155,S,Owner,N/A,30.1-50% AMI,All
+"Pulaski County, Virginia",0.0,161.0,34.0,05000US51155,51,155,D,Owner,N/A,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",0.0,161.0,35.0,05000US51155,51,155,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",0.0,161.0,36.0,05000US51155,51,155,S,Owner,N/A,50.1-80% AMI,All
+"Pulaski County, Virginia",0.0,161.0,37.0,05000US51155,51,155,D,Owner,N/A,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",0.0,161.0,38.0,05000US51155,51,155,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",0.0,161.0,39.0,05000US51155,51,155,S,Owner,N/A,80.1% AMI and above,All
+"Pulaski County, Virginia",0.0,161.0,40.0,05000US51155,51,155,D,Owner,N/A,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",0.0,161.0,41.0,05000US51155,51,155,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Pulaski County, Virginia",4235.0,635.0,42.0,05000US51155,51,155,S,Renter,All,All,All
+"Pulaski County, Virginia",1545.0,432.0,43.0,05000US51155,51,155,S,Renter,Yes,All,All
+"Pulaski County, Virginia",990.0,375.0,44.0,05000US51155,51,155,S,Renter,Yes,30% AMI or less,All
+"Pulaski County, Virginia",245.0,173.0,45.0,05000US51155,51,155,D,Renter,Yes,30% AMI or less,Disabled
+"Pulaski County, Virginia",750.0,348.0,46.0,05000US51155,51,155,D,Renter,Yes,30% AMI or less,Not disabled
+"Pulaski County, Virginia",430.0,185.0,47.0,05000US51155,51,155,S,Renter,Yes,30.1-50% AMI,All
+"Pulaski County, Virginia",70.0,70.0,48.0,05000US51155,51,155,D,Renter,Yes,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",360.0,166.0,49.0,05000US51155,51,155,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",20.0,40.0,50.0,05000US51155,51,155,S,Renter,Yes,50.1-80% AMI,All
+"Pulaski County, Virginia",0.0,161.0,51.0,05000US51155,51,155,D,Renter,Yes,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",20.0,40.0,52.0,05000US51155,51,155,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",100.0,102.0,53.0,05000US51155,51,155,S,Renter,Yes,80.1% AMI and above,All
+"Pulaski County, Virginia",60.0,78.0,54.0,05000US51155,51,155,D,Renter,Yes,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",45.0,68.0,55.0,05000US51155,51,155,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Pulaski County, Virginia",2130.0,423.0,56.0,05000US51155,51,155,S,Renter,No,All,All
+"Pulaski County, Virginia",140.0,95.0,57.0,05000US51155,51,155,S,Renter,No,30% AMI or less,All
+"Pulaski County, Virginia",35.0,43.0,58.0,05000US51155,51,155,D,Renter,No,30% AMI or less,Disabled
+"Pulaski County, Virginia",105.0,91.0,59.0,05000US51155,51,155,D,Renter,No,30% AMI or less,Not disabled
+"Pulaski County, Virginia",250.0,130.0,60.0,05000US51155,51,155,S,Renter,No,30.1-50% AMI,All
+"Pulaski County, Virginia",20.0,34.0,61.0,05000US51155,51,155,D,Renter,No,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",230.0,127.0,62.0,05000US51155,51,155,D,Renter,No,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",545.0,218.0,63.0,05000US51155,51,155,S,Renter,No,50.1-80% AMI,All
+"Pulaski County, Virginia",120.0,120.0,64.0,05000US51155,51,155,D,Renter,No,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",425.0,193.0,65.0,05000US51155,51,155,D,Renter,No,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",1195.0,368.0,66.0,05000US51155,51,155,S,Renter,No,80.1% AMI and above,All
+"Pulaski County, Virginia",15.0,32.0,67.0,05000US51155,51,155,D,Renter,No,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",1175.0,367.0,68.0,05000US51155,51,155,D,Renter,No,80.1% AMI and above,Not disabled
+"Pulaski County, Virginia",560.0,226.0,69.0,05000US51155,51,155,S,Renter,N/A,All,All
+"Pulaski County, Virginia",150.0,100.0,70.0,05000US51155,51,155,S,Renter,N/A,30% AMI or less,All
+"Pulaski County, Virginia",60.0,75.0,71.0,05000US51155,51,155,D,Renter,N/A,30% AMI or less,Disabled
+"Pulaski County, Virginia",90.0,73.0,72.0,05000US51155,51,155,D,Renter,N/A,30% AMI or less,Not disabled
+"Pulaski County, Virginia",70.0,97.0,73.0,05000US51155,51,155,S,Renter,N/A,30.1-50% AMI,All
+"Pulaski County, Virginia",15.0,27.0,74.0,05000US51155,51,155,D,Renter,N/A,30.1-50% AMI,Disabled
+"Pulaski County, Virginia",55.0,93.0,75.0,05000US51155,51,155,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Pulaski County, Virginia",75.0,69.0,76.0,05000US51155,51,155,S,Renter,N/A,50.1-80% AMI,All
+"Pulaski County, Virginia",35.0,43.0,77.0,05000US51155,51,155,D,Renter,N/A,50.1-80% AMI,Disabled
+"Pulaski County, Virginia",40.0,55.0,78.0,05000US51155,51,155,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Pulaski County, Virginia",260.0,164.0,79.0,05000US51155,51,155,S,Renter,N/A,80.1% AMI and above,All
+"Pulaski County, Virginia",30.0,47.0,80.0,05000US51155,51,155,D,Renter,N/A,80.1% AMI and above,Disabled
+"Pulaski County, Virginia",230.0,157.0,81.0,05000US51155,51,155,D,Renter,N/A,80.1% AMI and above,Not disabled

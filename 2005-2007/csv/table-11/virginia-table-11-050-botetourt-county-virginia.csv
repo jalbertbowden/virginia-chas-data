@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income
+"Botetourt County, Virginia",12770.0,284.0,1.0,05000US51023,51,023,T,All,All,All
+"Botetourt County, Virginia",11400.0,361.0,2.0,05000US51023,51,023,S,Owner,All,All
+"Botetourt County, Virginia",2235.0,366.0,3.0,05000US51023,51,023,S,Owner,Yes,All
+"Botetourt County, Virginia",285.0,161.0,4.0,05000US51023,51,023,D,Owner,Yes,<=20% AMI
+"Botetourt County, Virginia",105.0,69.0,5.0,05000US51023,51,023,D,Owner,Yes,20.1-30% AMI
+"Botetourt County, Virginia",190.0,121.0,6.0,05000US51023,51,023,D,Owner,Yes,30.1-40% AMI
+"Botetourt County, Virginia",220.0,106.0,7.0,05000US51023,51,023,D,Owner,Yes,40.1-50% AMI
+"Botetourt County, Virginia",145.0,97.0,8.0,05000US51023,51,023,D,Owner,Yes,50.1-60% AMI
+"Botetourt County, Virginia",110.0,91.0,9.0,05000US51023,51,023,D,Owner,Yes,60.1-65% AMI
+"Botetourt County, Virginia",250.0,117.0,10.0,05000US51023,51,023,D,Owner,Yes,65.1-80% AMI
+"Botetourt County, Virginia",180.0,131.0,11.0,05000US51023,51,023,D,Owner,Yes,80.1-95% AMI
+"Botetourt County, Virginia",90.0,81.0,12.0,05000US51023,51,023,D,Owner,Yes,95.1-100% AMI
+"Botetourt County, Virginia",195.0,115.0,13.0,05000US51023,51,023,D,Owner,Yes,100.1-115% AMI
+"Botetourt County, Virginia",100.0,91.0,14.0,05000US51023,51,023,D,Owner,Yes,115.1-120% AMI
+"Botetourt County, Virginia",145.0,94.0,15.0,05000US51023,51,023,D,Owner,Yes,120.1-140% AMI
+"Botetourt County, Virginia",215.0,106.0,16.0,05000US51023,51,023,D,Owner,Yes,>140% AMI
+"Botetourt County, Virginia",9085.0,410.0,17.0,05000US51023,51,023,S,Owner,No,All
+"Botetourt County, Virginia",40.0,45.0,18.0,05000US51023,51,023,D,Owner,No,<=20% AMI
+"Botetourt County, Virginia",190.0,98.0,19.0,05000US51023,51,023,D,Owner,No,20.1-30% AMI
+"Botetourt County, Virginia",160.0,68.0,20.0,05000US51023,51,023,D,Owner,No,30.1-40% AMI
+"Botetourt County, Virginia",415.0,157.0,21.0,05000US51023,51,023,D,Owner,No,40.1-50% AMI
+"Botetourt County, Virginia",485.0,187.0,22.0,05000US51023,51,023,D,Owner,No,50.1-60% AMI
+"Botetourt County, Virginia",155.0,112.0,23.0,05000US51023,51,023,D,Owner,No,60.1-65% AMI
+"Botetourt County, Virginia",465.0,163.0,24.0,05000US51023,51,023,D,Owner,No,65.1-80% AMI
+"Botetourt County, Virginia",540.0,154.0,25.0,05000US51023,51,023,D,Owner,No,80.1-95% AMI
+"Botetourt County, Virginia",260.0,106.0,26.0,05000US51023,51,023,D,Owner,No,95.1-100% AMI
+"Botetourt County, Virginia",570.0,221.0,27.0,05000US51023,51,023,D,Owner,No,100.1-115% AMI
+"Botetourt County, Virginia",430.0,148.0,28.0,05000US51023,51,023,D,Owner,No,115.1-120% AMI
+"Botetourt County, Virginia",820.0,237.0,29.0,05000US51023,51,023,D,Owner,No,120.1-140% AMI
+"Botetourt County, Virginia",4555.0,394.0,30.0,05000US51023,51,023,D,Owner,No,>140% AMI
+"Botetourt County, Virginia",75.0,81.0,31.0,05000US51023,51,023,S,Owner,N/A,All
+"Botetourt County, Virginia",75.0,81.0,32.0,05000US51023,51,023,D,Owner,N/A,<=20% AMI
+"Botetourt County, Virginia",0.0,161.0,33.0,05000US51023,51,023,D,Owner,N/A,20.1-30% AMI
+"Botetourt County, Virginia",0.0,161.0,34.0,05000US51023,51,023,D,Owner,N/A,30.1-40% AMI
+"Botetourt County, Virginia",0.0,161.0,35.0,05000US51023,51,023,D,Owner,N/A,40.1-50% AMI
+"Botetourt County, Virginia",0.0,161.0,36.0,05000US51023,51,023,D,Owner,N/A,50.1-60% AMI
+"Botetourt County, Virginia",0.0,161.0,37.0,05000US51023,51,023,D,Owner,N/A,60.1-65% AMI
+"Botetourt County, Virginia",0.0,161.0,38.0,05000US51023,51,023,D,Owner,N/A,65.1-80% AMI
+"Botetourt County, Virginia",0.0,161.0,39.0,05000US51023,51,023,D,Owner,N/A,80.1-95% AMI
+"Botetourt County, Virginia",0.0,161.0,40.0,05000US51023,51,023,D,Owner,N/A,95.1-100% AMI
+"Botetourt County, Virginia",0.0,161.0,41.0,05000US51023,51,023,D,Owner,N/A,100.1-115% AMI
+"Botetourt County, Virginia",0.0,161.0,42.0,05000US51023,51,023,D,Owner,N/A,115.1-120% AMI
+"Botetourt County, Virginia",0.0,161.0,43.0,05000US51023,51,023,D,Owner,N/A,120.1-140% AMI
+"Botetourt County, Virginia",0.0,161.0,44.0,05000US51023,51,023,D,Owner,N/A,>140% AMI
+"Botetourt County, Virginia",1375.0,319.0,45.0,05000US51023,51,023,S,Renter,All,All
+"Botetourt County, Virginia",470.0,191.0,46.0,05000US51023,51,023,S,Renter,Yes,All
+"Botetourt County, Virginia",100.0,96.0,47.0,05000US51023,51,023,D,Renter,Yes,<=20% AMI
+"Botetourt County, Virginia",90.0,117.0,48.0,05000US51023,51,023,D,Renter,Yes,20.1-30% AMI
+"Botetourt County, Virginia",140.0,115.0,49.0,05000US51023,51,023,D,Renter,Yes,30.1-40% AMI
+"Botetourt County, Virginia",0.0,161.0,50.0,05000US51023,51,023,D,Renter,Yes,40.1-50% AMI
+"Botetourt County, Virginia",55.0,58.0,51.0,05000US51023,51,023,D,Renter,Yes,50.1-60% AMI
+"Botetourt County, Virginia",0.0,161.0,52.0,05000US51023,51,023,D,Renter,Yes,60.1-65% AMI
+"Botetourt County, Virginia",40.0,65.0,53.0,05000US51023,51,023,D,Renter,Yes,65.1-80% AMI
+"Botetourt County, Virginia",40.0,63.0,54.0,05000US51023,51,023,D,Renter,Yes,80.1-95% AMI
+"Botetourt County, Virginia",0.0,161.0,55.0,05000US51023,51,023,D,Renter,Yes,95.1-100% AMI
+"Botetourt County, Virginia",0.0,161.0,56.0,05000US51023,51,023,D,Renter,Yes,100.1-115% AMI
+"Botetourt County, Virginia",0.0,161.0,57.0,05000US51023,51,023,D,Renter,Yes,115.1-120% AMI
+"Botetourt County, Virginia",0.0,161.0,58.0,05000US51023,51,023,D,Renter,Yes,120.1-140% AMI
+"Botetourt County, Virginia",0.0,161.0,59.0,05000US51023,51,023,D,Renter,Yes,>140% AMI
+"Botetourt County, Virginia",710.0,210.0,60.0,05000US51023,51,023,S,Renter,No,All
+"Botetourt County, Virginia",0.0,161.0,61.0,05000US51023,51,023,D,Renter,No,<=20% AMI
+"Botetourt County, Virginia",15.0,24.0,62.0,05000US51023,51,023,D,Renter,No,20.1-30% AMI
+"Botetourt County, Virginia",40.0,63.0,63.0,05000US51023,51,023,D,Renter,No,30.1-40% AMI
+"Botetourt County, Virginia",70.0,72.0,64.0,05000US51023,51,023,D,Renter,No,40.1-50% AMI
+"Botetourt County, Virginia",15.0,30.0,65.0,05000US51023,51,023,D,Renter,No,50.1-60% AMI
+"Botetourt County, Virginia",0.0,161.0,66.0,05000US51023,51,023,D,Renter,No,60.1-65% AMI
+"Botetourt County, Virginia",125.0,95.0,67.0,05000US51023,51,023,D,Renter,No,65.1-80% AMI
+"Botetourt County, Virginia",80.0,68.0,68.0,05000US51023,51,023,D,Renter,No,80.1-95% AMI
+"Botetourt County, Virginia",4.0,10.0,69.0,05000US51023,51,023,D,Renter,No,95.1-100% AMI
+"Botetourt County, Virginia",35.0,33.0,70.0,05000US51023,51,023,D,Renter,No,100.1-115% AMI
+"Botetourt County, Virginia",40.0,64.0,71.0,05000US51023,51,023,D,Renter,No,115.1-120% AMI
+"Botetourt County, Virginia",155.0,124.0,72.0,05000US51023,51,023,D,Renter,No,120.1-140% AMI
+"Botetourt County, Virginia",130.0,126.0,73.0,05000US51023,51,023,D,Renter,No,>140% AMI
+"Botetourt County, Virginia",200.0,134.0,74.0,05000US51023,51,023,S,Renter,N/A,All
+"Botetourt County, Virginia",120.0,111.0,75.0,05000US51023,51,023,D,Renter,N/A,<=20% AMI
+"Botetourt County, Virginia",0.0,161.0,76.0,05000US51023,51,023,D,Renter,N/A,20.1-30% AMI
+"Botetourt County, Virginia",0.0,161.0,77.0,05000US51023,51,023,D,Renter,N/A,30.1-40% AMI
+"Botetourt County, Virginia",0.0,161.0,78.0,05000US51023,51,023,D,Renter,N/A,40.1-50% AMI
+"Botetourt County, Virginia",15.0,24.0,79.0,05000US51023,51,023,D,Renter,N/A,50.1-60% AMI
+"Botetourt County, Virginia",0.0,161.0,80.0,05000US51023,51,023,D,Renter,N/A,60.1-65% AMI
+"Botetourt County, Virginia",4.0,9.0,81.0,05000US51023,51,023,D,Renter,N/A,65.1-80% AMI
+"Botetourt County, Virginia",0.0,161.0,82.0,05000US51023,51,023,D,Renter,N/A,80.1-95% AMI
+"Botetourt County, Virginia",0.0,161.0,83.0,05000US51023,51,023,D,Renter,N/A,95.1-100% AMI
+"Botetourt County, Virginia",0.0,161.0,84.0,05000US51023,51,023,D,Renter,N/A,100.1-115% AMI
+"Botetourt County, Virginia",0.0,161.0,85.0,05000US51023,51,023,D,Renter,N/A,115.1-120% AMI
+"Botetourt County, Virginia",40.0,63.0,86.0,05000US51023,51,023,D,Renter,N/A,120.1-140% AMI
+"Botetourt County, Virginia",20.0,33.0,87.0,05000US51023,51,023,D,Renter,N/A,>140% AMI

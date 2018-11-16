@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Culpeper County, Virginia",16345.0,352.0,1.0,05000US51047,51,047,T,All,All,All
+"Culpeper County, Virginia",11420.0,492.0,2.0,05000US51047,51,047,S,Owner,All,All
+"Culpeper County, Virginia",2895.0,379.0,3.0,05000US51047,51,047,S,Owner,2000+,All
+"Culpeper County, Virginia",1000.0,278.0,4.0,05000US51047,51,047,D,Owner,2000+,Yes
+"Culpeper County, Virginia",1900.0,311.0,5.0,05000US51047,51,047,D,Owner,2000+,No
+"Culpeper County, Virginia",4330.0,444.0,6.0,05000US51047,51,047,S,Owner,1980 to 1999,All
+"Culpeper County, Virginia",775.0,208.0,7.0,05000US51047,51,047,D,Owner,1980 to 1999,Yes
+"Culpeper County, Virginia",3555.0,457.0,8.0,05000US51047,51,047,D,Owner,1980 to 1999,No
+"Culpeper County, Virginia",2535.0,423.0,9.0,05000US51047,51,047,S,Owner,1960 to 1979,All
+"Culpeper County, Virginia",430.0,181.0,10.0,05000US51047,51,047,D,Owner,1960 to 1979,Yes
+"Culpeper County, Virginia",2105.0,411.0,11.0,05000US51047,51,047,D,Owner,1960 to 1979,No
+"Culpeper County, Virginia",930.0,253.0,12.0,05000US51047,51,047,S,Owner,1940 to 1959,All
+"Culpeper County, Virginia",140.0,195.0,13.0,05000US51047,51,047,D,Owner,1940 to 1959,Yes
+"Culpeper County, Virginia",790.0,208.0,14.0,05000US51047,51,047,D,Owner,1940 to 1959,No
+"Culpeper County, Virginia",725.0,225.0,15.0,05000US51047,51,047,S,Owner,1939-,All
+"Culpeper County, Virginia",0.0,161.0,16.0,05000US51047,51,047,D,Owner,1939-,Yes
+"Culpeper County, Virginia",725.0,225.0,17.0,05000US51047,51,047,D,Owner,1939-,No
+"Culpeper County, Virginia",4925.0,478.0,18.0,05000US51047,51,047,S,Renter,All,All
+"Culpeper County, Virginia",670.0,274.0,19.0,05000US51047,51,047,S,Renter,2000+,All
+"Culpeper County, Virginia",345.0,198.0,20.0,05000US51047,51,047,D,Renter,2000+,Yes
+"Culpeper County, Virginia",330.0,201.0,21.0,05000US51047,51,047,D,Renter,2000+,No
+"Culpeper County, Virginia",1855.0,444.0,22.0,05000US51047,51,047,S,Renter,1980 to 1999,All
+"Culpeper County, Virginia",415.0,273.0,23.0,05000US51047,51,047,D,Renter,1980 to 1999,Yes
+"Culpeper County, Virginia",1440.0,407.0,24.0,05000US51047,51,047,D,Renter,1980 to 1999,No
+"Culpeper County, Virginia",990.0,312.0,25.0,05000US51047,51,047,S,Renter,1960 to 1979,All
+"Culpeper County, Virginia",210.0,134.0,26.0,05000US51047,51,047,D,Renter,1960 to 1979,Yes
+"Culpeper County, Virginia",780.0,270.0,27.0,05000US51047,51,047,D,Renter,1960 to 1979,No
+"Culpeper County, Virginia",615.0,239.0,28.0,05000US51047,51,047,S,Renter,1940 to 1959,All
+"Culpeper County, Virginia",20.0,36.0,29.0,05000US51047,51,047,D,Renter,1940 to 1959,Yes
+"Culpeper County, Virginia",595.0,238.0,30.0,05000US51047,51,047,D,Renter,1940 to 1959,No
+"Culpeper County, Virginia",795.0,298.0,31.0,05000US51047,51,047,S,Renter,1939-,All
+"Culpeper County, Virginia",45.0,58.0,32.0,05000US51047,51,047,D,Renter,1939-,Yes
+"Culpeper County, Virginia",745.0,293.0,33.0,05000US51047,51,047,D,Renter,1939-,No

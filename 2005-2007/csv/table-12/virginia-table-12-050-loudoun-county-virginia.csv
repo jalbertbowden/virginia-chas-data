@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Loudoun County, Virginia",85655.0,1209.0,1.0,05000US51107,51,107,T,All,All,All,All
+"Loudoun County, Virginia",71545.0,1186.0,2.0,05000US51107,51,107,S,Owner,All,All,All
+"Loudoun County, Virginia",25710.0,936.0,3.0,05000US51107,51,107,S,Owner,2000+,All,All
+"Loudoun County, Virginia",1035.0,311.0,4.0,05000US51107,51,107,S,Owner,2000+,<=50% AMI,All
+"Loudoun County, Virginia",95.0,67.0,5.0,05000US51107,51,107,D,Owner,2000+,<=50% AMI,No cost burden
+"Loudoun County, Virginia",140.0,123.0,6.0,05000US51107,51,107,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",605.0,199.0,7.0,05000US51107,51,107,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",200.0,168.0,8.0,05000US51107,51,107,D,Owner,2000+,<=50% AMI,N/A
+"Loudoun County, Virginia",2865.0,571.0,9.0,05000US51107,51,107,S,Owner,2000+,50.1-80% AMI,All
+"Loudoun County, Virginia",575.0,235.0,10.0,05000US51107,51,107,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",715.0,221.0,11.0,05000US51107,51,107,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",1570.0,436.0,12.0,05000US51107,51,107,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,13.0,05000US51107,51,107,D,Owner,2000+,50.1-80% AMI,N/A
+"Loudoun County, Virginia",5005.0,658.0,14.0,05000US51107,51,107,S,Owner,2000+,80.1-120% AMI,All
+"Loudoun County, Virginia",1650.0,321.0,15.0,05000US51107,51,107,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",2665.0,461.0,16.0,05000US51107,51,107,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",690.0,271.0,17.0,05000US51107,51,107,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,18.0,05000US51107,51,107,D,Owner,2000+,80.1-120% AMI,N/A
+"Loudoun County, Virginia",16810.0,968.0,19.0,05000US51107,51,107,S,Owner,2000+,>120% AMI,All
+"Loudoun County, Virginia",12230.0,972.0,20.0,05000US51107,51,107,D,Owner,2000+,>120% AMI,No cost burden
+"Loudoun County, Virginia",4050.0,520.0,21.0,05000US51107,51,107,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",525.0,219.0,22.0,05000US51107,51,107,D,Owner,2000+,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,23.0,05000US51107,51,107,D,Owner,2000+,>120% AMI,N/A
+"Loudoun County, Virginia",34280.0,1035.0,24.0,05000US51107,51,107,S,Owner,1980 to 1999,All,All
+"Loudoun County, Virginia",2075.0,415.0,25.0,05000US51107,51,107,S,Owner,1980 to 1999,<=50% AMI,All
+"Loudoun County, Virginia",90.0,69.0,26.0,05000US51107,51,107,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Loudoun County, Virginia",270.0,145.0,27.0,05000US51107,51,107,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",1500.0,415.0,28.0,05000US51107,51,107,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",220.0,159.0,29.0,05000US51107,51,107,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Loudoun County, Virginia",4020.0,448.0,30.0,05000US51107,51,107,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Loudoun County, Virginia",670.0,195.0,31.0,05000US51107,51,107,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",1835.0,347.0,32.0,05000US51107,51,107,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",1510.0,367.0,33.0,05000US51107,51,107,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,34.0,05000US51107,51,107,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Loudoun County, Virginia",7390.0,660.0,35.0,05000US51107,51,107,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Loudoun County, Virginia",4030.0,509.0,36.0,05000US51107,51,107,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",2740.0,425.0,37.0,05000US51107,51,107,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",620.0,289.0,38.0,05000US51107,51,107,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,39.0,05000US51107,51,107,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Loudoun County, Virginia",20800.0,919.0,40.0,05000US51107,51,107,S,Owner,1980 to 1999,>120% AMI,All
+"Loudoun County, Virginia",18225.0,987.0,41.0,05000US51107,51,107,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Loudoun County, Virginia",2305.0,417.0,42.0,05000US51107,51,107,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",270.0,183.0,43.0,05000US51107,51,107,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,44.0,05000US51107,51,107,D,Owner,1980 to 1999,>120% AMI,N/A
+"Loudoun County, Virginia",8515.0,686.0,45.0,05000US51107,51,107,S,Owner,1960 to 1979,All,All
+"Loudoun County, Virginia",1460.0,350.0,46.0,05000US51107,51,107,S,Owner,1960 to 1979,<=50% AMI,All
+"Loudoun County, Virginia",275.0,131.0,47.0,05000US51107,51,107,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Loudoun County, Virginia",185.0,102.0,48.0,05000US51107,51,107,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",970.0,326.0,49.0,05000US51107,51,107,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",30.0,29.0,50.0,05000US51107,51,107,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Loudoun County, Virginia",1610.0,355.0,51.0,05000US51107,51,107,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Loudoun County, Virginia",600.0,180.0,52.0,05000US51107,51,107,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",510.0,171.0,53.0,05000US51107,51,107,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",495.0,224.0,54.0,05000US51107,51,107,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,55.0,05000US51107,51,107,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Loudoun County, Virginia",2320.0,407.0,56.0,05000US51107,51,107,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Loudoun County, Virginia",1685.0,349.0,57.0,05000US51107,51,107,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",470.0,204.0,58.0,05000US51107,51,107,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",165.0,135.0,59.0,05000US51107,51,107,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,60.0,05000US51107,51,107,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Loudoun County, Virginia",3125.0,406.0,61.0,05000US51107,51,107,S,Owner,1960 to 1979,>120% AMI,All
+"Loudoun County, Virginia",2855.0,368.0,62.0,05000US51107,51,107,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Loudoun County, Virginia",275.0,130.0,63.0,05000US51107,51,107,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,64.0,05000US51107,51,107,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,65.0,05000US51107,51,107,D,Owner,1960 to 1979,>120% AMI,N/A
+"Loudoun County, Virginia",1145.0,318.0,66.0,05000US51107,51,107,S,Owner,1940 to 1959,All,All
+"Loudoun County, Virginia",270.0,150.0,67.0,05000US51107,51,107,S,Owner,1940 to 1959,<=50% AMI,All
+"Loudoun County, Virginia",150.0,112.0,68.0,05000US51107,51,107,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Loudoun County, Virginia",35.0,35.0,69.0,05000US51107,51,107,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",85.0,86.0,70.0,05000US51107,51,107,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,71.0,05000US51107,51,107,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Loudoun County, Virginia",125.0,79.0,72.0,05000US51107,51,107,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Loudoun County, Virginia",80.0,69.0,73.0,05000US51107,51,107,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",15.0,25.0,74.0,05000US51107,51,107,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",30.0,34.0,75.0,05000US51107,51,107,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,76.0,05000US51107,51,107,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Loudoun County, Virginia",310.0,140.0,77.0,05000US51107,51,107,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Loudoun County, Virginia",190.0,95.0,78.0,05000US51107,51,107,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",120.0,88.0,79.0,05000US51107,51,107,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,80.0,05000US51107,51,107,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,81.0,05000US51107,51,107,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Loudoun County, Virginia",435.0,169.0,82.0,05000US51107,51,107,S,Owner,1940 to 1959,>120% AMI,All
+"Loudoun County, Virginia",410.0,165.0,83.0,05000US51107,51,107,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Loudoun County, Virginia",15.0,22.0,84.0,05000US51107,51,107,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",15.0,25.0,85.0,05000US51107,51,107,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,86.0,05000US51107,51,107,D,Owner,1940 to 1959,>120% AMI,N/A
+"Loudoun County, Virginia",1890.0,323.0,87.0,05000US51107,51,107,S,Owner,1939-,All,All
+"Loudoun County, Virginia",325.0,155.0,88.0,05000US51107,51,107,S,Owner,1939-,<=50% AMI,All
+"Loudoun County, Virginia",80.0,79.0,89.0,05000US51107,51,107,D,Owner,1939-,<=50% AMI,No cost burden
+"Loudoun County, Virginia",20.0,31.0,90.0,05000US51107,51,107,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",220.0,136.0,91.0,05000US51107,51,107,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,92.0,05000US51107,51,107,D,Owner,1939-,<=50% AMI,N/A
+"Loudoun County, Virginia",290.0,105.0,93.0,05000US51107,51,107,S,Owner,1939-,50.1-80% AMI,All
+"Loudoun County, Virginia",195.0,96.0,94.0,05000US51107,51,107,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",35.0,31.0,95.0,05000US51107,51,107,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",65.0,60.0,96.0,05000US51107,51,107,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,97.0,05000US51107,51,107,D,Owner,1939-,50.1-80% AMI,N/A
+"Loudoun County, Virginia",390.0,157.0,98.0,05000US51107,51,107,S,Owner,1939-,80.1-120% AMI,All
+"Loudoun County, Virginia",305.0,142.0,99.0,05000US51107,51,107,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",35.0,41.0,100.0,05000US51107,51,107,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",50.0,51.0,101.0,05000US51107,51,107,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,102.0,05000US51107,51,107,D,Owner,1939-,80.1-120% AMI,N/A
+"Loudoun County, Virginia",885.0,226.0,103.0,05000US51107,51,107,S,Owner,1939-,>120% AMI,All
+"Loudoun County, Virginia",730.0,219.0,104.0,05000US51107,51,107,D,Owner,1939-,>120% AMI,No cost burden
+"Loudoun County, Virginia",135.0,82.0,105.0,05000US51107,51,107,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",20.0,34.0,106.0,05000US51107,51,107,D,Owner,1939-,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,107.0,05000US51107,51,107,D,Owner,1939-,>120% AMI,N/A
+"Loudoun County, Virginia",14115.0,992.0,108.0,05000US51107,51,107,S,Renter,All,All,All
+"Loudoun County, Virginia",5370.0,617.0,109.0,05000US51107,51,107,S,Renter,2000+,All,All
+"Loudoun County, Virginia",1340.0,376.0,110.0,05000US51107,51,107,S,Renter,2000+,<=50% AMI,All
+"Loudoun County, Virginia",45.0,63.0,111.0,05000US51107,51,107,D,Renter,2000+,<=50% AMI,No cost burden
+"Loudoun County, Virginia",380.0,202.0,112.0,05000US51107,51,107,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",780.0,310.0,113.0,05000US51107,51,107,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",140.0,106.0,114.0,05000US51107,51,107,D,Renter,2000+,<=50% AMI,N/A
+"Loudoun County, Virginia",1280.0,317.0,115.0,05000US51107,51,107,S,Renter,2000+,50.1-80% AMI,All
+"Loudoun County, Virginia",415.0,202.0,116.0,05000US51107,51,107,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",780.0,237.0,117.0,05000US51107,51,107,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",65.0,57.0,118.0,05000US51107,51,107,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",20.0,38.0,119.0,05000US51107,51,107,D,Renter,2000+,50.1-80% AMI,N/A
+"Loudoun County, Virginia",1400.0,350.0,120.0,05000US51107,51,107,S,Renter,2000+,80.1-120% AMI,All
+"Loudoun County, Virginia",1030.0,289.0,121.0,05000US51107,51,107,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",320.0,201.0,122.0,05000US51107,51,107,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",15.0,30.0,123.0,05000US51107,51,107,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",35.0,39.0,124.0,05000US51107,51,107,D,Renter,2000+,80.1-120% AMI,N/A
+"Loudoun County, Virginia",1350.0,319.0,125.0,05000US51107,51,107,S,Renter,2000+,>120% AMI,All
+"Loudoun County, Virginia",1335.0,315.0,126.0,05000US51107,51,107,D,Renter,2000+,>120% AMI,No cost burden
+"Loudoun County, Virginia",15.0,26.0,127.0,05000US51107,51,107,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,128.0,05000US51107,51,107,D,Renter,2000+,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,129.0,05000US51107,51,107,D,Renter,2000+,>120% AMI,N/A
+"Loudoun County, Virginia",5765.0,647.0,130.0,05000US51107,51,107,S,Renter,1980 to 1999,All,All
+"Loudoun County, Virginia",1865.0,395.0,131.0,05000US51107,51,107,S,Renter,1980 to 1999,<=50% AMI,All
+"Loudoun County, Virginia",250.0,122.0,132.0,05000US51107,51,107,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Loudoun County, Virginia",490.0,237.0,133.0,05000US51107,51,107,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",920.0,310.0,134.0,05000US51107,51,107,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",205.0,137.0,135.0,05000US51107,51,107,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Loudoun County, Virginia",1420.0,341.0,136.0,05000US51107,51,107,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Loudoun County, Virginia",740.0,290.0,137.0,05000US51107,51,107,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",535.0,235.0,138.0,05000US51107,51,107,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",75.0,64.0,139.0,05000US51107,51,107,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",70.0,59.0,140.0,05000US51107,51,107,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Loudoun County, Virginia",1250.0,314.0,141.0,05000US51107,51,107,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Loudoun County, Virginia",1015.0,272.0,142.0,05000US51107,51,107,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",200.0,145.0,143.0,05000US51107,51,107,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",25.0,31.0,144.0,05000US51107,51,107,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",15.0,29.0,145.0,05000US51107,51,107,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Loudoun County, Virginia",1230.0,347.0,146.0,05000US51107,51,107,S,Renter,1980 to 1999,>120% AMI,All
+"Loudoun County, Virginia",1125.0,347.0,147.0,05000US51107,51,107,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Loudoun County, Virginia",45.0,52.0,148.0,05000US51107,51,107,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,149.0,05000US51107,51,107,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",60.0,71.0,150.0,05000US51107,51,107,D,Renter,1980 to 1999,>120% AMI,N/A
+"Loudoun County, Virginia",2080.0,426.0,151.0,05000US51107,51,107,S,Renter,1960 to 1979,All,All
+"Loudoun County, Virginia",830.0,322.0,152.0,05000US51107,51,107,S,Renter,1960 to 1979,<=50% AMI,All
+"Loudoun County, Virginia",20.0,39.0,153.0,05000US51107,51,107,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Loudoun County, Virginia",260.0,161.0,154.0,05000US51107,51,107,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",300.0,147.0,155.0,05000US51107,51,107,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",245.0,263.0,156.0,05000US51107,51,107,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Loudoun County, Virginia",395.0,150.0,157.0,05000US51107,51,107,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Loudoun County, Virginia",125.0,81.0,158.0,05000US51107,51,107,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",215.0,130.0,159.0,05000US51107,51,107,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,160.0,05000US51107,51,107,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",55.0,55.0,161.0,05000US51107,51,107,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Loudoun County, Virginia",475.0,181.0,162.0,05000US51107,51,107,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Loudoun County, Virginia",365.0,150.0,163.0,05000US51107,51,107,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",85.0,102.0,164.0,05000US51107,51,107,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,165.0,05000US51107,51,107,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",25.0,42.0,166.0,05000US51107,51,107,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Loudoun County, Virginia",380.0,243.0,167.0,05000US51107,51,107,S,Renter,1960 to 1979,>120% AMI,All
+"Loudoun County, Virginia",300.0,166.0,168.0,05000US51107,51,107,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Loudoun County, Virginia",80.0,134.0,169.0,05000US51107,51,107,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,170.0,05000US51107,51,107,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,171.0,05000US51107,51,107,D,Renter,1960 to 1979,>120% AMI,N/A
+"Loudoun County, Virginia",330.0,135.0,172.0,05000US51107,51,107,S,Renter,1940 to 1959,All,All
+"Loudoun County, Virginia",160.0,94.0,173.0,05000US51107,51,107,S,Renter,1940 to 1959,<=50% AMI,All
+"Loudoun County, Virginia",0.0,161.0,174.0,05000US51107,51,107,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Loudoun County, Virginia",45.0,43.0,175.0,05000US51107,51,107,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",35.0,47.0,176.0,05000US51107,51,107,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",80.0,74.0,177.0,05000US51107,51,107,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Loudoun County, Virginia",100.0,65.0,178.0,05000US51107,51,107,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Loudoun County, Virginia",45.0,48.0,179.0,05000US51107,51,107,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",35.0,42.0,180.0,05000US51107,51,107,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",20.0,39.0,181.0,05000US51107,51,107,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,182.0,05000US51107,51,107,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Loudoun County, Virginia",50.0,63.0,183.0,05000US51107,51,107,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Loudoun County, Virginia",25.0,42.0,184.0,05000US51107,51,107,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",30.0,47.0,185.0,05000US51107,51,107,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,186.0,05000US51107,51,107,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,187.0,05000US51107,51,107,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Loudoun County, Virginia",20.0,32.0,188.0,05000US51107,51,107,S,Renter,1940 to 1959,>120% AMI,All
+"Loudoun County, Virginia",20.0,32.0,189.0,05000US51107,51,107,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Loudoun County, Virginia",0.0,161.0,190.0,05000US51107,51,107,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,191.0,05000US51107,51,107,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,192.0,05000US51107,51,107,D,Renter,1940 to 1959,>120% AMI,N/A
+"Loudoun County, Virginia",570.0,243.0,193.0,05000US51107,51,107,S,Renter,1939-,All,All
+"Loudoun County, Virginia",195.0,144.0,194.0,05000US51107,51,107,S,Renter,1939-,<=50% AMI,All
+"Loudoun County, Virginia",0.0,161.0,195.0,05000US51107,51,107,D,Renter,1939-,<=50% AMI,No cost burden
+"Loudoun County, Virginia",85.0,95.0,196.0,05000US51107,51,107,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Loudoun County, Virginia",75.0,67.0,197.0,05000US51107,51,107,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Loudoun County, Virginia",35.0,58.0,198.0,05000US51107,51,107,D,Renter,1939-,<=50% AMI,N/A
+"Loudoun County, Virginia",35.0,50.0,199.0,05000US51107,51,107,S,Renter,1939-,50.1-80% AMI,All
+"Loudoun County, Virginia",35.0,50.0,200.0,05000US51107,51,107,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Loudoun County, Virginia",0.0,161.0,201.0,05000US51107,51,107,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,202.0,05000US51107,51,107,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Loudoun County, Virginia",0.0,161.0,203.0,05000US51107,51,107,D,Renter,1939-,50.1-80% AMI,N/A
+"Loudoun County, Virginia",215.0,186.0,204.0,05000US51107,51,107,S,Renter,1939-,80.1-120% AMI,All
+"Loudoun County, Virginia",85.0,93.0,205.0,05000US51107,51,107,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Loudoun County, Virginia",0.0,161.0,206.0,05000US51107,51,107,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,207.0,05000US51107,51,107,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Loudoun County, Virginia",130.0,163.0,208.0,05000US51107,51,107,D,Renter,1939-,80.1-120% AMI,N/A
+"Loudoun County, Virginia",125.0,75.0,209.0,05000US51107,51,107,S,Renter,1939-,>120% AMI,All
+"Loudoun County, Virginia",105.0,69.0,210.0,05000US51107,51,107,D,Renter,1939-,>120% AMI,No cost burden
+"Loudoun County, Virginia",0.0,161.0,211.0,05000US51107,51,107,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Loudoun County, Virginia",0.0,161.0,212.0,05000US51107,51,107,D,Renter,1939-,>120% AMI,Severe cost burden
+"Loudoun County, Virginia",20.0,35.0,213.0,05000US51107,51,107,D,Renter,1939-,>120% AMI,N/A

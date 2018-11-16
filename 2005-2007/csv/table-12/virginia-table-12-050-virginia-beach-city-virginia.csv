@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Virginia Beach city, Virginia",161815.0,1317.0,1.0,05000US51810,51,810,T,All,All,All,All
+"Virginia Beach city, Virginia",111055.0,1430.0,2.0,05000US51810,51,810,S,Owner,All,All,All
+"Virginia Beach city, Virginia",9210.0,674.0,3.0,05000US51810,51,810,S,Owner,2000+,All,All
+"Virginia Beach city, Virginia",440.0,170.0,4.0,05000US51810,51,810,S,Owner,2000+,<=50% AMI,All
+"Virginia Beach city, Virginia",50.0,52.0,5.0,05000US51810,51,810,D,Owner,2000+,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",90.0,60.0,6.0,05000US51810,51,810,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",300.0,163.0,7.0,05000US51810,51,810,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,8.0,05000US51810,51,810,D,Owner,2000+,<=50% AMI,N/A
+"Virginia Beach city, Virginia",530.0,174.0,9.0,05000US51810,51,810,S,Owner,2000+,50.1-80% AMI,All
+"Virginia Beach city, Virginia",155.0,86.0,10.0,05000US51810,51,810,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",95.0,61.0,11.0,05000US51810,51,810,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",280.0,142.0,12.0,05000US51810,51,810,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,13.0,05000US51810,51,810,D,Owner,2000+,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",1440.0,287.0,14.0,05000US51810,51,810,S,Owner,2000+,80.1-120% AMI,All
+"Virginia Beach city, Virginia",640.0,205.0,15.0,05000US51810,51,810,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",550.0,189.0,16.0,05000US51810,51,810,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",255.0,124.0,17.0,05000US51810,51,810,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,18.0,05000US51810,51,810,D,Owner,2000+,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",6795.0,651.0,19.0,05000US51810,51,810,S,Owner,2000+,>120% AMI,All
+"Virginia Beach city, Virginia",5230.0,592.0,20.0,05000US51810,51,810,D,Owner,2000+,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",1430.0,284.0,21.0,05000US51810,51,810,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",135.0,83.0,22.0,05000US51810,51,810,D,Owner,2000+,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,23.0,05000US51810,51,810,D,Owner,2000+,>120% AMI,N/A
+"Virginia Beach city, Virginia",51000.0,1515.0,24.0,05000US51810,51,810,S,Owner,1980 to 1999,All,All
+"Virginia Beach city, Virginia",3395.0,428.0,25.0,05000US51810,51,810,S,Owner,1980 to 1999,<=50% AMI,All
+"Virginia Beach city, Virginia",495.0,211.0,26.0,05000US51810,51,810,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",450.0,158.0,27.0,05000US51810,51,810,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",2325.0,347.0,28.0,05000US51810,51,810,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",130.0,129.0,29.0,05000US51810,51,810,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Virginia Beach city, Virginia",6085.0,687.0,30.0,05000US51810,51,810,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Virginia Beach city, Virginia",1780.0,369.0,31.0,05000US51810,51,810,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",2720.0,544.0,32.0,05000US51810,51,810,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",1585.0,376.0,33.0,05000US51810,51,810,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,34.0,05000US51810,51,810,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",11345.0,934.0,35.0,05000US51810,51,810,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Virginia Beach city, Virginia",6335.0,695.0,36.0,05000US51810,51,810,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",4200.0,515.0,37.0,05000US51810,51,810,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",810.0,230.0,38.0,05000US51810,51,810,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,39.0,05000US51810,51,810,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",30175.0,1382.0,40.0,05000US51810,51,810,S,Owner,1980 to 1999,>120% AMI,All
+"Virginia Beach city, Virginia",25935.0,1285.0,41.0,05000US51810,51,810,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",3780.0,566.0,42.0,05000US51810,51,810,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",460.0,237.0,43.0,05000US51810,51,810,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,44.0,05000US51810,51,810,D,Owner,1980 to 1999,>120% AMI,N/A
+"Virginia Beach city, Virginia",39400.0,1275.0,45.0,05000US51810,51,810,S,Owner,1960 to 1979,All,All
+"Virginia Beach city, Virginia",3890.0,584.0,46.0,05000US51810,51,810,S,Owner,1960 to 1979,<=50% AMI,All
+"Virginia Beach city, Virginia",855.0,203.0,47.0,05000US51810,51,810,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",770.0,285.0,48.0,05000US51810,51,810,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",2000.0,391.0,49.0,05000US51810,51,810,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",265.0,182.0,50.0,05000US51810,51,810,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Virginia Beach city, Virginia",5255.0,590.0,51.0,05000US51810,51,810,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Virginia Beach city, Virginia",2245.0,341.0,52.0,05000US51810,51,810,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",2010.0,387.0,53.0,05000US51810,51,810,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",1000.0,236.0,54.0,05000US51810,51,810,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,55.0,05000US51810,51,810,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",9450.0,849.0,56.0,05000US51810,51,810,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Virginia Beach city, Virginia",5675.0,660.0,57.0,05000US51810,51,810,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",3125.0,508.0,58.0,05000US51810,51,810,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",645.0,270.0,59.0,05000US51810,51,810,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,60.0,05000US51810,51,810,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",20805.0,987.0,61.0,05000US51810,51,810,S,Owner,1960 to 1979,>120% AMI,All
+"Virginia Beach city, Virginia",18855.0,1002.0,62.0,05000US51810,51,810,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",1835.0,361.0,63.0,05000US51810,51,810,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",115.0,82.0,64.0,05000US51810,51,810,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,65.0,05000US51810,51,810,D,Owner,1960 to 1979,>120% AMI,N/A
+"Virginia Beach city, Virginia",10560.0,740.0,66.0,05000US51810,51,810,S,Owner,1940 to 1959,All,All
+"Virginia Beach city, Virginia",1230.0,281.0,67.0,05000US51810,51,810,S,Owner,1940 to 1959,<=50% AMI,All
+"Virginia Beach city, Virginia",370.0,135.0,68.0,05000US51810,51,810,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",225.0,123.0,69.0,05000US51810,51,810,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",605.0,169.0,70.0,05000US51810,51,810,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",30.0,40.0,71.0,05000US51810,51,810,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Virginia Beach city, Virginia",1780.0,392.0,72.0,05000US51810,51,810,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Virginia Beach city, Virginia",1030.0,282.0,73.0,05000US51810,51,810,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",415.0,181.0,74.0,05000US51810,51,810,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",340.0,157.0,75.0,05000US51810,51,810,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,76.0,05000US51810,51,810,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",2915.0,477.0,77.0,05000US51810,51,810,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Virginia Beach city, Virginia",2100.0,372.0,78.0,05000US51810,51,810,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",620.0,183.0,79.0,05000US51810,51,810,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",195.0,159.0,80.0,05000US51810,51,810,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,81.0,05000US51810,51,810,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",4635.0,520.0,82.0,05000US51810,51,810,S,Owner,1940 to 1959,>120% AMI,All
+"Virginia Beach city, Virginia",4150.0,499.0,83.0,05000US51810,51,810,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",450.0,144.0,84.0,05000US51810,51,810,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",35.0,46.0,85.0,05000US51810,51,810,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,86.0,05000US51810,51,810,D,Owner,1940 to 1959,>120% AMI,N/A
+"Virginia Beach city, Virginia",885.0,218.0,87.0,05000US51810,51,810,S,Owner,1939-,All,All
+"Virginia Beach city, Virginia",110.0,113.0,88.0,05000US51810,51,810,S,Owner,1939-,<=50% AMI,All
+"Virginia Beach city, Virginia",0.0,161.0,89.0,05000US51810,51,810,D,Owner,1939-,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",80.0,106.0,90.0,05000US51810,51,810,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",15.0,29.0,91.0,05000US51810,51,810,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",15.0,26.0,92.0,05000US51810,51,810,D,Owner,1939-,<=50% AMI,N/A
+"Virginia Beach city, Virginia",135.0,93.0,93.0,05000US51810,51,810,S,Owner,1939-,50.1-80% AMI,All
+"Virginia Beach city, Virginia",40.0,47.0,94.0,05000US51810,51,810,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",70.0,68.0,95.0,05000US51810,51,810,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",25.0,43.0,96.0,05000US51810,51,810,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,97.0,05000US51810,51,810,D,Owner,1939-,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",190.0,106.0,98.0,05000US51810,51,810,S,Owner,1939-,80.1-120% AMI,All
+"Virginia Beach city, Virginia",120.0,84.0,99.0,05000US51810,51,810,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",55.0,54.0,100.0,05000US51810,51,810,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",15.0,28.0,101.0,05000US51810,51,810,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,102.0,05000US51810,51,810,D,Owner,1939-,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",450.0,147.0,103.0,05000US51810,51,810,S,Owner,1939-,>120% AMI,All
+"Virginia Beach city, Virginia",390.0,139.0,104.0,05000US51810,51,810,D,Owner,1939-,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",55.0,54.0,105.0,05000US51810,51,810,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,106.0,05000US51810,51,810,D,Owner,1939-,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,107.0,05000US51810,51,810,D,Owner,1939-,>120% AMI,N/A
+"Virginia Beach city, Virginia",50760.0,1583.0,108.0,05000US51810,51,810,S,Renter,All,All,All
+"Virginia Beach city, Virginia",4270.0,511.0,109.0,05000US51810,51,810,S,Renter,2000+,All,All
+"Virginia Beach city, Virginia",885.0,250.0,110.0,05000US51810,51,810,S,Renter,2000+,<=50% AMI,All
+"Virginia Beach city, Virginia",90.0,91.0,111.0,05000US51810,51,810,D,Renter,2000+,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",190.0,95.0,112.0,05000US51810,51,810,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",550.0,241.0,113.0,05000US51810,51,810,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",50.0,39.0,114.0,05000US51810,51,810,D,Renter,2000+,<=50% AMI,N/A
+"Virginia Beach city, Virginia",810.0,308.0,115.0,05000US51810,51,810,S,Renter,2000+,50.1-80% AMI,All
+"Virginia Beach city, Virginia",180.0,166.0,116.0,05000US51810,51,810,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",435.0,256.0,117.0,05000US51810,51,810,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",110.0,117.0,118.0,05000US51810,51,810,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",90.0,91.0,119.0,05000US51810,51,810,D,Renter,2000+,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",1090.0,316.0,120.0,05000US51810,51,810,S,Renter,2000+,80.1-120% AMI,All
+"Virginia Beach city, Virginia",665.0,266.0,121.0,05000US51810,51,810,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",385.0,160.0,122.0,05000US51810,51,810,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",25.0,43.0,123.0,05000US51810,51,810,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",15.0,23.0,124.0,05000US51810,51,810,D,Renter,2000+,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",1480.0,343.0,125.0,05000US51810,51,810,S,Renter,2000+,>120% AMI,All
+"Virginia Beach city, Virginia",1320.0,333.0,126.0,05000US51810,51,810,D,Renter,2000+,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",85.0,111.0,127.0,05000US51810,51,810,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,128.0,05000US51810,51,810,D,Renter,2000+,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",75.0,96.0,129.0,05000US51810,51,810,D,Renter,2000+,>120% AMI,N/A
+"Virginia Beach city, Virginia",18905.0,1243.0,130.0,05000US51810,51,810,S,Renter,1980 to 1999,All,All
+"Virginia Beach city, Virginia",4605.0,629.0,131.0,05000US51810,51,810,S,Renter,1980 to 1999,<=50% AMI,All
+"Virginia Beach city, Virginia",495.0,279.0,132.0,05000US51810,51,810,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",1070.0,337.0,133.0,05000US51810,51,810,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",2855.0,491.0,134.0,05000US51810,51,810,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",185.0,96.0,135.0,05000US51810,51,810,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Virginia Beach city, Virginia",4000.0,531.0,136.0,05000US51810,51,810,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Virginia Beach city, Virginia",705.0,246.0,137.0,05000US51810,51,810,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",2605.0,468.0,138.0,05000US51810,51,810,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",595.0,202.0,139.0,05000US51810,51,810,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",90.0,69.0,140.0,05000US51810,51,810,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",5155.0,781.0,141.0,05000US51810,51,810,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Virginia Beach city, Virginia",3970.0,685.0,142.0,05000US51810,51,810,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",1050.0,293.0,143.0,05000US51810,51,810,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",40.0,48.0,144.0,05000US51810,51,810,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",95.0,70.0,145.0,05000US51810,51,810,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",5145.0,719.0,146.0,05000US51810,51,810,S,Renter,1980 to 1999,>120% AMI,All
+"Virginia Beach city, Virginia",4880.0,713.0,147.0,05000US51810,51,810,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",230.0,123.0,148.0,05000US51810,51,810,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,149.0,05000US51810,51,810,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",40.0,47.0,150.0,05000US51810,51,810,D,Renter,1980 to 1999,>120% AMI,N/A
+"Virginia Beach city, Virginia",22495.0,1472.0,151.0,05000US51810,51,810,S,Renter,1960 to 1979,All,All
+"Virginia Beach city, Virginia",6305.0,732.0,152.0,05000US51810,51,810,S,Renter,1960 to 1979,<=50% AMI,All
+"Virginia Beach city, Virginia",545.0,243.0,153.0,05000US51810,51,810,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",1165.0,450.0,154.0,05000US51810,51,810,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",4085.0,583.0,155.0,05000US51810,51,810,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",505.0,236.0,156.0,05000US51810,51,810,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Virginia Beach city, Virginia",5505.0,770.0,157.0,05000US51810,51,810,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Virginia Beach city, Virginia",1410.0,381.0,158.0,05000US51810,51,810,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",3495.0,564.0,159.0,05000US51810,51,810,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",415.0,216.0,160.0,05000US51810,51,810,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",185.0,144.0,161.0,05000US51810,51,810,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",5760.0,850.0,162.0,05000US51810,51,810,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Virginia Beach city, Virginia",4605.0,746.0,163.0,05000US51810,51,810,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",1050.0,343.0,164.0,05000US51810,51,810,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,165.0,05000US51810,51,810,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",105.0,113.0,166.0,05000US51810,51,810,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",4925.0,815.0,167.0,05000US51810,51,810,S,Renter,1960 to 1979,>120% AMI,All
+"Virginia Beach city, Virginia",4570.0,759.0,168.0,05000US51810,51,810,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",275.0,159.0,169.0,05000US51810,51,810,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,170.0,05000US51810,51,810,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",80.0,65.0,171.0,05000US51810,51,810,D,Renter,1960 to 1979,>120% AMI,N/A
+"Virginia Beach city, Virginia",4270.0,585.0,172.0,05000US51810,51,810,S,Renter,1940 to 1959,All,All
+"Virginia Beach city, Virginia",910.0,260.0,173.0,05000US51810,51,810,S,Renter,1940 to 1959,<=50% AMI,All
+"Virginia Beach city, Virginia",60.0,100.0,174.0,05000US51810,51,810,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",165.0,134.0,175.0,05000US51810,51,810,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",595.0,198.0,176.0,05000US51810,51,810,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",85.0,94.0,177.0,05000US51810,51,810,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Virginia Beach city, Virginia",1490.0,407.0,178.0,05000US51810,51,810,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Virginia Beach city, Virginia",495.0,243.0,179.0,05000US51810,51,810,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",755.0,304.0,180.0,05000US51810,51,810,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",160.0,148.0,181.0,05000US51810,51,810,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",80.0,94.0,182.0,05000US51810,51,810,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",975.0,354.0,183.0,05000US51810,51,810,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Virginia Beach city, Virginia",825.0,340.0,184.0,05000US51810,51,810,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",80.0,65.0,185.0,05000US51810,51,810,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,186.0,05000US51810,51,810,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",70.0,59.0,187.0,05000US51810,51,810,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",900.0,270.0,188.0,05000US51810,51,810,S,Renter,1940 to 1959,>120% AMI,All
+"Virginia Beach city, Virginia",725.0,274.0,189.0,05000US51810,51,810,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",45.0,52.0,190.0,05000US51810,51,810,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,191.0,05000US51810,51,810,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",130.0,113.0,192.0,05000US51810,51,810,D,Renter,1940 to 1959,>120% AMI,N/A
+"Virginia Beach city, Virginia",820.0,287.0,193.0,05000US51810,51,810,S,Renter,1939-,All,All
+"Virginia Beach city, Virginia",280.0,146.0,194.0,05000US51810,51,810,S,Renter,1939-,<=50% AMI,All
+"Virginia Beach city, Virginia",55.0,88.0,195.0,05000US51810,51,810,D,Renter,1939-,<=50% AMI,No cost burden
+"Virginia Beach city, Virginia",20.0,34.0,196.0,05000US51810,51,810,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",145.0,100.0,197.0,05000US51810,51,810,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Virginia Beach city, Virginia",65.0,61.0,198.0,05000US51810,51,810,D,Renter,1939-,<=50% AMI,N/A
+"Virginia Beach city, Virginia",185.0,129.0,199.0,05000US51810,51,810,S,Renter,1939-,50.1-80% AMI,All
+"Virginia Beach city, Virginia",65.0,47.0,200.0,05000US51810,51,810,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Virginia Beach city, Virginia",120.0,118.0,201.0,05000US51810,51,810,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,202.0,05000US51810,51,810,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Virginia Beach city, Virginia",0.0,161.0,203.0,05000US51810,51,810,D,Renter,1939-,50.1-80% AMI,N/A
+"Virginia Beach city, Virginia",45.0,45.0,204.0,05000US51810,51,810,S,Renter,1939-,80.1-120% AMI,All
+"Virginia Beach city, Virginia",30.0,39.0,205.0,05000US51810,51,810,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Virginia Beach city, Virginia",0.0,161.0,206.0,05000US51810,51,810,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,207.0,05000US51810,51,810,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",15.0,25.0,208.0,05000US51810,51,810,D,Renter,1939-,80.1-120% AMI,N/A
+"Virginia Beach city, Virginia",310.0,162.0,209.0,05000US51810,51,810,S,Renter,1939-,>120% AMI,All
+"Virginia Beach city, Virginia",210.0,122.0,210.0,05000US51810,51,810,D,Renter,1939-,>120% AMI,No cost burden
+"Virginia Beach city, Virginia",55.0,97.0,211.0,05000US51810,51,810,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Virginia Beach city, Virginia",0.0,161.0,212.0,05000US51810,51,810,D,Renter,1939-,>120% AMI,Severe cost burden
+"Virginia Beach city, Virginia",40.0,48.0,213.0,05000US51810,51,810,D,Renter,1939-,>120% AMI,N/A

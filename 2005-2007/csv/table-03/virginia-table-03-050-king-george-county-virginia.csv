@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"King George County, Virginia",7695.0,321.0,1.0,05000US51099,51,099,T,All,All,All
+"King George County, Virginia",5925.0,377.0,2.0,05000US51099,51,099,S,Owner,All,All
+"King George County, Virginia",0.0,161.0,3.0,05000US51099,51,099,S,Owner,Substandard,All
+"King George County, Virginia",0.0,161.0,4.0,05000US51099,51,099,D,Owner,Substandard,<=30% AMI
+"King George County, Virginia",0.0,161.0,5.0,05000US51099,51,099,D,Owner,Substandard,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,6.0,05000US51099,51,099,D,Owner,Substandard,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,7.0,05000US51099,51,099,D,Owner,Substandard,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,8.0,05000US51099,51,099,D,Owner,Substandard,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,9.0,05000US51099,51,099,D,Owner,Substandard,>95% AMI
+"King George County, Virginia",0.0,161.0,10.0,05000US51099,51,099,S,Owner,Severely overcrowded,All
+"King George County, Virginia",0.0,161.0,11.0,05000US51099,51,099,D,Owner,Severely overcrowded,<=30% AMI
+"King George County, Virginia",0.0,161.0,12.0,05000US51099,51,099,D,Owner,Severely overcrowded,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,13.0,05000US51099,51,099,D,Owner,Severely overcrowded,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,14.0,05000US51099,51,099,D,Owner,Severely overcrowded,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,15.0,05000US51099,51,099,D,Owner,Severely overcrowded,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,16.0,05000US51099,51,099,D,Owner,Severely overcrowded,>95% AMI
+"King George County, Virginia",30.0,39.0,17.0,05000US51099,51,099,S,Owner,Overcrowded,All
+"King George County, Virginia",0.0,161.0,18.0,05000US51099,51,099,D,Owner,Overcrowded,<=30% AMI
+"King George County, Virginia",15.0,31.0,19.0,05000US51099,51,099,D,Owner,Overcrowded,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,20.0,05000US51099,51,099,D,Owner,Overcrowded,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,21.0,05000US51099,51,099,D,Owner,Overcrowded,60.1-80% AMI
+"King George County, Virginia",15.0,24.0,22.0,05000US51099,51,099,D,Owner,Overcrowded,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,23.0,05000US51099,51,099,D,Owner,Overcrowded,>95% AMI
+"King George County, Virginia",560.0,187.0,24.0,05000US51099,51,099,S,Owner,Severely cost burdened,All
+"King George County, Virginia",150.0,78.0,25.0,05000US51099,51,099,D,Owner,Severely cost burdened,<=30% AMI
+"King George County, Virginia",90.0,73.0,26.0,05000US51099,51,099,D,Owner,Severely cost burdened,30.1-50% AMI
+"King George County, Virginia",100.0,109.0,27.0,05000US51099,51,099,D,Owner,Severely cost burdened,50.1-60% AMI
+"King George County, Virginia",100.0,79.0,28.0,05000US51099,51,099,D,Owner,Severely cost burdened,60.1-80% AMI
+"King George County, Virginia",45.0,58.0,29.0,05000US51099,51,099,D,Owner,Severely cost burdened,80.1-95% AMI
+"King George County, Virginia",65.0,75.0,30.0,05000US51099,51,099,D,Owner,Severely cost burdened,>95% AMI
+"King George County, Virginia",965.0,235.0,31.0,05000US51099,51,099,S,Owner,Cost burdened,All
+"King George County, Virginia",45.0,58.0,32.0,05000US51099,51,099,D,Owner,Cost burdened,<=30% AMI
+"King George County, Virginia",35.0,48.0,33.0,05000US51099,51,099,D,Owner,Cost burdened,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,34.0,05000US51099,51,099,D,Owner,Cost burdened,50.1-60% AMI
+"King George County, Virginia",130.0,108.0,35.0,05000US51099,51,099,D,Owner,Cost burdened,60.1-80% AMI
+"King George County, Virginia",110.0,84.0,36.0,05000US51099,51,099,D,Owner,Cost burdened,80.1-95% AMI
+"King George County, Virginia",645.0,201.0,37.0,05000US51099,51,099,D,Owner,Cost burdened,>95% AMI
+"King George County, Virginia",15.0,30.0,38.0,05000US51099,51,099,S,Owner,No income or no cash rent,All
+"King George County, Virginia",15.0,30.0,39.0,05000US51099,51,099,D,Owner,No income or no cash rent,<=30% AMI
+"King George County, Virginia",0.0,161.0,40.0,05000US51099,51,099,D,Owner,No income or no cash rent,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,41.0,05000US51099,51,099,D,Owner,No income or no cash rent,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,42.0,05000US51099,51,099,D,Owner,No income or no cash rent,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,43.0,05000US51099,51,099,D,Owner,No income or no cash rent,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,44.0,05000US51099,51,099,D,Owner,No income or no cash rent,>95% AMI
+"King George County, Virginia",4355.0,339.0,45.0,05000US51099,51,099,S,Owner,No housing problems,All
+"King George County, Virginia",15.0,24.0,46.0,05000US51099,51,099,D,Owner,No housing problems,<=30% AMI
+"King George County, Virginia",235.0,140.0,47.0,05000US51099,51,099,D,Owner,No housing problems,30.1-50% AMI
+"King George County, Virginia",40.0,41.0,48.0,05000US51099,51,099,D,Owner,No housing problems,50.1-60% AMI
+"King George County, Virginia",275.0,122.0,49.0,05000US51099,51,099,D,Owner,No housing problems,60.1-80% AMI
+"King George County, Virginia",310.0,147.0,50.0,05000US51099,51,099,D,Owner,No housing problems,80.1-95% AMI
+"King George County, Virginia",3485.0,311.0,51.0,05000US51099,51,099,D,Owner,No housing problems,>95% AMI
+"King George County, Virginia",1765.0,318.0,52.0,05000US51099,51,099,S,Renter,All,All
+"King George County, Virginia",35.0,53.0,53.0,05000US51099,51,099,S,Renter,Substandard,All
+"King George County, Virginia",0.0,161.0,54.0,05000US51099,51,099,D,Renter,Substandard,<=30% AMI
+"King George County, Virginia",35.0,53.0,55.0,05000US51099,51,099,D,Renter,Substandard,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,56.0,05000US51099,51,099,D,Renter,Substandard,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,57.0,05000US51099,51,099,D,Renter,Substandard,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,58.0,05000US51099,51,099,D,Renter,Substandard,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,59.0,05000US51099,51,099,D,Renter,Substandard,>95% AMI
+"King George County, Virginia",0.0,161.0,60.0,05000US51099,51,099,S,Renter,Severely overcrowded,All
+"King George County, Virginia",0.0,161.0,61.0,05000US51099,51,099,D,Renter,Severely overcrowded,<=30% AMI
+"King George County, Virginia",0.0,161.0,62.0,05000US51099,51,099,D,Renter,Severely overcrowded,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,63.0,05000US51099,51,099,D,Renter,Severely overcrowded,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,64.0,05000US51099,51,099,D,Renter,Severely overcrowded,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,65.0,05000US51099,51,099,D,Renter,Severely overcrowded,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,66.0,05000US51099,51,099,D,Renter,Severely overcrowded,>95% AMI
+"King George County, Virginia",0.0,161.0,67.0,05000US51099,51,099,S,Renter,Overcrowded,All
+"King George County, Virginia",0.0,161.0,68.0,05000US51099,51,099,D,Renter,Overcrowded,<=30% AMI
+"King George County, Virginia",0.0,161.0,69.0,05000US51099,51,099,D,Renter,Overcrowded,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,70.0,05000US51099,51,099,D,Renter,Overcrowded,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,71.0,05000US51099,51,099,D,Renter,Overcrowded,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,72.0,05000US51099,51,099,D,Renter,Overcrowded,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,73.0,05000US51099,51,099,D,Renter,Overcrowded,>95% AMI
+"King George County, Virginia",365.0,166.0,74.0,05000US51099,51,099,S,Renter,Severely cost burdened,All
+"King George County, Virginia",300.0,147.0,75.0,05000US51099,51,099,D,Renter,Severely cost burdened,<=30% AMI
+"King George County, Virginia",65.0,53.0,76.0,05000US51099,51,099,D,Renter,Severely cost burdened,30.1-50% AMI
+"King George County, Virginia",0.0,161.0,77.0,05000US51099,51,099,D,Renter,Severely cost burdened,50.1-60% AMI
+"King George County, Virginia",0.0,161.0,78.0,05000US51099,51,099,D,Renter,Severely cost burdened,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,79.0,05000US51099,51,099,D,Renter,Severely cost burdened,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,80.0,05000US51099,51,099,D,Renter,Severely cost burdened,>95% AMI
+"King George County, Virginia",405.0,163.0,81.0,05000US51099,51,099,S,Renter,Cost burdened,All
+"King George County, Virginia",0.0,161.0,82.0,05000US51099,51,099,D,Renter,Cost burdened,<=30% AMI
+"King George County, Virginia",305.0,156.0,83.0,05000US51099,51,099,D,Renter,Cost burdened,30.1-50% AMI
+"King George County, Virginia",30.0,42.0,84.0,05000US51099,51,099,D,Renter,Cost burdened,50.1-60% AMI
+"King George County, Virginia",70.0,54.0,85.0,05000US51099,51,099,D,Renter,Cost burdened,60.1-80% AMI
+"King George County, Virginia",0.0,161.0,86.0,05000US51099,51,099,D,Renter,Cost burdened,80.1-95% AMI
+"King George County, Virginia",0.0,161.0,87.0,05000US51099,51,099,D,Renter,Cost burdened,>95% AMI
+"King George County, Virginia",125.0,97.0,88.0,05000US51099,51,099,S,Renter,No income or no cash rent,All
+"King George County, Virginia",0.0,161.0,89.0,05000US51099,51,099,D,Renter,No income or no cash rent,<=30% AMI
+"King George County, Virginia",40.0,54.0,90.0,05000US51099,51,099,D,Renter,No income or no cash rent,30.1-50% AMI
+"King George County, Virginia",20.0,33.0,91.0,05000US51099,51,099,D,Renter,No income or no cash rent,50.1-60% AMI
+"King George County, Virginia",25.0,50.0,92.0,05000US51099,51,099,D,Renter,No income or no cash rent,60.1-80% AMI
+"King George County, Virginia",20.0,27.0,93.0,05000US51099,51,099,D,Renter,No income or no cash rent,80.1-95% AMI
+"King George County, Virginia",20.0,27.0,94.0,05000US51099,51,099,D,Renter,No income or no cash rent,>95% AMI
+"King George County, Virginia",840.0,239.0,95.0,05000US51099,51,099,S,Renter,No housing problems,All
+"King George County, Virginia",0.0,161.0,96.0,05000US51099,51,099,D,Renter,No housing problems,<=30% AMI
+"King George County, Virginia",45.0,48.0,97.0,05000US51099,51,099,D,Renter,No housing problems,30.1-50% AMI
+"King George County, Virginia",120.0,138.0,98.0,05000US51099,51,099,D,Renter,No housing problems,50.1-60% AMI
+"King George County, Virginia",130.0,107.0,99.0,05000US51099,51,099,D,Renter,No housing problems,60.1-80% AMI
+"King George County, Virginia",150.0,123.0,100.0,05000US51099,51,099,D,Renter,No housing problems,80.1-95% AMI
+"King George County, Virginia",390.0,162.0,101.0,05000US51099,51,099,D,Renter,No housing problems,>95% AMI

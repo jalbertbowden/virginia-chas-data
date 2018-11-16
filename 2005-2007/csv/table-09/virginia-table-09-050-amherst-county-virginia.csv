@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Amherst County, Virginia",12730.0,370.0,1.0,05000US51009,51,009,T,All,All,All
+"Amherst County, Virginia",9680.0,490.0,2.0,05000US51009,51,009,S,Owner,All,All
+"Amherst County, Virginia",7720.0,414.0,3.0,05000US51009,51,009,S,Owner,White,All
+"Amherst County, Virginia",6445.0,432.0,4.0,05000US51009,51,009,D,Owner,White,No cost burden
+"Amherst County, Virginia",845.0,228.0,5.0,05000US51009,51,009,D,Owner,White,Moderate cost burden
+"Amherst County, Virginia",380.0,136.0,6.0,05000US51009,51,009,D,Owner,White,Severe cost burden
+"Amherst County, Virginia",45.0,56.0,7.0,05000US51009,51,009,D,Owner,White,N/A
+"Amherst County, Virginia",1830.0,196.0,8.0,05000US51009,51,009,S,Owner,Black,All
+"Amherst County, Virginia",1500.0,210.0,9.0,05000US51009,51,009,D,Owner,Black,No cost burden
+"Amherst County, Virginia",135.0,81.0,10.0,05000US51009,51,009,D,Owner,Black,Moderate cost burden
+"Amherst County, Virginia",145.0,126.0,11.0,05000US51009,51,009,D,Owner,Black,Severe cost burden
+"Amherst County, Virginia",45.0,57.0,12.0,05000US51009,51,009,D,Owner,Black,N/A
+"Amherst County, Virginia",30.0,34.0,13.0,05000US51009,51,009,S,Owner,Asian,All
+"Amherst County, Virginia",10.0,16.0,14.0,05000US51009,51,009,D,Owner,Asian,No cost burden
+"Amherst County, Virginia",0.0,161.0,15.0,05000US51009,51,009,D,Owner,Asian,Moderate cost burden
+"Amherst County, Virginia",15.0,34.0,16.0,05000US51009,51,009,D,Owner,Asian,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,17.0,05000US51009,51,009,D,Owner,Asian,N/A
+"Amherst County, Virginia",40.0,43.0,18.0,05000US51009,51,009,S,Owner,American Indian,All
+"Amherst County, Virginia",25.0,36.0,19.0,05000US51009,51,009,D,Owner,American Indian,No cost burden
+"Amherst County, Virginia",4.0,20.0,20.0,05000US51009,51,009,D,Owner,American Indian,Moderate cost burden
+"Amherst County, Virginia",10.0,16.0,21.0,05000US51009,51,009,D,Owner,American Indian,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,22.0,05000US51009,51,009,D,Owner,American Indian,N/A
+"Amherst County, Virginia",0.0,161.0,23.0,05000US51009,51,009,S,Owner,Pacific Islander,All
+"Amherst County, Virginia",0.0,161.0,24.0,05000US51009,51,009,D,Owner,Pacific Islander,No cost burden
+"Amherst County, Virginia",0.0,161.0,25.0,05000US51009,51,009,D,Owner,Pacific Islander,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,26.0,05000US51009,51,009,D,Owner,Pacific Islander,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,27.0,05000US51009,51,009,D,Owner,Pacific Islander,N/A
+"Amherst County, Virginia",50.0,84.0,28.0,05000US51009,51,009,S,Owner,Hispanic,All
+"Amherst County, Virginia",25.0,57.0,29.0,05000US51009,51,009,D,Owner,Hispanic,No cost burden
+"Amherst County, Virginia",25.0,55.0,30.0,05000US51009,51,009,D,Owner,Hispanic,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,31.0,05000US51009,51,009,D,Owner,Hispanic,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,32.0,05000US51009,51,009,D,Owner,Hispanic,N/A
+"Amherst County, Virginia",10.0,23.0,33.0,05000US51009,51,009,S,Owner,Other,All
+"Amherst County, Virginia",10.0,23.0,34.0,05000US51009,51,009,D,Owner,Other,No cost burden
+"Amherst County, Virginia",0.0,161.0,35.0,05000US51009,51,009,D,Owner,Other,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,36.0,05000US51009,51,009,D,Owner,Other,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,37.0,05000US51009,51,009,D,Owner,Other,N/A
+"Amherst County, Virginia",3050.0,476.0,38.0,05000US51009,51,009,S,Renter,All,All
+"Amherst County, Virginia",2385.0,412.0,39.0,05000US51009,51,009,S,Renter,White,All
+"Amherst County, Virginia",1480.0,402.0,40.0,05000US51009,51,009,D,Renter,White,No cost burden
+"Amherst County, Virginia",480.0,221.0,41.0,05000US51009,51,009,D,Renter,White,Moderate cost burden
+"Amherst County, Virginia",240.0,160.0,42.0,05000US51009,51,009,D,Renter,White,Severe cost burden
+"Amherst County, Virginia",180.0,104.0,43.0,05000US51009,51,009,D,Renter,White,N/A
+"Amherst County, Virginia",460.0,190.0,44.0,05000US51009,51,009,S,Renter,Black,All
+"Amherst County, Virginia",190.0,134.0,45.0,05000US51009,51,009,D,Renter,Black,No cost burden
+"Amherst County, Virginia",40.0,49.0,46.0,05000US51009,51,009,D,Renter,Black,Moderate cost burden
+"Amherst County, Virginia",120.0,92.0,47.0,05000US51009,51,009,D,Renter,Black,Severe cost burden
+"Amherst County, Virginia",110.0,110.0,48.0,05000US51009,51,009,D,Renter,Black,N/A
+"Amherst County, Virginia",0.0,161.0,49.0,05000US51009,51,009,S,Renter,Asian,All
+"Amherst County, Virginia",0.0,161.0,50.0,05000US51009,51,009,D,Renter,Asian,No cost burden
+"Amherst County, Virginia",0.0,161.0,51.0,05000US51009,51,009,D,Renter,Asian,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,52.0,05000US51009,51,009,D,Renter,Asian,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,53.0,05000US51009,51,009,D,Renter,Asian,N/A
+"Amherst County, Virginia",65.0,51.0,54.0,05000US51009,51,009,S,Renter,American Indian,All
+"Amherst County, Virginia",25.0,24.0,55.0,05000US51009,51,009,D,Renter,American Indian,No cost burden
+"Amherst County, Virginia",0.0,161.0,56.0,05000US51009,51,009,D,Renter,American Indian,Moderate cost burden
+"Amherst County, Virginia",45.0,59.0,57.0,05000US51009,51,009,D,Renter,American Indian,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,58.0,05000US51009,51,009,D,Renter,American Indian,N/A
+"Amherst County, Virginia",55.0,84.0,59.0,05000US51009,51,009,S,Renter,Pacific Islander,All
+"Amherst County, Virginia",55.0,84.0,60.0,05000US51009,51,009,D,Renter,Pacific Islander,No cost burden
+"Amherst County, Virginia",0.0,161.0,61.0,05000US51009,51,009,D,Renter,Pacific Islander,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,62.0,05000US51009,51,009,D,Renter,Pacific Islander,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,63.0,05000US51009,51,009,D,Renter,Pacific Islander,N/A
+"Amherst County, Virginia",70.0,71.0,64.0,05000US51009,51,009,S,Renter,Hispanic,All
+"Amherst County, Virginia",70.0,71.0,65.0,05000US51009,51,009,D,Renter,Hispanic,No cost burden
+"Amherst County, Virginia",0.0,161.0,66.0,05000US51009,51,009,D,Renter,Hispanic,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,67.0,05000US51009,51,009,D,Renter,Hispanic,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,68.0,05000US51009,51,009,D,Renter,Hispanic,N/A
+"Amherst County, Virginia",15.0,25.0,69.0,05000US51009,51,009,S,Renter,Other,All
+"Amherst County, Virginia",0.0,161.0,70.0,05000US51009,51,009,D,Renter,Other,No cost burden
+"Amherst County, Virginia",15.0,25.0,71.0,05000US51009,51,009,D,Renter,Other,Moderate cost burden
+"Amherst County, Virginia",0.0,161.0,72.0,05000US51009,51,009,D,Renter,Other,Severe cost burden
+"Amherst County, Virginia",0.0,161.0,73.0,05000US51009,51,009,D,Renter,Other,N/A

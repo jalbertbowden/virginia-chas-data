@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Roanoke County, Virginia",36830.0,553.0,1.0,05000US51161,51,161,T,All,All,All
+"Roanoke County, Virginia",29200.0,731.0,2.0,05000US51161,51,161,S,Owner,All,All
+"Roanoke County, Virginia",27680.0,765.0,3.0,05000US51161,51,161,S,Owner,White,All
+"Roanoke County, Virginia",22815.0,800.0,4.0,05000US51161,51,161,D,Owner,White,No cost burden
+"Roanoke County, Virginia",3120.0,487.0,5.0,05000US51161,51,161,D,Owner,White,Moderate cost burden
+"Roanoke County, Virginia",1675.0,390.0,6.0,05000US51161,51,161,D,Owner,White,Severe cost burden
+"Roanoke County, Virginia",70.0,66.0,7.0,05000US51161,51,161,D,Owner,White,N/A
+"Roanoke County, Virginia",670.0,265.0,8.0,05000US51161,51,161,S,Owner,Black,All
+"Roanoke County, Virginia",525.0,238.0,9.0,05000US51161,51,161,D,Owner,Black,No cost burden
+"Roanoke County, Virginia",115.0,101.0,10.0,05000US51161,51,161,D,Owner,Black,Moderate cost burden
+"Roanoke County, Virginia",30.0,37.0,11.0,05000US51161,51,161,D,Owner,Black,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,12.0,05000US51161,51,161,D,Owner,Black,N/A
+"Roanoke County, Virginia",420.0,108.0,13.0,05000US51161,51,161,S,Owner,Asian,All
+"Roanoke County, Virginia",340.0,123.0,14.0,05000US51161,51,161,D,Owner,Asian,No cost burden
+"Roanoke County, Virginia",65.0,69.0,15.0,05000US51161,51,161,D,Owner,Asian,Moderate cost burden
+"Roanoke County, Virginia",15.0,24.0,16.0,05000US51161,51,161,D,Owner,Asian,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,17.0,05000US51161,51,161,D,Owner,Asian,N/A
+"Roanoke County, Virginia",95.0,59.0,18.0,05000US51161,51,161,S,Owner,American Indian,All
+"Roanoke County, Virginia",95.0,59.0,19.0,05000US51161,51,161,D,Owner,American Indian,No cost burden
+"Roanoke County, Virginia",0.0,161.0,20.0,05000US51161,51,161,D,Owner,American Indian,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,21.0,05000US51161,51,161,D,Owner,American Indian,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,22.0,05000US51161,51,161,D,Owner,American Indian,N/A
+"Roanoke County, Virginia",0.0,161.0,23.0,05000US51161,51,161,S,Owner,Pacific Islander,All
+"Roanoke County, Virginia",0.0,161.0,24.0,05000US51161,51,161,D,Owner,Pacific Islander,No cost burden
+"Roanoke County, Virginia",0.0,161.0,25.0,05000US51161,51,161,D,Owner,Pacific Islander,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,26.0,05000US51161,51,161,D,Owner,Pacific Islander,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,27.0,05000US51161,51,161,D,Owner,Pacific Islander,N/A
+"Roanoke County, Virginia",215.0,100.0,28.0,05000US51161,51,161,S,Owner,Hispanic,All
+"Roanoke County, Virginia",175.0,95.0,29.0,05000US51161,51,161,D,Owner,Hispanic,No cost burden
+"Roanoke County, Virginia",40.0,50.0,30.0,05000US51161,51,161,D,Owner,Hispanic,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,31.0,05000US51161,51,161,D,Owner,Hispanic,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,32.0,05000US51161,51,161,D,Owner,Hispanic,N/A
+"Roanoke County, Virginia",125.0,101.0,33.0,05000US51161,51,161,S,Owner,Other,All
+"Roanoke County, Virginia",110.0,99.0,34.0,05000US51161,51,161,D,Owner,Other,No cost burden
+"Roanoke County, Virginia",0.0,161.0,35.0,05000US51161,51,161,D,Owner,Other,Moderate cost burden
+"Roanoke County, Virginia",15.0,30.0,36.0,05000US51161,51,161,D,Owner,Other,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,37.0,05000US51161,51,161,D,Owner,Other,N/A
+"Roanoke County, Virginia",7630.0,748.0,38.0,05000US51161,51,161,S,Renter,All,All
+"Roanoke County, Virginia",6545.0,721.0,39.0,05000US51161,51,161,S,Renter,White,All
+"Roanoke County, Virginia",3960.0,541.0,40.0,05000US51161,51,161,D,Renter,White,No cost burden
+"Roanoke County, Virginia",1140.0,326.0,41.0,05000US51161,51,161,D,Renter,White,Moderate cost burden
+"Roanoke County, Virginia",1115.0,385.0,42.0,05000US51161,51,161,D,Renter,White,Severe cost burden
+"Roanoke County, Virginia",330.0,155.0,43.0,05000US51161,51,161,D,Renter,White,N/A
+"Roanoke County, Virginia",590.0,227.0,44.0,05000US51161,51,161,S,Renter,Black,All
+"Roanoke County, Virginia",500.0,233.0,45.0,05000US51161,51,161,D,Renter,Black,No cost burden
+"Roanoke County, Virginia",40.0,66.0,46.0,05000US51161,51,161,D,Renter,Black,Moderate cost burden
+"Roanoke County, Virginia",50.0,79.0,47.0,05000US51161,51,161,D,Renter,Black,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,48.0,05000US51161,51,161,D,Renter,Black,N/A
+"Roanoke County, Virginia",170.0,96.0,49.0,05000US51161,51,161,S,Renter,Asian,All
+"Roanoke County, Virginia",65.0,67.0,50.0,05000US51161,51,161,D,Renter,Asian,No cost burden
+"Roanoke County, Virginia",55.0,62.0,51.0,05000US51161,51,161,D,Renter,Asian,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,52.0,05000US51161,51,161,D,Renter,Asian,Severe cost burden
+"Roanoke County, Virginia",50.0,63.0,53.0,05000US51161,51,161,D,Renter,Asian,N/A
+"Roanoke County, Virginia",0.0,161.0,54.0,05000US51161,51,161,S,Renter,American Indian,All
+"Roanoke County, Virginia",0.0,161.0,55.0,05000US51161,51,161,D,Renter,American Indian,No cost burden
+"Roanoke County, Virginia",0.0,161.0,56.0,05000US51161,51,161,D,Renter,American Indian,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,57.0,05000US51161,51,161,D,Renter,American Indian,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,58.0,05000US51161,51,161,D,Renter,American Indian,N/A
+"Roanoke County, Virginia",0.0,161.0,59.0,05000US51161,51,161,S,Renter,Pacific Islander,All
+"Roanoke County, Virginia",0.0,161.0,60.0,05000US51161,51,161,D,Renter,Pacific Islander,No cost burden
+"Roanoke County, Virginia",0.0,161.0,61.0,05000US51161,51,161,D,Renter,Pacific Islander,Moderate cost burden
+"Roanoke County, Virginia",0.0,161.0,62.0,05000US51161,51,161,D,Renter,Pacific Islander,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,63.0,05000US51161,51,161,D,Renter,Pacific Islander,N/A
+"Roanoke County, Virginia",240.0,99.0,64.0,05000US51161,51,161,S,Renter,Hispanic,All
+"Roanoke County, Virginia",145.0,93.0,65.0,05000US51161,51,161,D,Renter,Hispanic,No cost burden
+"Roanoke County, Virginia",25.0,47.0,66.0,05000US51161,51,161,D,Renter,Hispanic,Moderate cost burden
+"Roanoke County, Virginia",20.0,37.0,67.0,05000US51161,51,161,D,Renter,Hispanic,Severe cost burden
+"Roanoke County, Virginia",45.0,75.0,68.0,05000US51161,51,161,D,Renter,Hispanic,N/A
+"Roanoke County, Virginia",85.0,92.0,69.0,05000US51161,51,161,S,Renter,Other,All
+"Roanoke County, Virginia",35.0,51.0,70.0,05000US51161,51,161,D,Renter,Other,No cost burden
+"Roanoke County, Virginia",0.0,161.0,71.0,05000US51161,51,161,D,Renter,Other,Moderate cost burden
+"Roanoke County, Virginia",55.0,80.0,72.0,05000US51161,51,161,D,Renter,Other,Severe cost burden
+"Roanoke County, Virginia",0.0,161.0,73.0,05000US51161,51,161,D,Renter,Other,N/A

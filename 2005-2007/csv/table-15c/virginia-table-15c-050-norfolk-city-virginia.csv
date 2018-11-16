@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Norfolk city, Virginia",45125.0,1197.0,1.0,05000US51710,51,710,T,All,All,All,All
+"Norfolk city, Virginia",265.0,150.0,2.0,05000US51710,51,710,S,Substandard,All,All,All
+"Norfolk city, Virginia",44860.0,1195.0,3.0,05000US51710,51,710,S,Standard,All,All,All
+"Norfolk city, Virginia",6395.0,718.0,4.0,05000US51710,51,710,S,Standard,RHUD30,All,All
+"Norfolk city, Virginia",4410.0,592.0,5.0,05000US51710,51,710,S,Standard,RHUD30,30% AMI or less,All
+"Norfolk city, Virginia",1515.0,208.0,6.0,05000US51710,51,710,D,Standard,RHUD30,30% AMI or less,0 or 1
+"Norfolk city, Virginia",1620.0,455.0,7.0,05000US51710,51,710,D,Standard,RHUD30,30% AMI or less,2
+"Norfolk city, Virginia",1280.0,359.0,8.0,05000US51710,51,710,D,Standard,RHUD30,30% AMI or less,3 or more
+"Norfolk city, Virginia",740.0,202.0,9.0,05000US51710,51,710,S,Standard,RHUD30,30.1-50% AMI,All
+"Norfolk city, Virginia",145.0,94.0,10.0,05000US51710,51,710,D,Standard,RHUD30,30.1-50% AMI,0 or 1
+"Norfolk city, Virginia",310.0,162.0,11.0,05000US51710,51,710,D,Standard,RHUD30,30.1-50% AMI,2
+"Norfolk city, Virginia",285.0,121.0,12.0,05000US51710,51,710,D,Standard,RHUD30,30.1-50% AMI,3 or more
+"Norfolk city, Virginia",685.0,268.0,13.0,05000US51710,51,710,S,Standard,RHUD30,50.1-80% AMI,All
+"Norfolk city, Virginia",110.0,88.0,14.0,05000US51710,51,710,D,Standard,RHUD30,50.1-80% AMI,0 or 1
+"Norfolk city, Virginia",55.0,58.0,15.0,05000US51710,51,710,D,Standard,RHUD30,50.1-80% AMI,2
+"Norfolk city, Virginia",520.0,245.0,16.0,05000US51710,51,710,D,Standard,RHUD30,50.1-80% AMI,3 or more
+"Norfolk city, Virginia",100.0,97.0,17.0,05000US51710,51,710,S,Standard,RHUD30,80.1-95% AMI,All
+"Norfolk city, Virginia",0.0,161.0,18.0,05000US51710,51,710,D,Standard,RHUD30,80.1-95% AMI,0 or 1
+"Norfolk city, Virginia",25.0,43.0,19.0,05000US51710,51,710,D,Standard,RHUD30,80.1-95% AMI,2
+"Norfolk city, Virginia",75.0,88.0,20.0,05000US51710,51,710,D,Standard,RHUD30,80.1-95% AMI,3 or more
+"Norfolk city, Virginia",455.0,164.0,21.0,05000US51710,51,710,S,Standard,RHUD30,95.1% AMI and above,All
+"Norfolk city, Virginia",100.0,86.0,22.0,05000US51710,51,710,D,Standard,RHUD30,95.1% AMI and above,0 or 1
+"Norfolk city, Virginia",155.0,102.0,23.0,05000US51710,51,710,D,Standard,RHUD30,95.1% AMI and above,2
+"Norfolk city, Virginia",205.0,132.0,24.0,05000US51710,51,710,D,Standard,RHUD30,95.1% AMI and above,3 or more
+"Norfolk city, Virginia",11170.0,1048.0,25.0,05000US51710,51,710,S,Standard,RHUD50,All,All
+"Norfolk city, Virginia",2790.0,585.0,26.0,05000US51710,51,710,S,Standard,RHUD50,30% AMI or less,All
+"Norfolk city, Virginia",815.0,213.0,27.0,05000US51710,51,710,D,Standard,RHUD50,30% AMI or less,0 or 1
+"Norfolk city, Virginia",1710.0,507.0,28.0,05000US51710,51,710,D,Standard,RHUD50,30% AMI or less,2
+"Norfolk city, Virginia",265.0,165.0,29.0,05000US51710,51,710,D,Standard,RHUD50,30% AMI or less,3 or more
+"Norfolk city, Virginia",2925.0,631.0,30.0,05000US51710,51,710,S,Standard,RHUD50,30.1-50% AMI,All
+"Norfolk city, Virginia",700.0,340.0,31.0,05000US51710,51,710,D,Standard,RHUD50,30.1-50% AMI,0 or 1
+"Norfolk city, Virginia",1695.0,436.0,32.0,05000US51710,51,710,D,Standard,RHUD50,30.1-50% AMI,2
+"Norfolk city, Virginia",535.0,247.0,33.0,05000US51710,51,710,D,Standard,RHUD50,30.1-50% AMI,3 or more
+"Norfolk city, Virginia",3095.0,500.0,34.0,05000US51710,51,710,S,Standard,RHUD50,50.1-80% AMI,All
+"Norfolk city, Virginia",750.0,233.0,35.0,05000US51710,51,710,D,Standard,RHUD50,50.1-80% AMI,0 or 1
+"Norfolk city, Virginia",1915.0,341.0,36.0,05000US51710,51,710,D,Standard,RHUD50,50.1-80% AMI,2
+"Norfolk city, Virginia",425.0,197.0,37.0,05000US51710,51,710,D,Standard,RHUD50,50.1-80% AMI,3 or more
+"Norfolk city, Virginia",705.0,249.0,38.0,05000US51710,51,710,S,Standard,RHUD50,80.1-95% AMI,All
+"Norfolk city, Virginia",80.0,67.0,39.0,05000US51710,51,710,D,Standard,RHUD50,80.1-95% AMI,0 or 1
+"Norfolk city, Virginia",355.0,164.0,40.0,05000US51710,51,710,D,Standard,RHUD50,80.1-95% AMI,2
+"Norfolk city, Virginia",270.0,163.0,41.0,05000US51710,51,710,D,Standard,RHUD50,80.1-95% AMI,3 or more
+"Norfolk city, Virginia",1650.0,415.0,42.0,05000US51710,51,710,S,Standard,RHUD50,95.1% AMI and above,All
+"Norfolk city, Virginia",435.0,224.0,43.0,05000US51710,51,710,D,Standard,RHUD50,95.1% AMI and above,0 or 1
+"Norfolk city, Virginia",860.0,296.0,44.0,05000US51710,51,710,D,Standard,RHUD50,95.1% AMI and above,2
+"Norfolk city, Virginia",360.0,166.0,45.0,05000US51710,51,710,D,Standard,RHUD50,95.1% AMI and above,3 or more
+"Norfolk city, Virginia",23835.0,1070.0,46.0,05000US51710,51,710,S,Standard,RHUD80,All,All
+"Norfolk city, Virginia",4060.0,521.0,47.0,05000US51710,51,710,S,Standard,RHUD80,30% AMI or less,All
+"Norfolk city, Virginia",1240.0,301.0,48.0,05000US51710,51,710,D,Standard,RHUD80,30% AMI or less,0 or 1
+"Norfolk city, Virginia",1945.0,356.0,49.0,05000US51710,51,710,D,Standard,RHUD80,30% AMI or less,2
+"Norfolk city, Virginia",875.0,322.0,50.0,05000US51710,51,710,D,Standard,RHUD80,30% AMI or less,3 or more
+"Norfolk city, Virginia",4325.0,591.0,51.0,05000US51710,51,710,S,Standard,RHUD80,30.1-50% AMI,All
+"Norfolk city, Virginia",1195.0,351.0,52.0,05000US51710,51,710,D,Standard,RHUD80,30.1-50% AMI,0 or 1
+"Norfolk city, Virginia",1905.0,351.0,53.0,05000US51710,51,710,D,Standard,RHUD80,30.1-50% AMI,2
+"Norfolk city, Virginia",1225.0,355.0,54.0,05000US51710,51,710,D,Standard,RHUD80,30.1-50% AMI,3 or more
+"Norfolk city, Virginia",6705.0,764.0,55.0,05000US51710,51,710,S,Standard,RHUD80,50.1-80% AMI,All
+"Norfolk city, Virginia",2145.0,487.0,56.0,05000US51710,51,710,D,Standard,RHUD80,50.1-80% AMI,0 or 1
+"Norfolk city, Virginia",3010.0,480.0,57.0,05000US51710,51,710,D,Standard,RHUD80,50.1-80% AMI,2
+"Norfolk city, Virginia",1550.0,407.0,58.0,05000US51710,51,710,D,Standard,RHUD80,50.1-80% AMI,3 or more
+"Norfolk city, Virginia",2560.0,599.0,59.0,05000US51710,51,710,S,Standard,RHUD80,80.1-95% AMI,All
+"Norfolk city, Virginia",935.0,426.0,60.0,05000US51710,51,710,D,Standard,RHUD80,80.1-95% AMI,0 or 1
+"Norfolk city, Virginia",1160.0,314.0,61.0,05000US51710,51,710,D,Standard,RHUD80,80.1-95% AMI,2
+"Norfolk city, Virginia",460.0,207.0,62.0,05000US51710,51,710,D,Standard,RHUD80,80.1-95% AMI,3 or more
+"Norfolk city, Virginia",6185.0,693.0,63.0,05000US51710,51,710,S,Standard,RHUD80,95.1% AMI and above,All
+"Norfolk city, Virginia",1220.0,300.0,64.0,05000US51710,51,710,D,Standard,RHUD80,95.1% AMI and above,0 or 1
+"Norfolk city, Virginia",3285.0,566.0,65.0,05000US51710,51,710,D,Standard,RHUD80,95.1% AMI and above,2
+"Norfolk city, Virginia",1680.0,354.0,66.0,05000US51710,51,710,D,Standard,RHUD80,95.1% AMI and above,3 or more
+"Norfolk city, Virginia",3455.0,583.0,67.0,05000US51710,51,710,S,Standard,Greater than RHUD80,All,All
+"Norfolk city, Virginia",365.0,151.0,68.0,05000US51710,51,710,S,Standard,Greater than RHUD80,30% AMI or less,All
+"Norfolk city, Virginia",60.0,59.0,69.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30% AMI or less,0 or 1
+"Norfolk city, Virginia",170.0,93.0,70.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30% AMI or less,2
+"Norfolk city, Virginia",135.0,107.0,71.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30% AMI or less,3 or more
+"Norfolk city, Virginia",200.0,114.0,72.0,05000US51710,51,710,S,Standard,Greater than RHUD80,30.1-50% AMI,All
+"Norfolk city, Virginia",15.0,27.0,73.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30.1-50% AMI,0 or 1
+"Norfolk city, Virginia",55.0,92.0,74.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30.1-50% AMI,2
+"Norfolk city, Virginia",130.0,101.0,75.0,05000US51710,51,710,D,Standard,Greater than RHUD80,30.1-50% AMI,3 or more
+"Norfolk city, Virginia",815.0,270.0,76.0,05000US51710,51,710,S,Standard,Greater than RHUD80,50.1-80% AMI,All
+"Norfolk city, Virginia",195.0,144.0,77.0,05000US51710,51,710,D,Standard,Greater than RHUD80,50.1-80% AMI,0 or 1
+"Norfolk city, Virginia",220.0,149.0,78.0,05000US51710,51,710,D,Standard,Greater than RHUD80,50.1-80% AMI,2
+"Norfolk city, Virginia",400.0,166.0,79.0,05000US51710,51,710,D,Standard,Greater than RHUD80,50.1-80% AMI,3 or more
+"Norfolk city, Virginia",190.0,145.0,80.0,05000US51710,51,710,S,Standard,Greater than RHUD80,80.1-95% AMI,All
+"Norfolk city, Virginia",0.0,161.0,81.0,05000US51710,51,710,D,Standard,Greater than RHUD80,80.1-95% AMI,0 or 1
+"Norfolk city, Virginia",90.0,91.0,82.0,05000US51710,51,710,D,Standard,Greater than RHUD80,80.1-95% AMI,2
+"Norfolk city, Virginia",100.0,85.0,83.0,05000US51710,51,710,D,Standard,Greater than RHUD80,80.1-95% AMI,3 or more
+"Norfolk city, Virginia",1880.0,360.0,84.0,05000US51710,51,710,S,Standard,Greater than RHUD80,95.1% AMI and above,All
+"Norfolk city, Virginia",200.0,98.0,85.0,05000US51710,51,710,D,Standard,Greater than RHUD80,95.1% AMI and above,0 or 1
+"Norfolk city, Virginia",590.0,201.0,86.0,05000US51710,51,710,D,Standard,Greater than RHUD80,95.1% AMI and above,2
+"Norfolk city, Virginia",1090.0,340.0,87.0,05000US51710,51,710,D,Standard,Greater than RHUD80,95.1% AMI and above,3 or more

@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Botetourt County, Virginia",12770.0,284.0,1.0,05000US51023,51,023,T,All,All,All
+"Botetourt County, Virginia",11400.0,361.0,2.0,05000US51023,51,023,S,Owner,All,All
+"Botetourt County, Virginia",10780.0,345.0,3.0,05000US51023,51,023,S,Owner,White,All
+"Botetourt County, Virginia",8865.0,420.0,4.0,05000US51023,51,023,D,Owner,White,No cost burden
+"Botetourt County, Virginia",1255.0,283.0,5.0,05000US51023,51,023,D,Owner,White,Moderate cost burden
+"Botetourt County, Virginia",585.0,215.0,6.0,05000US51023,51,023,D,Owner,White,Severe cost burden
+"Botetourt County, Virginia",75.0,81.0,7.0,05000US51023,51,023,D,Owner,White,N/A
+"Botetourt County, Virginia",465.0,162.0,8.0,05000US51023,51,023,S,Owner,Black,All
+"Botetourt County, Virginia",295.0,174.0,9.0,05000US51023,51,023,D,Owner,Black,No cost burden
+"Botetourt County, Virginia",155.0,113.0,10.0,05000US51023,51,023,D,Owner,Black,Moderate cost burden
+"Botetourt County, Virginia",20.0,39.0,11.0,05000US51023,51,023,D,Owner,Black,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,12.0,05000US51023,51,023,D,Owner,Black,N/A
+"Botetourt County, Virginia",65.0,59.0,13.0,05000US51023,51,023,S,Owner,Asian,All
+"Botetourt County, Virginia",65.0,59.0,14.0,05000US51023,51,023,D,Owner,Asian,No cost burden
+"Botetourt County, Virginia",0.0,161.0,15.0,05000US51023,51,023,D,Owner,Asian,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,16.0,05000US51023,51,023,D,Owner,Asian,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,17.0,05000US51023,51,023,D,Owner,Asian,N/A
+"Botetourt County, Virginia",30.0,52.0,18.0,05000US51023,51,023,S,Owner,American Indian,All
+"Botetourt County, Virginia",0.0,161.0,19.0,05000US51023,51,023,D,Owner,American Indian,No cost burden
+"Botetourt County, Virginia",30.0,52.0,20.0,05000US51023,51,023,D,Owner,American Indian,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,21.0,05000US51023,51,023,D,Owner,American Indian,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,22.0,05000US51023,51,023,D,Owner,American Indian,N/A
+"Botetourt County, Virginia",0.0,161.0,23.0,05000US51023,51,023,S,Owner,Pacific Islander,All
+"Botetourt County, Virginia",0.0,161.0,24.0,05000US51023,51,023,D,Owner,Pacific Islander,No cost burden
+"Botetourt County, Virginia",0.0,161.0,25.0,05000US51023,51,023,D,Owner,Pacific Islander,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,26.0,05000US51023,51,023,D,Owner,Pacific Islander,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,27.0,05000US51023,51,023,D,Owner,Pacific Islander,N/A
+"Botetourt County, Virginia",20.0,35.0,28.0,05000US51023,51,023,S,Owner,Hispanic,All
+"Botetourt County, Virginia",0.0,161.0,29.0,05000US51023,51,023,D,Owner,Hispanic,No cost burden
+"Botetourt County, Virginia",20.0,35.0,30.0,05000US51023,51,023,D,Owner,Hispanic,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,31.0,05000US51023,51,023,D,Owner,Hispanic,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,32.0,05000US51023,51,023,D,Owner,Hispanic,N/A
+"Botetourt County, Virginia",40.0,45.0,33.0,05000US51023,51,023,S,Owner,Other,All
+"Botetourt County, Virginia",20.0,34.0,34.0,05000US51023,51,023,D,Owner,Other,No cost burden
+"Botetourt County, Virginia",0.0,161.0,35.0,05000US51023,51,023,D,Owner,Other,Moderate cost burden
+"Botetourt County, Virginia",20.0,33.0,36.0,05000US51023,51,023,D,Owner,Other,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,37.0,05000US51023,51,023,D,Owner,Other,N/A
+"Botetourt County, Virginia",1375.0,319.0,38.0,05000US51023,51,023,S,Renter,All,All
+"Botetourt County, Virginia",1340.0,312.0,39.0,05000US51023,51,023,S,Renter,White,All
+"Botetourt County, Virginia",750.0,213.0,40.0,05000US51023,51,023,D,Renter,White,No cost burden
+"Botetourt County, Virginia",175.0,114.0,41.0,05000US51023,51,023,D,Renter,White,Moderate cost burden
+"Botetourt County, Virginia",215.0,155.0,42.0,05000US51023,51,023,D,Renter,White,Severe cost burden
+"Botetourt County, Virginia",200.0,134.0,43.0,05000US51023,51,023,D,Renter,White,N/A
+"Botetourt County, Virginia",35.0,58.0,44.0,05000US51023,51,023,S,Renter,Black,All
+"Botetourt County, Virginia",35.0,58.0,45.0,05000US51023,51,023,D,Renter,Black,No cost burden
+"Botetourt County, Virginia",0.0,161.0,46.0,05000US51023,51,023,D,Renter,Black,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,47.0,05000US51023,51,023,D,Renter,Black,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,48.0,05000US51023,51,023,D,Renter,Black,N/A
+"Botetourt County, Virginia",0.0,161.0,49.0,05000US51023,51,023,S,Renter,Asian,All
+"Botetourt County, Virginia",0.0,161.0,50.0,05000US51023,51,023,D,Renter,Asian,No cost burden
+"Botetourt County, Virginia",0.0,161.0,51.0,05000US51023,51,023,D,Renter,Asian,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,52.0,05000US51023,51,023,D,Renter,Asian,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,53.0,05000US51023,51,023,D,Renter,Asian,N/A
+"Botetourt County, Virginia",0.0,161.0,54.0,05000US51023,51,023,S,Renter,American Indian,All
+"Botetourt County, Virginia",0.0,161.0,55.0,05000US51023,51,023,D,Renter,American Indian,No cost burden
+"Botetourt County, Virginia",0.0,161.0,56.0,05000US51023,51,023,D,Renter,American Indian,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,57.0,05000US51023,51,023,D,Renter,American Indian,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,58.0,05000US51023,51,023,D,Renter,American Indian,N/A
+"Botetourt County, Virginia",0.0,161.0,59.0,05000US51023,51,023,S,Renter,Pacific Islander,All
+"Botetourt County, Virginia",0.0,161.0,60.0,05000US51023,51,023,D,Renter,Pacific Islander,No cost burden
+"Botetourt County, Virginia",0.0,161.0,61.0,05000US51023,51,023,D,Renter,Pacific Islander,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,62.0,05000US51023,51,023,D,Renter,Pacific Islander,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,63.0,05000US51023,51,023,D,Renter,Pacific Islander,N/A
+"Botetourt County, Virginia",0.0,161.0,64.0,05000US51023,51,023,S,Renter,Hispanic,All
+"Botetourt County, Virginia",0.0,161.0,65.0,05000US51023,51,023,D,Renter,Hispanic,No cost burden
+"Botetourt County, Virginia",0.0,161.0,66.0,05000US51023,51,023,D,Renter,Hispanic,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,67.0,05000US51023,51,023,D,Renter,Hispanic,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,68.0,05000US51023,51,023,D,Renter,Hispanic,N/A
+"Botetourt County, Virginia",0.0,161.0,69.0,05000US51023,51,023,S,Renter,Other,All
+"Botetourt County, Virginia",0.0,161.0,70.0,05000US51023,51,023,D,Renter,Other,No cost burden
+"Botetourt County, Virginia",0.0,161.0,71.0,05000US51023,51,023,D,Renter,Other,Moderate cost burden
+"Botetourt County, Virginia",0.0,161.0,72.0,05000US51023,51,023,D,Renter,Other,Severe cost burden
+"Botetourt County, Virginia",0.0,161.0,73.0,05000US51023,51,023,D,Renter,Other,N/A

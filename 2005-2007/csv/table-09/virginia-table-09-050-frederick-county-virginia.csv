@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Frederick County, Virginia",26545.0,470.0,1.0,05000US51069,51,069,T,All,All,All
+"Frederick County, Virginia",20985.0,674.0,2.0,05000US51069,51,069,S,Owner,All,All
+"Frederick County, Virginia",19460.0,660.0,3.0,05000US51069,51,069,S,Owner,White,All
+"Frederick County, Virginia",14345.0,614.0,4.0,05000US51069,51,069,D,Owner,White,No cost burden
+"Frederick County, Virginia",3525.0,517.0,5.0,05000US51069,51,069,D,Owner,White,Moderate cost burden
+"Frederick County, Virginia",1550.0,348.0,6.0,05000US51069,51,069,D,Owner,White,Severe cost burden
+"Frederick County, Virginia",40.0,44.0,7.0,05000US51069,51,069,D,Owner,White,N/A
+"Frederick County, Virginia",360.0,158.0,8.0,05000US51069,51,069,S,Owner,Black,All
+"Frederick County, Virginia",260.0,146.0,9.0,05000US51069,51,069,D,Owner,Black,No cost burden
+"Frederick County, Virginia",60.0,58.0,10.0,05000US51069,51,069,D,Owner,Black,Moderate cost burden
+"Frederick County, Virginia",30.0,46.0,11.0,05000US51069,51,069,D,Owner,Black,Severe cost burden
+"Frederick County, Virginia",4.0,7.0,12.0,05000US51069,51,069,D,Owner,Black,N/A
+"Frederick County, Virginia",245.0,90.0,13.0,05000US51069,51,069,S,Owner,Asian,All
+"Frederick County, Virginia",175.0,70.0,14.0,05000US51069,51,069,D,Owner,Asian,No cost burden
+"Frederick County, Virginia",35.0,53.0,15.0,05000US51069,51,069,D,Owner,Asian,Moderate cost burden
+"Frederick County, Virginia",35.0,50.0,16.0,05000US51069,51,069,D,Owner,Asian,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,17.0,05000US51069,51,069,D,Owner,Asian,N/A
+"Frederick County, Virginia",25.0,43.0,18.0,05000US51069,51,069,S,Owner,American Indian,All
+"Frederick County, Virginia",25.0,43.0,19.0,05000US51069,51,069,D,Owner,American Indian,No cost burden
+"Frederick County, Virginia",0.0,161.0,20.0,05000US51069,51,069,D,Owner,American Indian,Moderate cost burden
+"Frederick County, Virginia",0.0,161.0,21.0,05000US51069,51,069,D,Owner,American Indian,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,22.0,05000US51069,51,069,D,Owner,American Indian,N/A
+"Frederick County, Virginia",0.0,161.0,23.0,05000US51069,51,069,S,Owner,Pacific Islander,All
+"Frederick County, Virginia",0.0,161.0,24.0,05000US51069,51,069,D,Owner,Pacific Islander,No cost burden
+"Frederick County, Virginia",0.0,161.0,25.0,05000US51069,51,069,D,Owner,Pacific Islander,Moderate cost burden
+"Frederick County, Virginia",0.0,161.0,26.0,05000US51069,51,069,D,Owner,Pacific Islander,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,27.0,05000US51069,51,069,D,Owner,Pacific Islander,N/A
+"Frederick County, Virginia",660.0,169.0,28.0,05000US51069,51,069,S,Owner,Hispanic,All
+"Frederick County, Virginia",415.0,196.0,29.0,05000US51069,51,069,D,Owner,Hispanic,No cost burden
+"Frederick County, Virginia",65.0,74.0,30.0,05000US51069,51,069,D,Owner,Hispanic,Moderate cost burden
+"Frederick County, Virginia",180.0,181.0,31.0,05000US51069,51,069,D,Owner,Hispanic,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,32.0,05000US51069,51,069,D,Owner,Hispanic,N/A
+"Frederick County, Virginia",235.0,125.0,33.0,05000US51069,51,069,S,Owner,Other,All
+"Frederick County, Virginia",175.0,124.0,34.0,05000US51069,51,069,D,Owner,Other,No cost burden
+"Frederick County, Virginia",30.0,50.0,35.0,05000US51069,51,069,D,Owner,Other,Moderate cost burden
+"Frederick County, Virginia",30.0,38.0,36.0,05000US51069,51,069,D,Owner,Other,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,37.0,05000US51069,51,069,D,Owner,Other,N/A
+"Frederick County, Virginia",5560.0,667.0,38.0,05000US51069,51,069,S,Renter,All,All
+"Frederick County, Virginia",4780.0,656.0,39.0,05000US51069,51,069,S,Renter,White,All
+"Frederick County, Virginia",2700.0,572.0,40.0,05000US51069,51,069,D,Renter,White,No cost burden
+"Frederick County, Virginia",815.0,249.0,41.0,05000US51069,51,069,D,Renter,White,Moderate cost burden
+"Frederick County, Virginia",730.0,300.0,42.0,05000US51069,51,069,D,Renter,White,Severe cost burden
+"Frederick County, Virginia",530.0,225.0,43.0,05000US51069,51,069,D,Renter,White,N/A
+"Frederick County, Virginia",430.0,174.0,44.0,05000US51069,51,069,S,Renter,Black,All
+"Frederick County, Virginia",220.0,170.0,45.0,05000US51069,51,069,D,Renter,Black,No cost burden
+"Frederick County, Virginia",4.0,8.0,46.0,05000US51069,51,069,D,Renter,Black,Moderate cost burden
+"Frederick County, Virginia",175.0,137.0,47.0,05000US51069,51,069,D,Renter,Black,Severe cost burden
+"Frederick County, Virginia",30.0,47.0,48.0,05000US51069,51,069,D,Renter,Black,N/A
+"Frederick County, Virginia",125.0,91.0,49.0,05000US51069,51,069,S,Renter,Asian,All
+"Frederick County, Virginia",105.0,84.0,50.0,05000US51069,51,069,D,Renter,Asian,No cost burden
+"Frederick County, Virginia",0.0,161.0,51.0,05000US51069,51,069,D,Renter,Asian,Moderate cost burden
+"Frederick County, Virginia",0.0,161.0,52.0,05000US51069,51,069,D,Renter,Asian,Severe cost burden
+"Frederick County, Virginia",20.0,36.0,53.0,05000US51069,51,069,D,Renter,Asian,N/A
+"Frederick County, Virginia",20.0,33.0,54.0,05000US51069,51,069,S,Renter,American Indian,All
+"Frederick County, Virginia",0.0,161.0,55.0,05000US51069,51,069,D,Renter,American Indian,No cost burden
+"Frederick County, Virginia",0.0,161.0,56.0,05000US51069,51,069,D,Renter,American Indian,Moderate cost burden
+"Frederick County, Virginia",20.0,33.0,57.0,05000US51069,51,069,D,Renter,American Indian,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,58.0,05000US51069,51,069,D,Renter,American Indian,N/A
+"Frederick County, Virginia",0.0,161.0,59.0,05000US51069,51,069,S,Renter,Pacific Islander,All
+"Frederick County, Virginia",0.0,161.0,60.0,05000US51069,51,069,D,Renter,Pacific Islander,No cost burden
+"Frederick County, Virginia",0.0,161.0,61.0,05000US51069,51,069,D,Renter,Pacific Islander,Moderate cost burden
+"Frederick County, Virginia",0.0,161.0,62.0,05000US51069,51,069,D,Renter,Pacific Islander,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,63.0,05000US51069,51,069,D,Renter,Pacific Islander,N/A
+"Frederick County, Virginia",180.0,138.0,64.0,05000US51069,51,069,S,Renter,Hispanic,All
+"Frederick County, Virginia",35.0,43.0,65.0,05000US51069,51,069,D,Renter,Hispanic,No cost burden
+"Frederick County, Virginia",45.0,64.0,66.0,05000US51069,51,069,D,Renter,Hispanic,Moderate cost burden
+"Frederick County, Virginia",90.0,110.0,67.0,05000US51069,51,069,D,Renter,Hispanic,Severe cost burden
+"Frederick County, Virginia",10.0,15.0,68.0,05000US51069,51,069,D,Renter,Hispanic,N/A
+"Frederick County, Virginia",25.0,40.0,69.0,05000US51069,51,069,S,Renter,Other,All
+"Frederick County, Virginia",25.0,40.0,70.0,05000US51069,51,069,D,Renter,Other,No cost burden
+"Frederick County, Virginia",0.0,161.0,71.0,05000US51069,51,069,D,Renter,Other,Moderate cost burden
+"Frederick County, Virginia",0.0,161.0,72.0,05000US51069,51,069,D,Renter,Other,Severe cost burden
+"Frederick County, Virginia",0.0,161.0,73.0,05000US51069,51,069,D,Renter,Other,N/A

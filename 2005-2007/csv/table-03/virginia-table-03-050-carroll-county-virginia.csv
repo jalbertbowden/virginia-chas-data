@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Carroll County, Virginia",12745.0,543.0,1.0,05000US51035,51,035,T,All,All,All
+"Carroll County, Virginia",9410.0,459.0,2.0,05000US51035,51,035,S,Owner,All,All
+"Carroll County, Virginia",35.0,40.0,3.0,05000US51035,51,035,S,Owner,Substandard,All
+"Carroll County, Virginia",0.0,161.0,4.0,05000US51035,51,035,D,Owner,Substandard,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,5.0,05000US51035,51,035,D,Owner,Substandard,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,6.0,05000US51035,51,035,D,Owner,Substandard,50.1-60% AMI
+"Carroll County, Virginia",20.0,33.0,7.0,05000US51035,51,035,D,Owner,Substandard,60.1-80% AMI
+"Carroll County, Virginia",15.0,28.0,8.0,05000US51035,51,035,D,Owner,Substandard,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,9.0,05000US51035,51,035,D,Owner,Substandard,>95% AMI
+"Carroll County, Virginia",25.0,45.0,10.0,05000US51035,51,035,S,Owner,Severely overcrowded,All
+"Carroll County, Virginia",0.0,161.0,11.0,05000US51035,51,035,D,Owner,Severely overcrowded,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,12.0,05000US51035,51,035,D,Owner,Severely overcrowded,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,13.0,05000US51035,51,035,D,Owner,Severely overcrowded,50.1-60% AMI
+"Carroll County, Virginia",25.0,45.0,14.0,05000US51035,51,035,D,Owner,Severely overcrowded,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,15.0,05000US51035,51,035,D,Owner,Severely overcrowded,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,16.0,05000US51035,51,035,D,Owner,Severely overcrowded,>95% AMI
+"Carroll County, Virginia",95.0,90.0,17.0,05000US51035,51,035,S,Owner,Overcrowded,All
+"Carroll County, Virginia",45.0,63.0,18.0,05000US51035,51,035,D,Owner,Overcrowded,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,19.0,05000US51035,51,035,D,Owner,Overcrowded,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,20.0,05000US51035,51,035,D,Owner,Overcrowded,50.1-60% AMI
+"Carroll County, Virginia",20.0,36.0,21.0,05000US51035,51,035,D,Owner,Overcrowded,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,22.0,05000US51035,51,035,D,Owner,Overcrowded,80.1-95% AMI
+"Carroll County, Virginia",25.0,45.0,23.0,05000US51035,51,035,D,Owner,Overcrowded,>95% AMI
+"Carroll County, Virginia",705.0,283.0,24.0,05000US51035,51,035,S,Owner,Severely cost burdened,All
+"Carroll County, Virginia",270.0,132.0,25.0,05000US51035,51,035,D,Owner,Severely cost burdened,<=30% AMI
+"Carroll County, Virginia",160.0,114.0,26.0,05000US51035,51,035,D,Owner,Severely cost burdened,30.1-50% AMI
+"Carroll County, Virginia",25.0,42.0,27.0,05000US51035,51,035,D,Owner,Severely cost burdened,50.1-60% AMI
+"Carroll County, Virginia",145.0,129.0,28.0,05000US51035,51,035,D,Owner,Severely cost burdened,60.1-80% AMI
+"Carroll County, Virginia",10.0,23.0,29.0,05000US51035,51,035,D,Owner,Severely cost burdened,80.1-95% AMI
+"Carroll County, Virginia",90.0,136.0,30.0,05000US51035,51,035,D,Owner,Severely cost burdened,>95% AMI
+"Carroll County, Virginia",750.0,248.0,31.0,05000US51035,51,035,S,Owner,Cost burdened,All
+"Carroll County, Virginia",85.0,64.0,32.0,05000US51035,51,035,D,Owner,Cost burdened,<=30% AMI
+"Carroll County, Virginia",230.0,145.0,33.0,05000US51035,51,035,D,Owner,Cost burdened,30.1-50% AMI
+"Carroll County, Virginia",85.0,91.0,34.0,05000US51035,51,035,D,Owner,Cost burdened,50.1-60% AMI
+"Carroll County, Virginia",90.0,83.0,35.0,05000US51035,51,035,D,Owner,Cost burdened,60.1-80% AMI
+"Carroll County, Virginia",140.0,121.0,36.0,05000US51035,51,035,D,Owner,Cost burdened,80.1-95% AMI
+"Carroll County, Virginia",120.0,116.0,37.0,05000US51035,51,035,D,Owner,Cost burdened,>95% AMI
+"Carroll County, Virginia",85.0,72.0,38.0,05000US51035,51,035,S,Owner,No income or no cash rent,All
+"Carroll County, Virginia",85.0,72.0,39.0,05000US51035,51,035,D,Owner,No income or no cash rent,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,40.0,05000US51035,51,035,D,Owner,No income or no cash rent,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,41.0,05000US51035,51,035,D,Owner,No income or no cash rent,50.1-60% AMI
+"Carroll County, Virginia",0.0,161.0,42.0,05000US51035,51,035,D,Owner,No income or no cash rent,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,43.0,05000US51035,51,035,D,Owner,No income or no cash rent,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,44.0,05000US51035,51,035,D,Owner,No income or no cash rent,>95% AMI
+"Carroll County, Virginia",7720.0,552.0,45.0,05000US51035,51,035,S,Owner,No housing problems,All
+"Carroll County, Virginia",490.0,198.0,46.0,05000US51035,51,035,D,Owner,No housing problems,<=30% AMI
+"Carroll County, Virginia",910.0,302.0,47.0,05000US51035,51,035,D,Owner,No housing problems,30.1-50% AMI
+"Carroll County, Virginia",585.0,232.0,48.0,05000US51035,51,035,D,Owner,No housing problems,50.1-60% AMI
+"Carroll County, Virginia",770.0,243.0,49.0,05000US51035,51,035,D,Owner,No housing problems,60.1-80% AMI
+"Carroll County, Virginia",660.0,261.0,50.0,05000US51035,51,035,D,Owner,No housing problems,80.1-95% AMI
+"Carroll County, Virginia",4300.0,486.0,51.0,05000US51035,51,035,D,Owner,No housing problems,>95% AMI
+"Carroll County, Virginia",3335.0,503.0,52.0,05000US51035,51,035,S,Renter,All,All
+"Carroll County, Virginia",0.0,161.0,53.0,05000US51035,51,035,S,Renter,Substandard,All
+"Carroll County, Virginia",0.0,161.0,54.0,05000US51035,51,035,D,Renter,Substandard,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,55.0,05000US51035,51,035,D,Renter,Substandard,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,56.0,05000US51035,51,035,D,Renter,Substandard,50.1-60% AMI
+"Carroll County, Virginia",0.0,161.0,57.0,05000US51035,51,035,D,Renter,Substandard,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,58.0,05000US51035,51,035,D,Renter,Substandard,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,59.0,05000US51035,51,035,D,Renter,Substandard,>95% AMI
+"Carroll County, Virginia",0.0,161.0,60.0,05000US51035,51,035,S,Renter,Severely overcrowded,All
+"Carroll County, Virginia",0.0,161.0,61.0,05000US51035,51,035,D,Renter,Severely overcrowded,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,62.0,05000US51035,51,035,D,Renter,Severely overcrowded,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,63.0,05000US51035,51,035,D,Renter,Severely overcrowded,50.1-60% AMI
+"Carroll County, Virginia",0.0,161.0,64.0,05000US51035,51,035,D,Renter,Severely overcrowded,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,65.0,05000US51035,51,035,D,Renter,Severely overcrowded,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,66.0,05000US51035,51,035,D,Renter,Severely overcrowded,>95% AMI
+"Carroll County, Virginia",0.0,161.0,67.0,05000US51035,51,035,S,Renter,Overcrowded,All
+"Carroll County, Virginia",0.0,161.0,68.0,05000US51035,51,035,D,Renter,Overcrowded,<=30% AMI
+"Carroll County, Virginia",0.0,161.0,69.0,05000US51035,51,035,D,Renter,Overcrowded,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,70.0,05000US51035,51,035,D,Renter,Overcrowded,50.1-60% AMI
+"Carroll County, Virginia",0.0,161.0,71.0,05000US51035,51,035,D,Renter,Overcrowded,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,72.0,05000US51035,51,035,D,Renter,Overcrowded,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,73.0,05000US51035,51,035,D,Renter,Overcrowded,>95% AMI
+"Carroll County, Virginia",380.0,214.0,74.0,05000US51035,51,035,S,Renter,Severely cost burdened,All
+"Carroll County, Virginia",275.0,179.0,75.0,05000US51035,51,035,D,Renter,Severely cost burdened,<=30% AMI
+"Carroll County, Virginia",50.0,66.0,76.0,05000US51035,51,035,D,Renter,Severely cost burdened,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,77.0,05000US51035,51,035,D,Renter,Severely cost burdened,50.1-60% AMI
+"Carroll County, Virginia",55.0,86.0,78.0,05000US51035,51,035,D,Renter,Severely cost burdened,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,79.0,05000US51035,51,035,D,Renter,Severely cost burdened,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,80.0,05000US51035,51,035,D,Renter,Severely cost burdened,>95% AMI
+"Carroll County, Virginia",245.0,129.0,81.0,05000US51035,51,035,S,Renter,Cost burdened,All
+"Carroll County, Virginia",110.0,87.0,82.0,05000US51035,51,035,D,Renter,Cost burdened,<=30% AMI
+"Carroll County, Virginia",135.0,102.0,83.0,05000US51035,51,035,D,Renter,Cost burdened,30.1-50% AMI
+"Carroll County, Virginia",0.0,161.0,84.0,05000US51035,51,035,D,Renter,Cost burdened,50.1-60% AMI
+"Carroll County, Virginia",0.0,161.0,85.0,05000US51035,51,035,D,Renter,Cost burdened,60.1-80% AMI
+"Carroll County, Virginia",0.0,161.0,86.0,05000US51035,51,035,D,Renter,Cost burdened,80.1-95% AMI
+"Carroll County, Virginia",0.0,161.0,87.0,05000US51035,51,035,D,Renter,Cost burdened,>95% AMI
+"Carroll County, Virginia",845.0,365.0,88.0,05000US51035,51,035,S,Renter,No income or no cash rent,All
+"Carroll County, Virginia",240.0,168.0,89.0,05000US51035,51,035,D,Renter,No income or no cash rent,<=30% AMI
+"Carroll County, Virginia",70.0,77.0,90.0,05000US51035,51,035,D,Renter,No income or no cash rent,30.1-50% AMI
+"Carroll County, Virginia",145.0,159.0,91.0,05000US51035,51,035,D,Renter,No income or no cash rent,50.1-60% AMI
+"Carroll County, Virginia",20.0,36.0,92.0,05000US51035,51,035,D,Renter,No income or no cash rent,60.1-80% AMI
+"Carroll County, Virginia",155.0,200.0,93.0,05000US51035,51,035,D,Renter,No income or no cash rent,80.1-95% AMI
+"Carroll County, Virginia",210.0,170.0,94.0,05000US51035,51,035,D,Renter,No income or no cash rent,>95% AMI
+"Carroll County, Virginia",1865.0,381.0,95.0,05000US51035,51,035,S,Renter,No housing problems,All
+"Carroll County, Virginia",70.0,79.0,96.0,05000US51035,51,035,D,Renter,No housing problems,<=30% AMI
+"Carroll County, Virginia",275.0,227.0,97.0,05000US51035,51,035,D,Renter,No housing problems,30.1-50% AMI
+"Carroll County, Virginia",230.0,197.0,98.0,05000US51035,51,035,D,Renter,No housing problems,50.1-60% AMI
+"Carroll County, Virginia",210.0,172.0,99.0,05000US51035,51,035,D,Renter,No housing problems,60.1-80% AMI
+"Carroll County, Virginia",485.0,244.0,100.0,05000US51035,51,035,D,Renter,No housing problems,80.1-95% AMI
+"Carroll County, Virginia",595.0,258.0,101.0,05000US51035,51,035,D,Renter,No housing problems,>95% AMI

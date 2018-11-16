@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Mecklenburg County, Virginia",250.0,177.0,1.0,05000US51117,51,117,T,All,All,All
+"Mecklenburg County, Virginia",4.0,10.0,2.0,05000US51117,51,117,S,Substandard,All,All
+"Mecklenburg County, Virginia",245.0,177.0,3.0,05000US51117,51,117,S,Standard,All,All
+"Mecklenburg County, Virginia",100.0,119.0,4.0,05000US51117,51,117,S,Standard,VHUD50,All
+"Mecklenburg County, Virginia",0.0,161.0,5.0,05000US51117,51,117,D,Standard,VHUD50,0 or 1
+"Mecklenburg County, Virginia",45.0,70.0,6.0,05000US51117,51,117,D,Standard,VHUD50,2
+"Mecklenburg County, Virginia",55.0,96.0,7.0,05000US51117,51,117,D,Standard,VHUD50,3 or more
+"Mecklenburg County, Virginia",30.0,46.0,8.0,05000US51117,51,117,S,Standard,VHUD80,All
+"Mecklenburg County, Virginia",0.0,161.0,9.0,05000US51117,51,117,D,Standard,VHUD80,0 or 1
+"Mecklenburg County, Virginia",0.0,161.0,10.0,05000US51117,51,117,D,Standard,VHUD80,2
+"Mecklenburg County, Virginia",30.0,46.0,11.0,05000US51117,51,117,D,Standard,VHUD80,3 or more
+"Mecklenburg County, Virginia",0.0,161.0,12.0,05000US51117,51,117,S,Standard,VHUD100,All
+"Mecklenburg County, Virginia",0.0,161.0,13.0,05000US51117,51,117,D,Standard,VHUD100,0 or 1
+"Mecklenburg County, Virginia",0.0,161.0,14.0,05000US51117,51,117,D,Standard,VHUD100,2
+"Mecklenburg County, Virginia",0.0,161.0,15.0,05000US51117,51,117,D,Standard,VHUD100,3 or more
+"Mecklenburg County, Virginia",115.0,128.0,16.0,05000US51117,51,117,S,Standard,Greater than VHUD100,All
+"Mecklenburg County, Virginia",0.0,161.0,17.0,05000US51117,51,117,D,Standard,Greater than VHUD100,0 or 1
+"Mecklenburg County, Virginia",0.0,161.0,18.0,05000US51117,51,117,D,Standard,Greater than VHUD100,2
+"Mecklenburg County, Virginia",115.0,128.0,19.0,05000US51117,51,117,D,Standard,Greater than VHUD100,3 or more

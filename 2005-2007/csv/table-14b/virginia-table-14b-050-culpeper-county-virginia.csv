@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Culpeper County, Virginia",75.0,118.0,1.0,05000US51047,51,047,T,All,All,All
+"Culpeper County, Virginia",0.0,161.0,2.0,05000US51047,51,047,S,Substandard,All,All
+"Culpeper County, Virginia",75.0,118.0,3.0,05000US51047,51,047,S,Standard,All,All
+"Culpeper County, Virginia",75.0,118.0,4.0,05000US51047,51,047,S,Standard,RHUD30,All
+"Culpeper County, Virginia",0.0,161.0,5.0,05000US51047,51,047,D,Standard,RHUD30,0 or 1
+"Culpeper County, Virginia",75.0,118.0,6.0,05000US51047,51,047,D,Standard,RHUD30,2
+"Culpeper County, Virginia",0.0,161.0,7.0,05000US51047,51,047,D,Standard,RHUD30,3 or more
+"Culpeper County, Virginia",0.0,161.0,8.0,05000US51047,51,047,S,Standard,RHUD50,All
+"Culpeper County, Virginia",0.0,161.0,9.0,05000US51047,51,047,D,Standard,RHUD50,0 or 1
+"Culpeper County, Virginia",0.0,161.0,10.0,05000US51047,51,047,D,Standard,RHUD50,2
+"Culpeper County, Virginia",0.0,161.0,11.0,05000US51047,51,047,D,Standard,RHUD50,3 or more
+"Culpeper County, Virginia",0.0,161.0,12.0,05000US51047,51,047,S,Standard,RHUD80,All
+"Culpeper County, Virginia",0.0,161.0,13.0,05000US51047,51,047,D,Standard,RHUD80,0 or 1
+"Culpeper County, Virginia",0.0,161.0,14.0,05000US51047,51,047,D,Standard,RHUD80,2
+"Culpeper County, Virginia",0.0,161.0,15.0,05000US51047,51,047,D,Standard,RHUD80,3 or more
+"Culpeper County, Virginia",0.0,161.0,16.0,05000US51047,51,047,S,Standard,Greater than RHUD80,All
+"Culpeper County, Virginia",0.0,161.0,17.0,05000US51047,51,047,D,Standard,Greater than RHUD80,0 or 1
+"Culpeper County, Virginia",0.0,161.0,18.0,05000US51047,51,047,D,Standard,Greater than RHUD80,2
+"Culpeper County, Virginia",0.0,161.0,19.0,05000US51047,51,047,D,Standard,Greater than RHUD80,3 or more

@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Culpeper County, Virginia",16345.0,352.0,1.0,05000US51047,51,047,T,All,All,All,All
+"Culpeper County, Virginia",11420.0,492.0,2.0,05000US51047,51,047,S,Owner,All,All,All
+"Culpeper County, Virginia",3625.0,546.0,3.0,05000US51047,51,047,S,Owner,Yes,All,All
+"Culpeper County, Virginia",605.0,213.0,4.0,05000US51047,51,047,S,Owner,Yes,"Family, 1 parent",All
+"Culpeper County, Virginia",555.0,220.0,5.0,05000US51047,51,047,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",50.0,52.0,6.0,05000US51047,51,047,D,Owner,Yes,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",2125.0,405.0,7.0,05000US51047,51,047,S,Owner,Yes,"Family, 2 parents",All
+"Culpeper County, Virginia",1595.0,392.0,8.0,05000US51047,51,047,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",530.0,187.0,9.0,05000US51047,51,047,D,Owner,Yes,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",890.0,263.0,10.0,05000US51047,51,047,S,Owner,Yes,Non-family,All
+"Culpeper County, Virginia",890.0,263.0,11.0,05000US51047,51,047,D,Owner,Yes,Non-family,4 or fewer
+"Culpeper County, Virginia",0.0,161.0,12.0,05000US51047,51,047,D,Owner,Yes,Non-family,5 or more
+"Culpeper County, Virginia",7750.0,550.0,13.0,05000US51047,51,047,S,Owner,No,All,All
+"Culpeper County, Virginia",730.0,280.0,14.0,05000US51047,51,047,S,Owner,No,"Family, 1 parent",All
+"Culpeper County, Virginia",725.0,279.0,15.0,05000US51047,51,047,D,Owner,No,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",4.0,15.0,16.0,05000US51047,51,047,D,Owner,No,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",5695.0,507.0,17.0,05000US51047,51,047,S,Owner,No,"Family, 2 parents",All
+"Culpeper County, Virginia",4865.0,494.0,18.0,05000US51047,51,047,D,Owner,No,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",830.0,236.0,19.0,05000US51047,51,047,D,Owner,No,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",1325.0,352.0,20.0,05000US51047,51,047,S,Owner,No,Non-family,All
+"Culpeper County, Virginia",1325.0,352.0,21.0,05000US51047,51,047,D,Owner,No,Non-family,4 or fewer
+"Culpeper County, Virginia",0.0,161.0,22.0,05000US51047,51,047,D,Owner,No,Non-family,5 or more
+"Culpeper County, Virginia",45.0,50.0,23.0,05000US51047,51,047,S,Owner,N/A,All,All
+"Culpeper County, Virginia",0.0,161.0,24.0,05000US51047,51,047,S,Owner,N/A,"Family, 1 parent",All
+"Culpeper County, Virginia",0.0,161.0,25.0,05000US51047,51,047,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",0.0,161.0,26.0,05000US51047,51,047,D,Owner,N/A,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",0.0,161.0,27.0,05000US51047,51,047,S,Owner,N/A,"Family, 2 parents",All
+"Culpeper County, Virginia",0.0,161.0,28.0,05000US51047,51,047,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",0.0,161.0,29.0,05000US51047,51,047,D,Owner,N/A,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",45.0,50.0,30.0,05000US51047,51,047,S,Owner,N/A,Non-family,All
+"Culpeper County, Virginia",45.0,50.0,31.0,05000US51047,51,047,D,Owner,N/A,Non-family,4 or fewer
+"Culpeper County, Virginia",0.0,161.0,32.0,05000US51047,51,047,D,Owner,N/A,Non-family,5 or more
+"Culpeper County, Virginia",4925.0,478.0,33.0,05000US51047,51,047,S,Renter,All,All,All
+"Culpeper County, Virginia",2460.0,507.0,34.0,05000US51047,51,047,S,Renter,Yes,All,All
+"Culpeper County, Virginia",625.0,213.0,35.0,05000US51047,51,047,S,Renter,Yes,"Family, 1 parent",All
+"Culpeper County, Virginia",450.0,192.0,36.0,05000US51047,51,047,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",175.0,127.0,37.0,05000US51047,51,047,D,Renter,Yes,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",845.0,346.0,38.0,05000US51047,51,047,S,Renter,Yes,"Family, 2 parents",All
+"Culpeper County, Virginia",430.0,267.0,39.0,05000US51047,51,047,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",415.0,229.0,40.0,05000US51047,51,047,D,Renter,Yes,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",990.0,423.0,41.0,05000US51047,51,047,S,Renter,Yes,Non-family,All
+"Culpeper County, Virginia",990.0,423.0,42.0,05000US51047,51,047,D,Renter,Yes,Non-family,4 or fewer
+"Culpeper County, Virginia",0.0,161.0,43.0,05000US51047,51,047,D,Renter,Yes,Non-family,5 or more
+"Culpeper County, Virginia",1985.0,412.0,44.0,05000US51047,51,047,S,Renter,No,All,All
+"Culpeper County, Virginia",345.0,195.0,45.0,05000US51047,51,047,S,Renter,No,"Family, 1 parent",All
+"Culpeper County, Virginia",330.0,192.0,46.0,05000US51047,51,047,D,Renter,No,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",15.0,28.0,47.0,05000US51047,51,047,D,Renter,No,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",960.0,313.0,48.0,05000US51047,51,047,S,Renter,No,"Family, 2 parents",All
+"Culpeper County, Virginia",880.0,320.0,49.0,05000US51047,51,047,D,Renter,No,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",80.0,75.0,50.0,05000US51047,51,047,D,Renter,No,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",685.0,264.0,51.0,05000US51047,51,047,S,Renter,No,Non-family,All
+"Culpeper County, Virginia",665.0,259.0,52.0,05000US51047,51,047,D,Renter,No,Non-family,4 or fewer
+"Culpeper County, Virginia",15.0,33.0,53.0,05000US51047,51,047,D,Renter,No,Non-family,5 or more
+"Culpeper County, Virginia",480.0,195.0,54.0,05000US51047,51,047,S,Renter,N/A,All,All
+"Culpeper County, Virginia",0.0,161.0,55.0,05000US51047,51,047,S,Renter,N/A,"Family, 1 parent",All
+"Culpeper County, Virginia",0.0,161.0,56.0,05000US51047,51,047,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Culpeper County, Virginia",0.0,161.0,57.0,05000US51047,51,047,D,Renter,N/A,"Family, 1 parent",5 or more
+"Culpeper County, Virginia",160.0,114.0,58.0,05000US51047,51,047,S,Renter,N/A,"Family, 2 parents",All
+"Culpeper County, Virginia",160.0,114.0,59.0,05000US51047,51,047,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Culpeper County, Virginia",0.0,161.0,60.0,05000US51047,51,047,D,Renter,N/A,"Family, 2 parents",5 or more
+"Culpeper County, Virginia",320.0,156.0,61.0,05000US51047,51,047,S,Renter,N/A,Non-family,All
+"Culpeper County, Virginia",320.0,156.0,62.0,05000US51047,51,047,D,Renter,N/A,Non-family,4 or fewer
+"Culpeper County, Virginia",0.0,161.0,63.0,05000US51047,51,047,D,Renter,N/A,Non-family,5 or more

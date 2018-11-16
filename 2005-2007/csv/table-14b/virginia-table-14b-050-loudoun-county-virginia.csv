@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Loudoun County, Virginia",3835.0,750.0,1.0,05000US51107,51,107,T,All,All,All
+"Loudoun County, Virginia",15.0,29.0,2.0,05000US51107,51,107,S,Substandard,All,All
+"Loudoun County, Virginia",3820.0,752.0,3.0,05000US51107,51,107,S,Standard,All,All
+"Loudoun County, Virginia",50.0,80.0,4.0,05000US51107,51,107,S,Standard,RHUD30,All
+"Loudoun County, Virginia",50.0,80.0,5.0,05000US51107,51,107,D,Standard,RHUD30,0 or 1
+"Loudoun County, Virginia",0.0,161.0,6.0,05000US51107,51,107,D,Standard,RHUD30,2
+"Loudoun County, Virginia",0.0,161.0,7.0,05000US51107,51,107,D,Standard,RHUD30,3 or more
+"Loudoun County, Virginia",910.0,382.0,8.0,05000US51107,51,107,S,Standard,RHUD50,All
+"Loudoun County, Virginia",140.0,134.0,9.0,05000US51107,51,107,D,Standard,RHUD50,0 or 1
+"Loudoun County, Virginia",470.0,258.0,10.0,05000US51107,51,107,D,Standard,RHUD50,2
+"Loudoun County, Virginia",295.0,219.0,11.0,05000US51107,51,107,D,Standard,RHUD50,3 or more
+"Loudoun County, Virginia",2115.0,536.0,12.0,05000US51107,51,107,S,Standard,RHUD80,All
+"Loudoun County, Virginia",650.0,265.0,13.0,05000US51107,51,107,D,Standard,RHUD80,0 or 1
+"Loudoun County, Virginia",895.0,363.0,14.0,05000US51107,51,107,D,Standard,RHUD80,2
+"Loudoun County, Virginia",565.0,274.0,15.0,05000US51107,51,107,D,Standard,RHUD80,3 or more
+"Loudoun County, Virginia",750.0,440.0,16.0,05000US51107,51,107,S,Standard,Greater than RHUD80,All
+"Loudoun County, Virginia",195.0,211.0,17.0,05000US51107,51,107,D,Standard,Greater than RHUD80,0 or 1
+"Loudoun County, Virginia",140.0,158.0,18.0,05000US51107,51,107,D,Standard,Greater than RHUD80,2
+"Loudoun County, Virginia",415.0,316.0,19.0,05000US51107,51,107,D,Standard,Greater than RHUD80,3 or more

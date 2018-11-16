@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Overcrowding,Household_Income,Family_Structure
+"Halifax County, Virginia",14465.0,534.0,1.0,05000US51083,51,083,T,All,All,All,All
+"Halifax County, Virginia",11060.0,580.0,2.0,05000US51083,51,083,S,Owner,All,All,All
+"Halifax County, Virginia",10935.0,572.0,3.0,05000US51083,51,083,S,Owner,No overcrowding,All,All
+"Halifax County, Virginia",1195.0,277.0,4.0,05000US51083,51,083,S,Owner,No overcrowding,30% AMI or less,All
+"Halifax County, Virginia",475.0,224.0,5.0,05000US51083,51,083,D,Owner,No overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",25.0,40.0,6.0,05000US51083,51,083,D,Owner,No overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",695.0,216.0,7.0,05000US51083,51,083,D,Owner,No overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",1745.0,379.0,8.0,05000US51083,51,083,S,Owner,No overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",690.0,246.0,9.0,05000US51083,51,083,D,Owner,No overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,10.0,05000US51083,51,083,D,Owner,No overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",1055.0,287.0,11.0,05000US51083,51,083,D,Owner,No overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",1930.0,485.0,12.0,05000US51083,51,083,S,Owner,No overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",1215.0,353.0,13.0,05000US51083,51,083,D,Owner,No overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,14.0,05000US51083,51,083,D,Owner,No overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",720.0,263.0,15.0,05000US51083,51,083,D,Owner,No overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",820.0,248.0,16.0,05000US51083,51,083,S,Owner,No overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",635.0,231.0,17.0,05000US51083,51,083,D,Owner,No overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,18.0,05000US51083,51,083,D,Owner,No overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",185.0,102.0,19.0,05000US51083,51,083,D,Owner,No overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",5240.0,463.0,20.0,05000US51083,51,083,S,Owner,No overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",4315.0,451.0,21.0,05000US51083,51,083,D,Owner,No overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",115.0,85.0,22.0,05000US51083,51,083,D,Owner,No overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",815.0,218.0,23.0,05000US51083,51,083,D,Owner,No overcrowding,95.1% AMI and above,Non-family household
+"Halifax County, Virginia",90.0,67.0,24.0,05000US51083,51,083,S,Owner,Moderate overcrowding,All,All
+"Halifax County, Virginia",15.0,27.0,25.0,05000US51083,51,083,S,Owner,Moderate overcrowding,30% AMI or less,All
+"Halifax County, Virginia",0.0,161.0,26.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",15.0,27.0,27.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",0.0,161.0,28.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",35.0,53.0,29.0,05000US51083,51,083,S,Owner,Moderate overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",4.0,3.0,30.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",30.0,53.0,31.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,32.0,05000US51083,51,083,D,Owner,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",15.0,29.0,33.0,05000US51083,51,083,S,Owner,Moderate overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",15.0,29.0,34.0,05000US51083,51,083,D,Owner,Moderate overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,35.0,05000US51083,51,083,D,Owner,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,36.0,05000US51083,51,083,D,Owner,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,37.0,05000US51083,51,083,S,Owner,Moderate overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",0.0,161.0,38.0,05000US51083,51,083,D,Owner,Moderate overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,39.0,05000US51083,51,083,D,Owner,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,40.0,05000US51083,51,083,D,Owner,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",25.0,37.0,41.0,05000US51083,51,083,S,Owner,Moderate overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",25.0,37.0,42.0,05000US51083,51,083,D,Owner,Moderate overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",0.0,161.0,43.0,05000US51083,51,083,D,Owner,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",0.0,161.0,44.0,05000US51083,51,083,D,Owner,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Halifax County, Virginia",35.0,62.0,45.0,05000US51083,51,083,S,Owner,Severe overcrowding,All,All
+"Halifax County, Virginia",35.0,62.0,46.0,05000US51083,51,083,S,Owner,Severe overcrowding,30% AMI or less,All
+"Halifax County, Virginia",0.0,161.0,47.0,05000US51083,51,083,D,Owner,Severe overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",35.0,62.0,48.0,05000US51083,51,083,D,Owner,Severe overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",0.0,161.0,49.0,05000US51083,51,083,D,Owner,Severe overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",0.0,161.0,50.0,05000US51083,51,083,S,Owner,Severe overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",0.0,161.0,51.0,05000US51083,51,083,D,Owner,Severe overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,52.0,05000US51083,51,083,D,Owner,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,53.0,05000US51083,51,083,D,Owner,Severe overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,54.0,05000US51083,51,083,S,Owner,Severe overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",0.0,161.0,55.0,05000US51083,51,083,D,Owner,Severe overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,56.0,05000US51083,51,083,D,Owner,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,57.0,05000US51083,51,083,D,Owner,Severe overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,58.0,05000US51083,51,083,S,Owner,Severe overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",0.0,161.0,59.0,05000US51083,51,083,D,Owner,Severe overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,60.0,05000US51083,51,083,D,Owner,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,61.0,05000US51083,51,083,D,Owner,Severe overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,62.0,05000US51083,51,083,S,Owner,Severe overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",0.0,161.0,63.0,05000US51083,51,083,D,Owner,Severe overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",0.0,161.0,64.0,05000US51083,51,083,D,Owner,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",0.0,161.0,65.0,05000US51083,51,083,D,Owner,Severe overcrowding,95.1% AMI and above,Non-family household
+"Halifax County, Virginia",3405.0,476.0,66.0,05000US51083,51,083,S,Renter,All,All,All
+"Halifax County, Virginia",3285.0,468.0,67.0,05000US51083,51,083,S,Renter,No overcrowding,All,All
+"Halifax County, Virginia",990.0,283.0,68.0,05000US51083,51,083,S,Renter,No overcrowding,30% AMI or less,All
+"Halifax County, Virginia",450.0,236.0,69.0,05000US51083,51,083,D,Renter,No overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",85.0,128.0,70.0,05000US51083,51,083,D,Renter,No overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",455.0,202.0,71.0,05000US51083,51,083,D,Renter,No overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",485.0,205.0,72.0,05000US51083,51,083,S,Renter,No overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",300.0,160.0,73.0,05000US51083,51,083,D,Renter,No overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,74.0,05000US51083,51,083,D,Renter,No overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",180.0,110.0,75.0,05000US51083,51,083,D,Renter,No overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",655.0,258.0,76.0,05000US51083,51,083,S,Renter,No overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",250.0,113.0,77.0,05000US51083,51,083,D,Renter,No overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,78.0,05000US51083,51,083,D,Renter,No overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",405.0,237.0,79.0,05000US51083,51,083,D,Renter,No overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",305.0,169.0,80.0,05000US51083,51,083,S,Renter,No overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",210.0,132.0,81.0,05000US51083,51,083,D,Renter,No overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,82.0,05000US51083,51,083,D,Renter,No overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",95.0,110.0,83.0,05000US51083,51,083,D,Renter,No overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",855.0,284.0,84.0,05000US51083,51,083,S,Renter,No overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",545.0,216.0,85.0,05000US51083,51,083,D,Renter,No overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",160.0,124.0,86.0,05000US51083,51,083,D,Renter,No overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",150.0,138.0,87.0,05000US51083,51,083,D,Renter,No overcrowding,95.1% AMI and above,Non-family household
+"Halifax County, Virginia",35.0,45.0,88.0,05000US51083,51,083,S,Renter,Moderate overcrowding,All,All
+"Halifax County, Virginia",0.0,161.0,89.0,05000US51083,51,083,S,Renter,Moderate overcrowding,30% AMI or less,All
+"Halifax County, Virginia",0.0,161.0,90.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",0.0,161.0,91.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",0.0,161.0,92.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",25.0,42.0,93.0,05000US51083,51,083,S,Renter,Moderate overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",25.0,42.0,94.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,95.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,96.0,05000US51083,51,083,D,Renter,Moderate overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,97.0,05000US51083,51,083,S,Renter,Moderate overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",0.0,161.0,98.0,05000US51083,51,083,D,Renter,Moderate overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,99.0,05000US51083,51,083,D,Renter,Moderate overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,100.0,05000US51083,51,083,D,Renter,Moderate overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,101.0,05000US51083,51,083,S,Renter,Moderate overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",0.0,161.0,102.0,05000US51083,51,083,D,Renter,Moderate overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,103.0,05000US51083,51,083,D,Renter,Moderate overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,104.0,05000US51083,51,083,D,Renter,Moderate overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",10.0,16.0,105.0,05000US51083,51,083,S,Renter,Moderate overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",10.0,16.0,106.0,05000US51083,51,083,D,Renter,Moderate overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",0.0,161.0,107.0,05000US51083,51,083,D,Renter,Moderate overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",0.0,161.0,108.0,05000US51083,51,083,D,Renter,Moderate overcrowding,95.1% AMI and above,Non-family household
+"Halifax County, Virginia",85.0,93.0,109.0,05000US51083,51,083,S,Renter,Severe overcrowding,All,All
+"Halifax County, Virginia",15.0,26.0,110.0,05000US51083,51,083,S,Renter,Severe overcrowding,30% AMI or less,All
+"Halifax County, Virginia",15.0,26.0,111.0,05000US51083,51,083,D,Renter,Severe overcrowding,30% AMI or less,1 family household
+"Halifax County, Virginia",0.0,161.0,112.0,05000US51083,51,083,D,Renter,Severe overcrowding,30% AMI or less,2+ families in household
+"Halifax County, Virginia",0.0,161.0,113.0,05000US51083,51,083,D,Renter,Severe overcrowding,30% AMI or less,Non-family household
+"Halifax County, Virginia",0.0,161.0,114.0,05000US51083,51,083,S,Renter,Severe overcrowding,30.1-50% AMI,All
+"Halifax County, Virginia",0.0,161.0,115.0,05000US51083,51,083,D,Renter,Severe overcrowding,30.1-50% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,116.0,05000US51083,51,083,D,Renter,Severe overcrowding,30.1-50% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,117.0,05000US51083,51,083,D,Renter,Severe overcrowding,30.1-50% AMI,Non-family household
+"Halifax County, Virginia",70.0,88.0,118.0,05000US51083,51,083,S,Renter,Severe overcrowding,50.1-80% AMI,All
+"Halifax County, Virginia",10.0,15.0,119.0,05000US51083,51,083,D,Renter,Severe overcrowding,50.1-80% AMI,1 family household
+"Halifax County, Virginia",60.0,92.0,120.0,05000US51083,51,083,D,Renter,Severe overcrowding,50.1-80% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,121.0,05000US51083,51,083,D,Renter,Severe overcrowding,50.1-80% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,122.0,05000US51083,51,083,S,Renter,Severe overcrowding,80.1-95% AMI,All
+"Halifax County, Virginia",0.0,161.0,123.0,05000US51083,51,083,D,Renter,Severe overcrowding,80.1-95% AMI,1 family household
+"Halifax County, Virginia",0.0,161.0,124.0,05000US51083,51,083,D,Renter,Severe overcrowding,80.1-95% AMI,2+ families in household
+"Halifax County, Virginia",0.0,161.0,125.0,05000US51083,51,083,D,Renter,Severe overcrowding,80.1-95% AMI,Non-family household
+"Halifax County, Virginia",0.0,161.0,126.0,05000US51083,51,083,S,Renter,Severe overcrowding,95.1% AMI and above,All
+"Halifax County, Virginia",0.0,161.0,127.0,05000US51083,51,083,D,Renter,Severe overcrowding,95.1% AMI and above,1 family household
+"Halifax County, Virginia",0.0,161.0,128.0,05000US51083,51,083,D,Renter,Severe overcrowding,95.1% AMI and above,2+ families in household
+"Halifax County, Virginia",0.0,161.0,129.0,05000US51083,51,083,D,Renter,Severe overcrowding,95.1% AMI and above,Non-family household

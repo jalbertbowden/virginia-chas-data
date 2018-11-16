@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Hopewell city, Virginia",1190.0,384.0,1.0,05000US51670,51,670,T,All,All,All
+"Hopewell city, Virginia",505.0,266.0,2.0,05000US51670,51,670,S,Substandard,All,All
+"Hopewell city, Virginia",685.0,334.0,3.0,05000US51670,51,670,S,Standard,All,All
+"Hopewell city, Virginia",360.0,196.0,4.0,05000US51670,51,670,S,Standard,RHUD30,All
+"Hopewell city, Virginia",0.0,161.0,5.0,05000US51670,51,670,D,Standard,RHUD30,0 or 1
+"Hopewell city, Virginia",360.0,196.0,6.0,05000US51670,51,670,D,Standard,RHUD30,2
+"Hopewell city, Virginia",0.0,161.0,7.0,05000US51670,51,670,D,Standard,RHUD30,3 or more
+"Hopewell city, Virginia",325.0,229.0,8.0,05000US51670,51,670,S,Standard,RHUD50,All
+"Hopewell city, Virginia",45.0,70.0,9.0,05000US51670,51,670,D,Standard,RHUD50,0 or 1
+"Hopewell city, Virginia",280.0,203.0,10.0,05000US51670,51,670,D,Standard,RHUD50,2
+"Hopewell city, Virginia",0.0,161.0,11.0,05000US51670,51,670,D,Standard,RHUD50,3 or more
+"Hopewell city, Virginia",0.0,161.0,12.0,05000US51670,51,670,S,Standard,RHUD80,All
+"Hopewell city, Virginia",0.0,161.0,13.0,05000US51670,51,670,D,Standard,RHUD80,0 or 1
+"Hopewell city, Virginia",0.0,161.0,14.0,05000US51670,51,670,D,Standard,RHUD80,2
+"Hopewell city, Virginia",0.0,161.0,15.0,05000US51670,51,670,D,Standard,RHUD80,3 or more
+"Hopewell city, Virginia",0.0,161.0,16.0,05000US51670,51,670,S,Standard,Greater than RHUD80,All
+"Hopewell city, Virginia",0.0,161.0,17.0,05000US51670,51,670,D,Standard,Greater than RHUD80,0 or 1
+"Hopewell city, Virginia",0.0,161.0,18.0,05000US51670,51,670,D,Standard,Greater than RHUD80,2
+"Hopewell city, Virginia",0.0,161.0,19.0,05000US51670,51,670,D,Standard,Greater than RHUD80,3 or more

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Roanoke County, Virginia",330.0,217.0,1.0,05000US51161,51,161,T,All,All,All
+"Roanoke County, Virginia",0.0,161.0,2.0,05000US51161,51,161,S,Substandard,All,All
+"Roanoke County, Virginia",330.0,217.0,3.0,05000US51161,51,161,S,Standard,All,All
+"Roanoke County, Virginia",45.0,69.0,4.0,05000US51161,51,161,S,Standard,VHUD50,All
+"Roanoke County, Virginia",0.0,161.0,5.0,05000US51161,51,161,D,Standard,VHUD50,0 or 1
+"Roanoke County, Virginia",0.0,161.0,6.0,05000US51161,51,161,D,Standard,VHUD50,2
+"Roanoke County, Virginia",45.0,69.0,7.0,05000US51161,51,161,D,Standard,VHUD50,3 or more
+"Roanoke County, Virginia",225.0,184.0,8.0,05000US51161,51,161,S,Standard,VHUD80,All
+"Roanoke County, Virginia",0.0,161.0,9.0,05000US51161,51,161,D,Standard,VHUD80,0 or 1
+"Roanoke County, Virginia",45.0,72.0,10.0,05000US51161,51,161,D,Standard,VHUD80,2
+"Roanoke County, Virginia",180.0,171.0,11.0,05000US51161,51,161,D,Standard,VHUD80,3 or more
+"Roanoke County, Virginia",60.0,97.0,12.0,05000US51161,51,161,S,Standard,VHUD100,All
+"Roanoke County, Virginia",0.0,161.0,13.0,05000US51161,51,161,D,Standard,VHUD100,0 or 1
+"Roanoke County, Virginia",0.0,161.0,14.0,05000US51161,51,161,D,Standard,VHUD100,2
+"Roanoke County, Virginia",60.0,97.0,15.0,05000US51161,51,161,D,Standard,VHUD100,3 or more
+"Roanoke County, Virginia",0.0,161.0,16.0,05000US51161,51,161,S,Standard,Greater than VHUD100,All
+"Roanoke County, Virginia",0.0,161.0,17.0,05000US51161,51,161,D,Standard,Greater than VHUD100,0 or 1
+"Roanoke County, Virginia",0.0,161.0,18.0,05000US51161,51,161,D,Standard,Greater than VHUD100,2
+"Roanoke County, Virginia",0.0,161.0,19.0,05000US51161,51,161,D,Standard,Greater than VHUD100,3 or more

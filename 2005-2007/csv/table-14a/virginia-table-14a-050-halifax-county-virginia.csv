@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Halifax County, Virginia",135.0,171.0,1.0,05000US51083,51,083,T,All,All,All
+"Halifax County, Virginia",0.0,161.0,2.0,05000US51083,51,083,S,Substandard,All,All
+"Halifax County, Virginia",135.0,171.0,3.0,05000US51083,51,083,S,Standard,All,All
+"Halifax County, Virginia",65.0,108.0,4.0,05000US51083,51,083,S,Standard,VHUD50,All
+"Halifax County, Virginia",0.0,161.0,5.0,05000US51083,51,083,D,Standard,VHUD50,0 or 1
+"Halifax County, Virginia",65.0,108.0,6.0,05000US51083,51,083,D,Standard,VHUD50,2
+"Halifax County, Virginia",0.0,161.0,7.0,05000US51083,51,083,D,Standard,VHUD50,3 or more
+"Halifax County, Virginia",15.0,26.0,8.0,05000US51083,51,083,S,Standard,VHUD80,All
+"Halifax County, Virginia",0.0,161.0,9.0,05000US51083,51,083,D,Standard,VHUD80,0 or 1
+"Halifax County, Virginia",0.0,161.0,10.0,05000US51083,51,083,D,Standard,VHUD80,2
+"Halifax County, Virginia",15.0,26.0,11.0,05000US51083,51,083,D,Standard,VHUD80,3 or more
+"Halifax County, Virginia",0.0,161.0,12.0,05000US51083,51,083,S,Standard,VHUD100,All
+"Halifax County, Virginia",0.0,161.0,13.0,05000US51083,51,083,D,Standard,VHUD100,0 or 1
+"Halifax County, Virginia",0.0,161.0,14.0,05000US51083,51,083,D,Standard,VHUD100,2
+"Halifax County, Virginia",0.0,161.0,15.0,05000US51083,51,083,D,Standard,VHUD100,3 or more
+"Halifax County, Virginia",55.0,89.0,16.0,05000US51083,51,083,S,Standard,Greater than VHUD100,All
+"Halifax County, Virginia",0.0,161.0,17.0,05000US51083,51,083,D,Standard,Greater than VHUD100,0 or 1
+"Halifax County, Virginia",0.0,161.0,18.0,05000US51083,51,083,D,Standard,Greater than VHUD100,2
+"Halifax County, Virginia",55.0,89.0,19.0,05000US51083,51,083,D,Standard,Greater than VHUD100,3 or more

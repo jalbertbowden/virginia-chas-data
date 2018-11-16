@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Henrico County, Virginia",116620.0,1288.0,1.0,05000US51087,51,087,T,All,All,All
+"Henrico County, Virginia",78365.0,1269.0,2.0,05000US51087,51,087,S,Owner,All,All
+"Henrico County, Virginia",215.0,112.0,3.0,05000US51087,51,087,S,Owner,Substandard,All
+"Henrico County, Virginia",25.0,35.0,4.0,05000US51087,51,087,D,Owner,Substandard,<=30% AMI
+"Henrico County, Virginia",0.0,161.0,5.0,05000US51087,51,087,D,Owner,Substandard,30.1-50% AMI
+"Henrico County, Virginia",0.0,161.0,6.0,05000US51087,51,087,D,Owner,Substandard,50.1-60% AMI
+"Henrico County, Virginia",40.0,48.0,7.0,05000US51087,51,087,D,Owner,Substandard,60.1-80% AMI
+"Henrico County, Virginia",0.0,161.0,8.0,05000US51087,51,087,D,Owner,Substandard,80.1-95% AMI
+"Henrico County, Virginia",145.0,91.0,9.0,05000US51087,51,087,D,Owner,Substandard,>95% AMI
+"Henrico County, Virginia",0.0,161.0,10.0,05000US51087,51,087,S,Owner,Severely overcrowded,All
+"Henrico County, Virginia",0.0,161.0,11.0,05000US51087,51,087,D,Owner,Severely overcrowded,<=30% AMI
+"Henrico County, Virginia",0.0,161.0,12.0,05000US51087,51,087,D,Owner,Severely overcrowded,30.1-50% AMI
+"Henrico County, Virginia",0.0,161.0,13.0,05000US51087,51,087,D,Owner,Severely overcrowded,50.1-60% AMI
+"Henrico County, Virginia",0.0,161.0,14.0,05000US51087,51,087,D,Owner,Severely overcrowded,60.1-80% AMI
+"Henrico County, Virginia",0.0,161.0,15.0,05000US51087,51,087,D,Owner,Severely overcrowded,80.1-95% AMI
+"Henrico County, Virginia",0.0,161.0,16.0,05000US51087,51,087,D,Owner,Severely overcrowded,>95% AMI
+"Henrico County, Virginia",180.0,106.0,17.0,05000US51087,51,087,S,Owner,Overcrowded,All
+"Henrico County, Virginia",30.0,41.0,18.0,05000US51087,51,087,D,Owner,Overcrowded,<=30% AMI
+"Henrico County, Virginia",15.0,32.0,19.0,05000US51087,51,087,D,Owner,Overcrowded,30.1-50% AMI
+"Henrico County, Virginia",20.0,37.0,20.0,05000US51087,51,087,D,Owner,Overcrowded,50.1-60% AMI
+"Henrico County, Virginia",0.0,161.0,21.0,05000US51087,51,087,D,Owner,Overcrowded,60.1-80% AMI
+"Henrico County, Virginia",55.0,85.0,22.0,05000US51087,51,087,D,Owner,Overcrowded,80.1-95% AMI
+"Henrico County, Virginia",60.0,53.0,23.0,05000US51087,51,087,D,Owner,Overcrowded,>95% AMI
+"Henrico County, Virginia",5725.0,723.0,24.0,05000US51087,51,087,S,Owner,Severely cost burdened,All
+"Henrico County, Virginia",1920.0,474.0,25.0,05000US51087,51,087,D,Owner,Severely cost burdened,<=30% AMI
+"Henrico County, Virginia",1630.0,359.0,26.0,05000US51087,51,087,D,Owner,Severely cost burdened,30.1-50% AMI
+"Henrico County, Virginia",740.0,217.0,27.0,05000US51087,51,087,D,Owner,Severely cost burdened,50.1-60% AMI
+"Henrico County, Virginia",705.0,196.0,28.0,05000US51087,51,087,D,Owner,Severely cost burdened,60.1-80% AMI
+"Henrico County, Virginia",205.0,111.0,29.0,05000US51087,51,087,D,Owner,Severely cost burdened,80.1-95% AMI
+"Henrico County, Virginia",525.0,160.0,30.0,05000US51087,51,087,D,Owner,Severely cost burdened,>95% AMI
+"Henrico County, Virginia",14220.0,1014.0,31.0,05000US51087,51,087,S,Owner,Cost burdened,All
+"Henrico County, Virginia",640.0,177.0,32.0,05000US51087,51,087,D,Owner,Cost burdened,<=30% AMI
+"Henrico County, Virginia",1460.0,307.0,33.0,05000US51087,51,087,D,Owner,Cost burdened,30.1-50% AMI
+"Henrico County, Virginia",1430.0,366.0,34.0,05000US51087,51,087,D,Owner,Cost burdened,50.1-60% AMI
+"Henrico County, Virginia",4140.0,552.0,35.0,05000US51087,51,087,D,Owner,Cost burdened,60.1-80% AMI
+"Henrico County, Virginia",2115.0,477.0,36.0,05000US51087,51,087,D,Owner,Cost burdened,80.1-95% AMI
+"Henrico County, Virginia",4440.0,570.0,37.0,05000US51087,51,087,D,Owner,Cost burdened,>95% AMI
+"Henrico County, Virginia",260.0,158.0,38.0,05000US51087,51,087,S,Owner,No income or no cash rent,All
+"Henrico County, Virginia",260.0,158.0,39.0,05000US51087,51,087,D,Owner,No income or no cash rent,<=30% AMI
+"Henrico County, Virginia",0.0,161.0,40.0,05000US51087,51,087,D,Owner,No income or no cash rent,30.1-50% AMI
+"Henrico County, Virginia",0.0,161.0,41.0,05000US51087,51,087,D,Owner,No income or no cash rent,50.1-60% AMI
+"Henrico County, Virginia",0.0,161.0,42.0,05000US51087,51,087,D,Owner,No income or no cash rent,60.1-80% AMI
+"Henrico County, Virginia",0.0,161.0,43.0,05000US51087,51,087,D,Owner,No income or no cash rent,80.1-95% AMI
+"Henrico County, Virginia",0.0,161.0,44.0,05000US51087,51,087,D,Owner,No income or no cash rent,>95% AMI
+"Henrico County, Virginia",57765.0,1482.0,45.0,05000US51087,51,087,S,Owner,No housing problems,All
+"Henrico County, Virginia",350.0,141.0,46.0,05000US51087,51,087,D,Owner,No housing problems,<=30% AMI
+"Henrico County, Virginia",1735.0,347.0,47.0,05000US51087,51,087,D,Owner,No housing problems,30.1-50% AMI
+"Henrico County, Virginia",1495.0,312.0,48.0,05000US51087,51,087,D,Owner,No housing problems,50.1-60% AMI
+"Henrico County, Virginia",3455.0,502.0,49.0,05000US51087,51,087,D,Owner,No housing problems,60.1-80% AMI
+"Henrico County, Virginia",3980.0,524.0,50.0,05000US51087,51,087,D,Owner,No housing problems,80.1-95% AMI
+"Henrico County, Virginia",46755.0,1546.0,51.0,05000US51087,51,087,D,Owner,No housing problems,>95% AMI
+"Henrico County, Virginia",38255.0,1520.0,52.0,05000US51087,51,087,S,Renter,All,All
+"Henrico County, Virginia",500.0,240.0,53.0,05000US51087,51,087,S,Renter,Substandard,All
+"Henrico County, Virginia",250.0,186.0,54.0,05000US51087,51,087,D,Renter,Substandard,<=30% AMI
+"Henrico County, Virginia",110.0,131.0,55.0,05000US51087,51,087,D,Renter,Substandard,30.1-50% AMI
+"Henrico County, Virginia",20.0,38.0,56.0,05000US51087,51,087,D,Renter,Substandard,50.1-60% AMI
+"Henrico County, Virginia",0.0,161.0,57.0,05000US51087,51,087,D,Renter,Substandard,60.1-80% AMI
+"Henrico County, Virginia",0.0,161.0,58.0,05000US51087,51,087,D,Renter,Substandard,80.1-95% AMI
+"Henrico County, Virginia",120.0,75.0,59.0,05000US51087,51,087,D,Renter,Substandard,>95% AMI
+"Henrico County, Virginia",180.0,110.0,60.0,05000US51087,51,087,S,Renter,Severely overcrowded,All
+"Henrico County, Virginia",35.0,58.0,61.0,05000US51087,51,087,D,Renter,Severely overcrowded,<=30% AMI
+"Henrico County, Virginia",100.0,73.0,62.0,05000US51087,51,087,D,Renter,Severely overcrowded,30.1-50% AMI
+"Henrico County, Virginia",0.0,161.0,63.0,05000US51087,51,087,D,Renter,Severely overcrowded,50.1-60% AMI
+"Henrico County, Virginia",20.0,35.0,64.0,05000US51087,51,087,D,Renter,Severely overcrowded,60.1-80% AMI
+"Henrico County, Virginia",0.0,161.0,65.0,05000US51087,51,087,D,Renter,Severely overcrowded,80.1-95% AMI
+"Henrico County, Virginia",25.0,44.0,66.0,05000US51087,51,087,D,Renter,Severely overcrowded,>95% AMI
+"Henrico County, Virginia",535.0,197.0,67.0,05000US51087,51,087,S,Renter,Overcrowded,All
+"Henrico County, Virginia",160.0,127.0,68.0,05000US51087,51,087,D,Renter,Overcrowded,<=30% AMI
+"Henrico County, Virginia",75.0,64.0,69.0,05000US51087,51,087,D,Renter,Overcrowded,30.1-50% AMI
+"Henrico County, Virginia",25.0,43.0,70.0,05000US51087,51,087,D,Renter,Overcrowded,50.1-60% AMI
+"Henrico County, Virginia",105.0,99.0,71.0,05000US51087,51,087,D,Renter,Overcrowded,60.1-80% AMI
+"Henrico County, Virginia",20.0,37.0,72.0,05000US51087,51,087,D,Renter,Overcrowded,80.1-95% AMI
+"Henrico County, Virginia",145.0,92.0,73.0,05000US51087,51,087,D,Renter,Overcrowded,>95% AMI
+"Henrico County, Virginia",6400.0,718.0,74.0,05000US51087,51,087,S,Renter,Severely cost burdened,All
+"Henrico County, Virginia",4205.0,628.0,75.0,05000US51087,51,087,D,Renter,Severely cost burdened,<=30% AMI
+"Henrico County, Virginia",1790.0,412.0,76.0,05000US51087,51,087,D,Renter,Severely cost burdened,30.1-50% AMI
+"Henrico County, Virginia",135.0,93.0,77.0,05000US51087,51,087,D,Renter,Severely cost burdened,50.1-60% AMI
+"Henrico County, Virginia",135.0,72.0,78.0,05000US51087,51,087,D,Renter,Severely cost burdened,60.1-80% AMI
+"Henrico County, Virginia",15.0,25.0,79.0,05000US51087,51,087,D,Renter,Severely cost burdened,80.1-95% AMI
+"Henrico County, Virginia",120.0,64.0,80.0,05000US51087,51,087,D,Renter,Severely cost burdened,>95% AMI
+"Henrico County, Virginia",8530.0,1005.0,81.0,05000US51087,51,087,S,Renter,Cost burdened,All
+"Henrico County, Virginia",360.0,153.0,82.0,05000US51087,51,087,D,Renter,Cost burdened,<=30% AMI
+"Henrico County, Virginia",3680.0,584.0,83.0,05000US51087,51,087,D,Renter,Cost burdened,30.1-50% AMI
+"Henrico County, Virginia",1850.0,439.0,84.0,05000US51087,51,087,D,Renter,Cost burdened,50.1-60% AMI
+"Henrico County, Virginia",2010.0,480.0,85.0,05000US51087,51,087,D,Renter,Cost burdened,60.1-80% AMI
+"Henrico County, Virginia",365.0,142.0,86.0,05000US51087,51,087,D,Renter,Cost burdened,80.1-95% AMI
+"Henrico County, Virginia",265.0,107.0,87.0,05000US51087,51,087,D,Renter,Cost burdened,>95% AMI
+"Henrico County, Virginia",1625.0,363.0,88.0,05000US51087,51,087,S,Renter,No income or no cash rent,All
+"Henrico County, Virginia",940.0,296.0,89.0,05000US51087,51,087,D,Renter,No income or no cash rent,<=30% AMI
+"Henrico County, Virginia",145.0,100.0,90.0,05000US51087,51,087,D,Renter,No income or no cash rent,30.1-50% AMI
+"Henrico County, Virginia",45.0,45.0,91.0,05000US51087,51,087,D,Renter,No income or no cash rent,50.1-60% AMI
+"Henrico County, Virginia",115.0,126.0,92.0,05000US51087,51,087,D,Renter,No income or no cash rent,60.1-80% AMI
+"Henrico County, Virginia",30.0,37.0,93.0,05000US51087,51,087,D,Renter,No income or no cash rent,80.1-95% AMI
+"Henrico County, Virginia",355.0,152.0,94.0,05000US51087,51,087,D,Renter,No income or no cash rent,>95% AMI
+"Henrico County, Virginia",20480.0,1331.0,95.0,05000US51087,51,087,S,Renter,No housing problems,All
+"Henrico County, Virginia",840.0,238.0,96.0,05000US51087,51,087,D,Renter,No housing problems,<=30% AMI
+"Henrico County, Virginia",625.0,293.0,97.0,05000US51087,51,087,D,Renter,No housing problems,30.1-50% AMI
+"Henrico County, Virginia",1275.0,434.0,98.0,05000US51087,51,087,D,Renter,No housing problems,50.1-60% AMI
+"Henrico County, Virginia",4025.0,614.0,99.0,05000US51087,51,087,D,Renter,No housing problems,60.1-80% AMI
+"Henrico County, Virginia",3055.0,487.0,100.0,05000US51087,51,087,D,Renter,No housing problems,80.1-95% AMI
+"Henrico County, Virginia",10670.0,947.0,101.0,05000US51087,51,087,D,Renter,No housing problems,>95% AMI

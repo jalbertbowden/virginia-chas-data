@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Hampton city, Virginia",54650.0,823.0,1.0,05000US51650,51,650,T,All,All,All
+"Hampton city, Virginia",33030.0,1005.0,2.0,05000US51650,51,650,S,Owner,All,All
+"Hampton city, Virginia",19180.0,700.0,3.0,05000US51650,51,650,S,Owner,White,All
+"Hampton city, Virginia",14315.0,684.0,4.0,05000US51650,51,650,D,Owner,White,No cost burden
+"Hampton city, Virginia",3570.0,589.0,5.0,05000US51650,51,650,D,Owner,White,Moderate cost burden
+"Hampton city, Virginia",1235.0,264.0,6.0,05000US51650,51,650,D,Owner,White,Severe cost burden
+"Hampton city, Virginia",55.0,64.0,7.0,05000US51650,51,650,D,Owner,White,N/A
+"Hampton city, Virginia",12070.0,757.0,8.0,05000US51650,51,650,S,Owner,Black,All
+"Hampton city, Virginia",8175.0,659.0,9.0,05000US51650,51,650,D,Owner,Black,No cost burden
+"Hampton city, Virginia",2445.0,494.0,10.0,05000US51650,51,650,D,Owner,Black,Moderate cost burden
+"Hampton city, Virginia",1430.0,347.0,11.0,05000US51650,51,650,D,Owner,Black,Severe cost burden
+"Hampton city, Virginia",20.0,34.0,12.0,05000US51650,51,650,D,Owner,Black,N/A
+"Hampton city, Virginia",630.0,223.0,13.0,05000US51650,51,650,S,Owner,Asian,All
+"Hampton city, Virginia",435.0,215.0,14.0,05000US51650,51,650,D,Owner,Asian,No cost burden
+"Hampton city, Virginia",100.0,83.0,15.0,05000US51650,51,650,D,Owner,Asian,Moderate cost burden
+"Hampton city, Virginia",95.0,86.0,16.0,05000US51650,51,650,D,Owner,Asian,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,17.0,05000US51650,51,650,D,Owner,Asian,N/A
+"Hampton city, Virginia",105.0,74.0,18.0,05000US51650,51,650,S,Owner,American Indian,All
+"Hampton city, Virginia",105.0,74.0,19.0,05000US51650,51,650,D,Owner,American Indian,No cost burden
+"Hampton city, Virginia",0.0,161.0,20.0,05000US51650,51,650,D,Owner,American Indian,Moderate cost burden
+"Hampton city, Virginia",0.0,161.0,21.0,05000US51650,51,650,D,Owner,American Indian,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,22.0,05000US51650,51,650,D,Owner,American Indian,N/A
+"Hampton city, Virginia",0.0,161.0,23.0,05000US51650,51,650,S,Owner,Pacific Islander,All
+"Hampton city, Virginia",0.0,161.0,24.0,05000US51650,51,650,D,Owner,Pacific Islander,No cost burden
+"Hampton city, Virginia",0.0,161.0,25.0,05000US51650,51,650,D,Owner,Pacific Islander,Moderate cost burden
+"Hampton city, Virginia",0.0,161.0,26.0,05000US51650,51,650,D,Owner,Pacific Islander,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,27.0,05000US51650,51,650,D,Owner,Pacific Islander,N/A
+"Hampton city, Virginia",670.0,225.0,28.0,05000US51650,51,650,S,Owner,Hispanic,All
+"Hampton city, Virginia",385.0,157.0,29.0,05000US51650,51,650,D,Owner,Hispanic,No cost burden
+"Hampton city, Virginia",210.0,169.0,30.0,05000US51650,51,650,D,Owner,Hispanic,Moderate cost burden
+"Hampton city, Virginia",80.0,79.0,31.0,05000US51650,51,650,D,Owner,Hispanic,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,32.0,05000US51650,51,650,D,Owner,Hispanic,N/A
+"Hampton city, Virginia",375.0,145.0,33.0,05000US51650,51,650,S,Owner,Other,All
+"Hampton city, Virginia",140.0,84.0,34.0,05000US51650,51,650,D,Owner,Other,No cost burden
+"Hampton city, Virginia",155.0,106.0,35.0,05000US51650,51,650,D,Owner,Other,Moderate cost burden
+"Hampton city, Virginia",80.0,62.0,36.0,05000US51650,51,650,D,Owner,Other,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,37.0,05000US51650,51,650,D,Owner,Other,N/A
+"Hampton city, Virginia",21620.0,1063.0,38.0,05000US51650,51,650,S,Renter,All,All
+"Hampton city, Virginia",8265.0,725.0,39.0,05000US51650,51,650,S,Renter,White,All
+"Hampton city, Virginia",4930.0,644.0,40.0,05000US51650,51,650,D,Renter,White,No cost burden
+"Hampton city, Virginia",1840.0,447.0,41.0,05000US51650,51,650,D,Renter,White,Moderate cost burden
+"Hampton city, Virginia",775.0,249.0,42.0,05000US51650,51,650,D,Renter,White,Severe cost burden
+"Hampton city, Virginia",720.0,270.0,43.0,05000US51650,51,650,D,Renter,White,N/A
+"Hampton city, Virginia",11955.0,889.0,44.0,05000US51650,51,650,S,Renter,Black,All
+"Hampton city, Virginia",5785.0,787.0,45.0,05000US51650,51,650,D,Renter,Black,No cost burden
+"Hampton city, Virginia",2745.0,469.0,46.0,05000US51650,51,650,D,Renter,Black,Moderate cost burden
+"Hampton city, Virginia",2855.0,545.0,47.0,05000US51650,51,650,D,Renter,Black,Severe cost burden
+"Hampton city, Virginia",575.0,316.0,48.0,05000US51650,51,650,D,Renter,Black,N/A
+"Hampton city, Virginia",320.0,155.0,49.0,05000US51650,51,650,S,Renter,Asian,All
+"Hampton city, Virginia",120.0,105.0,50.0,05000US51650,51,650,D,Renter,Asian,No cost burden
+"Hampton city, Virginia",85.0,108.0,51.0,05000US51650,51,650,D,Renter,Asian,Moderate cost burden
+"Hampton city, Virginia",15.0,30.0,52.0,05000US51650,51,650,D,Renter,Asian,Severe cost burden
+"Hampton city, Virginia",100.0,85.0,53.0,05000US51650,51,650,D,Renter,Asian,N/A
+"Hampton city, Virginia",85.0,58.0,54.0,05000US51650,51,650,S,Renter,American Indian,All
+"Hampton city, Virginia",55.0,52.0,55.0,05000US51650,51,650,D,Renter,American Indian,No cost burden
+"Hampton city, Virginia",0.0,161.0,56.0,05000US51650,51,650,D,Renter,American Indian,Moderate cost burden
+"Hampton city, Virginia",30.0,26.0,57.0,05000US51650,51,650,D,Renter,American Indian,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,58.0,05000US51650,51,650,D,Renter,American Indian,N/A
+"Hampton city, Virginia",0.0,161.0,59.0,05000US51650,51,650,S,Renter,Pacific Islander,All
+"Hampton city, Virginia",0.0,161.0,60.0,05000US51650,51,650,D,Renter,Pacific Islander,No cost burden
+"Hampton city, Virginia",0.0,161.0,61.0,05000US51650,51,650,D,Renter,Pacific Islander,Moderate cost burden
+"Hampton city, Virginia",0.0,161.0,62.0,05000US51650,51,650,D,Renter,Pacific Islander,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,63.0,05000US51650,51,650,D,Renter,Pacific Islander,N/A
+"Hampton city, Virginia",670.0,240.0,64.0,05000US51650,51,650,S,Renter,Hispanic,All
+"Hampton city, Virginia",365.0,195.0,65.0,05000US51650,51,650,D,Renter,Hispanic,No cost burden
+"Hampton city, Virginia",100.0,101.0,66.0,05000US51650,51,650,D,Renter,Hispanic,Moderate cost burden
+"Hampton city, Virginia",210.0,140.0,67.0,05000US51650,51,650,D,Renter,Hispanic,Severe cost burden
+"Hampton city, Virginia",0.0,161.0,68.0,05000US51650,51,650,D,Renter,Hispanic,N/A
+"Hampton city, Virginia",320.0,153.0,69.0,05000US51650,51,650,S,Renter,Other,All
+"Hampton city, Virginia",100.0,58.0,70.0,05000US51650,51,650,D,Renter,Other,No cost burden
+"Hampton city, Virginia",60.0,57.0,71.0,05000US51650,51,650,D,Renter,Other,Moderate cost burden
+"Hampton city, Virginia",130.0,151.0,72.0,05000US51650,51,650,D,Renter,Other,Severe cost burden
+"Hampton city, Virginia",30.0,41.0,73.0,05000US51650,51,650,D,Renter,Other,N/A

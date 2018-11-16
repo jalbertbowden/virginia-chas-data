@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Amherst County, Virginia",12730.0,370.0,1.0,05000US51009,51,009,T,All,All,All
+"Amherst County, Virginia",9680.0,490.0,2.0,05000US51009,51,009,S,Owner,All,All
+"Amherst County, Virginia",485.0,198.0,3.0,05000US51009,51,009,S,Owner,2000+,All
+"Amherst County, Virginia",155.0,130.0,4.0,05000US51009,51,009,D,Owner,2000+,Yes
+"Amherst County, Virginia",330.0,132.0,5.0,05000US51009,51,009,D,Owner,2000+,No
+"Amherst County, Virginia",3860.0,458.0,6.0,05000US51009,51,009,S,Owner,1980 to 1999,All
+"Amherst County, Virginia",750.0,224.0,7.0,05000US51009,51,009,D,Owner,1980 to 1999,Yes
+"Amherst County, Virginia",3115.0,394.0,8.0,05000US51009,51,009,D,Owner,1980 to 1999,No
+"Amherst County, Virginia",2955.0,393.0,9.0,05000US51009,51,009,S,Owner,1960 to 1979,All
+"Amherst County, Virginia",185.0,121.0,10.0,05000US51009,51,009,D,Owner,1960 to 1979,Yes
+"Amherst County, Virginia",2770.0,363.0,11.0,05000US51009,51,009,D,Owner,1960 to 1979,No
+"Amherst County, Virginia",1430.0,302.0,12.0,05000US51009,51,009,S,Owner,1940 to 1959,All
+"Amherst County, Virginia",105.0,79.0,13.0,05000US51009,51,009,D,Owner,1940 to 1959,Yes
+"Amherst County, Virginia",1325.0,291.0,14.0,05000US51009,51,009,D,Owner,1940 to 1959,No
+"Amherst County, Virginia",945.0,242.0,15.0,05000US51009,51,009,S,Owner,1939-,All
+"Amherst County, Virginia",145.0,122.0,16.0,05000US51009,51,009,D,Owner,1939-,Yes
+"Amherst County, Virginia",800.0,204.0,17.0,05000US51009,51,009,D,Owner,1939-,No
+"Amherst County, Virginia",3050.0,476.0,18.0,05000US51009,51,009,S,Renter,All,All
+"Amherst County, Virginia",50.0,58.0,19.0,05000US51009,51,009,S,Renter,2000+,All
+"Amherst County, Virginia",30.0,46.0,20.0,05000US51009,51,009,D,Renter,2000+,Yes
+"Amherst County, Virginia",20.0,33.0,21.0,05000US51009,51,009,D,Renter,2000+,No
+"Amherst County, Virginia",925.0,316.0,22.0,05000US51009,51,009,S,Renter,1980 to 1999,All
+"Amherst County, Virginia",170.0,131.0,23.0,05000US51009,51,009,D,Renter,1980 to 1999,Yes
+"Amherst County, Virginia",750.0,306.0,24.0,05000US51009,51,009,D,Renter,1980 to 1999,No
+"Amherst County, Virginia",1185.0,336.0,25.0,05000US51009,51,009,S,Renter,1960 to 1979,All
+"Amherst County, Virginia",475.0,261.0,26.0,05000US51009,51,009,D,Renter,1960 to 1979,Yes
+"Amherst County, Virginia",710.0,231.0,27.0,05000US51009,51,009,D,Renter,1960 to 1979,No
+"Amherst County, Virginia",640.0,207.0,28.0,05000US51009,51,009,S,Renter,1940 to 1959,All
+"Amherst County, Virginia",115.0,94.0,29.0,05000US51009,51,009,D,Renter,1940 to 1959,Yes
+"Amherst County, Virginia",530.0,194.0,30.0,05000US51009,51,009,D,Renter,1940 to 1959,No
+"Amherst County, Virginia",250.0,139.0,31.0,05000US51009,51,009,S,Renter,1939-,All
+"Amherst County, Virginia",0.0,161.0,32.0,05000US51009,51,009,D,Renter,1939-,Yes
+"Amherst County, Virginia",250.0,139.0,33.0,05000US51009,51,009,D,Renter,1939-,No

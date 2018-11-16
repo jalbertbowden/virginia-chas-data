@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Shenandoah County, Virginia",4675.0,445.0,1.0,05000US51171,51,171,T,All,All,All,All
+"Shenandoah County, Virginia",20.0,38.0,2.0,05000US51171,51,171,S,Substandard,All,All,All
+"Shenandoah County, Virginia",4655.0,439.0,3.0,05000US51171,51,171,S,Standard,All,All,All
+"Shenandoah County, Virginia",1065.0,275.0,4.0,05000US51171,51,171,S,Standard,VHUD50,All,All
+"Shenandoah County, Virginia",285.0,156.0,5.0,05000US51171,51,171,S,Standard,VHUD50,30% AMI or less,All
+"Shenandoah County, Virginia",55.0,70.0,6.0,05000US51171,51,171,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Shenandoah County, Virginia",135.0,104.0,7.0,05000US51171,51,171,D,Standard,VHUD50,30% AMI or less,2
+"Shenandoah County, Virginia",90.0,75.0,8.0,05000US51171,51,171,D,Standard,VHUD50,30% AMI or less,3 or more
+"Shenandoah County, Virginia",275.0,134.0,9.0,05000US51171,51,171,S,Standard,VHUD50,30.1-50% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,10.0,05000US51171,51,171,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Shenandoah County, Virginia",135.0,114.0,11.0,05000US51171,51,171,D,Standard,VHUD50,30.1-50% AMI,2
+"Shenandoah County, Virginia",145.0,85.0,12.0,05000US51171,51,171,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Shenandoah County, Virginia",210.0,119.0,13.0,05000US51171,51,171,S,Standard,VHUD50,50.1-80% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,14.0,05000US51171,51,171,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Shenandoah County, Virginia",75.0,67.0,15.0,05000US51171,51,171,D,Standard,VHUD50,50.1-80% AMI,2
+"Shenandoah County, Virginia",130.0,103.0,16.0,05000US51171,51,171,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Shenandoah County, Virginia",115.0,74.0,17.0,05000US51171,51,171,S,Standard,VHUD50,80.1-95% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,18.0,05000US51171,51,171,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Shenandoah County, Virginia",20.0,32.0,19.0,05000US51171,51,171,D,Standard,VHUD50,80.1-95% AMI,2
+"Shenandoah County, Virginia",100.0,65.0,20.0,05000US51171,51,171,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Shenandoah County, Virginia",180.0,104.0,21.0,05000US51171,51,171,S,Standard,VHUD50,95.1% AMI and above,All
+"Shenandoah County, Virginia",0.0,161.0,22.0,05000US51171,51,171,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Shenandoah County, Virginia",65.0,67.0,23.0,05000US51171,51,171,D,Standard,VHUD50,95.1% AMI and above,2
+"Shenandoah County, Virginia",115.0,80.0,24.0,05000US51171,51,171,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Shenandoah County, Virginia",1210.0,274.0,25.0,05000US51171,51,171,S,Standard,VHUD80,All,All
+"Shenandoah County, Virginia",110.0,89.0,26.0,05000US51171,51,171,S,Standard,VHUD80,30% AMI or less,All
+"Shenandoah County, Virginia",0.0,161.0,27.0,05000US51171,51,171,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Shenandoah County, Virginia",10.0,16.0,28.0,05000US51171,51,171,D,Standard,VHUD80,30% AMI or less,2
+"Shenandoah County, Virginia",100.0,88.0,29.0,05000US51171,51,171,D,Standard,VHUD80,30% AMI or less,3 or more
+"Shenandoah County, Virginia",290.0,130.0,30.0,05000US51171,51,171,S,Standard,VHUD80,30.1-50% AMI,All
+"Shenandoah County, Virginia",25.0,43.0,31.0,05000US51171,51,171,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Shenandoah County, Virginia",95.0,60.0,32.0,05000US51171,51,171,D,Standard,VHUD80,30.1-50% AMI,2
+"Shenandoah County, Virginia",175.0,108.0,33.0,05000US51171,51,171,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Shenandoah County, Virginia",320.0,126.0,34.0,05000US51171,51,171,S,Standard,VHUD80,50.1-80% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,35.0,05000US51171,51,171,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Shenandoah County, Virginia",60.0,65.0,36.0,05000US51171,51,171,D,Standard,VHUD80,50.1-80% AMI,2
+"Shenandoah County, Virginia",255.0,122.0,37.0,05000US51171,51,171,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Shenandoah County, Virginia",175.0,110.0,38.0,05000US51171,51,171,S,Standard,VHUD80,80.1-95% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,39.0,05000US51171,51,171,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Shenandoah County, Virginia",30.0,49.0,40.0,05000US51171,51,171,D,Standard,VHUD80,80.1-95% AMI,2
+"Shenandoah County, Virginia",145.0,90.0,41.0,05000US51171,51,171,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Shenandoah County, Virginia",315.0,134.0,42.0,05000US51171,51,171,S,Standard,VHUD80,95.1% AMI and above,All
+"Shenandoah County, Virginia",4.0,3.0,43.0,05000US51171,51,171,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Shenandoah County, Virginia",90.0,83.0,44.0,05000US51171,51,171,D,Standard,VHUD80,95.1% AMI and above,2
+"Shenandoah County, Virginia",215.0,104.0,45.0,05000US51171,51,171,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Shenandoah County, Virginia",400.0,156.0,46.0,05000US51171,51,171,S,Standard,VHUD100,All,All
+"Shenandoah County, Virginia",45.0,51.0,47.0,05000US51171,51,171,S,Standard,VHUD100,30% AMI or less,All
+"Shenandoah County, Virginia",0.0,161.0,48.0,05000US51171,51,171,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Shenandoah County, Virginia",0.0,161.0,49.0,05000US51171,51,171,D,Standard,VHUD100,30% AMI or less,2
+"Shenandoah County, Virginia",45.0,51.0,50.0,05000US51171,51,171,D,Standard,VHUD100,30% AMI or less,3 or more
+"Shenandoah County, Virginia",45.0,42.0,51.0,05000US51171,51,171,S,Standard,VHUD100,30.1-50% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,52.0,05000US51171,51,171,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Shenandoah County, Virginia",0.0,161.0,53.0,05000US51171,51,171,D,Standard,VHUD100,30.1-50% AMI,2
+"Shenandoah County, Virginia",45.0,42.0,54.0,05000US51171,51,171,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Shenandoah County, Virginia",50.0,57.0,55.0,05000US51171,51,171,S,Standard,VHUD100,50.1-80% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,56.0,05000US51171,51,171,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Shenandoah County, Virginia",25.0,36.0,57.0,05000US51171,51,171,D,Standard,VHUD100,50.1-80% AMI,2
+"Shenandoah County, Virginia",25.0,44.0,58.0,05000US51171,51,171,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Shenandoah County, Virginia",30.0,48.0,59.0,05000US51171,51,171,S,Standard,VHUD100,80.1-95% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,60.0,05000US51171,51,171,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Shenandoah County, Virginia",30.0,48.0,61.0,05000US51171,51,171,D,Standard,VHUD100,80.1-95% AMI,2
+"Shenandoah County, Virginia",0.0,161.0,62.0,05000US51171,51,171,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Shenandoah County, Virginia",225.0,120.0,63.0,05000US51171,51,171,S,Standard,VHUD100,95.1% AMI and above,All
+"Shenandoah County, Virginia",0.0,161.0,64.0,05000US51171,51,171,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Shenandoah County, Virginia",95.0,78.0,65.0,05000US51171,51,171,D,Standard,VHUD100,95.1% AMI and above,2
+"Shenandoah County, Virginia",130.0,86.0,66.0,05000US51171,51,171,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Shenandoah County, Virginia",1985.0,378.0,67.0,05000US51171,51,171,S,Standard,Greater than VHUD100,All,All
+"Shenandoah County, Virginia",315.0,159.0,68.0,05000US51171,51,171,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Shenandoah County, Virginia",0.0,161.0,69.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Shenandoah County, Virginia",110.0,116.0,70.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Shenandoah County, Virginia",205.0,115.0,71.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Shenandoah County, Virginia",105.0,103.0,72.0,05000US51171,51,171,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,73.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Shenandoah County, Virginia",0.0,161.0,74.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Shenandoah County, Virginia",105.0,103.0,75.0,05000US51171,51,171,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Shenandoah County, Virginia",185.0,122.0,76.0,05000US51171,51,171,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,77.0,05000US51171,51,171,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Shenandoah County, Virginia",10.0,16.0,78.0,05000US51171,51,171,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Shenandoah County, Virginia",170.0,121.0,79.0,05000US51171,51,171,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Shenandoah County, Virginia",120.0,124.0,80.0,05000US51171,51,171,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Shenandoah County, Virginia",0.0,161.0,81.0,05000US51171,51,171,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Shenandoah County, Virginia",20.0,29.0,82.0,05000US51171,51,171,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Shenandoah County, Virginia",100.0,121.0,83.0,05000US51171,51,171,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Shenandoah County, Virginia",1255.0,294.0,84.0,05000US51171,51,171,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Shenandoah County, Virginia",30.0,47.0,85.0,05000US51171,51,171,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Shenandoah County, Virginia",175.0,124.0,86.0,05000US51171,51,171,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Shenandoah County, Virginia",1055.0,254.0,87.0,05000US51171,51,171,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Newport News city, Virginia",670.0,304.0,1.0,05000US51700,51,700,T,All,All,All
+"Newport News city, Virginia",0.0,161.0,2.0,05000US51700,51,700,S,Substandard,All,All
+"Newport News city, Virginia",670.0,304.0,3.0,05000US51700,51,700,S,Standard,All,All
+"Newport News city, Virginia",175.0,145.0,4.0,05000US51700,51,700,S,Standard,VHUD50,All
+"Newport News city, Virginia",0.0,161.0,5.0,05000US51700,51,700,D,Standard,VHUD50,0 or 1
+"Newport News city, Virginia",85.0,97.0,6.0,05000US51700,51,700,D,Standard,VHUD50,2
+"Newport News city, Virginia",90.0,103.0,7.0,05000US51700,51,700,D,Standard,VHUD50,3 or more
+"Newport News city, Virginia",135.0,157.0,8.0,05000US51700,51,700,S,Standard,VHUD80,All
+"Newport News city, Virginia",0.0,161.0,9.0,05000US51700,51,700,D,Standard,VHUD80,0 or 1
+"Newport News city, Virginia",65.0,106.0,10.0,05000US51700,51,700,D,Standard,VHUD80,2
+"Newport News city, Virginia",70.0,116.0,11.0,05000US51700,51,700,D,Standard,VHUD80,3 or more
+"Newport News city, Virginia",180.0,174.0,12.0,05000US51700,51,700,S,Standard,VHUD100,All
+"Newport News city, Virginia",0.0,161.0,13.0,05000US51700,51,700,D,Standard,VHUD100,0 or 1
+"Newport News city, Virginia",0.0,161.0,14.0,05000US51700,51,700,D,Standard,VHUD100,2
+"Newport News city, Virginia",180.0,174.0,15.0,05000US51700,51,700,D,Standard,VHUD100,3 or more
+"Newport News city, Virginia",185.0,178.0,16.0,05000US51700,51,700,S,Standard,Greater than VHUD100,All
+"Newport News city, Virginia",0.0,161.0,17.0,05000US51700,51,700,D,Standard,Greater than VHUD100,0 or 1
+"Newport News city, Virginia",0.0,161.0,18.0,05000US51700,51,700,D,Standard,Greater than VHUD100,2
+"Newport News city, Virginia",185.0,178.0,19.0,05000US51700,51,700,D,Standard,Greater than VHUD100,3 or more

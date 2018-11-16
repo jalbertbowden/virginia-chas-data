@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Alexandria city, Virginia",24655.0,1000.0,1.0,05000US51510,51,510,T,All,All,All,All
+"Alexandria city, Virginia",125.0,126.0,2.0,05000US51510,51,510,S,Substandard,All,All,All
+"Alexandria city, Virginia",24530.0,999.0,3.0,05000US51510,51,510,S,Standard,All,All,All
+"Alexandria city, Virginia",290.0,127.0,4.0,05000US51510,51,510,S,Standard,VHUD50,All,All
+"Alexandria city, Virginia",25.0,41.0,5.0,05000US51510,51,510,S,Standard,VHUD50,30% AMI or less,All
+"Alexandria city, Virginia",25.0,41.0,6.0,05000US51510,51,510,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Alexandria city, Virginia",0.0,161.0,7.0,05000US51510,51,510,D,Standard,VHUD50,30% AMI or less,2
+"Alexandria city, Virginia",0.0,161.0,8.0,05000US51510,51,510,D,Standard,VHUD50,30% AMI or less,3 or more
+"Alexandria city, Virginia",15.0,24.0,9.0,05000US51510,51,510,S,Standard,VHUD50,30.1-50% AMI,All
+"Alexandria city, Virginia",0.0,161.0,10.0,05000US51510,51,510,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Alexandria city, Virginia",15.0,24.0,11.0,05000US51510,51,510,D,Standard,VHUD50,30.1-50% AMI,2
+"Alexandria city, Virginia",0.0,161.0,12.0,05000US51510,51,510,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Alexandria city, Virginia",80.0,67.0,13.0,05000US51510,51,510,S,Standard,VHUD50,50.1-80% AMI,All
+"Alexandria city, Virginia",35.0,44.0,14.0,05000US51510,51,510,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Alexandria city, Virginia",25.0,42.0,15.0,05000US51510,51,510,D,Standard,VHUD50,50.1-80% AMI,2
+"Alexandria city, Virginia",20.0,39.0,16.0,05000US51510,51,510,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Alexandria city, Virginia",45.0,53.0,17.0,05000US51510,51,510,S,Standard,VHUD50,80.1-95% AMI,All
+"Alexandria city, Virginia",25.0,47.0,18.0,05000US51510,51,510,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Alexandria city, Virginia",0.0,161.0,19.0,05000US51510,51,510,D,Standard,VHUD50,80.1-95% AMI,2
+"Alexandria city, Virginia",20.0,27.0,20.0,05000US51510,51,510,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Alexandria city, Virginia",125.0,76.0,21.0,05000US51510,51,510,S,Standard,VHUD50,95.1% AMI and above,All
+"Alexandria city, Virginia",85.0,72.0,22.0,05000US51510,51,510,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Alexandria city, Virginia",15.0,28.0,23.0,05000US51510,51,510,D,Standard,VHUD50,95.1% AMI and above,2
+"Alexandria city, Virginia",20.0,37.0,24.0,05000US51510,51,510,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Alexandria city, Virginia",1055.0,253.0,25.0,05000US51510,51,510,S,Standard,VHUD80,All,All
+"Alexandria city, Virginia",20.0,32.0,26.0,05000US51510,51,510,S,Standard,VHUD80,30% AMI or less,All
+"Alexandria city, Virginia",0.0,161.0,27.0,05000US51510,51,510,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Alexandria city, Virginia",0.0,161.0,28.0,05000US51510,51,510,D,Standard,VHUD80,30% AMI or less,2
+"Alexandria city, Virginia",20.0,32.0,29.0,05000US51510,51,510,D,Standard,VHUD80,30% AMI or less,3 or more
+"Alexandria city, Virginia",75.0,57.0,30.0,05000US51510,51,510,S,Standard,VHUD80,30.1-50% AMI,All
+"Alexandria city, Virginia",30.0,35.0,31.0,05000US51510,51,510,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Alexandria city, Virginia",50.0,49.0,32.0,05000US51510,51,510,D,Standard,VHUD80,30.1-50% AMI,2
+"Alexandria city, Virginia",0.0,161.0,33.0,05000US51510,51,510,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Alexandria city, Virginia",375.0,166.0,34.0,05000US51510,51,510,S,Standard,VHUD80,50.1-80% AMI,All
+"Alexandria city, Virginia",160.0,114.0,35.0,05000US51510,51,510,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Alexandria city, Virginia",170.0,112.0,36.0,05000US51510,51,510,D,Standard,VHUD80,50.1-80% AMI,2
+"Alexandria city, Virginia",40.0,52.0,37.0,05000US51510,51,510,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Alexandria city, Virginia",180.0,138.0,38.0,05000US51510,51,510,S,Standard,VHUD80,80.1-95% AMI,All
+"Alexandria city, Virginia",45.0,48.0,39.0,05000US51510,51,510,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Alexandria city, Virginia",100.0,122.0,40.0,05000US51510,51,510,D,Standard,VHUD80,80.1-95% AMI,2
+"Alexandria city, Virginia",30.0,37.0,41.0,05000US51510,51,510,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Alexandria city, Virginia",405.0,143.0,42.0,05000US51510,51,510,S,Standard,VHUD80,95.1% AMI and above,All
+"Alexandria city, Virginia",75.0,68.0,43.0,05000US51510,51,510,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Alexandria city, Virginia",205.0,113.0,44.0,05000US51510,51,510,D,Standard,VHUD80,95.1% AMI and above,2
+"Alexandria city, Virginia",125.0,74.0,45.0,05000US51510,51,510,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Alexandria city, Virginia",1790.0,437.0,46.0,05000US51510,51,510,S,Standard,VHUD100,All,All
+"Alexandria city, Virginia",155.0,112.0,47.0,05000US51510,51,510,S,Standard,VHUD100,30% AMI or less,All
+"Alexandria city, Virginia",70.0,72.0,48.0,05000US51510,51,510,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Alexandria city, Virginia",65.0,62.0,49.0,05000US51510,51,510,D,Standard,VHUD100,30% AMI or less,2
+"Alexandria city, Virginia",20.0,39.0,50.0,05000US51510,51,510,D,Standard,VHUD100,30% AMI or less,3 or more
+"Alexandria city, Virginia",240.0,106.0,51.0,05000US51510,51,510,S,Standard,VHUD100,30.1-50% AMI,All
+"Alexandria city, Virginia",140.0,85.0,52.0,05000US51510,51,510,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Alexandria city, Virginia",50.0,64.0,53.0,05000US51510,51,510,D,Standard,VHUD100,30.1-50% AMI,2
+"Alexandria city, Virginia",50.0,71.0,54.0,05000US51510,51,510,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Alexandria city, Virginia",310.0,181.0,55.0,05000US51510,51,510,S,Standard,VHUD100,50.1-80% AMI,All
+"Alexandria city, Virginia",210.0,145.0,56.0,05000US51510,51,510,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Alexandria city, Virginia",80.0,80.0,57.0,05000US51510,51,510,D,Standard,VHUD100,50.1-80% AMI,2
+"Alexandria city, Virginia",20.0,35.0,58.0,05000US51510,51,510,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Alexandria city, Virginia",305.0,147.0,59.0,05000US51510,51,510,S,Standard,VHUD100,80.1-95% AMI,All
+"Alexandria city, Virginia",175.0,99.0,60.0,05000US51510,51,510,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Alexandria city, Virginia",115.0,83.0,61.0,05000US51510,51,510,D,Standard,VHUD100,80.1-95% AMI,2
+"Alexandria city, Virginia",20.0,32.0,62.0,05000US51510,51,510,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Alexandria city, Virginia",785.0,365.0,63.0,05000US51510,51,510,S,Standard,VHUD100,95.1% AMI and above,All
+"Alexandria city, Virginia",245.0,104.0,64.0,05000US51510,51,510,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Alexandria city, Virginia",425.0,273.0,65.0,05000US51510,51,510,D,Standard,VHUD100,95.1% AMI and above,2
+"Alexandria city, Virginia",110.0,122.0,66.0,05000US51510,51,510,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Alexandria city, Virginia",21395.0,993.0,67.0,05000US51510,51,510,S,Standard,Greater than VHUD100,All,All
+"Alexandria city, Virginia",545.0,224.0,68.0,05000US51510,51,510,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Alexandria city, Virginia",95.0,90.0,69.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Alexandria city, Virginia",185.0,105.0,70.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Alexandria city, Virginia",270.0,169.0,71.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Alexandria city, Virginia",460.0,185.0,72.0,05000US51510,51,510,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Alexandria city, Virginia",90.0,76.0,73.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Alexandria city, Virginia",165.0,165.0,74.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Alexandria city, Virginia",205.0,102.0,75.0,05000US51510,51,510,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Alexandria city, Virginia",1515.0,348.0,76.0,05000US51510,51,510,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Alexandria city, Virginia",380.0,158.0,77.0,05000US51510,51,510,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Alexandria city, Virginia",600.0,230.0,78.0,05000US51510,51,510,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Alexandria city, Virginia",535.0,182.0,79.0,05000US51510,51,510,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Alexandria city, Virginia",1070.0,279.0,80.0,05000US51510,51,510,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Alexandria city, Virginia",200.0,129.0,81.0,05000US51510,51,510,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Alexandria city, Virginia",385.0,152.0,82.0,05000US51510,51,510,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Alexandria city, Virginia",485.0,199.0,83.0,05000US51510,51,510,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Alexandria city, Virginia",17800.0,831.0,84.0,05000US51510,51,510,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Alexandria city, Virginia",1055.0,253.0,85.0,05000US51510,51,510,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Alexandria city, Virginia",5290.0,529.0,86.0,05000US51510,51,510,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Alexandria city, Virginia",11455.0,771.0,87.0,05000US51510,51,510,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

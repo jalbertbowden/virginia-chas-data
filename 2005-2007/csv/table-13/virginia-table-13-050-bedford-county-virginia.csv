@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Bedford County, Virginia",27000.0,600.0,1.0,05000US51019,51,019,T,All,All,All
+"Bedford County, Virginia",22205.0,718.0,2.0,05000US51019,51,019,S,Owner,All,All
+"Bedford County, Virginia",2845.0,390.0,3.0,05000US51019,51,019,S,Owner,2000+,All
+"Bedford County, Virginia",420.0,132.0,4.0,05000US51019,51,019,D,Owner,2000+,Yes
+"Bedford County, Virginia",2425.0,368.0,5.0,05000US51019,51,019,D,Owner,2000+,No
+"Bedford County, Virginia",11185.0,576.0,6.0,05000US51019,51,019,S,Owner,1980 to 1999,All
+"Bedford County, Virginia",1620.0,366.0,7.0,05000US51019,51,019,D,Owner,1980 to 1999,Yes
+"Bedford County, Virginia",9565.0,576.0,8.0,05000US51019,51,019,D,Owner,1980 to 1999,No
+"Bedford County, Virginia",5485.0,485.0,9.0,05000US51019,51,019,S,Owner,1960 to 1979,All
+"Bedford County, Virginia",570.0,245.0,10.0,05000US51019,51,019,D,Owner,1960 to 1979,Yes
+"Bedford County, Virginia",4920.0,424.0,11.0,05000US51019,51,019,D,Owner,1960 to 1979,No
+"Bedford County, Virginia",1550.0,288.0,12.0,05000US51019,51,019,S,Owner,1940 to 1959,All
+"Bedford County, Virginia",35.0,42.0,13.0,05000US51019,51,019,D,Owner,1940 to 1959,Yes
+"Bedford County, Virginia",1515.0,283.0,14.0,05000US51019,51,019,D,Owner,1940 to 1959,No
+"Bedford County, Virginia",1140.0,292.0,15.0,05000US51019,51,019,S,Owner,1939-,All
+"Bedford County, Virginia",105.0,146.0,16.0,05000US51019,51,019,D,Owner,1939-,Yes
+"Bedford County, Virginia",1035.0,253.0,17.0,05000US51019,51,019,D,Owner,1939-,No
+"Bedford County, Virginia",4800.0,671.0,18.0,05000US51019,51,019,S,Renter,All,All
+"Bedford County, Virginia",85.0,77.0,19.0,05000US51019,51,019,S,Renter,2000+,All
+"Bedford County, Virginia",0.0,161.0,20.0,05000US51019,51,019,D,Renter,2000+,Yes
+"Bedford County, Virginia",85.0,77.0,21.0,05000US51019,51,019,D,Renter,2000+,No
+"Bedford County, Virginia",2345.0,540.0,22.0,05000US51019,51,019,S,Renter,1980 to 1999,All
+"Bedford County, Virginia",295.0,156.0,23.0,05000US51019,51,019,D,Renter,1980 to 1999,Yes
+"Bedford County, Virginia",2050.0,527.0,24.0,05000US51019,51,019,D,Renter,1980 to 1999,No
+"Bedford County, Virginia",1415.0,411.0,25.0,05000US51019,51,019,S,Renter,1960 to 1979,All
+"Bedford County, Virginia",215.0,135.0,26.0,05000US51019,51,019,D,Renter,1960 to 1979,Yes
+"Bedford County, Virginia",1200.0,389.0,27.0,05000US51019,51,019,D,Renter,1960 to 1979,No
+"Bedford County, Virginia",435.0,188.0,28.0,05000US51019,51,019,S,Renter,1940 to 1959,All
+"Bedford County, Virginia",55.0,60.0,29.0,05000US51019,51,019,D,Renter,1940 to 1959,Yes
+"Bedford County, Virginia",380.0,174.0,30.0,05000US51019,51,019,D,Renter,1940 to 1959,No
+"Bedford County, Virginia",515.0,251.0,31.0,05000US51019,51,019,S,Renter,1939-,All
+"Bedford County, Virginia",200.0,187.0,32.0,05000US51019,51,019,D,Renter,1939-,Yes
+"Bedford County, Virginia",315.0,160.0,33.0,05000US51019,51,019,D,Renter,1939-,No

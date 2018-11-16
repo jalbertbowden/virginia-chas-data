@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Fairfax County, Virginia",365095.0,2044.0,1.0,05000US51059,51,059,T,All,All,All
+"Fairfax County, Virginia",272625.0,2648.0,2.0,05000US51059,51,059,S,Owner,All,All
+"Fairfax County, Virginia",21375.0,1108.0,3.0,05000US51059,51,059,S,Owner,2000+,All
+"Fairfax County, Virginia",5045.0,540.0,4.0,05000US51059,51,059,D,Owner,2000+,Yes
+"Fairfax County, Virginia",16330.0,965.0,5.0,05000US51059,51,059,D,Owner,2000+,No
+"Fairfax County, Virginia",115200.0,2269.0,6.0,05000US51059,51,059,S,Owner,1980 to 1999,All
+"Fairfax County, Virginia",18445.0,1069.0,7.0,05000US51059,51,059,D,Owner,1980 to 1999,Yes
+"Fairfax County, Virginia",96755.0,2257.0,8.0,05000US51059,51,059,D,Owner,1980 to 1999,No
+"Fairfax County, Virginia",98215.0,2493.0,9.0,05000US51059,51,059,S,Owner,1960 to 1979,All
+"Fairfax County, Virginia",13590.0,933.0,10.0,05000US51059,51,059,D,Owner,1960 to 1979,Yes
+"Fairfax County, Virginia",84625.0,2159.0,11.0,05000US51059,51,059,D,Owner,1960 to 1979,No
+"Fairfax County, Virginia",35500.0,1157.0,12.0,05000US51059,51,059,S,Owner,1940 to 1959,All
+"Fairfax County, Virginia",5025.0,584.0,13.0,05000US51059,51,059,D,Owner,1940 to 1959,Yes
+"Fairfax County, Virginia",30470.0,1008.0,14.0,05000US51059,51,059,D,Owner,1940 to 1959,No
+"Fairfax County, Virginia",2335.0,339.0,15.0,05000US51059,51,059,S,Owner,1939-,All
+"Fairfax County, Virginia",305.0,140.0,16.0,05000US51059,51,059,D,Owner,1939-,Yes
+"Fairfax County, Virginia",2030.0,339.0,17.0,05000US51059,51,059,D,Owner,1939-,No
+"Fairfax County, Virginia",92470.0,2867.0,18.0,05000US51059,51,059,S,Renter,All,All
+"Fairfax County, Virginia",9755.0,973.0,19.0,05000US51059,51,059,S,Renter,2000+,All
+"Fairfax County, Virginia",1790.0,489.0,20.0,05000US51059,51,059,D,Renter,2000+,Yes
+"Fairfax County, Virginia",7965.0,855.0,21.0,05000US51059,51,059,D,Renter,2000+,No
+"Fairfax County, Virginia",33950.0,2197.0,22.0,05000US51059,51,059,S,Renter,1980 to 1999,All
+"Fairfax County, Virginia",5230.0,680.0,23.0,05000US51059,51,059,D,Renter,1980 to 1999,Yes
+"Fairfax County, Virginia",28720.0,1925.0,24.0,05000US51059,51,059,D,Renter,1980 to 1999,No
+"Fairfax County, Virginia",38240.0,1862.0,25.0,05000US51059,51,059,S,Renter,1960 to 1979,All
+"Fairfax County, Virginia",7465.0,1100.0,26.0,05000US51059,51,059,D,Renter,1960 to 1979,Yes
+"Fairfax County, Virginia",30775.0,1549.0,27.0,05000US51059,51,059,D,Renter,1960 to 1979,No
+"Fairfax County, Virginia",9255.0,1001.0,28.0,05000US51059,51,059,S,Renter,1940 to 1959,All
+"Fairfax County, Virginia",1815.0,504.0,29.0,05000US51059,51,059,D,Renter,1940 to 1959,Yes
+"Fairfax County, Virginia",7440.0,947.0,30.0,05000US51059,51,059,D,Renter,1940 to 1959,No
+"Fairfax County, Virginia",1270.0,289.0,31.0,05000US51059,51,059,S,Renter,1939-,All
+"Fairfax County, Virginia",450.0,208.0,32.0,05000US51059,51,059,D,Renter,1939-,Yes
+"Fairfax County, Virginia",825.0,248.0,33.0,05000US51059,51,059,D,Renter,1939-,No

@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Fauquier County, Virginia",22120.0,645.0,1.0,05000US51061,51,061,T,All,All,All
+"Fauquier County, Virginia",17635.0,729.0,2.0,05000US51061,51,061,S,Owner,All,All
+"Fauquier County, Virginia",1180.0,318.0,3.0,05000US51061,51,061,S,Owner,2000+,All
+"Fauquier County, Virginia",215.0,111.0,4.0,05000US51061,51,061,D,Owner,2000+,Yes
+"Fauquier County, Virginia",965.0,297.0,5.0,05000US51061,51,061,D,Owner,2000+,No
+"Fauquier County, Virginia",9265.0,724.0,6.0,05000US51061,51,061,S,Owner,1980 to 1999,All
+"Fauquier County, Virginia",1480.0,295.0,7.0,05000US51061,51,061,D,Owner,1980 to 1999,Yes
+"Fauquier County, Virginia",7785.0,691.0,8.0,05000US51061,51,061,D,Owner,1980 to 1999,No
+"Fauquier County, Virginia",4330.0,573.0,9.0,05000US51061,51,061,S,Owner,1960 to 1979,All
+"Fauquier County, Virginia",480.0,236.0,10.0,05000US51061,51,061,D,Owner,1960 to 1979,Yes
+"Fauquier County, Virginia",3850.0,509.0,11.0,05000US51061,51,061,D,Owner,1960 to 1979,No
+"Fauquier County, Virginia",1155.0,278.0,12.0,05000US51061,51,061,S,Owner,1940 to 1959,All
+"Fauquier County, Virginia",115.0,95.0,13.0,05000US51061,51,061,D,Owner,1940 to 1959,Yes
+"Fauquier County, Virginia",1040.0,273.0,14.0,05000US51061,51,061,D,Owner,1940 to 1959,No
+"Fauquier County, Virginia",1710.0,316.0,15.0,05000US51061,51,061,S,Owner,1939-,All
+"Fauquier County, Virginia",205.0,113.0,16.0,05000US51061,51,061,D,Owner,1939-,Yes
+"Fauquier County, Virginia",1505.0,315.0,17.0,05000US51061,51,061,D,Owner,1939-,No
+"Fauquier County, Virginia",4485.0,742.0,18.0,05000US51061,51,061,S,Renter,All,All
+"Fauquier County, Virginia",300.0,192.0,19.0,05000US51061,51,061,S,Renter,2000+,All
+"Fauquier County, Virginia",0.0,161.0,20.0,05000US51061,51,061,D,Renter,2000+,Yes
+"Fauquier County, Virginia",300.0,192.0,21.0,05000US51061,51,061,D,Renter,2000+,No
+"Fauquier County, Virginia",1695.0,511.0,22.0,05000US51061,51,061,S,Renter,1980 to 1999,All
+"Fauquier County, Virginia",185.0,122.0,23.0,05000US51061,51,061,D,Renter,1980 to 1999,Yes
+"Fauquier County, Virginia",1510.0,485.0,24.0,05000US51061,51,061,D,Renter,1980 to 1999,No
+"Fauquier County, Virginia",1025.0,314.0,25.0,05000US51061,51,061,S,Renter,1960 to 1979,All
+"Fauquier County, Virginia",275.0,160.0,26.0,05000US51061,51,061,D,Renter,1960 to 1979,Yes
+"Fauquier County, Virginia",755.0,276.0,27.0,05000US51061,51,061,D,Renter,1960 to 1979,No
+"Fauquier County, Virginia",740.0,321.0,28.0,05000US51061,51,061,S,Renter,1940 to 1959,All
+"Fauquier County, Virginia",210.0,181.0,29.0,05000US51061,51,061,D,Renter,1940 to 1959,Yes
+"Fauquier County, Virginia",530.0,293.0,30.0,05000US51061,51,061,D,Renter,1940 to 1959,No
+"Fauquier County, Virginia",720.0,293.0,31.0,05000US51061,51,061,S,Renter,1939-,All
+"Fauquier County, Virginia",30.0,48.0,32.0,05000US51061,51,061,D,Renter,1939-,Yes
+"Fauquier County, Virginia",690.0,279.0,33.0,05000US51061,51,061,D,Renter,1939-,No

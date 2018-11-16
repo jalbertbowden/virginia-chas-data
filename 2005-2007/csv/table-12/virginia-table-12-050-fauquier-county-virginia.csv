@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Fauquier County, Virginia",22120.0,645.0,1.0,05000US51061,51,061,T,All,All,All,All
+"Fauquier County, Virginia",17635.0,729.0,2.0,05000US51061,51,061,S,Owner,All,All,All
+"Fauquier County, Virginia",1180.0,318.0,3.0,05000US51061,51,061,S,Owner,2000+,All,All
+"Fauquier County, Virginia",155.0,113.0,4.0,05000US51061,51,061,S,Owner,2000+,<=50% AMI,All
+"Fauquier County, Virginia",70.0,71.0,5.0,05000US51061,51,061,D,Owner,2000+,<=50% AMI,No cost burden
+"Fauquier County, Virginia",35.0,65.0,6.0,05000US51061,51,061,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",50.0,59.0,7.0,05000US51061,51,061,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,8.0,05000US51061,51,061,D,Owner,2000+,<=50% AMI,N/A
+"Fauquier County, Virginia",145.0,96.0,9.0,05000US51061,51,061,S,Owner,2000+,50.1-80% AMI,All
+"Fauquier County, Virginia",75.0,71.0,10.0,05000US51061,51,061,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",25.0,44.0,11.0,05000US51061,51,061,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",45.0,59.0,12.0,05000US51061,51,061,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,13.0,05000US51061,51,061,D,Owner,2000+,50.1-80% AMI,N/A
+"Fauquier County, Virginia",290.0,185.0,14.0,05000US51061,51,061,S,Owner,2000+,80.1-120% AMI,All
+"Fauquier County, Virginia",110.0,95.0,15.0,05000US51061,51,061,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",125.0,129.0,16.0,05000US51061,51,061,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",55.0,72.0,17.0,05000US51061,51,061,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,18.0,05000US51061,51,061,D,Owner,2000+,80.1-120% AMI,N/A
+"Fauquier County, Virginia",585.0,235.0,19.0,05000US51061,51,061,S,Owner,2000+,>120% AMI,All
+"Fauquier County, Virginia",530.0,230.0,20.0,05000US51061,51,061,D,Owner,2000+,>120% AMI,No cost burden
+"Fauquier County, Virginia",25.0,42.0,21.0,05000US51061,51,061,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",35.0,41.0,22.0,05000US51061,51,061,D,Owner,2000+,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,23.0,05000US51061,51,061,D,Owner,2000+,>120% AMI,N/A
+"Fauquier County, Virginia",9265.0,724.0,24.0,05000US51061,51,061,S,Owner,1980 to 1999,All,All
+"Fauquier County, Virginia",1040.0,349.0,25.0,05000US51061,51,061,S,Owner,1980 to 1999,<=50% AMI,All
+"Fauquier County, Virginia",140.0,107.0,26.0,05000US51061,51,061,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Fauquier County, Virginia",150.0,108.0,27.0,05000US51061,51,061,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",725.0,294.0,28.0,05000US51061,51,061,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",25.0,42.0,29.0,05000US51061,51,061,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Fauquier County, Virginia",1530.0,366.0,30.0,05000US51061,51,061,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Fauquier County, Virginia",735.0,262.0,31.0,05000US51061,51,061,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",450.0,181.0,32.0,05000US51061,51,061,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",345.0,206.0,33.0,05000US51061,51,061,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,34.0,05000US51061,51,061,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Fauquier County, Virginia",2440.0,467.0,35.0,05000US51061,51,061,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Fauquier County, Virginia",1830.0,408.0,36.0,05000US51061,51,061,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",535.0,224.0,37.0,05000US51061,51,061,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",75.0,74.0,38.0,05000US51061,51,061,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,39.0,05000US51061,51,061,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Fauquier County, Virginia",4255.0,533.0,40.0,05000US51061,51,061,S,Owner,1980 to 1999,>120% AMI,All
+"Fauquier County, Virginia",4095.0,540.0,41.0,05000US51061,51,061,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Fauquier County, Virginia",160.0,88.0,42.0,05000US51061,51,061,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,43.0,05000US51061,51,061,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,44.0,05000US51061,51,061,D,Owner,1980 to 1999,>120% AMI,N/A
+"Fauquier County, Virginia",4330.0,573.0,45.0,05000US51061,51,061,S,Owner,1960 to 1979,All,All
+"Fauquier County, Virginia",800.0,288.0,46.0,05000US51061,51,061,S,Owner,1960 to 1979,<=50% AMI,All
+"Fauquier County, Virginia",230.0,153.0,47.0,05000US51061,51,061,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Fauquier County, Virginia",165.0,105.0,48.0,05000US51061,51,061,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",390.0,204.0,49.0,05000US51061,51,061,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",15.0,31.0,50.0,05000US51061,51,061,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Fauquier County, Virginia",670.0,285.0,51.0,05000US51061,51,061,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Fauquier County, Virginia",300.0,191.0,52.0,05000US51061,51,061,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",275.0,128.0,53.0,05000US51061,51,061,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",90.0,116.0,54.0,05000US51061,51,061,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,55.0,05000US51061,51,061,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Fauquier County, Virginia",1100.0,298.0,56.0,05000US51061,51,061,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Fauquier County, Virginia",810.0,236.0,57.0,05000US51061,51,061,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",265.0,153.0,58.0,05000US51061,51,061,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",25.0,52.0,59.0,05000US51061,51,061,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,60.0,05000US51061,51,061,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Fauquier County, Virginia",1760.0,294.0,61.0,05000US51061,51,061,S,Owner,1960 to 1979,>120% AMI,All
+"Fauquier County, Virginia",1625.0,288.0,62.0,05000US51061,51,061,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Fauquier County, Virginia",135.0,78.0,63.0,05000US51061,51,061,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,64.0,05000US51061,51,061,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,65.0,05000US51061,51,061,D,Owner,1960 to 1979,>120% AMI,N/A
+"Fauquier County, Virginia",1155.0,278.0,66.0,05000US51061,51,061,S,Owner,1940 to 1959,All,All
+"Fauquier County, Virginia",305.0,165.0,67.0,05000US51061,51,061,S,Owner,1940 to 1959,<=50% AMI,All
+"Fauquier County, Virginia",120.0,82.0,68.0,05000US51061,51,061,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Fauquier County, Virginia",125.0,124.0,69.0,05000US51061,51,061,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",60.0,61.0,70.0,05000US51061,51,061,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,71.0,05000US51061,51,061,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Fauquier County, Virginia",290.0,140.0,72.0,05000US51061,51,061,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Fauquier County, Virginia",260.0,125.0,73.0,05000US51061,51,061,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",30.0,55.0,74.0,05000US51061,51,061,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,75.0,05000US51061,51,061,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,76.0,05000US51061,51,061,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Fauquier County, Virginia",280.0,162.0,77.0,05000US51061,51,061,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Fauquier County, Virginia",200.0,122.0,78.0,05000US51061,51,061,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",80.0,111.0,79.0,05000US51061,51,061,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,80.0,05000US51061,51,061,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,81.0,05000US51061,51,061,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Fauquier County, Virginia",280.0,136.0,82.0,05000US51061,51,061,S,Owner,1940 to 1959,>120% AMI,All
+"Fauquier County, Virginia",280.0,136.0,83.0,05000US51061,51,061,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,84.0,05000US51061,51,061,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,85.0,05000US51061,51,061,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,86.0,05000US51061,51,061,D,Owner,1940 to 1959,>120% AMI,N/A
+"Fauquier County, Virginia",1710.0,316.0,87.0,05000US51061,51,061,S,Owner,1939-,All,All
+"Fauquier County, Virginia",265.0,136.0,88.0,05000US51061,51,061,S,Owner,1939-,<=50% AMI,All
+"Fauquier County, Virginia",130.0,118.0,89.0,05000US51061,51,061,D,Owner,1939-,<=50% AMI,No cost burden
+"Fauquier County, Virginia",60.0,68.0,90.0,05000US51061,51,061,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",75.0,65.0,91.0,05000US51061,51,061,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,92.0,05000US51061,51,061,D,Owner,1939-,<=50% AMI,N/A
+"Fauquier County, Virginia",210.0,96.0,93.0,05000US51061,51,061,S,Owner,1939-,50.1-80% AMI,All
+"Fauquier County, Virginia",145.0,81.0,94.0,05000US51061,51,061,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",40.0,49.0,95.0,05000US51061,51,061,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",25.0,43.0,96.0,05000US51061,51,061,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,97.0,05000US51061,51,061,D,Owner,1939-,50.1-80% AMI,N/A
+"Fauquier County, Virginia",360.0,225.0,98.0,05000US51061,51,061,S,Owner,1939-,80.1-120% AMI,All
+"Fauquier County, Virginia",310.0,215.0,99.0,05000US51061,51,061,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",50.0,56.0,100.0,05000US51061,51,061,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",4.0,1.0,101.0,05000US51061,51,061,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,102.0,05000US51061,51,061,D,Owner,1939-,80.1-120% AMI,N/A
+"Fauquier County, Virginia",870.0,246.0,103.0,05000US51061,51,061,S,Owner,1939-,>120% AMI,All
+"Fauquier County, Virginia",845.0,247.0,104.0,05000US51061,51,061,D,Owner,1939-,>120% AMI,No cost burden
+"Fauquier County, Virginia",25.0,34.0,105.0,05000US51061,51,061,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,106.0,05000US51061,51,061,D,Owner,1939-,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,107.0,05000US51061,51,061,D,Owner,1939-,>120% AMI,N/A
+"Fauquier County, Virginia",4485.0,742.0,108.0,05000US51061,51,061,S,Renter,All,All,All
+"Fauquier County, Virginia",300.0,192.0,109.0,05000US51061,51,061,S,Renter,2000+,All,All
+"Fauquier County, Virginia",0.0,161.0,110.0,05000US51061,51,061,S,Renter,2000+,<=50% AMI,All
+"Fauquier County, Virginia",0.0,161.0,111.0,05000US51061,51,061,D,Renter,2000+,<=50% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,112.0,05000US51061,51,061,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,113.0,05000US51061,51,061,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,114.0,05000US51061,51,061,D,Renter,2000+,<=50% AMI,N/A
+"Fauquier County, Virginia",210.0,186.0,115.0,05000US51061,51,061,S,Renter,2000+,50.1-80% AMI,All
+"Fauquier County, Virginia",130.0,161.0,116.0,05000US51061,51,061,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",35.0,65.0,117.0,05000US51061,51,061,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,118.0,05000US51061,51,061,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",45.0,82.0,119.0,05000US51061,51,061,D,Renter,2000+,50.1-80% AMI,N/A
+"Fauquier County, Virginia",70.0,96.0,120.0,05000US51061,51,061,S,Renter,2000+,80.1-120% AMI,All
+"Fauquier County, Virginia",70.0,96.0,121.0,05000US51061,51,061,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,122.0,05000US51061,51,061,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,123.0,05000US51061,51,061,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,124.0,05000US51061,51,061,D,Renter,2000+,80.1-120% AMI,N/A
+"Fauquier County, Virginia",20.0,37.0,125.0,05000US51061,51,061,S,Renter,2000+,>120% AMI,All
+"Fauquier County, Virginia",0.0,161.0,126.0,05000US51061,51,061,D,Renter,2000+,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,127.0,05000US51061,51,061,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,128.0,05000US51061,51,061,D,Renter,2000+,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",20.0,37.0,129.0,05000US51061,51,061,D,Renter,2000+,>120% AMI,N/A
+"Fauquier County, Virginia",1695.0,511.0,130.0,05000US51061,51,061,S,Renter,1980 to 1999,All,All
+"Fauquier County, Virginia",750.0,329.0,131.0,05000US51061,51,061,S,Renter,1980 to 1999,<=50% AMI,All
+"Fauquier County, Virginia",90.0,99.0,132.0,05000US51061,51,061,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Fauquier County, Virginia",85.0,84.0,133.0,05000US51061,51,061,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",365.0,219.0,134.0,05000US51061,51,061,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",210.0,180.0,135.0,05000US51061,51,061,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Fauquier County, Virginia",360.0,252.0,136.0,05000US51061,51,061,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Fauquier County, Virginia",140.0,98.0,137.0,05000US51061,51,061,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",220.0,242.0,138.0,05000US51061,51,061,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,139.0,05000US51061,51,061,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,140.0,05000US51061,51,061,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Fauquier County, Virginia",415.0,209.0,141.0,05000US51061,51,061,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Fauquier County, Virginia",275.0,182.0,142.0,05000US51061,51,061,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",40.0,65.0,143.0,05000US51061,51,061,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,144.0,05000US51061,51,061,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",105.0,97.0,145.0,05000US51061,51,061,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Fauquier County, Virginia",170.0,101.0,146.0,05000US51061,51,061,S,Renter,1980 to 1999,>120% AMI,All
+"Fauquier County, Virginia",105.0,81.0,147.0,05000US51061,51,061,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,148.0,05000US51061,51,061,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,149.0,05000US51061,51,061,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",65.0,63.0,150.0,05000US51061,51,061,D,Renter,1980 to 1999,>120% AMI,N/A
+"Fauquier County, Virginia",1025.0,314.0,151.0,05000US51061,51,061,S,Renter,1960 to 1979,All,All
+"Fauquier County, Virginia",330.0,182.0,152.0,05000US51061,51,061,S,Renter,1960 to 1979,<=50% AMI,All
+"Fauquier County, Virginia",50.0,75.0,153.0,05000US51061,51,061,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Fauquier County, Virginia",80.0,80.0,154.0,05000US51061,51,061,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",85.0,82.0,155.0,05000US51061,51,061,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",110.0,123.0,156.0,05000US51061,51,061,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Fauquier County, Virginia",495.0,221.0,157.0,05000US51061,51,061,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Fauquier County, Virginia",345.0,173.0,158.0,05000US51061,51,061,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",135.0,144.0,159.0,05000US51061,51,061,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,160.0,05000US51061,51,061,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",15.0,26.0,161.0,05000US51061,51,061,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Fauquier County, Virginia",45.0,53.0,162.0,05000US51061,51,061,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Fauquier County, Virginia",25.0,40.0,163.0,05000US51061,51,061,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,164.0,05000US51061,51,061,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,165.0,05000US51061,51,061,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",25.0,42.0,166.0,05000US51061,51,061,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Fauquier County, Virginia",160.0,125.0,167.0,05000US51061,51,061,S,Renter,1960 to 1979,>120% AMI,All
+"Fauquier County, Virginia",160.0,125.0,168.0,05000US51061,51,061,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,169.0,05000US51061,51,061,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,170.0,05000US51061,51,061,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,171.0,05000US51061,51,061,D,Renter,1960 to 1979,>120% AMI,N/A
+"Fauquier County, Virginia",740.0,321.0,172.0,05000US51061,51,061,S,Renter,1940 to 1959,All,All
+"Fauquier County, Virginia",220.0,169.0,173.0,05000US51061,51,061,S,Renter,1940 to 1959,<=50% AMI,All
+"Fauquier County, Virginia",80.0,132.0,174.0,05000US51061,51,061,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Fauquier County, Virginia",40.0,66.0,175.0,05000US51061,51,061,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",55.0,49.0,176.0,05000US51061,51,061,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",50.0,68.0,177.0,05000US51061,51,061,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Fauquier County, Virginia",125.0,113.0,178.0,05000US51061,51,061,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Fauquier County, Virginia",105.0,107.0,179.0,05000US51061,51,061,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",20.0,38.0,180.0,05000US51061,51,061,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,181.0,05000US51061,51,061,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,182.0,05000US51061,51,061,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Fauquier County, Virginia",325.0,298.0,183.0,05000US51061,51,061,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Fauquier County, Virginia",150.0,131.0,184.0,05000US51061,51,061,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",175.0,257.0,185.0,05000US51061,51,061,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,186.0,05000US51061,51,061,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,187.0,05000US51061,51,061,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Fauquier County, Virginia",70.0,47.0,188.0,05000US51061,51,061,S,Renter,1940 to 1959,>120% AMI,All
+"Fauquier County, Virginia",50.0,49.0,189.0,05000US51061,51,061,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,190.0,05000US51061,51,061,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,191.0,05000US51061,51,061,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",20.0,39.0,192.0,05000US51061,51,061,D,Renter,1940 to 1959,>120% AMI,N/A
+"Fauquier County, Virginia",720.0,293.0,193.0,05000US51061,51,061,S,Renter,1939-,All,All
+"Fauquier County, Virginia",410.0,233.0,194.0,05000US51061,51,061,S,Renter,1939-,<=50% AMI,All
+"Fauquier County, Virginia",0.0,161.0,195.0,05000US51061,51,061,D,Renter,1939-,<=50% AMI,No cost burden
+"Fauquier County, Virginia",185.0,143.0,196.0,05000US51061,51,061,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Fauquier County, Virginia",140.0,134.0,197.0,05000US51061,51,061,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Fauquier County, Virginia",90.0,76.0,198.0,05000US51061,51,061,D,Renter,1939-,<=50% AMI,N/A
+"Fauquier County, Virginia",95.0,81.0,199.0,05000US51061,51,061,S,Renter,1939-,50.1-80% AMI,All
+"Fauquier County, Virginia",20.0,28.0,200.0,05000US51061,51,061,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Fauquier County, Virginia",75.0,77.0,201.0,05000US51061,51,061,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,202.0,05000US51061,51,061,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,203.0,05000US51061,51,061,D,Renter,1939-,50.1-80% AMI,N/A
+"Fauquier County, Virginia",140.0,103.0,204.0,05000US51061,51,061,S,Renter,1939-,80.1-120% AMI,All
+"Fauquier County, Virginia",85.0,70.0,205.0,05000US51061,51,061,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Fauquier County, Virginia",25.0,43.0,206.0,05000US51061,51,061,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,207.0,05000US51061,51,061,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Fauquier County, Virginia",30.0,55.0,208.0,05000US51061,51,061,D,Renter,1939-,80.1-120% AMI,N/A
+"Fauquier County, Virginia",70.0,68.0,209.0,05000US51061,51,061,S,Renter,1939-,>120% AMI,All
+"Fauquier County, Virginia",70.0,68.0,210.0,05000US51061,51,061,D,Renter,1939-,>120% AMI,No cost burden
+"Fauquier County, Virginia",0.0,161.0,211.0,05000US51061,51,061,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Fauquier County, Virginia",0.0,161.0,212.0,05000US51061,51,061,D,Renter,1939-,>120% AMI,Severe cost burden
+"Fauquier County, Virginia",0.0,161.0,213.0,05000US51061,51,061,D,Renter,1939-,>120% AMI,N/A

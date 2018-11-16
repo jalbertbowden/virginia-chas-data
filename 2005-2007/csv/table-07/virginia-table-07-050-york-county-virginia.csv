@@ -1,0 +1,54 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Household_Type,Cost_Burden
+"York County, Virginia",22815.0,483.0,1.0,05000US51199,51,199,T,All,All,All
+"York County, Virginia",17535.0,615.0,2.0,05000US51199,51,199,S,Owner,All,All
+"York County, Virginia",3070.0,276.0,3.0,05000US51199,51,199,S,Owner,"Small family, elderly",All
+"York County, Virginia",2580.0,255.0,4.0,05000US51199,51,199,D,Owner,"Small family, elderly",No cost burden
+"York County, Virginia",285.0,136.0,5.0,05000US51199,51,199,D,Owner,"Small family, elderly",Moderate cost burden
+"York County, Virginia",205.0,135.0,6.0,05000US51199,51,199,D,Owner,"Small family, elderly",Severe cost burden
+"York County, Virginia",0.0,161.0,7.0,05000US51199,51,199,D,Owner,"Small family, elderly",N/A
+"York County, Virginia",9810.0,595.0,8.0,05000US51199,51,199,S,Owner,"Small family, non-elderly",All
+"York County, Virginia",8095.0,627.0,9.0,05000US51199,51,199,D,Owner,"Small family, non-elderly",No cost burden
+"York County, Virginia",1335.0,280.0,10.0,05000US51199,51,199,D,Owner,"Small family, non-elderly",Moderate cost burden
+"York County, Virginia",380.0,207.0,11.0,05000US51199,51,199,D,Owner,"Small family, non-elderly",Severe cost burden
+"York County, Virginia",0.0,161.0,12.0,05000US51199,51,199,D,Owner,"Small family, non-elderly",N/A
+"York County, Virginia",1285.0,262.0,13.0,05000US51199,51,199,S,Owner,Large family,All
+"York County, Virginia",1015.0,259.0,14.0,05000US51199,51,199,D,Owner,Large family,No cost burden
+"York County, Virginia",200.0,100.0,15.0,05000US51199,51,199,D,Owner,Large family,Moderate cost burden
+"York County, Virginia",75.0,91.0,16.0,05000US51199,51,199,D,Owner,Large family,Severe cost burden
+"York County, Virginia",0.0,161.0,17.0,05000US51199,51,199,D,Owner,Large family,N/A
+"York County, Virginia",1425.0,307.0,18.0,05000US51199,51,199,S,Owner,"Non-family, elderly",All
+"York County, Virginia",920.0,232.0,19.0,05000US51199,51,199,D,Owner,"Non-family, elderly",No cost burden
+"York County, Virginia",220.0,125.0,20.0,05000US51199,51,199,D,Owner,"Non-family, elderly",Moderate cost burden
+"York County, Virginia",285.0,168.0,21.0,05000US51199,51,199,D,Owner,"Non-family, elderly",Severe cost burden
+"York County, Virginia",0.0,161.0,22.0,05000US51199,51,199,D,Owner,"Non-family, elderly",N/A
+"York County, Virginia",1940.0,405.0,23.0,05000US51199,51,199,S,Owner,"Non-family, non-elderly",All
+"York County, Virginia",1465.0,359.0,24.0,05000US51199,51,199,D,Owner,"Non-family, non-elderly",No cost burden
+"York County, Virginia",315.0,146.0,25.0,05000US51199,51,199,D,Owner,"Non-family, non-elderly",Moderate cost burden
+"York County, Virginia",130.0,87.0,26.0,05000US51199,51,199,D,Owner,"Non-family, non-elderly",Severe cost burden
+"York County, Virginia",30.0,48.0,27.0,05000US51199,51,199,D,Owner,"Non-family, non-elderly",N/A
+"York County, Virginia",5280.0,624.0,28.0,05000US51199,51,199,S,Renter,All,All
+"York County, Virginia",155.0,91.0,29.0,05000US51199,51,199,S,Renter,"Small family, elderly",All
+"York County, Virginia",70.0,58.0,30.0,05000US51199,51,199,D,Renter,"Small family, elderly",No cost burden
+"York County, Virginia",60.0,60.0,31.0,05000US51199,51,199,D,Renter,"Small family, elderly",Moderate cost burden
+"York County, Virginia",20.0,34.0,32.0,05000US51199,51,199,D,Renter,"Small family, elderly",Severe cost burden
+"York County, Virginia",0.0,161.0,33.0,05000US51199,51,199,D,Renter,"Small family, elderly",N/A
+"York County, Virginia",2955.0,552.0,34.0,05000US51199,51,199,S,Renter,"Small family, non-elderly",All
+"York County, Virginia",1755.0,462.0,35.0,05000US51199,51,199,D,Renter,"Small family, non-elderly",No cost burden
+"York County, Virginia",405.0,194.0,36.0,05000US51199,51,199,D,Renter,"Small family, non-elderly",Moderate cost burden
+"York County, Virginia",220.0,205.0,37.0,05000US51199,51,199,D,Renter,"Small family, non-elderly",Severe cost burden
+"York County, Virginia",580.0,230.0,38.0,05000US51199,51,199,D,Renter,"Small family, non-elderly",N/A
+"York County, Virginia",555.0,259.0,39.0,05000US51199,51,199,S,Renter,Large family,All
+"York County, Virginia",230.0,131.0,40.0,05000US51199,51,199,D,Renter,Large family,No cost burden
+"York County, Virginia",25.0,32.0,41.0,05000US51199,51,199,D,Renter,Large family,Moderate cost burden
+"York County, Virginia",0.0,161.0,42.0,05000US51199,51,199,D,Renter,Large family,Severe cost burden
+"York County, Virginia",295.0,222.0,43.0,05000US51199,51,199,D,Renter,Large family,N/A
+"York County, Virginia",195.0,96.0,44.0,05000US51199,51,199,S,Renter,"Non-family, elderly",All
+"York County, Virginia",45.0,43.0,45.0,05000US51199,51,199,D,Renter,"Non-family, elderly",No cost burden
+"York County, Virginia",90.0,59.0,46.0,05000US51199,51,199,D,Renter,"Non-family, elderly",Moderate cost burden
+"York County, Virginia",15.0,30.0,47.0,05000US51199,51,199,D,Renter,"Non-family, elderly",Severe cost burden
+"York County, Virginia",45.0,53.0,48.0,05000US51199,51,199,D,Renter,"Non-family, elderly",N/A
+"York County, Virginia",1420.0,373.0,49.0,05000US51199,51,199,S,Renter,"Non-family, non-elderly",All
+"York County, Virginia",865.0,281.0,50.0,05000US51199,51,199,D,Renter,"Non-family, non-elderly",No cost burden
+"York County, Virginia",370.0,202.0,51.0,05000US51199,51,199,D,Renter,"Non-family, non-elderly",Moderate cost burden
+"York County, Virginia",130.0,157.0,52.0,05000US51199,51,199,D,Renter,"Non-family, non-elderly",Severe cost burden
+"York County, Virginia",55.0,56.0,53.0,05000US51199,51,199,D,Renter,"Non-family, non-elderly",N/A

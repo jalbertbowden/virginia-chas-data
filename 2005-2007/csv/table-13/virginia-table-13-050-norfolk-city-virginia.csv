@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All
+"Norfolk city, Virginia",1325.0,239.0,3.0,05000US51710,51,710,S,Owner,2000+,All
+"Norfolk city, Virginia",335.0,155.0,4.0,05000US51710,51,710,D,Owner,2000+,Yes
+"Norfolk city, Virginia",985.0,204.0,5.0,05000US51710,51,710,D,Owner,2000+,No
+"Norfolk city, Virginia",4875.0,604.0,6.0,05000US51710,51,710,S,Owner,1980 to 1999,All
+"Norfolk city, Virginia",535.0,199.0,7.0,05000US51710,51,710,D,Owner,1980 to 1999,Yes
+"Norfolk city, Virginia",4335.0,554.0,8.0,05000US51710,51,710,D,Owner,1980 to 1999,No
+"Norfolk city, Virginia",6945.0,596.0,9.0,05000US51710,51,710,S,Owner,1960 to 1979,All
+"Norfolk city, Virginia",750.0,260.0,10.0,05000US51710,51,710,D,Owner,1960 to 1979,Yes
+"Norfolk city, Virginia",6195.0,591.0,11.0,05000US51710,51,710,D,Owner,1960 to 1979,No
+"Norfolk city, Virginia",18935.0,851.0,12.0,05000US51710,51,710,S,Owner,1940 to 1959,All
+"Norfolk city, Virginia",2005.0,367.0,13.0,05000US51710,51,710,D,Owner,1940 to 1959,Yes
+"Norfolk city, Virginia",16930.0,828.0,14.0,05000US51710,51,710,D,Owner,1940 to 1959,No
+"Norfolk city, Virginia",7930.0,676.0,15.0,05000US51710,51,710,S,Owner,1939-,All
+"Norfolk city, Virginia",1255.0,312.0,16.0,05000US51710,51,710,D,Owner,1939-,Yes
+"Norfolk city, Virginia",6675.0,689.0,17.0,05000US51710,51,710,D,Owner,1939-,No
+"Norfolk city, Virginia",45125.0,1197.0,18.0,05000US51710,51,710,S,Renter,All,All
+"Norfolk city, Virginia",1880.0,426.0,19.0,05000US51710,51,710,S,Renter,2000+,All
+"Norfolk city, Virginia",480.0,226.0,20.0,05000US51710,51,710,D,Renter,2000+,Yes
+"Norfolk city, Virginia",1400.0,364.0,21.0,05000US51710,51,710,D,Renter,2000+,No
+"Norfolk city, Virginia",10220.0,685.0,22.0,05000US51710,51,710,S,Renter,1980 to 1999,All
+"Norfolk city, Virginia",2050.0,458.0,23.0,05000US51710,51,710,D,Renter,1980 to 1999,Yes
+"Norfolk city, Virginia",8170.0,687.0,24.0,05000US51710,51,710,D,Renter,1980 to 1999,No
+"Norfolk city, Virginia",14025.0,902.0,25.0,05000US51710,51,710,S,Renter,1960 to 1979,All
+"Norfolk city, Virginia",3020.0,637.0,26.0,05000US51710,51,710,D,Renter,1960 to 1979,Yes
+"Norfolk city, Virginia",11005.0,968.0,27.0,05000US51710,51,710,D,Renter,1960 to 1979,No
+"Norfolk city, Virginia",12455.0,970.0,28.0,05000US51710,51,710,S,Renter,1940 to 1959,All
+"Norfolk city, Virginia",2940.0,450.0,29.0,05000US51710,51,710,D,Renter,1940 to 1959,Yes
+"Norfolk city, Virginia",9515.0,926.0,30.0,05000US51710,51,710,D,Renter,1940 to 1959,No
+"Norfolk city, Virginia",6550.0,732.0,31.0,05000US51710,51,710,S,Renter,1939-,All
+"Norfolk city, Virginia",1140.0,332.0,32.0,05000US51710,51,710,D,Renter,1939-,Yes
+"Norfolk city, Virginia",5410.0,653.0,33.0,05000US51710,51,710,D,Renter,1939-,No

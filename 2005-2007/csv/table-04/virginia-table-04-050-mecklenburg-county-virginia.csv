@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Mecklenburg County, Virginia",12755.0,602.0,1.0,05000US51117,51,117,T,All,All,All,All
+"Mecklenburg County, Virginia",9295.0,534.0,2.0,05000US51117,51,117,S,Owner,All,All,All
+"Mecklenburg County, Virginia",2665.0,376.0,3.0,05000US51117,51,117,S,Owner,Yes,All,All
+"Mecklenburg County, Virginia",510.0,213.0,4.0,05000US51117,51,117,S,Owner,Yes,"Family, 1 parent",All
+"Mecklenburg County, Virginia",460.0,196.0,5.0,05000US51117,51,117,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",50.0,49.0,6.0,05000US51117,51,117,D,Owner,Yes,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",1040.0,256.0,7.0,05000US51117,51,117,S,Owner,Yes,"Family, 2 parents",All
+"Mecklenburg County, Virginia",945.0,247.0,8.0,05000US51117,51,117,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",95.0,80.0,9.0,05000US51117,51,117,D,Owner,Yes,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",1115.0,246.0,10.0,05000US51117,51,117,S,Owner,Yes,Non-family,All
+"Mecklenburg County, Virginia",1115.0,246.0,11.0,05000US51117,51,117,D,Owner,Yes,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,12.0,05000US51117,51,117,D,Owner,Yes,Non-family,5 or more
+"Mecklenburg County, Virginia",6545.0,503.0,13.0,05000US51117,51,117,S,Owner,No,All,All
+"Mecklenburg County, Virginia",840.0,227.0,14.0,05000US51117,51,117,S,Owner,No,"Family, 1 parent",All
+"Mecklenburg County, Virginia",835.0,226.0,15.0,05000US51117,51,117,D,Owner,No,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",4.0,7.0,16.0,05000US51117,51,117,D,Owner,No,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",3990.0,433.0,17.0,05000US51117,51,117,S,Owner,No,"Family, 2 parents",All
+"Mecklenburg County, Virginia",3790.0,429.0,18.0,05000US51117,51,117,D,Owner,No,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",200.0,122.0,19.0,05000US51117,51,117,D,Owner,No,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",1715.0,341.0,20.0,05000US51117,51,117,S,Owner,No,Non-family,All
+"Mecklenburg County, Virginia",1715.0,341.0,21.0,05000US51117,51,117,D,Owner,No,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,22.0,05000US51117,51,117,D,Owner,No,Non-family,5 or more
+"Mecklenburg County, Virginia",85.0,74.0,23.0,05000US51117,51,117,S,Owner,N/A,All,All
+"Mecklenburg County, Virginia",0.0,161.0,24.0,05000US51117,51,117,S,Owner,N/A,"Family, 1 parent",All
+"Mecklenburg County, Virginia",0.0,161.0,25.0,05000US51117,51,117,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,26.0,05000US51117,51,117,D,Owner,N/A,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",50.0,58.0,27.0,05000US51117,51,117,S,Owner,N/A,"Family, 2 parents",All
+"Mecklenburg County, Virginia",50.0,58.0,28.0,05000US51117,51,117,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,29.0,05000US51117,51,117,D,Owner,N/A,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",35.0,44.0,30.0,05000US51117,51,117,S,Owner,N/A,Non-family,All
+"Mecklenburg County, Virginia",35.0,44.0,31.0,05000US51117,51,117,D,Owner,N/A,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,32.0,05000US51117,51,117,D,Owner,N/A,Non-family,5 or more
+"Mecklenburg County, Virginia",3460.0,488.0,33.0,05000US51117,51,117,S,Renter,All,All,All
+"Mecklenburg County, Virginia",1180.0,337.0,34.0,05000US51117,51,117,S,Renter,Yes,All,All
+"Mecklenburg County, Virginia",565.0,249.0,35.0,05000US51117,51,117,S,Renter,Yes,"Family, 1 parent",All
+"Mecklenburg County, Virginia",555.0,252.0,36.0,05000US51117,51,117,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",10.0,22.0,37.0,05000US51117,51,117,D,Renter,Yes,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",160.0,93.0,38.0,05000US51117,51,117,S,Renter,Yes,"Family, 2 parents",All
+"Mecklenburg County, Virginia",135.0,93.0,39.0,05000US51117,51,117,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",25.0,38.0,40.0,05000US51117,51,117,D,Renter,Yes,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",455.0,187.0,41.0,05000US51117,51,117,S,Renter,Yes,Non-family,All
+"Mecklenburg County, Virginia",455.0,187.0,42.0,05000US51117,51,117,D,Renter,Yes,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,43.0,05000US51117,51,117,D,Renter,Yes,Non-family,5 or more
+"Mecklenburg County, Virginia",1675.0,341.0,44.0,05000US51117,51,117,S,Renter,No,All,All
+"Mecklenburg County, Virginia",590.0,250.0,45.0,05000US51117,51,117,S,Renter,No,"Family, 1 parent",All
+"Mecklenburg County, Virginia",425.0,200.0,46.0,05000US51117,51,117,D,Renter,No,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",165.0,130.0,47.0,05000US51117,51,117,D,Renter,No,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",715.0,237.0,48.0,05000US51117,51,117,S,Renter,No,"Family, 2 parents",All
+"Mecklenburg County, Virginia",600.0,227.0,49.0,05000US51117,51,117,D,Renter,No,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",115.0,109.0,50.0,05000US51117,51,117,D,Renter,No,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",370.0,138.0,51.0,05000US51117,51,117,S,Renter,No,Non-family,All
+"Mecklenburg County, Virginia",370.0,138.0,52.0,05000US51117,51,117,D,Renter,No,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,53.0,05000US51117,51,117,D,Renter,No,Non-family,5 or more
+"Mecklenburg County, Virginia",600.0,216.0,54.0,05000US51117,51,117,S,Renter,N/A,All,All
+"Mecklenburg County, Virginia",115.0,107.0,55.0,05000US51117,51,117,S,Renter,N/A,"Family, 1 parent",All
+"Mecklenburg County, Virginia",65.0,61.0,56.0,05000US51117,51,117,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Mecklenburg County, Virginia",50.0,82.0,57.0,05000US51117,51,117,D,Renter,N/A,"Family, 1 parent",5 or more
+"Mecklenburg County, Virginia",180.0,111.0,58.0,05000US51117,51,117,S,Renter,N/A,"Family, 2 parents",All
+"Mecklenburg County, Virginia",180.0,111.0,59.0,05000US51117,51,117,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,60.0,05000US51117,51,117,D,Renter,N/A,"Family, 2 parents",5 or more
+"Mecklenburg County, Virginia",305.0,156.0,61.0,05000US51117,51,117,S,Renter,N/A,Non-family,All
+"Mecklenburg County, Virginia",305.0,156.0,62.0,05000US51117,51,117,D,Renter,N/A,Non-family,4 or fewer
+"Mecklenburg County, Virginia",0.0,161.0,63.0,05000US51117,51,117,D,Renter,N/A,Non-family,5 or more

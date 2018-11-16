@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Rockingham County, Virginia",28505.0,439.0,1.0,05000US51165,51,165,T,All,All,All
+"Rockingham County, Virginia",21055.0,615.0,2.0,05000US51165,51,165,S,Owner,All,All
+"Rockingham County, Virginia",2470.0,318.0,3.0,05000US51165,51,165,S,Owner,2000+,All
+"Rockingham County, Virginia",655.0,169.0,4.0,05000US51165,51,165,D,Owner,2000+,Yes
+"Rockingham County, Virginia",1820.0,256.0,5.0,05000US51165,51,165,D,Owner,2000+,No
+"Rockingham County, Virginia",7280.0,565.0,6.0,05000US51165,51,165,S,Owner,1980 to 1999,All
+"Rockingham County, Virginia",1370.0,267.0,7.0,05000US51165,51,165,D,Owner,1980 to 1999,Yes
+"Rockingham County, Virginia",5910.0,523.0,8.0,05000US51165,51,165,D,Owner,1980 to 1999,No
+"Rockingham County, Virginia",5980.0,552.0,9.0,05000US51165,51,165,S,Owner,1960 to 1979,All
+"Rockingham County, Virginia",710.0,227.0,10.0,05000US51165,51,165,D,Owner,1960 to 1979,Yes
+"Rockingham County, Virginia",5270.0,536.0,11.0,05000US51165,51,165,D,Owner,1960 to 1979,No
+"Rockingham County, Virginia",2235.0,343.0,12.0,05000US51165,51,165,S,Owner,1940 to 1959,All
+"Rockingham County, Virginia",345.0,134.0,13.0,05000US51165,51,165,D,Owner,1940 to 1959,Yes
+"Rockingham County, Virginia",1895.0,319.0,14.0,05000US51165,51,165,D,Owner,1940 to 1959,No
+"Rockingham County, Virginia",3090.0,409.0,15.0,05000US51165,51,165,S,Owner,1939-,All
+"Rockingham County, Virginia",495.0,178.0,16.0,05000US51165,51,165,D,Owner,1939-,Yes
+"Rockingham County, Virginia",2595.0,370.0,17.0,05000US51165,51,165,D,Owner,1939-,No
+"Rockingham County, Virginia",7450.0,706.0,18.0,05000US51165,51,165,S,Renter,All,All
+"Rockingham County, Virginia",930.0,381.0,19.0,05000US51165,51,165,S,Renter,2000+,All
+"Rockingham County, Virginia",380.0,316.0,20.0,05000US51165,51,165,D,Renter,2000+,Yes
+"Rockingham County, Virginia",545.0,218.0,21.0,05000US51165,51,165,D,Renter,2000+,No
+"Rockingham County, Virginia",2860.0,491.0,22.0,05000US51165,51,165,S,Renter,1980 to 1999,All
+"Rockingham County, Virginia",580.0,234.0,23.0,05000US51165,51,165,D,Renter,1980 to 1999,Yes
+"Rockingham County, Virginia",2280.0,490.0,24.0,05000US51165,51,165,D,Renter,1980 to 1999,No
+"Rockingham County, Virginia",1860.0,365.0,25.0,05000US51165,51,165,S,Renter,1960 to 1979,All
+"Rockingham County, Virginia",320.0,193.0,26.0,05000US51165,51,165,D,Renter,1960 to 1979,Yes
+"Rockingham County, Virginia",1540.0,278.0,27.0,05000US51165,51,165,D,Renter,1960 to 1979,No
+"Rockingham County, Virginia",770.0,212.0,28.0,05000US51165,51,165,S,Renter,1940 to 1959,All
+"Rockingham County, Virginia",210.0,137.0,29.0,05000US51165,51,165,D,Renter,1940 to 1959,Yes
+"Rockingham County, Virginia",560.0,177.0,30.0,05000US51165,51,165,D,Renter,1940 to 1959,No
+"Rockingham County, Virginia",1030.0,290.0,31.0,05000US51165,51,165,S,Renter,1939-,All
+"Rockingham County, Virginia",305.0,141.0,32.0,05000US51165,51,165,D,Renter,1939-,Yes
+"Rockingham County, Virginia",725.0,260.0,33.0,05000US51165,51,165,D,Renter,1939-,No

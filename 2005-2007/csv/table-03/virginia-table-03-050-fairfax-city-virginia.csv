@@ -1,0 +1,102 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problem_Severity,Household_Income
+"Fairfax city, Virginia",8310.0,184.0,1.0,05000US51600,51,600,T,All,All,All
+"Fairfax city, Virginia",6365.0,271.0,2.0,05000US51600,51,600,S,Owner,All,All
+"Fairfax city, Virginia",20.0,37.0,3.0,05000US51600,51,600,S,Owner,Substandard,All
+"Fairfax city, Virginia",20.0,37.0,4.0,05000US51600,51,600,D,Owner,Substandard,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,5.0,05000US51600,51,600,D,Owner,Substandard,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,6.0,05000US51600,51,600,D,Owner,Substandard,50.1-60% AMI
+"Fairfax city, Virginia",0.0,161.0,7.0,05000US51600,51,600,D,Owner,Substandard,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,8.0,05000US51600,51,600,D,Owner,Substandard,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,9.0,05000US51600,51,600,D,Owner,Substandard,>95% AMI
+"Fairfax city, Virginia",15.0,23.0,10.0,05000US51600,51,600,S,Owner,Severely overcrowded,All
+"Fairfax city, Virginia",0.0,161.0,11.0,05000US51600,51,600,D,Owner,Severely overcrowded,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,12.0,05000US51600,51,600,D,Owner,Severely overcrowded,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,13.0,05000US51600,51,600,D,Owner,Severely overcrowded,50.1-60% AMI
+"Fairfax city, Virginia",15.0,23.0,14.0,05000US51600,51,600,D,Owner,Severely overcrowded,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,15.0,05000US51600,51,600,D,Owner,Severely overcrowded,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,16.0,05000US51600,51,600,D,Owner,Severely overcrowded,>95% AMI
+"Fairfax city, Virginia",80.0,60.0,17.0,05000US51600,51,600,S,Owner,Overcrowded,All
+"Fairfax city, Virginia",0.0,161.0,18.0,05000US51600,51,600,D,Owner,Overcrowded,<=30% AMI
+"Fairfax city, Virginia",20.0,33.0,19.0,05000US51600,51,600,D,Owner,Overcrowded,30.1-50% AMI
+"Fairfax city, Virginia",30.0,35.0,20.0,05000US51600,51,600,D,Owner,Overcrowded,50.1-60% AMI
+"Fairfax city, Virginia",0.0,161.0,21.0,05000US51600,51,600,D,Owner,Overcrowded,60.1-80% AMI
+"Fairfax city, Virginia",20.0,39.0,22.0,05000US51600,51,600,D,Owner,Overcrowded,80.1-95% AMI
+"Fairfax city, Virginia",10.0,23.0,23.0,05000US51600,51,600,D,Owner,Overcrowded,>95% AMI
+"Fairfax city, Virginia",305.0,132.0,24.0,05000US51600,51,600,S,Owner,Severely cost burdened,All
+"Fairfax city, Virginia",100.0,70.0,25.0,05000US51600,51,600,D,Owner,Severely cost burdened,<=30% AMI
+"Fairfax city, Virginia",55.0,54.0,26.0,05000US51600,51,600,D,Owner,Severely cost burdened,30.1-50% AMI
+"Fairfax city, Virginia",25.0,47.0,27.0,05000US51600,51,600,D,Owner,Severely cost burdened,50.1-60% AMI
+"Fairfax city, Virginia",20.0,30.0,28.0,05000US51600,51,600,D,Owner,Severely cost burdened,60.1-80% AMI
+"Fairfax city, Virginia",80.0,68.0,29.0,05000US51600,51,600,D,Owner,Severely cost burdened,80.1-95% AMI
+"Fairfax city, Virginia",20.0,32.0,30.0,05000US51600,51,600,D,Owner,Severely cost burdened,>95% AMI
+"Fairfax city, Virginia",1580.0,343.0,31.0,05000US51600,51,600,S,Owner,Cost burdened,All
+"Fairfax city, Virginia",105.0,97.0,32.0,05000US51600,51,600,D,Owner,Cost burdened,<=30% AMI
+"Fairfax city, Virginia",70.0,61.0,33.0,05000US51600,51,600,D,Owner,Cost burdened,30.1-50% AMI
+"Fairfax city, Virginia",50.0,50.0,34.0,05000US51600,51,600,D,Owner,Cost burdened,50.1-60% AMI
+"Fairfax city, Virginia",355.0,162.0,35.0,05000US51600,51,600,D,Owner,Cost burdened,60.1-80% AMI
+"Fairfax city, Virginia",215.0,109.0,36.0,05000US51600,51,600,D,Owner,Cost burdened,80.1-95% AMI
+"Fairfax city, Virginia",785.0,249.0,37.0,05000US51600,51,600,D,Owner,Cost burdened,>95% AMI
+"Fairfax city, Virginia",20.0,26.0,38.0,05000US51600,51,600,S,Owner,No income or no cash rent,All
+"Fairfax city, Virginia",20.0,26.0,39.0,05000US51600,51,600,D,Owner,No income or no cash rent,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,40.0,05000US51600,51,600,D,Owner,No income or no cash rent,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,41.0,05000US51600,51,600,D,Owner,No income or no cash rent,50.1-60% AMI
+"Fairfax city, Virginia",0.0,161.0,42.0,05000US51600,51,600,D,Owner,No income or no cash rent,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,43.0,05000US51600,51,600,D,Owner,No income or no cash rent,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,44.0,05000US51600,51,600,D,Owner,No income or no cash rent,>95% AMI
+"Fairfax city, Virginia",4350.0,331.0,45.0,05000US51600,51,600,S,Owner,No housing problems,All
+"Fairfax city, Virginia",10.0,16.0,46.0,05000US51600,51,600,D,Owner,No housing problems,<=30% AMI
+"Fairfax city, Virginia",50.0,48.0,47.0,05000US51600,51,600,D,Owner,No housing problems,30.1-50% AMI
+"Fairfax city, Virginia",110.0,75.0,48.0,05000US51600,51,600,D,Owner,No housing problems,50.1-60% AMI
+"Fairfax city, Virginia",325.0,121.0,49.0,05000US51600,51,600,D,Owner,No housing problems,60.1-80% AMI
+"Fairfax city, Virginia",270.0,124.0,50.0,05000US51600,51,600,D,Owner,No housing problems,80.1-95% AMI
+"Fairfax city, Virginia",3590.0,322.0,51.0,05000US51600,51,600,D,Owner,No housing problems,>95% AMI
+"Fairfax city, Virginia",1945.0,241.0,52.0,05000US51600,51,600,S,Renter,All,All
+"Fairfax city, Virginia",35.0,43.0,53.0,05000US51600,51,600,S,Renter,Substandard,All
+"Fairfax city, Virginia",10.0,17.0,54.0,05000US51600,51,600,D,Renter,Substandard,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,55.0,05000US51600,51,600,D,Renter,Substandard,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,56.0,05000US51600,51,600,D,Renter,Substandard,50.1-60% AMI
+"Fairfax city, Virginia",25.0,42.0,57.0,05000US51600,51,600,D,Renter,Substandard,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,58.0,05000US51600,51,600,D,Renter,Substandard,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,59.0,05000US51600,51,600,D,Renter,Substandard,>95% AMI
+"Fairfax city, Virginia",20.0,32.0,60.0,05000US51600,51,600,S,Renter,Severely overcrowded,All
+"Fairfax city, Virginia",0.0,161.0,61.0,05000US51600,51,600,D,Renter,Severely overcrowded,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,62.0,05000US51600,51,600,D,Renter,Severely overcrowded,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,63.0,05000US51600,51,600,D,Renter,Severely overcrowded,50.1-60% AMI
+"Fairfax city, Virginia",0.0,161.0,64.0,05000US51600,51,600,D,Renter,Severely overcrowded,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,65.0,05000US51600,51,600,D,Renter,Severely overcrowded,80.1-95% AMI
+"Fairfax city, Virginia",20.0,32.0,66.0,05000US51600,51,600,D,Renter,Severely overcrowded,>95% AMI
+"Fairfax city, Virginia",115.0,97.0,67.0,05000US51600,51,600,S,Renter,Overcrowded,All
+"Fairfax city, Virginia",0.0,161.0,68.0,05000US51600,51,600,D,Renter,Overcrowded,<=30% AMI
+"Fairfax city, Virginia",0.0,161.0,69.0,05000US51600,51,600,D,Renter,Overcrowded,30.1-50% AMI
+"Fairfax city, Virginia",10.0,19.0,70.0,05000US51600,51,600,D,Renter,Overcrowded,50.1-60% AMI
+"Fairfax city, Virginia",40.0,49.0,71.0,05000US51600,51,600,D,Renter,Overcrowded,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,72.0,05000US51600,51,600,D,Renter,Overcrowded,80.1-95% AMI
+"Fairfax city, Virginia",65.0,80.0,73.0,05000US51600,51,600,D,Renter,Overcrowded,>95% AMI
+"Fairfax city, Virginia",365.0,151.0,74.0,05000US51600,51,600,S,Renter,Severely cost burdened,All
+"Fairfax city, Virginia",215.0,119.0,75.0,05000US51600,51,600,D,Renter,Severely cost burdened,<=30% AMI
+"Fairfax city, Virginia",130.0,94.0,76.0,05000US51600,51,600,D,Renter,Severely cost burdened,30.1-50% AMI
+"Fairfax city, Virginia",20.0,35.0,77.0,05000US51600,51,600,D,Renter,Severely cost burdened,50.1-60% AMI
+"Fairfax city, Virginia",0.0,161.0,78.0,05000US51600,51,600,D,Renter,Severely cost burdened,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,79.0,05000US51600,51,600,D,Renter,Severely cost burdened,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,80.0,05000US51600,51,600,D,Renter,Severely cost burdened,>95% AMI
+"Fairfax city, Virginia",315.0,159.0,81.0,05000US51600,51,600,S,Renter,Cost burdened,All
+"Fairfax city, Virginia",15.0,24.0,82.0,05000US51600,51,600,D,Renter,Cost burdened,<=30% AMI
+"Fairfax city, Virginia",55.0,54.0,83.0,05000US51600,51,600,D,Renter,Cost burdened,30.1-50% AMI
+"Fairfax city, Virginia",70.0,76.0,84.0,05000US51600,51,600,D,Renter,Cost burdened,50.1-60% AMI
+"Fairfax city, Virginia",150.0,118.0,85.0,05000US51600,51,600,D,Renter,Cost burdened,60.1-80% AMI
+"Fairfax city, Virginia",30.0,52.0,86.0,05000US51600,51,600,D,Renter,Cost burdened,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,87.0,05000US51600,51,600,D,Renter,Cost burdened,>95% AMI
+"Fairfax city, Virginia",15.0,29.0,88.0,05000US51600,51,600,S,Renter,No income or no cash rent,All
+"Fairfax city, Virginia",0.0,161.0,89.0,05000US51600,51,600,D,Renter,No income or no cash rent,<=30% AMI
+"Fairfax city, Virginia",10.0,23.0,90.0,05000US51600,51,600,D,Renter,No income or no cash rent,30.1-50% AMI
+"Fairfax city, Virginia",0.0,161.0,91.0,05000US51600,51,600,D,Renter,No income or no cash rent,50.1-60% AMI
+"Fairfax city, Virginia",4.0,11.0,92.0,05000US51600,51,600,D,Renter,No income or no cash rent,60.1-80% AMI
+"Fairfax city, Virginia",0.0,161.0,93.0,05000US51600,51,600,D,Renter,No income or no cash rent,80.1-95% AMI
+"Fairfax city, Virginia",0.0,161.0,94.0,05000US51600,51,600,D,Renter,No income or no cash rent,>95% AMI
+"Fairfax city, Virginia",1075.0,243.0,95.0,05000US51600,51,600,S,Renter,No housing problems,All
+"Fairfax city, Virginia",4.0,18.0,96.0,05000US51600,51,600,D,Renter,No housing problems,<=30% AMI
+"Fairfax city, Virginia",25.0,36.0,97.0,05000US51600,51,600,D,Renter,No housing problems,30.1-50% AMI
+"Fairfax city, Virginia",65.0,65.0,98.0,05000US51600,51,600,D,Renter,No housing problems,50.1-60% AMI
+"Fairfax city, Virginia",115.0,103.0,99.0,05000US51600,51,600,D,Renter,No housing problems,60.1-80% AMI
+"Fairfax city, Virginia",205.0,137.0,100.0,05000US51600,51,600,D,Renter,No housing problems,80.1-95% AMI
+"Fairfax city, Virginia",660.0,206.0,101.0,05000US51600,51,600,D,Renter,No housing problems,>95% AMI

@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Fairfax County, Virginia",365095.0,2044.0,1.0,05000US51059,51,059,T,All,All,All,All
+"Fairfax County, Virginia",272625.0,2648.0,2.0,05000US51059,51,059,S,Owner,All,All,All
+"Fairfax County, Virginia",21375.0,1108.0,3.0,05000US51059,51,059,S,Owner,2000+,All,All
+"Fairfax County, Virginia",1580.0,366.0,4.0,05000US51059,51,059,S,Owner,2000+,<=50% AMI,All
+"Fairfax County, Virginia",180.0,151.0,5.0,05000US51059,51,059,D,Owner,2000+,<=50% AMI,No cost burden
+"Fairfax County, Virginia",155.0,134.0,6.0,05000US51059,51,059,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",1150.0,325.0,7.0,05000US51059,51,059,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",95.0,109.0,8.0,05000US51059,51,059,D,Owner,2000+,<=50% AMI,N/A
+"Fairfax County, Virginia",2165.0,444.0,9.0,05000US51059,51,059,S,Owner,2000+,50.1-80% AMI,All
+"Fairfax County, Virginia",305.0,175.0,10.0,05000US51059,51,059,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",625.0,282.0,11.0,05000US51059,51,059,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",1230.0,310.0,12.0,05000US51059,51,059,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,13.0,05000US51059,51,059,D,Owner,2000+,50.1-80% AMI,N/A
+"Fairfax County, Virginia",2875.0,427.0,14.0,05000US51059,51,059,S,Owner,2000+,80.1-120% AMI,All
+"Fairfax County, Virginia",815.0,221.0,15.0,05000US51059,51,059,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",1450.0,319.0,16.0,05000US51059,51,059,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",615.0,208.0,17.0,05000US51059,51,059,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,18.0,05000US51059,51,059,D,Owner,2000+,80.1-120% AMI,N/A
+"Fairfax County, Virginia",14755.0,991.0,19.0,05000US51059,51,059,S,Owner,2000+,>120% AMI,All
+"Fairfax County, Virginia",11195.0,771.0,20.0,05000US51059,51,059,D,Owner,2000+,>120% AMI,No cost burden
+"Fairfax County, Virginia",3125.0,612.0,21.0,05000US51059,51,059,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",435.0,189.0,22.0,05000US51059,51,059,D,Owner,2000+,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,23.0,05000US51059,51,059,D,Owner,2000+,>120% AMI,N/A
+"Fairfax County, Virginia",115200.0,2269.0,24.0,05000US51059,51,059,S,Owner,1980 to 1999,All,All
+"Fairfax County, Virginia",8075.0,1045.0,25.0,05000US51059,51,059,S,Owner,1980 to 1999,<=50% AMI,All
+"Fairfax County, Virginia",715.0,232.0,26.0,05000US51059,51,059,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Fairfax County, Virginia",1665.0,510.0,27.0,05000US51059,51,059,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",5260.0,780.0,28.0,05000US51059,51,059,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",430.0,218.0,29.0,05000US51059,51,059,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Fairfax County, Virginia",11780.0,1038.0,30.0,05000US51059,51,059,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Fairfax County, Virginia",3765.0,624.0,31.0,05000US51059,51,059,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",4655.0,738.0,32.0,05000US51059,51,059,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",3360.0,621.0,33.0,05000US51059,51,059,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,34.0,05000US51059,51,059,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Fairfax County, Virginia",19245.0,1131.0,35.0,05000US51059,51,059,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Fairfax County, Virginia",10280.0,902.0,36.0,05000US51059,51,059,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",7470.0,800.0,37.0,05000US51059,51,059,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",1500.0,410.0,38.0,05000US51059,51,059,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,39.0,05000US51059,51,059,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Fairfax County, Virginia",76100.0,1969.0,40.0,05000US51059,51,059,S,Owner,1980 to 1999,>120% AMI,All
+"Fairfax County, Virginia",67810.0,1691.0,41.0,05000US51059,51,059,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Fairfax County, Virginia",7695.0,833.0,42.0,05000US51059,51,059,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",590.0,306.0,43.0,05000US51059,51,059,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,44.0,05000US51059,51,059,D,Owner,1980 to 1999,>120% AMI,N/A
+"Fairfax County, Virginia",98215.0,2493.0,45.0,05000US51059,51,059,S,Owner,1960 to 1979,All,All
+"Fairfax County, Virginia",9495.0,1004.0,46.0,05000US51059,51,059,S,Owner,1960 to 1979,<=50% AMI,All
+"Fairfax County, Virginia",1800.0,366.0,47.0,05000US51059,51,059,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Fairfax County, Virginia",1795.0,432.0,48.0,05000US51059,51,059,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",5370.0,621.0,49.0,05000US51059,51,059,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",530.0,270.0,50.0,05000US51059,51,059,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Fairfax County, Virginia",12045.0,951.0,51.0,05000US51059,51,059,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Fairfax County, Virginia",5190.0,505.0,52.0,05000US51059,51,059,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",4340.0,708.0,53.0,05000US51059,51,059,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",2510.0,435.0,54.0,05000US51059,51,059,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,55.0,05000US51059,51,059,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Fairfax County, Virginia",19770.0,1326.0,56.0,05000US51059,51,059,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Fairfax County, Virginia",13045.0,994.0,57.0,05000US51059,51,059,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",5595.0,795.0,58.0,05000US51059,51,059,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",1135.0,393.0,59.0,05000US51059,51,059,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,60.0,05000US51059,51,059,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Fairfax County, Virginia",56905.0,1832.0,61.0,05000US51059,51,059,S,Owner,1960 to 1979,>120% AMI,All
+"Fairfax County, Virginia",51695.0,1728.0,62.0,05000US51059,51,059,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Fairfax County, Virginia",4935.0,607.0,63.0,05000US51059,51,059,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",275.0,127.0,64.0,05000US51059,51,059,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,65.0,05000US51059,51,059,D,Owner,1960 to 1979,>120% AMI,N/A
+"Fairfax County, Virginia",35500.0,1157.0,66.0,05000US51059,51,059,S,Owner,1940 to 1959,All,All
+"Fairfax County, Virginia",4630.0,611.0,67.0,05000US51059,51,059,S,Owner,1940 to 1959,<=50% AMI,All
+"Fairfax County, Virginia",1240.0,280.0,68.0,05000US51059,51,059,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Fairfax County, Virginia",880.0,263.0,69.0,05000US51059,51,059,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",2380.0,482.0,70.0,05000US51059,51,059,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",130.0,90.0,71.0,05000US51059,51,059,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Fairfax County, Virginia",5020.0,509.0,72.0,05000US51059,51,059,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Fairfax County, Virginia",2640.0,336.0,73.0,05000US51059,51,059,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",1595.0,291.0,74.0,05000US51059,51,059,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",785.0,269.0,75.0,05000US51059,51,059,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,76.0,05000US51059,51,059,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Fairfax County, Virginia",7465.0,667.0,77.0,05000US51059,51,059,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Fairfax County, Virginia",4810.0,600.0,78.0,05000US51059,51,059,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",2460.0,427.0,79.0,05000US51059,51,059,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",195.0,100.0,80.0,05000US51059,51,059,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,81.0,05000US51059,51,059,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Fairfax County, Virginia",18385.0,1095.0,82.0,05000US51059,51,059,S,Owner,1940 to 1959,>120% AMI,All
+"Fairfax County, Virginia",16160.0,976.0,83.0,05000US51059,51,059,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Fairfax County, Virginia",2130.0,429.0,84.0,05000US51059,51,059,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",95.0,72.0,85.0,05000US51059,51,059,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,86.0,05000US51059,51,059,D,Owner,1940 to 1959,>120% AMI,N/A
+"Fairfax County, Virginia",2335.0,339.0,87.0,05000US51059,51,059,S,Owner,1939-,All,All
+"Fairfax County, Virginia",210.0,91.0,88.0,05000US51059,51,059,S,Owner,1939-,<=50% AMI,All
+"Fairfax County, Virginia",60.0,50.0,89.0,05000US51059,51,059,D,Owner,1939-,<=50% AMI,No cost burden
+"Fairfax County, Virginia",40.0,49.0,90.0,05000US51059,51,059,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",110.0,70.0,91.0,05000US51059,51,059,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,92.0,05000US51059,51,059,D,Owner,1939-,<=50% AMI,N/A
+"Fairfax County, Virginia",335.0,160.0,93.0,05000US51059,51,059,S,Owner,1939-,50.1-80% AMI,All
+"Fairfax County, Virginia",135.0,79.0,94.0,05000US51059,51,059,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",55.0,55.0,95.0,05000US51059,51,059,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",145.0,121.0,96.0,05000US51059,51,059,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,97.0,05000US51059,51,059,D,Owner,1939-,50.1-80% AMI,N/A
+"Fairfax County, Virginia",375.0,173.0,98.0,05000US51059,51,059,S,Owner,1939-,80.1-120% AMI,All
+"Fairfax County, Virginia",200.0,100.0,99.0,05000US51059,51,059,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",130.0,115.0,100.0,05000US51059,51,059,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",45.0,53.0,101.0,05000US51059,51,059,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,102.0,05000US51059,51,059,D,Owner,1939-,80.1-120% AMI,N/A
+"Fairfax County, Virginia",1410.0,244.0,103.0,05000US51059,51,059,S,Owner,1939-,>120% AMI,All
+"Fairfax County, Virginia",1195.0,229.0,104.0,05000US51059,51,059,D,Owner,1939-,>120% AMI,No cost burden
+"Fairfax County, Virginia",200.0,96.0,105.0,05000US51059,51,059,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",15.0,29.0,106.0,05000US51059,51,059,D,Owner,1939-,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,107.0,05000US51059,51,059,D,Owner,1939-,>120% AMI,N/A
+"Fairfax County, Virginia",92470.0,2867.0,108.0,05000US51059,51,059,S,Renter,All,All,All
+"Fairfax County, Virginia",9755.0,973.0,109.0,05000US51059,51,059,S,Renter,2000+,All,All
+"Fairfax County, Virginia",2010.0,538.0,110.0,05000US51059,51,059,S,Renter,2000+,<=50% AMI,All
+"Fairfax County, Virginia",290.0,178.0,111.0,05000US51059,51,059,D,Renter,2000+,<=50% AMI,No cost burden
+"Fairfax County, Virginia",245.0,117.0,112.0,05000US51059,51,059,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",1270.0,467.0,113.0,05000US51059,51,059,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",205.0,155.0,114.0,05000US51059,51,059,D,Renter,2000+,<=50% AMI,N/A
+"Fairfax County, Virginia",2190.0,427.0,115.0,05000US51059,51,059,S,Renter,2000+,50.1-80% AMI,All
+"Fairfax County, Virginia",360.0,184.0,116.0,05000US51059,51,059,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",1455.0,303.0,117.0,05000US51059,51,059,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",260.0,173.0,118.0,05000US51059,51,059,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",115.0,78.0,119.0,05000US51059,51,059,D,Renter,2000+,50.1-80% AMI,N/A
+"Fairfax County, Virginia",2300.0,541.0,120.0,05000US51059,51,059,S,Renter,2000+,80.1-120% AMI,All
+"Fairfax County, Virginia",1460.0,469.0,121.0,05000US51059,51,059,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",795.0,292.0,122.0,05000US51059,51,059,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,123.0,05000US51059,51,059,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",45.0,46.0,124.0,05000US51059,51,059,D,Renter,2000+,80.1-120% AMI,N/A
+"Fairfax County, Virginia",3250.0,589.0,125.0,05000US51059,51,059,S,Renter,2000+,>120% AMI,All
+"Fairfax County, Virginia",3065.0,569.0,126.0,05000US51059,51,059,D,Renter,2000+,>120% AMI,No cost burden
+"Fairfax County, Virginia",85.0,54.0,127.0,05000US51059,51,059,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,128.0,05000US51059,51,059,D,Renter,2000+,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",105.0,75.0,129.0,05000US51059,51,059,D,Renter,2000+,>120% AMI,N/A
+"Fairfax County, Virginia",33950.0,2197.0,130.0,05000US51059,51,059,S,Renter,1980 to 1999,All,All
+"Fairfax County, Virginia",9055.0,1022.0,131.0,05000US51059,51,059,S,Renter,1980 to 1999,<=50% AMI,All
+"Fairfax County, Virginia",1195.0,398.0,132.0,05000US51059,51,059,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Fairfax County, Virginia",2275.0,486.0,133.0,05000US51059,51,059,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",5020.0,684.0,134.0,05000US51059,51,059,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",565.0,232.0,135.0,05000US51059,51,059,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Fairfax County, Virginia",7505.0,955.0,136.0,05000US51059,51,059,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Fairfax County, Virginia",2350.0,479.0,137.0,05000US51059,51,059,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",4240.0,757.0,138.0,05000US51059,51,059,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",720.0,290.0,139.0,05000US51059,51,059,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",200.0,152.0,140.0,05000US51059,51,059,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Fairfax County, Virginia",7615.0,972.0,141.0,05000US51059,51,059,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Fairfax County, Virginia",6125.0,867.0,142.0,05000US51059,51,059,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",1255.0,305.0,143.0,05000US51059,51,059,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",140.0,124.0,144.0,05000US51059,51,059,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",100.0,87.0,145.0,05000US51059,51,059,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Fairfax County, Virginia",9770.0,912.0,146.0,05000US51059,51,059,S,Renter,1980 to 1999,>120% AMI,All
+"Fairfax County, Virginia",9180.0,876.0,147.0,05000US51059,51,059,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Fairfax County, Virginia",355.0,218.0,148.0,05000US51059,51,059,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,149.0,05000US51059,51,059,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",235.0,150.0,150.0,05000US51059,51,059,D,Renter,1980 to 1999,>120% AMI,N/A
+"Fairfax County, Virginia",38240.0,1862.0,151.0,05000US51059,51,059,S,Renter,1960 to 1979,All,All
+"Fairfax County, Virginia",13660.0,1217.0,152.0,05000US51059,51,059,S,Renter,1960 to 1979,<=50% AMI,All
+"Fairfax County, Virginia",1810.0,367.0,153.0,05000US51059,51,059,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Fairfax County, Virginia",3715.0,652.0,154.0,05000US51059,51,059,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",7235.0,1042.0,155.0,05000US51059,51,059,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",900.0,290.0,156.0,05000US51059,51,059,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Fairfax County, Virginia",9645.0,1110.0,157.0,05000US51059,51,059,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Fairfax County, Virginia",5455.0,838.0,158.0,05000US51059,51,059,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",3720.0,582.0,159.0,05000US51059,51,059,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",260.0,199.0,160.0,05000US51059,51,059,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",210.0,158.0,161.0,05000US51059,51,059,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Fairfax County, Virginia",7690.0,871.0,162.0,05000US51059,51,059,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Fairfax County, Virginia",6630.0,792.0,163.0,05000US51059,51,059,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",905.0,285.0,164.0,05000US51059,51,059,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",35.0,41.0,165.0,05000US51059,51,059,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",125.0,65.0,166.0,05000US51059,51,059,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Fairfax County, Virginia",7240.0,769.0,167.0,05000US51059,51,059,S,Renter,1960 to 1979,>120% AMI,All
+"Fairfax County, Virginia",6840.0,737.0,168.0,05000US51059,51,059,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Fairfax County, Virginia",175.0,113.0,169.0,05000US51059,51,059,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,170.0,05000US51059,51,059,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",230.0,132.0,171.0,05000US51059,51,059,D,Renter,1960 to 1979,>120% AMI,N/A
+"Fairfax County, Virginia",9255.0,1001.0,172.0,05000US51059,51,059,S,Renter,1940 to 1959,All,All
+"Fairfax County, Virginia",3465.0,596.0,173.0,05000US51059,51,059,S,Renter,1940 to 1959,<=50% AMI,All
+"Fairfax County, Virginia",220.0,146.0,174.0,05000US51059,51,059,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Fairfax County, Virginia",680.0,243.0,175.0,05000US51059,51,059,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",2010.0,468.0,176.0,05000US51059,51,059,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",555.0,201.0,177.0,05000US51059,51,059,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Fairfax County, Virginia",1815.0,398.0,178.0,05000US51059,51,059,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Fairfax County, Virginia",1040.0,307.0,179.0,05000US51059,51,059,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",705.0,278.0,180.0,05000US51059,51,059,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",25.0,30.0,181.0,05000US51059,51,059,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",45.0,66.0,182.0,05000US51059,51,059,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Fairfax County, Virginia",1655.0,362.0,183.0,05000US51059,51,059,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Fairfax County, Virginia",1180.0,320.0,184.0,05000US51059,51,059,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",270.0,131.0,185.0,05000US51059,51,059,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",45.0,76.0,186.0,05000US51059,51,059,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",155.0,126.0,187.0,05000US51059,51,059,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Fairfax County, Virginia",2325.0,571.0,188.0,05000US51059,51,059,S,Renter,1940 to 1959,>120% AMI,All
+"Fairfax County, Virginia",2170.0,561.0,189.0,05000US51059,51,059,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Fairfax County, Virginia",55.0,89.0,190.0,05000US51059,51,059,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,191.0,05000US51059,51,059,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",100.0,68.0,192.0,05000US51059,51,059,D,Renter,1940 to 1959,>120% AMI,N/A
+"Fairfax County, Virginia",1270.0,289.0,193.0,05000US51059,51,059,S,Renter,1939-,All,All
+"Fairfax County, Virginia",230.0,133.0,194.0,05000US51059,51,059,S,Renter,1939-,<=50% AMI,All
+"Fairfax County, Virginia",0.0,161.0,195.0,05000US51059,51,059,D,Renter,1939-,<=50% AMI,No cost burden
+"Fairfax County, Virginia",55.0,61.0,196.0,05000US51059,51,059,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Fairfax County, Virginia",120.0,95.0,197.0,05000US51059,51,059,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Fairfax County, Virginia",60.0,60.0,198.0,05000US51059,51,059,D,Renter,1939-,<=50% AMI,N/A
+"Fairfax County, Virginia",435.0,178.0,199.0,05000US51059,51,059,S,Renter,1939-,50.1-80% AMI,All
+"Fairfax County, Virginia",255.0,140.0,200.0,05000US51059,51,059,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Fairfax County, Virginia",155.0,101.0,201.0,05000US51059,51,059,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,202.0,05000US51059,51,059,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Fairfax County, Virginia",25.0,43.0,203.0,05000US51059,51,059,D,Renter,1939-,50.1-80% AMI,N/A
+"Fairfax County, Virginia",305.0,147.0,204.0,05000US51059,51,059,S,Renter,1939-,80.1-120% AMI,All
+"Fairfax County, Virginia",255.0,138.0,205.0,05000US51059,51,059,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Fairfax County, Virginia",40.0,44.0,206.0,05000US51059,51,059,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,207.0,05000US51059,51,059,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Fairfax County, Virginia",10.0,20.0,208.0,05000US51059,51,059,D,Renter,1939-,80.1-120% AMI,N/A
+"Fairfax County, Virginia",300.0,166.0,209.0,05000US51059,51,059,S,Renter,1939-,>120% AMI,All
+"Fairfax County, Virginia",265.0,164.0,210.0,05000US51059,51,059,D,Renter,1939-,>120% AMI,No cost burden
+"Fairfax County, Virginia",0.0,161.0,211.0,05000US51059,51,059,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,212.0,05000US51059,51,059,D,Renter,1939-,>120% AMI,Severe cost burden
+"Fairfax County, Virginia",35.0,40.0,213.0,05000US51059,51,059,D,Renter,1939-,>120% AMI,N/A

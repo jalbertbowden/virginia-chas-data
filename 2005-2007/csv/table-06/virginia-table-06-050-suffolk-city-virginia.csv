@@ -1,0 +1,82 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Disability_Status
+"Suffolk city, Virginia",29860.0,431.0,1.0,05000US51800,51,800,T,All,All,All,All
+"Suffolk city, Virginia",21285.0,618.0,2.0,05000US51800,51,800,S,Owner,All,All,All
+"Suffolk city, Virginia",5670.0,559.0,3.0,05000US51800,51,800,S,Owner,Yes,All,All
+"Suffolk city, Virginia",730.0,196.0,4.0,05000US51800,51,800,S,Owner,Yes,30% AMI or less,All
+"Suffolk city, Virginia",200.0,115.0,5.0,05000US51800,51,800,D,Owner,Yes,30% AMI or less,Disabled
+"Suffolk city, Virginia",530.0,183.0,6.0,05000US51800,51,800,D,Owner,Yes,30% AMI or less,Not disabled
+"Suffolk city, Virginia",765.0,214.0,7.0,05000US51800,51,800,S,Owner,Yes,30.1-50% AMI,All
+"Suffolk city, Virginia",135.0,96.0,8.0,05000US51800,51,800,D,Owner,Yes,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",630.0,212.0,9.0,05000US51800,51,800,D,Owner,Yes,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",1175.0,260.0,10.0,05000US51800,51,800,S,Owner,Yes,50.1-80% AMI,All
+"Suffolk city, Virginia",65.0,56.0,11.0,05000US51800,51,800,D,Owner,Yes,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",1110.0,259.0,12.0,05000US51800,51,800,D,Owner,Yes,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",3000.0,447.0,13.0,05000US51800,51,800,S,Owner,Yes,80.1% AMI and above,All
+"Suffolk city, Virginia",210.0,106.0,14.0,05000US51800,51,800,D,Owner,Yes,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",2790.0,439.0,15.0,05000US51800,51,800,D,Owner,Yes,80.1% AMI and above,Not disabled
+"Suffolk city, Virginia",15550.0,646.0,16.0,05000US51800,51,800,S,Owner,No,All,All
+"Suffolk city, Virginia",170.0,95.0,17.0,05000US51800,51,800,S,Owner,No,30% AMI or less,All
+"Suffolk city, Virginia",30.0,45.0,18.0,05000US51800,51,800,D,Owner,No,30% AMI or less,Disabled
+"Suffolk city, Virginia",145.0,85.0,19.0,05000US51800,51,800,D,Owner,No,30% AMI or less,Not disabled
+"Suffolk city, Virginia",750.0,188.0,20.0,05000US51800,51,800,S,Owner,No,30.1-50% AMI,All
+"Suffolk city, Virginia",265.0,99.0,21.0,05000US51800,51,800,D,Owner,No,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",485.0,179.0,22.0,05000US51800,51,800,D,Owner,No,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",1215.0,267.0,23.0,05000US51800,51,800,S,Owner,No,50.1-80% AMI,All
+"Suffolk city, Virginia",245.0,107.0,24.0,05000US51800,51,800,D,Owner,No,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",970.0,254.0,25.0,05000US51800,51,800,D,Owner,No,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",13415.0,732.0,26.0,05000US51800,51,800,S,Owner,No,80.1% AMI and above,All
+"Suffolk city, Virginia",1020.0,298.0,27.0,05000US51800,51,800,D,Owner,No,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",12395.0,689.0,28.0,05000US51800,51,800,D,Owner,No,80.1% AMI and above,Not disabled
+"Suffolk city, Virginia",65.0,73.0,29.0,05000US51800,51,800,S,Owner,N/A,All,All
+"Suffolk city, Virginia",65.0,73.0,30.0,05000US51800,51,800,S,Owner,N/A,30% AMI or less,All
+"Suffolk city, Virginia",35.0,59.0,31.0,05000US51800,51,800,D,Owner,N/A,30% AMI or less,Disabled
+"Suffolk city, Virginia",30.0,45.0,32.0,05000US51800,51,800,D,Owner,N/A,30% AMI or less,Not disabled
+"Suffolk city, Virginia",0.0,161.0,33.0,05000US51800,51,800,S,Owner,N/A,30.1-50% AMI,All
+"Suffolk city, Virginia",0.0,161.0,34.0,05000US51800,51,800,D,Owner,N/A,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",0.0,161.0,35.0,05000US51800,51,800,D,Owner,N/A,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",0.0,161.0,36.0,05000US51800,51,800,S,Owner,N/A,50.1-80% AMI,All
+"Suffolk city, Virginia",0.0,161.0,37.0,05000US51800,51,800,D,Owner,N/A,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",0.0,161.0,38.0,05000US51800,51,800,D,Owner,N/A,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",0.0,161.0,39.0,05000US51800,51,800,S,Owner,N/A,80.1% AMI and above,All
+"Suffolk city, Virginia",0.0,161.0,40.0,05000US51800,51,800,D,Owner,N/A,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",0.0,161.0,41.0,05000US51800,51,800,D,Owner,N/A,80.1% AMI and above,Not disabled
+"Suffolk city, Virginia",8570.0,698.0,42.0,05000US51800,51,800,S,Renter,All,All,All
+"Suffolk city, Virginia",4040.0,596.0,43.0,05000US51800,51,800,S,Renter,Yes,All,All
+"Suffolk city, Virginia",2025.0,396.0,44.0,05000US51800,51,800,S,Renter,Yes,30% AMI or less,All
+"Suffolk city, Virginia",300.0,133.0,45.0,05000US51800,51,800,D,Renter,Yes,30% AMI or less,Disabled
+"Suffolk city, Virginia",1725.0,400.0,46.0,05000US51800,51,800,D,Renter,Yes,30% AMI or less,Not disabled
+"Suffolk city, Virginia",860.0,273.0,47.0,05000US51800,51,800,S,Renter,Yes,30.1-50% AMI,All
+"Suffolk city, Virginia",180.0,155.0,48.0,05000US51800,51,800,D,Renter,Yes,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",685.0,243.0,49.0,05000US51800,51,800,D,Renter,Yes,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",885.0,383.0,50.0,05000US51800,51,800,S,Renter,Yes,50.1-80% AMI,All
+"Suffolk city, Virginia",190.0,181.0,51.0,05000US51800,51,800,D,Renter,Yes,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",700.0,323.0,52.0,05000US51800,51,800,D,Renter,Yes,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",265.0,145.0,53.0,05000US51800,51,800,S,Renter,Yes,80.1% AMI and above,All
+"Suffolk city, Virginia",15.0,28.0,54.0,05000US51800,51,800,D,Renter,Yes,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",250.0,145.0,55.0,05000US51800,51,800,D,Renter,Yes,80.1% AMI and above,Not disabled
+"Suffolk city, Virginia",4120.0,586.0,56.0,05000US51800,51,800,S,Renter,No,All,All
+"Suffolk city, Virginia",470.0,254.0,57.0,05000US51800,51,800,S,Renter,No,30% AMI or less,All
+"Suffolk city, Virginia",30.0,36.0,58.0,05000US51800,51,800,D,Renter,No,30% AMI or less,Disabled
+"Suffolk city, Virginia",435.0,252.0,59.0,05000US51800,51,800,D,Renter,No,30% AMI or less,Not disabled
+"Suffolk city, Virginia",175.0,101.0,60.0,05000US51800,51,800,S,Renter,No,30.1-50% AMI,All
+"Suffolk city, Virginia",25.0,42.0,61.0,05000US51800,51,800,D,Renter,No,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",155.0,91.0,62.0,05000US51800,51,800,D,Renter,No,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",1120.0,347.0,63.0,05000US51800,51,800,S,Renter,No,50.1-80% AMI,All
+"Suffolk city, Virginia",50.0,48.0,64.0,05000US51800,51,800,D,Renter,No,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",1070.0,349.0,65.0,05000US51800,51,800,D,Renter,No,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",2350.0,478.0,66.0,05000US51800,51,800,S,Renter,No,80.1% AMI and above,All
+"Suffolk city, Virginia",150.0,113.0,67.0,05000US51800,51,800,D,Renter,No,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",2205.0,460.0,68.0,05000US51800,51,800,D,Renter,No,80.1% AMI and above,Not disabled
+"Suffolk city, Virginia",415.0,207.0,69.0,05000US51800,51,800,S,Renter,N/A,All,All
+"Suffolk city, Virginia",225.0,161.0,70.0,05000US51800,51,800,S,Renter,N/A,30% AMI or less,All
+"Suffolk city, Virginia",0.0,161.0,71.0,05000US51800,51,800,D,Renter,N/A,30% AMI or less,Disabled
+"Suffolk city, Virginia",225.0,161.0,72.0,05000US51800,51,800,D,Renter,N/A,30% AMI or less,Not disabled
+"Suffolk city, Virginia",110.0,119.0,73.0,05000US51800,51,800,S,Renter,N/A,30.1-50% AMI,All
+"Suffolk city, Virginia",20.0,33.0,74.0,05000US51800,51,800,D,Renter,N/A,30.1-50% AMI,Disabled
+"Suffolk city, Virginia",90.0,116.0,75.0,05000US51800,51,800,D,Renter,N/A,30.1-50% AMI,Not disabled
+"Suffolk city, Virginia",40.0,50.0,76.0,05000US51800,51,800,S,Renter,N/A,50.1-80% AMI,All
+"Suffolk city, Virginia",20.0,37.0,77.0,05000US51800,51,800,D,Renter,N/A,50.1-80% AMI,Disabled
+"Suffolk city, Virginia",20.0,37.0,78.0,05000US51800,51,800,D,Renter,N/A,50.1-80% AMI,Not disabled
+"Suffolk city, Virginia",45.0,51.0,79.0,05000US51800,51,800,S,Renter,N/A,80.1% AMI and above,All
+"Suffolk city, Virginia",0.0,161.0,80.0,05000US51800,51,800,D,Renter,N/A,80.1% AMI and above,Disabled
+"Suffolk city, Virginia",45.0,51.0,81.0,05000US51800,51,800,D,Renter,N/A,80.1% AMI and above,Not disabled

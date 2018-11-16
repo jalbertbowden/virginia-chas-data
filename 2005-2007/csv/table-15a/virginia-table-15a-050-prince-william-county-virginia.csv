@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Household_Income,Bedrooms
+"Prince William County, Virginia",82550.0,1502.0,1.0,05000US51153,51,153,T,All,All,All,All
+"Prince William County, Virginia",340.0,191.0,2.0,05000US51153,51,153,S,Substandard,All,All,All
+"Prince William County, Virginia",82210.0,1500.0,3.0,05000US51153,51,153,S,Standard,All,All,All
+"Prince William County, Virginia",1680.0,399.0,4.0,05000US51153,51,153,S,Standard,VHUD50,All,All
+"Prince William County, Virginia",180.0,138.0,5.0,05000US51153,51,153,S,Standard,VHUD50,30% AMI or less,All
+"Prince William County, Virginia",0.0,161.0,6.0,05000US51153,51,153,D,Standard,VHUD50,30% AMI or less,0 or 1
+"Prince William County, Virginia",15.0,26.0,7.0,05000US51153,51,153,D,Standard,VHUD50,30% AMI or less,2
+"Prince William County, Virginia",160.0,138.0,8.0,05000US51153,51,153,D,Standard,VHUD50,30% AMI or less,3 or more
+"Prince William County, Virginia",310.0,170.0,9.0,05000US51153,51,153,S,Standard,VHUD50,30.1-50% AMI,All
+"Prince William County, Virginia",0.0,161.0,10.0,05000US51153,51,153,D,Standard,VHUD50,30.1-50% AMI,0 or 1
+"Prince William County, Virginia",100.0,83.0,11.0,05000US51153,51,153,D,Standard,VHUD50,30.1-50% AMI,2
+"Prince William County, Virginia",210.0,144.0,12.0,05000US51153,51,153,D,Standard,VHUD50,30.1-50% AMI,3 or more
+"Prince William County, Virginia",435.0,212.0,13.0,05000US51153,51,153,S,Standard,VHUD50,50.1-80% AMI,All
+"Prince William County, Virginia",15.0,23.0,14.0,05000US51153,51,153,D,Standard,VHUD50,50.1-80% AMI,0 or 1
+"Prince William County, Virginia",15.0,24.0,15.0,05000US51153,51,153,D,Standard,VHUD50,50.1-80% AMI,2
+"Prince William County, Virginia",405.0,204.0,16.0,05000US51153,51,153,D,Standard,VHUD50,50.1-80% AMI,3 or more
+"Prince William County, Virginia",260.0,169.0,17.0,05000US51153,51,153,S,Standard,VHUD50,80.1-95% AMI,All
+"Prince William County, Virginia",0.0,161.0,18.0,05000US51153,51,153,D,Standard,VHUD50,80.1-95% AMI,0 or 1
+"Prince William County, Virginia",0.0,161.0,19.0,05000US51153,51,153,D,Standard,VHUD50,80.1-95% AMI,2
+"Prince William County, Virginia",260.0,169.0,20.0,05000US51153,51,153,D,Standard,VHUD50,80.1-95% AMI,3 or more
+"Prince William County, Virginia",495.0,190.0,21.0,05000US51153,51,153,S,Standard,VHUD50,95.1% AMI and above,All
+"Prince William County, Virginia",20.0,41.0,22.0,05000US51153,51,153,D,Standard,VHUD50,95.1% AMI and above,0 or 1
+"Prince William County, Virginia",125.0,120.0,23.0,05000US51153,51,153,D,Standard,VHUD50,95.1% AMI and above,2
+"Prince William County, Virginia",350.0,140.0,24.0,05000US51153,51,153,D,Standard,VHUD50,95.1% AMI and above,3 or more
+"Prince William County, Virginia",6940.0,776.0,25.0,05000US51153,51,153,S,Standard,VHUD80,All,All
+"Prince William County, Virginia",540.0,210.0,26.0,05000US51153,51,153,S,Standard,VHUD80,30% AMI or less,All
+"Prince William County, Virginia",0.0,161.0,27.0,05000US51153,51,153,D,Standard,VHUD80,30% AMI or less,0 or 1
+"Prince William County, Virginia",70.0,66.0,28.0,05000US51153,51,153,D,Standard,VHUD80,30% AMI or less,2
+"Prince William County, Virginia",470.0,185.0,29.0,05000US51153,51,153,D,Standard,VHUD80,30% AMI or less,3 or more
+"Prince William County, Virginia",840.0,315.0,30.0,05000US51153,51,153,S,Standard,VHUD80,30.1-50% AMI,All
+"Prince William County, Virginia",40.0,48.0,31.0,05000US51153,51,153,D,Standard,VHUD80,30.1-50% AMI,0 or 1
+"Prince William County, Virginia",230.0,200.0,32.0,05000US51153,51,153,D,Standard,VHUD80,30.1-50% AMI,2
+"Prince William County, Virginia",570.0,241.0,33.0,05000US51153,51,153,D,Standard,VHUD80,30.1-50% AMI,3 or more
+"Prince William County, Virginia",1695.0,401.0,34.0,05000US51153,51,153,S,Standard,VHUD80,50.1-80% AMI,All
+"Prince William County, Virginia",0.0,161.0,35.0,05000US51153,51,153,D,Standard,VHUD80,50.1-80% AMI,0 or 1
+"Prince William County, Virginia",245.0,135.0,36.0,05000US51153,51,153,D,Standard,VHUD80,50.1-80% AMI,2
+"Prince William County, Virginia",1450.0,363.0,37.0,05000US51153,51,153,D,Standard,VHUD80,50.1-80% AMI,3 or more
+"Prince William County, Virginia",920.0,264.0,38.0,05000US51153,51,153,S,Standard,VHUD80,80.1-95% AMI,All
+"Prince William County, Virginia",0.0,161.0,39.0,05000US51153,51,153,D,Standard,VHUD80,80.1-95% AMI,0 or 1
+"Prince William County, Virginia",325.0,184.0,40.0,05000US51153,51,153,D,Standard,VHUD80,80.1-95% AMI,2
+"Prince William County, Virginia",595.0,208.0,41.0,05000US51153,51,153,D,Standard,VHUD80,80.1-95% AMI,3 or more
+"Prince William County, Virginia",2950.0,579.0,42.0,05000US51153,51,153,S,Standard,VHUD80,95.1% AMI and above,All
+"Prince William County, Virginia",75.0,119.0,43.0,05000US51153,51,153,D,Standard,VHUD80,95.1% AMI and above,0 or 1
+"Prince William County, Virginia",600.0,236.0,44.0,05000US51153,51,153,D,Standard,VHUD80,95.1% AMI and above,2
+"Prince William County, Virginia",2275.0,486.0,45.0,05000US51153,51,153,D,Standard,VHUD80,95.1% AMI and above,3 or more
+"Prince William County, Virginia",12650.0,1107.0,46.0,05000US51153,51,153,S,Standard,VHUD100,All,All
+"Prince William County, Virginia",645.0,275.0,47.0,05000US51153,51,153,S,Standard,VHUD100,30% AMI or less,All
+"Prince William County, Virginia",0.0,161.0,48.0,05000US51153,51,153,D,Standard,VHUD100,30% AMI or less,0 or 1
+"Prince William County, Virginia",140.0,122.0,49.0,05000US51153,51,153,D,Standard,VHUD100,30% AMI or less,2
+"Prince William County, Virginia",505.0,253.0,50.0,05000US51153,51,153,D,Standard,VHUD100,30% AMI or less,3 or more
+"Prince William County, Virginia",900.0,237.0,51.0,05000US51153,51,153,S,Standard,VHUD100,30.1-50% AMI,All
+"Prince William County, Virginia",0.0,161.0,52.0,05000US51153,51,153,D,Standard,VHUD100,30.1-50% AMI,0 or 1
+"Prince William County, Virginia",150.0,85.0,53.0,05000US51153,51,153,D,Standard,VHUD100,30.1-50% AMI,2
+"Prince William County, Virginia",750.0,243.0,54.0,05000US51153,51,153,D,Standard,VHUD100,30.1-50% AMI,3 or more
+"Prince William County, Virginia",2990.0,597.0,55.0,05000US51153,51,153,S,Standard,VHUD100,50.1-80% AMI,All
+"Prince William County, Virginia",105.0,174.0,56.0,05000US51153,51,153,D,Standard,VHUD100,50.1-80% AMI,0 or 1
+"Prince William County, Virginia",285.0,162.0,57.0,05000US51153,51,153,D,Standard,VHUD100,50.1-80% AMI,2
+"Prince William County, Virginia",2595.0,579.0,58.0,05000US51153,51,153,D,Standard,VHUD100,50.1-80% AMI,3 or more
+"Prince William County, Virginia",1630.0,368.0,59.0,05000US51153,51,153,S,Standard,VHUD100,80.1-95% AMI,All
+"Prince William County, Virginia",105.0,126.0,60.0,05000US51153,51,153,D,Standard,VHUD100,80.1-95% AMI,0 or 1
+"Prince William County, Virginia",70.0,61.0,61.0,05000US51153,51,153,D,Standard,VHUD100,80.1-95% AMI,2
+"Prince William County, Virginia",1460.0,336.0,62.0,05000US51153,51,153,D,Standard,VHUD100,80.1-95% AMI,3 or more
+"Prince William County, Virginia",6485.0,939.0,63.0,05000US51153,51,153,S,Standard,VHUD100,95.1% AMI and above,All
+"Prince William County, Virginia",0.0,161.0,64.0,05000US51153,51,153,D,Standard,VHUD100,95.1% AMI and above,0 or 1
+"Prince William County, Virginia",365.0,167.0,65.0,05000US51153,51,153,D,Standard,VHUD100,95.1% AMI and above,2
+"Prince William County, Virginia",6120.0,940.0,66.0,05000US51153,51,153,D,Standard,VHUD100,95.1% AMI and above,3 or more
+"Prince William County, Virginia",60940.0,1475.0,67.0,05000US51153,51,153,S,Standard,Greater than VHUD100,All,All
+"Prince William County, Virginia",1425.0,457.0,68.0,05000US51153,51,153,S,Standard,Greater than VHUD100,30% AMI or less,All
+"Prince William County, Virginia",20.0,37.0,69.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30% AMI or less,0 or 1
+"Prince William County, Virginia",65.0,49.0,70.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30% AMI or less,2
+"Prince William County, Virginia",1340.0,450.0,71.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30% AMI or less,3 or more
+"Prince William County, Virginia",2785.0,609.0,72.0,05000US51153,51,153,S,Standard,Greater than VHUD100,30.1-50% AMI,All
+"Prince William County, Virginia",0.0,161.0,73.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30.1-50% AMI,0 or 1
+"Prince William County, Virginia",190.0,114.0,74.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30.1-50% AMI,2
+"Prince William County, Virginia",2595.0,611.0,75.0,05000US51153,51,153,D,Standard,Greater than VHUD100,30.1-50% AMI,3 or more
+"Prince William County, Virginia",7275.0,795.0,76.0,05000US51153,51,153,S,Standard,Greater than VHUD100,50.1-80% AMI,All
+"Prince William County, Virginia",25.0,44.0,77.0,05000US51153,51,153,D,Standard,Greater than VHUD100,50.1-80% AMI,0 or 1
+"Prince William County, Virginia",580.0,228.0,78.0,05000US51153,51,153,D,Standard,Greater than VHUD100,50.1-80% AMI,2
+"Prince William County, Virginia",6675.0,757.0,79.0,05000US51153,51,153,D,Standard,Greater than VHUD100,50.1-80% AMI,3 or more
+"Prince William County, Virginia",5760.0,755.0,80.0,05000US51153,51,153,S,Standard,Greater than VHUD100,80.1-95% AMI,All
+"Prince William County, Virginia",15.0,31.0,81.0,05000US51153,51,153,D,Standard,Greater than VHUD100,80.1-95% AMI,0 or 1
+"Prince William County, Virginia",385.0,188.0,82.0,05000US51153,51,153,D,Standard,Greater than VHUD100,80.1-95% AMI,2
+"Prince William County, Virginia",5360.0,735.0,83.0,05000US51153,51,153,D,Standard,Greater than VHUD100,80.1-95% AMI,3 or more
+"Prince William County, Virginia",43695.0,1520.0,84.0,05000US51153,51,153,S,Standard,Greater than VHUD100,95.1% AMI and above,All
+"Prince William County, Virginia",55.0,60.0,85.0,05000US51153,51,153,D,Standard,Greater than VHUD100,95.1% AMI and above,0 or 1
+"Prince William County, Virginia",1410.0,374.0,86.0,05000US51153,51,153,D,Standard,Greater than VHUD100,95.1% AMI and above,2
+"Prince William County, Virginia",42230.0,1525.0,87.0,05000US51153,51,153,D,Standard,Greater than VHUD100,95.1% AMI and above,3 or more

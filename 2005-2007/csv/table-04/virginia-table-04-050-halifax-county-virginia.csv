@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Halifax County, Virginia",14465.0,534.0,1.0,05000US51083,51,083,T,All,All,All,All
+"Halifax County, Virginia",11060.0,580.0,2.0,05000US51083,51,083,S,Owner,All,All,All
+"Halifax County, Virginia",2680.0,453.0,3.0,05000US51083,51,083,S,Owner,Yes,All,All
+"Halifax County, Virginia",615.0,195.0,4.0,05000US51083,51,083,S,Owner,Yes,"Family, 1 parent",All
+"Halifax County, Virginia",505.0,219.0,5.0,05000US51083,51,083,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",110.0,98.0,6.0,05000US51083,51,083,D,Owner,Yes,"Family, 1 parent",5 or more
+"Halifax County, Virginia",1040.0,278.0,7.0,05000US51083,51,083,S,Owner,Yes,"Family, 2 parents",All
+"Halifax County, Virginia",960.0,262.0,8.0,05000US51083,51,083,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",80.0,80.0,9.0,05000US51083,51,083,D,Owner,Yes,"Family, 2 parents",5 or more
+"Halifax County, Virginia",1025.0,252.0,10.0,05000US51083,51,083,S,Owner,Yes,Non-family,All
+"Halifax County, Virginia",1025.0,252.0,11.0,05000US51083,51,083,D,Owner,Yes,Non-family,4 or fewer
+"Halifax County, Virginia",0.0,161.0,12.0,05000US51083,51,083,D,Owner,Yes,Non-family,5 or more
+"Halifax County, Virginia",8275.0,623.0,13.0,05000US51083,51,083,S,Owner,No,All,All
+"Halifax County, Virginia",1030.0,346.0,14.0,05000US51083,51,083,S,Owner,No,"Family, 1 parent",All
+"Halifax County, Virginia",1030.0,346.0,15.0,05000US51083,51,083,D,Owner,No,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",0.0,161.0,16.0,05000US51083,51,083,D,Owner,No,"Family, 1 parent",5 or more
+"Halifax County, Virginia",4870.0,499.0,17.0,05000US51083,51,083,S,Owner,No,"Family, 2 parents",All
+"Halifax County, Virginia",4505.0,515.0,18.0,05000US51083,51,083,D,Owner,No,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",370.0,167.0,19.0,05000US51083,51,083,D,Owner,No,"Family, 2 parents",5 or more
+"Halifax County, Virginia",2375.0,402.0,20.0,05000US51083,51,083,S,Owner,No,Non-family,All
+"Halifax County, Virginia",2375.0,402.0,21.0,05000US51083,51,083,D,Owner,No,Non-family,4 or fewer
+"Halifax County, Virginia",0.0,161.0,22.0,05000US51083,51,083,D,Owner,No,Non-family,5 or more
+"Halifax County, Virginia",105.0,80.0,23.0,05000US51083,51,083,S,Owner,N/A,All,All
+"Halifax County, Virginia",0.0,161.0,24.0,05000US51083,51,083,S,Owner,N/A,"Family, 1 parent",All
+"Halifax County, Virginia",0.0,161.0,25.0,05000US51083,51,083,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",0.0,161.0,26.0,05000US51083,51,083,D,Owner,N/A,"Family, 1 parent",5 or more
+"Halifax County, Virginia",40.0,49.0,27.0,05000US51083,51,083,S,Owner,N/A,"Family, 2 parents",All
+"Halifax County, Virginia",40.0,49.0,28.0,05000US51083,51,083,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",0.0,161.0,29.0,05000US51083,51,083,D,Owner,N/A,"Family, 2 parents",5 or more
+"Halifax County, Virginia",65.0,65.0,30.0,05000US51083,51,083,S,Owner,N/A,Non-family,All
+"Halifax County, Virginia",65.0,65.0,31.0,05000US51083,51,083,D,Owner,N/A,Non-family,4 or fewer
+"Halifax County, Virginia",0.0,161.0,32.0,05000US51083,51,083,D,Owner,N/A,Non-family,5 or more
+"Halifax County, Virginia",3405.0,476.0,33.0,05000US51083,51,083,S,Renter,All,All,All
+"Halifax County, Virginia",1165.0,321.0,34.0,05000US51083,51,083,S,Renter,Yes,All,All
+"Halifax County, Virginia",495.0,232.0,35.0,05000US51083,51,083,S,Renter,Yes,"Family, 1 parent",All
+"Halifax County, Virginia",385.0,225.0,36.0,05000US51083,51,083,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",110.0,104.0,37.0,05000US51083,51,083,D,Renter,Yes,"Family, 1 parent",5 or more
+"Halifax County, Virginia",115.0,74.0,38.0,05000US51083,51,083,S,Renter,Yes,"Family, 2 parents",All
+"Halifax County, Virginia",115.0,74.0,39.0,05000US51083,51,083,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",0.0,161.0,40.0,05000US51083,51,083,D,Renter,Yes,"Family, 2 parents",5 or more
+"Halifax County, Virginia",555.0,249.0,41.0,05000US51083,51,083,S,Renter,Yes,Non-family,All
+"Halifax County, Virginia",535.0,239.0,42.0,05000US51083,51,083,D,Renter,Yes,Non-family,4 or fewer
+"Halifax County, Virginia",20.0,33.0,43.0,05000US51083,51,083,D,Renter,Yes,Non-family,5 or more
+"Halifax County, Virginia",1585.0,359.0,44.0,05000US51083,51,083,S,Renter,No,All,All
+"Halifax County, Virginia",495.0,213.0,45.0,05000US51083,51,083,S,Renter,No,"Family, 1 parent",All
+"Halifax County, Virginia",475.0,208.0,46.0,05000US51083,51,083,D,Renter,No,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",20.0,35.0,47.0,05000US51083,51,083,D,Renter,No,"Family, 1 parent",5 or more
+"Halifax County, Virginia",620.0,248.0,48.0,05000US51083,51,083,S,Renter,No,"Family, 2 parents",All
+"Halifax County, Virginia",565.0,242.0,49.0,05000US51083,51,083,D,Renter,No,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",55.0,53.0,50.0,05000US51083,51,083,D,Renter,No,"Family, 2 parents",5 or more
+"Halifax County, Virginia",475.0,244.0,51.0,05000US51083,51,083,S,Renter,No,Non-family,All
+"Halifax County, Virginia",475.0,244.0,52.0,05000US51083,51,083,D,Renter,No,Non-family,4 or fewer
+"Halifax County, Virginia",0.0,161.0,53.0,05000US51083,51,083,D,Renter,No,Non-family,5 or more
+"Halifax County, Virginia",655.0,224.0,54.0,05000US51083,51,083,S,Renter,N/A,All,All
+"Halifax County, Virginia",260.0,147.0,55.0,05000US51083,51,083,S,Renter,N/A,"Family, 1 parent",All
+"Halifax County, Virginia",260.0,147.0,56.0,05000US51083,51,083,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Halifax County, Virginia",0.0,161.0,57.0,05000US51083,51,083,D,Renter,N/A,"Family, 1 parent",5 or more
+"Halifax County, Virginia",140.0,108.0,58.0,05000US51083,51,083,S,Renter,N/A,"Family, 2 parents",All
+"Halifax County, Virginia",140.0,108.0,59.0,05000US51083,51,083,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Halifax County, Virginia",0.0,161.0,60.0,05000US51083,51,083,D,Renter,N/A,"Family, 2 parents",5 or more
+"Halifax County, Virginia",255.0,160.0,61.0,05000US51083,51,083,S,Renter,N/A,Non-family,All
+"Halifax County, Virginia",255.0,160.0,62.0,05000US51083,51,083,D,Renter,N/A,Non-family,4 or fewer
+"Halifax County, Virginia",0.0,161.0,63.0,05000US51083,51,083,D,Renter,N/A,Non-family,5 or more

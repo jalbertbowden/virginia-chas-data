@@ -1,0 +1,250 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Severe_Housing_Problems,Household_Income,Race
+"Loudoun County, Virginia",85655.0,1209.0,1.0,05000US51107,51,107,T,All,All,All,All
+"Loudoun County, Virginia",71545.0,1186.0,2.0,05000US51107,51,107,S,Owner,All,All,All
+"Loudoun County, Virginia",9540.0,939.0,3.0,05000US51107,51,107,S,Owner,Yes,All,All
+"Loudoun County, Virginia",1530.0,367.0,4.0,05000US51107,51,107,S,Owner,Yes,30% AMI or less,All
+"Loudoun County, Virginia",950.0,270.0,5.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,White
+"Loudoun County, Virginia",0.0,161.0,6.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,Black
+"Loudoun County, Virginia",225.0,128.0,7.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,8.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,9.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",285.0,218.0,10.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,Hispanic
+"Loudoun County, Virginia",75.0,73.0,11.0,05000US51107,51,107,D,Owner,Yes,30% AMI or less,Other
+"Loudoun County, Virginia",1870.0,433.0,12.0,05000US51107,51,107,S,Owner,Yes,30.1-50% AMI,All
+"Loudoun County, Virginia",775.0,227.0,13.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,White
+"Loudoun County, Virginia",245.0,197.0,14.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,Black
+"Loudoun County, Virginia",190.0,109.0,15.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,Asian
+"Loudoun County, Virginia",25.0,43.0,16.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,17.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",615.0,260.0,18.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",20.0,32.0,19.0,05000US51107,51,107,D,Owner,Yes,30.1-50% AMI,Other
+"Loudoun County, Virginia",3690.0,629.0,20.0,05000US51107,51,107,S,Owner,Yes,50.1-80% AMI,All
+"Loudoun County, Virginia",2160.0,473.0,21.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,White
+"Loudoun County, Virginia",165.0,110.0,22.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,Black
+"Loudoun County, Virginia",680.0,278.0,23.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,24.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,25.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",620.0,336.0,26.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",70.0,69.0,27.0,05000US51107,51,107,D,Owner,Yes,50.1-80% AMI,Other
+"Loudoun County, Virginia",780.0,270.0,28.0,05000US51107,51,107,S,Owner,Yes,80.1-95% AMI,All
+"Loudoun County, Virginia",425.0,187.0,29.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,White
+"Loudoun County, Virginia",50.0,57.0,30.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,Black
+"Loudoun County, Virginia",115.0,154.0,31.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,32.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,33.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",160.0,135.0,34.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",25.0,45.0,35.0,05000US51107,51,107,D,Owner,Yes,80.1-95% AMI,Other
+"Loudoun County, Virginia",1670.0,382.0,36.0,05000US51107,51,107,S,Owner,Yes,95.1% AMI and above,All
+"Loudoun County, Virginia",815.0,274.0,37.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,White
+"Loudoun County, Virginia",95.0,83.0,38.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,Black
+"Loudoun County, Virginia",495.0,225.0,39.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,Asian
+"Loudoun County, Virginia",0.0,161.0,40.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",0.0,161.0,41.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",210.0,136.0,42.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",55.0,87.0,43.0,05000US51107,51,107,D,Owner,Yes,95.1% AMI and above,Other
+"Loudoun County, Virginia",61560.0,1198.0,44.0,05000US51107,51,107,S,Owner,No,All,All
+"Loudoun County, Virginia",245.0,140.0,45.0,05000US51107,51,107,S,Owner,No,30% AMI or less,All
+"Loudoun County, Virginia",160.0,99.0,46.0,05000US51107,51,107,D,Owner,No,30% AMI or less,White
+"Loudoun County, Virginia",25.0,31.0,47.0,05000US51107,51,107,D,Owner,No,30% AMI or less,Black
+"Loudoun County, Virginia",60.0,71.0,48.0,05000US51107,51,107,D,Owner,No,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,49.0,05000US51107,51,107,D,Owner,No,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,50.0,05000US51107,51,107,D,Owner,No,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,51.0,05000US51107,51,107,D,Owner,No,30% AMI or less,Hispanic
+"Loudoun County, Virginia",0.0,161.0,52.0,05000US51107,51,107,D,Owner,No,30% AMI or less,Other
+"Loudoun County, Virginia",1075.0,308.0,53.0,05000US51107,51,107,S,Owner,No,30.1-50% AMI,All
+"Loudoun County, Virginia",860.0,259.0,54.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,White
+"Loudoun County, Virginia",70.0,78.0,55.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,Black
+"Loudoun County, Virginia",35.0,37.0,56.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,Asian
+"Loudoun County, Virginia",25.0,41.0,57.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,58.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",80.0,74.0,59.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,60.0,05000US51107,51,107,D,Owner,No,30.1-50% AMI,Other
+"Loudoun County, Virginia",5215.0,552.0,61.0,05000US51107,51,107,S,Owner,No,50.1-80% AMI,All
+"Loudoun County, Virginia",3500.0,419.0,62.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,White
+"Loudoun County, Virginia",585.0,265.0,63.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,Black
+"Loudoun County, Virginia",545.0,195.0,64.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,65.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,66.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",530.0,231.0,67.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",55.0,71.0,68.0,05000US51107,51,107,D,Owner,No,50.1-80% AMI,Other
+"Loudoun County, Virginia",4535.0,674.0,69.0,05000US51107,51,107,S,Owner,No,80.1-95% AMI,All
+"Loudoun County, Virginia",3415.0,528.0,70.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,White
+"Loudoun County, Virginia",190.0,126.0,71.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,Black
+"Loudoun County, Virginia",445.0,177.0,72.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,73.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,74.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",405.0,198.0,75.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",80.0,78.0,76.0,05000US51107,51,107,D,Owner,No,80.1-95% AMI,Other
+"Loudoun County, Virginia",50490.0,1197.0,77.0,05000US51107,51,107,S,Owner,No,95.1% AMI and above,All
+"Loudoun County, Virginia",40000.0,1037.0,78.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,White
+"Loudoun County, Virginia",2915.0,388.0,79.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,Black
+"Loudoun County, Virginia",4915.0,443.0,80.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,Asian
+"Loudoun County, Virginia",35.0,60.0,81.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",125.0,117.0,82.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",2030.0,395.0,83.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",470.0,184.0,84.0,05000US51107,51,107,D,Owner,No,95.1% AMI and above,Other
+"Loudoun County, Virginia",445.0,231.0,85.0,05000US51107,51,107,S,Owner,N/A,All,All
+"Loudoun County, Virginia",445.0,231.0,86.0,05000US51107,51,107,S,Owner,N/A,30% AMI or less,All
+"Loudoun County, Virginia",325.0,207.0,87.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,White
+"Loudoun County, Virginia",10.0,20.0,88.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,Black
+"Loudoun County, Virginia",105.0,108.0,89.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,90.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,91.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,92.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,Hispanic
+"Loudoun County, Virginia",0.0,161.0,93.0,05000US51107,51,107,D,Owner,N/A,30% AMI or less,Other
+"Loudoun County, Virginia",0.0,161.0,94.0,05000US51107,51,107,S,Owner,N/A,30.1-50% AMI,All
+"Loudoun County, Virginia",0.0,161.0,95.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,White
+"Loudoun County, Virginia",0.0,161.0,96.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,97.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,98.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,99.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,100.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,101.0,05000US51107,51,107,D,Owner,N/A,30.1-50% AMI,Other
+"Loudoun County, Virginia",0.0,161.0,102.0,05000US51107,51,107,S,Owner,N/A,50.1-80% AMI,All
+"Loudoun County, Virginia",0.0,161.0,103.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,White
+"Loudoun County, Virginia",0.0,161.0,104.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,105.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,106.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,107.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,108.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,109.0,05000US51107,51,107,D,Owner,N/A,50.1-80% AMI,Other
+"Loudoun County, Virginia",0.0,161.0,110.0,05000US51107,51,107,S,Owner,N/A,80.1-95% AMI,All
+"Loudoun County, Virginia",0.0,161.0,111.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,White
+"Loudoun County, Virginia",0.0,161.0,112.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,113.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,114.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,115.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,116.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,117.0,05000US51107,51,107,D,Owner,N/A,80.1-95% AMI,Other
+"Loudoun County, Virginia",0.0,161.0,118.0,05000US51107,51,107,S,Owner,N/A,95.1% AMI and above,All
+"Loudoun County, Virginia",0.0,161.0,119.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,White
+"Loudoun County, Virginia",0.0,161.0,120.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,Black
+"Loudoun County, Virginia",0.0,161.0,121.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,Asian
+"Loudoun County, Virginia",0.0,161.0,122.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",0.0,161.0,123.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,124.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",0.0,161.0,125.0,05000US51107,51,107,D,Owner,N/A,95.1% AMI and above,Other
+"Loudoun County, Virginia",14115.0,992.0,126.0,05000US51107,51,107,S,Renter,All,All,All
+"Loudoun County, Virginia",2365.0,527.0,127.0,05000US51107,51,107,S,Renter,Yes,All,All
+"Loudoun County, Virginia",1145.0,381.0,128.0,05000US51107,51,107,S,Renter,Yes,30% AMI or less,All
+"Loudoun County, Virginia",655.0,284.0,129.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,White
+"Loudoun County, Virginia",230.0,164.0,130.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,Black
+"Loudoun County, Virginia",100.0,119.0,131.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,132.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,133.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",160.0,140.0,134.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,Hispanic
+"Loudoun County, Virginia",0.0,161.0,135.0,05000US51107,51,107,D,Renter,Yes,30% AMI or less,Other
+"Loudoun County, Virginia",985.0,332.0,136.0,05000US51107,51,107,S,Renter,Yes,30.1-50% AMI,All
+"Loudoun County, Virginia",490.0,180.0,137.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,White
+"Loudoun County, Virginia",270.0,196.0,138.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,Black
+"Loudoun County, Virginia",25.0,41.0,139.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,140.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,141.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",185.0,164.0,142.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",15.0,30.0,143.0,05000US51107,51,107,D,Renter,Yes,30.1-50% AMI,Other
+"Loudoun County, Virginia",160.0,93.0,144.0,05000US51107,51,107,S,Renter,Yes,50.1-80% AMI,All
+"Loudoun County, Virginia",150.0,91.0,145.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,White
+"Loudoun County, Virginia",0.0,161.0,146.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,Black
+"Loudoun County, Virginia",15.0,25.0,147.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,148.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,149.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,150.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,151.0,05000US51107,51,107,D,Renter,Yes,50.1-80% AMI,Other
+"Loudoun County, Virginia",30.0,37.0,152.0,05000US51107,51,107,S,Renter,Yes,80.1-95% AMI,All
+"Loudoun County, Virginia",30.0,37.0,153.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,White
+"Loudoun County, Virginia",0.0,161.0,154.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,155.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,156.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,157.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,158.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,159.0,05000US51107,51,107,D,Renter,Yes,80.1-95% AMI,Other
+"Loudoun County, Virginia",45.0,50.0,160.0,05000US51107,51,107,S,Renter,Yes,95.1% AMI and above,All
+"Loudoun County, Virginia",45.0,50.0,161.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,White
+"Loudoun County, Virginia",0.0,161.0,162.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,Black
+"Loudoun County, Virginia",0.0,161.0,163.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,Asian
+"Loudoun County, Virginia",0.0,161.0,164.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",0.0,161.0,165.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,166.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",0.0,161.0,167.0,05000US51107,51,107,D,Renter,Yes,95.1% AMI and above,Other
+"Loudoun County, Virginia",10620.0,882.0,168.0,05000US51107,51,107,S,Renter,No,All,All
+"Loudoun County, Virginia",505.0,206.0,169.0,05000US51107,51,107,S,Renter,No,30% AMI or less,All
+"Loudoun County, Virginia",325.0,168.0,170.0,05000US51107,51,107,D,Renter,No,30% AMI or less,White
+"Loudoun County, Virginia",110.0,108.0,171.0,05000US51107,51,107,D,Renter,No,30% AMI or less,Black
+"Loudoun County, Virginia",20.0,36.0,172.0,05000US51107,51,107,D,Renter,No,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,173.0,05000US51107,51,107,D,Renter,No,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,174.0,05000US51107,51,107,D,Renter,No,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,175.0,05000US51107,51,107,D,Renter,No,30% AMI or less,Hispanic
+"Loudoun County, Virginia",50.0,75.0,176.0,05000US51107,51,107,D,Renter,No,30% AMI or less,Other
+"Loudoun County, Virginia",1050.0,300.0,177.0,05000US51107,51,107,S,Renter,No,30.1-50% AMI,All
+"Loudoun County, Virginia",560.0,196.0,178.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,White
+"Loudoun County, Virginia",295.0,187.0,179.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,Black
+"Loudoun County, Virginia",30.0,38.0,180.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,181.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,182.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",145.0,158.0,183.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",15.0,32.0,184.0,05000US51107,51,107,D,Renter,No,30.1-50% AMI,Other
+"Loudoun County, Virginia",2925.0,513.0,185.0,05000US51107,51,107,S,Renter,No,50.1-80% AMI,All
+"Loudoun County, Virginia",1870.0,424.0,186.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,White
+"Loudoun County, Virginia",410.0,172.0,187.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,Black
+"Loudoun County, Virginia",115.0,71.0,188.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,189.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,190.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",455.0,214.0,191.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",75.0,94.0,192.0,05000US51107,51,107,D,Renter,No,50.1-80% AMI,Other
+"Loudoun County, Virginia",1310.0,338.0,193.0,05000US51107,51,107,S,Renter,No,80.1-95% AMI,All
+"Loudoun County, Virginia",905.0,270.0,194.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,White
+"Loudoun County, Virginia",145.0,144.0,195.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,Black
+"Loudoun County, Virginia",120.0,108.0,196.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,197.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,198.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",85.0,93.0,199.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",60.0,51.0,200.0,05000US51107,51,107,D,Renter,No,80.1-95% AMI,Other
+"Loudoun County, Virginia",4830.0,604.0,201.0,05000US51107,51,107,S,Renter,No,95.1% AMI and above,All
+"Loudoun County, Virginia",3845.0,564.0,202.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,White
+"Loudoun County, Virginia",355.0,189.0,203.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,Black
+"Loudoun County, Virginia",385.0,145.0,204.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,Asian
+"Loudoun County, Virginia",0.0,161.0,205.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",0.0,161.0,206.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",190.0,170.0,207.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",50.0,42.0,208.0,05000US51107,51,107,D,Renter,No,95.1% AMI and above,Other
+"Loudoun County, Virginia",1130.0,391.0,209.0,05000US51107,51,107,S,Renter,N/A,All,All
+"Loudoun County, Virginia",570.0,354.0,210.0,05000US51107,51,107,S,Renter,N/A,30% AMI or less,All
+"Loudoun County, Virginia",415.0,294.0,211.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,White
+"Loudoun County, Virginia",65.0,89.0,212.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,Black
+"Loudoun County, Virginia",15.0,24.0,213.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,Asian
+"Loudoun County, Virginia",0.0,161.0,214.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,American Indian
+"Loudoun County, Virginia",0.0,161.0,215.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,Pacific Islander
+"Loudoun County, Virginia",75.0,100.0,216.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,Hispanic
+"Loudoun County, Virginia",0.0,161.0,217.0,05000US51107,51,107,D,Renter,N/A,30% AMI or less,Other
+"Loudoun County, Virginia",135.0,83.0,218.0,05000US51107,51,107,S,Renter,N/A,30.1-50% AMI,All
+"Loudoun County, Virginia",105.0,76.0,219.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,White
+"Loudoun County, Virginia",15.0,24.0,220.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,221.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,222.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,223.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,Pacific Islander
+"Loudoun County, Virginia",15.0,24.0,224.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,225.0,05000US51107,51,107,D,Renter,N/A,30.1-50% AMI,Other
+"Loudoun County, Virginia",145.0,88.0,226.0,05000US51107,51,107,S,Renter,N/A,50.1-80% AMI,All
+"Loudoun County, Virginia",85.0,64.0,227.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,White
+"Loudoun County, Virginia",45.0,56.0,228.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,229.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,230.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,231.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,Pacific Islander
+"Loudoun County, Virginia",20.0,32.0,232.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,233.0,05000US51107,51,107,D,Renter,N/A,50.1-80% AMI,Other
+"Loudoun County, Virginia",30.0,36.0,234.0,05000US51107,51,107,S,Renter,N/A,80.1-95% AMI,All
+"Loudoun County, Virginia",30.0,36.0,235.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,White
+"Loudoun County, Virginia",0.0,161.0,236.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,Black
+"Loudoun County, Virginia",0.0,161.0,237.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,Asian
+"Loudoun County, Virginia",0.0,161.0,238.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,American Indian
+"Loudoun County, Virginia",0.0,161.0,239.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,240.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,Hispanic
+"Loudoun County, Virginia",0.0,161.0,241.0,05000US51107,51,107,D,Renter,N/A,80.1-95% AMI,Other
+"Loudoun County, Virginia",250.0,181.0,242.0,05000US51107,51,107,S,Renter,N/A,95.1% AMI and above,All
+"Loudoun County, Virginia",210.0,174.0,243.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,White
+"Loudoun County, Virginia",0.0,161.0,244.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,Black
+"Loudoun County, Virginia",40.0,63.0,245.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,Asian
+"Loudoun County, Virginia",0.0,161.0,246.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,American Indian
+"Loudoun County, Virginia",0.0,161.0,247.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,Pacific Islander
+"Loudoun County, Virginia",0.0,161.0,248.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,Hispanic
+"Loudoun County, Virginia",0.0,161.0,249.0,05000US51107,51,107,D,Renter,N/A,95.1% AMI and above,Other

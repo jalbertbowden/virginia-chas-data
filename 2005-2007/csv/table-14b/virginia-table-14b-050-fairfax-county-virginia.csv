@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Fairfax County, Virginia",7520.0,1348.0,1.0,05000US51059,51,059,T,All,All,All
+"Fairfax County, Virginia",110.0,134.0,2.0,05000US51059,51,059,S,Substandard,All,All
+"Fairfax County, Virginia",7410.0,1367.0,3.0,05000US51059,51,059,S,Standard,All,All
+"Fairfax County, Virginia",220.0,193.0,4.0,05000US51059,51,059,S,Standard,RHUD30,All
+"Fairfax County, Virginia",130.0,153.0,5.0,05000US51059,51,059,D,Standard,RHUD30,0 or 1
+"Fairfax County, Virginia",90.0,120.0,6.0,05000US51059,51,059,D,Standard,RHUD30,2
+"Fairfax County, Virginia",0.0,161.0,7.0,05000US51059,51,059,D,Standard,RHUD30,3 or more
+"Fairfax County, Virginia",750.0,390.0,8.0,05000US51059,51,059,S,Standard,RHUD50,All
+"Fairfax County, Virginia",320.0,217.0,9.0,05000US51059,51,059,D,Standard,RHUD50,0 or 1
+"Fairfax County, Virginia",305.0,225.0,10.0,05000US51059,51,059,D,Standard,RHUD50,2
+"Fairfax County, Virginia",125.0,146.0,11.0,05000US51059,51,059,D,Standard,RHUD50,3 or more
+"Fairfax County, Virginia",5075.0,1096.0,12.0,05000US51059,51,059,S,Standard,RHUD80,All
+"Fairfax County, Virginia",1320.0,494.0,13.0,05000US51059,51,059,D,Standard,RHUD80,0 or 1
+"Fairfax County, Virginia",2750.0,858.0,14.0,05000US51059,51,059,D,Standard,RHUD80,2
+"Fairfax County, Virginia",1005.0,390.0,15.0,05000US51059,51,059,D,Standard,RHUD80,3 or more
+"Fairfax County, Virginia",1365.0,504.0,16.0,05000US51059,51,059,S,Standard,Greater than RHUD80,All
+"Fairfax County, Virginia",545.0,288.0,17.0,05000US51059,51,059,D,Standard,Greater than RHUD80,0 or 1
+"Fairfax County, Virginia",645.0,395.0,18.0,05000US51059,51,059,D,Standard,Greater than RHUD80,2
+"Fairfax County, Virginia",175.0,168.0,19.0,05000US51059,51,059,D,Standard,Greater than RHUD80,3 or more

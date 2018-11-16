@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Elderly_Status
+"Norfolk city, Virginia",85130.0,861.0,1.0,05000US51710,51,710,T,All,All,All,All
+"Norfolk city, Virginia",40005.0,1037.0,2.0,05000US51710,51,710,S,Owner,All,All,All
+"Norfolk city, Virginia",13810.0,1036.0,3.0,05000US51710,51,710,S,Owner,yes,All,All
+"Norfolk city, Virginia",2500.0,409.0,4.0,05000US51710,51,710,S,Owner,yes,30% AMI or less,All
+"Norfolk city, Virginia",595.0,187.0,5.0,05000US51710,51,710,D,Owner,yes,30% AMI or less,Elderly
+"Norfolk city, Virginia",645.0,193.0,6.0,05000US51710,51,710,D,Owner,yes,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",1260.0,303.0,7.0,05000US51710,51,710,D,Owner,yes,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",2525.0,394.0,8.0,05000US51710,51,710,S,Owner,yes,30.1-50% AMI,All
+"Norfolk city, Virginia",520.0,178.0,9.0,05000US51710,51,710,D,Owner,yes,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",770.0,192.0,10.0,05000US51710,51,710,D,Owner,yes,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",1235.0,329.0,11.0,05000US51710,51,710,D,Owner,yes,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",3880.0,528.0,12.0,05000US51710,51,710,S,Owner,yes,50.1-80% AMI,All
+"Norfolk city, Virginia",650.0,217.0,13.0,05000US51710,51,710,D,Owner,yes,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",335.0,144.0,14.0,05000US51710,51,710,D,Owner,yes,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",2895.0,471.0,15.0,05000US51710,51,710,D,Owner,yes,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",1285.0,337.0,16.0,05000US51710,51,710,S,Owner,yes,80.1-95% AMI,All
+"Norfolk city, Virginia",160.0,91.0,17.0,05000US51710,51,710,D,Owner,yes,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",20.0,36.0,18.0,05000US51710,51,710,D,Owner,yes,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",1105.0,289.0,19.0,05000US51710,51,710,D,Owner,yes,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",3620.0,554.0,20.0,05000US51710,51,710,S,Owner,yes,95.1% AMI and above,All
+"Norfolk city, Virginia",535.0,160.0,21.0,05000US51710,51,710,D,Owner,yes,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",185.0,121.0,22.0,05000US51710,51,710,D,Owner,yes,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",2905.0,546.0,23.0,05000US51710,51,710,D,Owner,yes,95.1% AMI and above,Non-elderly
+"Norfolk city, Virginia",25975.0,949.0,24.0,05000US51710,51,710,S,Owner,no,All,All
+"Norfolk city, Virginia",330.0,140.0,25.0,05000US51710,51,710,S,Owner,no,30% AMI or less,All
+"Norfolk city, Virginia",125.0,74.0,26.0,05000US51710,51,710,D,Owner,no,30% AMI or less,Elderly
+"Norfolk city, Virginia",155.0,96.0,27.0,05000US51710,51,710,D,Owner,no,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",50.0,48.0,28.0,05000US51710,51,710,D,Owner,no,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",750.0,172.0,29.0,05000US51710,51,710,S,Owner,no,30.1-50% AMI,All
+"Norfolk city, Virginia",255.0,90.0,30.0,05000US51710,51,710,D,Owner,no,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",415.0,151.0,31.0,05000US51710,51,710,D,Owner,no,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",80.0,78.0,32.0,05000US51710,51,710,D,Owner,no,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",3285.0,406.0,33.0,05000US51710,51,710,S,Owner,no,50.1-80% AMI,All
+"Norfolk city, Virginia",765.0,192.0,34.0,05000US51710,51,710,D,Owner,no,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",1280.0,254.0,35.0,05000US51710,51,710,D,Owner,no,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",1235.0,272.0,36.0,05000US51710,51,710,D,Owner,no,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",2275.0,325.0,37.0,05000US51710,51,710,S,Owner,no,80.1-95% AMI,All
+"Norfolk city, Virginia",480.0,150.0,38.0,05000US51710,51,710,D,Owner,no,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",710.0,191.0,39.0,05000US51710,51,710,D,Owner,no,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",1085.0,234.0,40.0,05000US51710,51,710,D,Owner,no,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",19330.0,974.0,41.0,05000US51710,51,710,S,Owner,no,95.1% AMI and above,All
+"Norfolk city, Virginia",2880.0,335.0,42.0,05000US51710,51,710,D,Owner,no,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",2510.0,360.0,43.0,05000US51710,51,710,D,Owner,no,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",13940.0,870.0,44.0,05000US51710,51,710,D,Owner,no,95.1% AMI and above,Non-elderly
+"Norfolk city, Virginia",220.0,140.0,45.0,05000US51710,51,710,S,Owner,N/A,All,All
+"Norfolk city, Virginia",220.0,140.0,46.0,05000US51710,51,710,S,Owner,N/A,30% AMI or less,All
+"Norfolk city, Virginia",35.0,36.0,47.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Elderly
+"Norfolk city, Virginia",35.0,39.0,48.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",150.0,121.0,49.0,05000US51710,51,710,D,Owner,N/A,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",0.0,161.0,50.0,05000US51710,51,710,S,Owner,N/A,30.1-50% AMI,All
+"Norfolk city, Virginia",0.0,161.0,51.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",0.0,161.0,52.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",0.0,161.0,53.0,05000US51710,51,710,D,Owner,N/A,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",0.0,161.0,54.0,05000US51710,51,710,S,Owner,N/A,50.1-80% AMI,All
+"Norfolk city, Virginia",0.0,161.0,55.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",0.0,161.0,56.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",0.0,161.0,57.0,05000US51710,51,710,D,Owner,N/A,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",0.0,161.0,58.0,05000US51710,51,710,S,Owner,N/A,80.1-95% AMI,All
+"Norfolk city, Virginia",0.0,161.0,59.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",0.0,161.0,60.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",0.0,161.0,61.0,05000US51710,51,710,D,Owner,N/A,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",0.0,161.0,62.0,05000US51710,51,710,S,Owner,N/A,95.1% AMI and above,All
+"Norfolk city, Virginia",0.0,161.0,63.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",0.0,161.0,64.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",0.0,161.0,65.0,05000US51710,51,710,D,Owner,N/A,95.1% AMI and above,Non-elderly
+"Norfolk city, Virginia",45125.0,1197.0,66.0,05000US51710,51,710,S,Renter,All,All,All
+"Norfolk city, Virginia",21790.0,1045.0,67.0,05000US51710,51,710,S,Renter,Yes,All,All
+"Norfolk city, Virginia",8205.0,771.0,68.0,05000US51710,51,710,S,Renter,Yes,30% AMI or less,All
+"Norfolk city, Virginia",850.0,245.0,69.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Elderly
+"Norfolk city, Virginia",630.0,162.0,70.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",6725.0,690.0,71.0,05000US51710,51,710,D,Renter,Yes,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",7100.0,845.0,72.0,05000US51710,51,710,S,Renter,Yes,30.1-50% AMI,All
+"Norfolk city, Virginia",440.0,158.0,73.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",305.0,118.0,74.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",6360.0,823.0,75.0,05000US51710,51,710,D,Renter,Yes,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",5190.0,654.0,76.0,05000US51710,51,710,S,Renter,Yes,50.1-80% AMI,All
+"Norfolk city, Virginia",390.0,188.0,77.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",295.0,168.0,78.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",4505.0,589.0,79.0,05000US51710,51,710,D,Renter,Yes,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",505.0,222.0,80.0,05000US51710,51,710,S,Renter,Yes,80.1-95% AMI,All
+"Norfolk city, Virginia",50.0,48.0,81.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",40.0,45.0,82.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",420.0,206.0,83.0,05000US51710,51,710,D,Renter,Yes,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",790.0,268.0,84.0,05000US51710,51,710,S,Renter,Yes,95.1% AMI and above,All
+"Norfolk city, Virginia",15.0,25.0,85.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",60.0,59.0,86.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",710.0,261.0,87.0,05000US51710,51,710,D,Renter,Yes,95.1% AMI and above,Non-elderly
+"Norfolk city, Virginia",21185.0,1293.0,88.0,05000US51710,51,710,S,Renter,No,All,All
+"Norfolk city, Virginia",2270.0,439.0,89.0,05000US51710,51,710,S,Renter,No,30% AMI or less,All
+"Norfolk city, Virginia",480.0,144.0,90.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Elderly
+"Norfolk city, Virginia",290.0,118.0,91.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",1500.0,422.0,92.0,05000US51710,51,710,D,Renter,No,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",955.0,292.0,93.0,05000US51710,51,710,S,Renter,No,30.1-50% AMI,All
+"Norfolk city, Virginia",125.0,84.0,94.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",50.0,49.0,95.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",775.0,275.0,96.0,05000US51710,51,710,D,Renter,No,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",5780.0,623.0,97.0,05000US51710,51,710,S,Renter,No,50.1-80% AMI,All
+"Norfolk city, Virginia",370.0,166.0,98.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",155.0,81.0,99.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",5255.0,579.0,100.0,05000US51710,51,710,D,Renter,No,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",2990.0,590.0,101.0,05000US51710,51,710,S,Renter,No,80.1-95% AMI,All
+"Norfolk city, Virginia",95.0,93.0,102.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",50.0,58.0,103.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",2845.0,577.0,104.0,05000US51710,51,710,D,Renter,No,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",9190.0,957.0,105.0,05000US51710,51,710,S,Renter,No,95.1% AMI and above,All
+"Norfolk city, Virginia",675.0,212.0,106.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",220.0,113.0,107.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",8290.0,871.0,108.0,05000US51710,51,710,D,Renter,No,95.1% AMI and above,Non-elderly
+"Norfolk city, Virginia",2150.0,471.0,109.0,05000US51710,51,710,S,Renter,N/A,All,All
+"Norfolk city, Virginia",1280.0,400.0,110.0,05000US51710,51,710,S,Renter,N/A,30% AMI or less,All
+"Norfolk city, Virginia",15.0,27.0,111.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Elderly
+"Norfolk city, Virginia",140.0,85.0,112.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Extra-elderly
+"Norfolk city, Virginia",1125.0,386.0,113.0,05000US51710,51,710,D,Renter,N/A,30% AMI or less,Non-elderly
+"Norfolk city, Virginia",185.0,103.0,114.0,05000US51710,51,710,S,Renter,N/A,30.1-50% AMI,All
+"Norfolk city, Virginia",25.0,46.0,115.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Elderly
+"Norfolk city, Virginia",35.0,42.0,116.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Extra-elderly
+"Norfolk city, Virginia",125.0,77.0,117.0,05000US51710,51,710,D,Renter,N/A,30.1-50% AMI,Non-elderly
+"Norfolk city, Virginia",360.0,207.0,118.0,05000US51710,51,710,S,Renter,N/A,50.1-80% AMI,All
+"Norfolk city, Virginia",85.0,113.0,119.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Elderly
+"Norfolk city, Virginia",15.0,29.0,120.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Extra-elderly
+"Norfolk city, Virginia",260.0,151.0,121.0,05000US51710,51,710,D,Renter,N/A,50.1-80% AMI,Non-elderly
+"Norfolk city, Virginia",60.0,70.0,122.0,05000US51710,51,710,S,Renter,N/A,80.1-95% AMI,All
+"Norfolk city, Virginia",0.0,161.0,123.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Elderly
+"Norfolk city, Virginia",0.0,161.0,124.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Extra-elderly
+"Norfolk city, Virginia",60.0,70.0,125.0,05000US51710,51,710,D,Renter,N/A,80.1-95% AMI,Non-elderly
+"Norfolk city, Virginia",260.0,140.0,126.0,05000US51710,51,710,S,Renter,N/A,95.1% AMI and above,All
+"Norfolk city, Virginia",0.0,161.0,127.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Elderly
+"Norfolk city, Virginia",0.0,161.0,128.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Extra-elderly
+"Norfolk city, Virginia",260.0,140.0,129.0,05000US51710,51,710,D,Renter,N/A,95.1% AMI and above,Non-elderly

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Tazewell County, Virginia",605.0,275.0,1.0,05000US51185,51,185,T,All,All,All
+"Tazewell County, Virginia",120.0,145.0,2.0,05000US51185,51,185,S,Substandard,All,All
+"Tazewell County, Virginia",480.0,233.0,3.0,05000US51185,51,185,S,Standard,All,All
+"Tazewell County, Virginia",160.0,144.0,4.0,05000US51185,51,185,S,Standard,RHUD30,All
+"Tazewell County, Virginia",25.0,41.0,5.0,05000US51185,51,185,D,Standard,RHUD30,0 or 1
+"Tazewell County, Virginia",135.0,142.0,6.0,05000US51185,51,185,D,Standard,RHUD30,2
+"Tazewell County, Virginia",0.0,161.0,7.0,05000US51185,51,185,D,Standard,RHUD30,3 or more
+"Tazewell County, Virginia",280.0,190.0,8.0,05000US51185,51,185,S,Standard,RHUD50,All
+"Tazewell County, Virginia",0.0,161.0,9.0,05000US51185,51,185,D,Standard,RHUD50,0 or 1
+"Tazewell County, Virginia",220.0,163.0,10.0,05000US51185,51,185,D,Standard,RHUD50,2
+"Tazewell County, Virginia",60.0,101.0,11.0,05000US51185,51,185,D,Standard,RHUD50,3 or more
+"Tazewell County, Virginia",45.0,51.0,12.0,05000US51185,51,185,S,Standard,RHUD80,All
+"Tazewell County, Virginia",10.0,15.0,13.0,05000US51185,51,185,D,Standard,RHUD80,0 or 1
+"Tazewell County, Virginia",35.0,46.0,14.0,05000US51185,51,185,D,Standard,RHUD80,2
+"Tazewell County, Virginia",0.0,161.0,15.0,05000US51185,51,185,D,Standard,RHUD80,3 or more
+"Tazewell County, Virginia",0.0,161.0,16.0,05000US51185,51,185,S,Standard,Greater than RHUD80,All
+"Tazewell County, Virginia",0.0,161.0,17.0,05000US51185,51,185,D,Standard,Greater than RHUD80,0 or 1
+"Tazewell County, Virginia",0.0,161.0,18.0,05000US51185,51,185,D,Standard,Greater than RHUD80,2
+"Tazewell County, Virginia",0.0,161.0,19.0,05000US51185,51,185,D,Standard,Greater than RHUD80,3 or more

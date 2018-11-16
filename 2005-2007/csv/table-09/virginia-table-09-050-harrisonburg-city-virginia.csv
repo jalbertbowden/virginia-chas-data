@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Harrisonburg city, Virginia",13920.0,452.0,1.0,05000US51660,51,660,T,All,All,All
+"Harrisonburg city, Virginia",5460.0,439.0,2.0,05000US51660,51,660,S,Owner,All,All
+"Harrisonburg city, Virginia",4920.0,355.0,3.0,05000US51660,51,660,S,Owner,White,All
+"Harrisonburg city, Virginia",4030.0,329.0,4.0,05000US51660,51,660,D,Owner,White,No cost burden
+"Harrisonburg city, Virginia",650.0,194.0,5.0,05000US51660,51,660,D,Owner,White,Moderate cost burden
+"Harrisonburg city, Virginia",240.0,154.0,6.0,05000US51660,51,660,D,Owner,White,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,7.0,05000US51660,51,660,D,Owner,White,N/A
+"Harrisonburg city, Virginia",185.0,196.0,8.0,05000US51660,51,660,S,Owner,Black,All
+"Harrisonburg city, Virginia",185.0,196.0,9.0,05000US51660,51,660,D,Owner,Black,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,10.0,05000US51660,51,660,D,Owner,Black,Moderate cost burden
+"Harrisonburg city, Virginia",0.0,161.0,11.0,05000US51660,51,660,D,Owner,Black,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,12.0,05000US51660,51,660,D,Owner,Black,N/A
+"Harrisonburg city, Virginia",70.0,86.0,13.0,05000US51660,51,660,S,Owner,Asian,All
+"Harrisonburg city, Virginia",40.0,66.0,14.0,05000US51660,51,660,D,Owner,Asian,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,15.0,05000US51660,51,660,D,Owner,Asian,Moderate cost burden
+"Harrisonburg city, Virginia",30.0,60.0,16.0,05000US51660,51,660,D,Owner,Asian,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,17.0,05000US51660,51,660,D,Owner,Asian,N/A
+"Harrisonburg city, Virginia",0.0,161.0,18.0,05000US51660,51,660,S,Owner,American Indian,All
+"Harrisonburg city, Virginia",0.0,161.0,19.0,05000US51660,51,660,D,Owner,American Indian,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,20.0,05000US51660,51,660,D,Owner,American Indian,Moderate cost burden
+"Harrisonburg city, Virginia",0.0,161.0,21.0,05000US51660,51,660,D,Owner,American Indian,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,22.0,05000US51660,51,660,D,Owner,American Indian,N/A
+"Harrisonburg city, Virginia",0.0,161.0,23.0,05000US51660,51,660,S,Owner,Pacific Islander,All
+"Harrisonburg city, Virginia",0.0,161.0,24.0,05000US51660,51,660,D,Owner,Pacific Islander,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,25.0,05000US51660,51,660,D,Owner,Pacific Islander,Moderate cost burden
+"Harrisonburg city, Virginia",0.0,161.0,26.0,05000US51660,51,660,D,Owner,Pacific Islander,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,27.0,05000US51660,51,660,D,Owner,Pacific Islander,N/A
+"Harrisonburg city, Virginia",220.0,137.0,28.0,05000US51660,51,660,S,Owner,Hispanic,All
+"Harrisonburg city, Virginia",175.0,108.0,29.0,05000US51660,51,660,D,Owner,Hispanic,No cost burden
+"Harrisonburg city, Virginia",25.0,54.0,30.0,05000US51660,51,660,D,Owner,Hispanic,Moderate cost burden
+"Harrisonburg city, Virginia",20.0,38.0,31.0,05000US51660,51,660,D,Owner,Hispanic,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,32.0,05000US51660,51,660,D,Owner,Hispanic,N/A
+"Harrisonburg city, Virginia",65.0,90.0,33.0,05000US51660,51,660,S,Owner,Other,All
+"Harrisonburg city, Virginia",65.0,90.0,34.0,05000US51660,51,660,D,Owner,Other,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,35.0,05000US51660,51,660,D,Owner,Other,Moderate cost burden
+"Harrisonburg city, Virginia",0.0,161.0,36.0,05000US51660,51,660,D,Owner,Other,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,37.0,05000US51660,51,660,D,Owner,Other,N/A
+"Harrisonburg city, Virginia",8460.0,630.0,38.0,05000US51660,51,660,S,Renter,All,All
+"Harrisonburg city, Virginia",5615.0,592.0,39.0,05000US51660,51,660,S,Renter,White,All
+"Harrisonburg city, Virginia",2580.0,436.0,40.0,05000US51660,51,660,D,Renter,White,No cost burden
+"Harrisonburg city, Virginia",880.0,242.0,41.0,05000US51660,51,660,D,Renter,White,Moderate cost burden
+"Harrisonburg city, Virginia",1935.0,369.0,42.0,05000US51660,51,660,D,Renter,White,Severe cost burden
+"Harrisonburg city, Virginia",220.0,133.0,43.0,05000US51660,51,660,D,Renter,White,N/A
+"Harrisonburg city, Virginia",700.0,289.0,44.0,05000US51660,51,660,S,Renter,Black,All
+"Harrisonburg city, Virginia",245.0,199.0,45.0,05000US51660,51,660,D,Renter,Black,No cost burden
+"Harrisonburg city, Virginia",160.0,150.0,46.0,05000US51660,51,660,D,Renter,Black,Moderate cost burden
+"Harrisonburg city, Virginia",300.0,214.0,47.0,05000US51660,51,660,D,Renter,Black,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,48.0,05000US51660,51,660,D,Renter,Black,N/A
+"Harrisonburg city, Virginia",420.0,224.0,49.0,05000US51660,51,660,S,Renter,Asian,All
+"Harrisonburg city, Virginia",155.0,151.0,50.0,05000US51660,51,660,D,Renter,Asian,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,51.0,05000US51660,51,660,D,Renter,Asian,Moderate cost burden
+"Harrisonburg city, Virginia",265.0,193.0,52.0,05000US51660,51,660,D,Renter,Asian,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,53.0,05000US51660,51,660,D,Renter,Asian,N/A
+"Harrisonburg city, Virginia",0.0,161.0,54.0,05000US51660,51,660,S,Renter,American Indian,All
+"Harrisonburg city, Virginia",0.0,161.0,55.0,05000US51660,51,660,D,Renter,American Indian,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,56.0,05000US51660,51,660,D,Renter,American Indian,Moderate cost burden
+"Harrisonburg city, Virginia",0.0,161.0,57.0,05000US51660,51,660,D,Renter,American Indian,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,58.0,05000US51660,51,660,D,Renter,American Indian,N/A
+"Harrisonburg city, Virginia",90.0,106.0,59.0,05000US51660,51,660,S,Renter,Pacific Islander,All
+"Harrisonburg city, Virginia",65.0,99.0,60.0,05000US51660,51,660,D,Renter,Pacific Islander,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,61.0,05000US51660,51,660,D,Renter,Pacific Islander,Moderate cost burden
+"Harrisonburg city, Virginia",25.0,44.0,62.0,05000US51660,51,660,D,Renter,Pacific Islander,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,63.0,05000US51660,51,660,D,Renter,Pacific Islander,N/A
+"Harrisonburg city, Virginia",1460.0,249.0,64.0,05000US51660,51,660,S,Renter,Hispanic,All
+"Harrisonburg city, Virginia",1120.0,346.0,65.0,05000US51660,51,660,D,Renter,Hispanic,No cost burden
+"Harrisonburg city, Virginia",185.0,163.0,66.0,05000US51660,51,660,D,Renter,Hispanic,Moderate cost burden
+"Harrisonburg city, Virginia",150.0,177.0,67.0,05000US51660,51,660,D,Renter,Hispanic,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,68.0,05000US51660,51,660,D,Renter,Hispanic,N/A
+"Harrisonburg city, Virginia",175.0,176.0,69.0,05000US51660,51,660,S,Renter,Other,All
+"Harrisonburg city, Virginia",80.0,127.0,70.0,05000US51660,51,660,D,Renter,Other,No cost burden
+"Harrisonburg city, Virginia",0.0,161.0,71.0,05000US51660,51,660,D,Renter,Other,Moderate cost burden
+"Harrisonburg city, Virginia",95.0,108.0,72.0,05000US51660,51,660,D,Renter,Other,Severe cost burden
+"Harrisonburg city, Virginia",0.0,161.0,73.0,05000US51660,51,660,D,Renter,Other,N/A

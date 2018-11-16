@@ -1,0 +1,34 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Young_Children
+"Washington County, Virginia",22135.0,557.0,1.0,05000US51191,51,191,T,All,All,All
+"Washington County, Virginia",16715.0,653.0,2.0,05000US51191,51,191,S,Owner,All,All
+"Washington County, Virginia",1565.0,320.0,3.0,05000US51191,51,191,S,Owner,2000+,All
+"Washington County, Virginia",365.0,180.0,4.0,05000US51191,51,191,D,Owner,2000+,Yes
+"Washington County, Virginia",1200.0,273.0,5.0,05000US51191,51,191,D,Owner,2000+,No
+"Washington County, Virginia",6615.0,643.0,6.0,05000US51191,51,191,S,Owner,1980 to 1999,All
+"Washington County, Virginia",1390.0,390.0,7.0,05000US51191,51,191,D,Owner,1980 to 1999,Yes
+"Washington County, Virginia",5225.0,593.0,8.0,05000US51191,51,191,D,Owner,1980 to 1999,No
+"Washington County, Virginia",4865.0,491.0,9.0,05000US51191,51,191,S,Owner,1960 to 1979,All
+"Washington County, Virginia",325.0,163.0,10.0,05000US51191,51,191,D,Owner,1960 to 1979,Yes
+"Washington County, Virginia",4540.0,488.0,11.0,05000US51191,51,191,D,Owner,1960 to 1979,No
+"Washington County, Virginia",2180.0,393.0,12.0,05000US51191,51,191,S,Owner,1940 to 1959,All
+"Washington County, Virginia",85.0,75.0,13.0,05000US51191,51,191,D,Owner,1940 to 1959,Yes
+"Washington County, Virginia",2095.0,386.0,14.0,05000US51191,51,191,D,Owner,1940 to 1959,No
+"Washington County, Virginia",1490.0,319.0,15.0,05000US51191,51,191,S,Owner,1939-,All
+"Washington County, Virginia",70.0,67.0,16.0,05000US51191,51,191,D,Owner,1939-,Yes
+"Washington County, Virginia",1420.0,304.0,17.0,05000US51191,51,191,D,Owner,1939-,No
+"Washington County, Virginia",5420.0,677.0,18.0,05000US51191,51,191,S,Renter,All,All
+"Washington County, Virginia",260.0,153.0,19.0,05000US51191,51,191,S,Renter,2000+,All
+"Washington County, Virginia",45.0,53.0,20.0,05000US51191,51,191,D,Renter,2000+,Yes
+"Washington County, Virginia",215.0,148.0,21.0,05000US51191,51,191,D,Renter,2000+,No
+"Washington County, Virginia",1810.0,444.0,22.0,05000US51191,51,191,S,Renter,1980 to 1999,All
+"Washington County, Virginia",135.0,144.0,23.0,05000US51191,51,191,D,Renter,1980 to 1999,Yes
+"Washington County, Virginia",1675.0,400.0,24.0,05000US51191,51,191,D,Renter,1980 to 1999,No
+"Washington County, Virginia",1475.0,366.0,25.0,05000US51191,51,191,S,Renter,1960 to 1979,All
+"Washington County, Virginia",300.0,195.0,26.0,05000US51191,51,191,D,Renter,1960 to 1979,Yes
+"Washington County, Virginia",1175.0,305.0,27.0,05000US51191,51,191,D,Renter,1960 to 1979,No
+"Washington County, Virginia",1045.0,404.0,28.0,05000US51191,51,191,S,Renter,1940 to 1959,All
+"Washington County, Virginia",145.0,118.0,29.0,05000US51191,51,191,D,Renter,1940 to 1959,Yes
+"Washington County, Virginia",895.0,347.0,30.0,05000US51191,51,191,D,Renter,1940 to 1959,No
+"Washington County, Virginia",835.0,298.0,31.0,05000US51191,51,191,S,Renter,1939-,All
+"Washington County, Virginia",30.0,50.0,32.0,05000US51191,51,191,D,Renter,1939-,Yes
+"Washington County, Virginia",805.0,293.0,33.0,05000US51191,51,191,D,Renter,1939-,No

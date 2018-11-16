@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Waynesboro city, Virginia",285.0,188.0,1.0,05000US51820,51,820,T,All,All,All
+"Waynesboro city, Virginia",40.0,66.0,2.0,05000US51820,51,820,S,Substandard,All,All
+"Waynesboro city, Virginia",245.0,175.0,3.0,05000US51820,51,820,S,Standard,All,All
+"Waynesboro city, Virginia",0.0,161.0,4.0,05000US51820,51,820,S,Standard,RHUD30,All
+"Waynesboro city, Virginia",0.0,161.0,5.0,05000US51820,51,820,D,Standard,RHUD30,0 or 1
+"Waynesboro city, Virginia",0.0,161.0,6.0,05000US51820,51,820,D,Standard,RHUD30,2
+"Waynesboro city, Virginia",0.0,161.0,7.0,05000US51820,51,820,D,Standard,RHUD30,3 or more
+"Waynesboro city, Virginia",245.0,175.0,8.0,05000US51820,51,820,S,Standard,RHUD50,All
+"Waynesboro city, Virginia",40.0,60.0,9.0,05000US51820,51,820,D,Standard,RHUD50,0 or 1
+"Waynesboro city, Virginia",145.0,133.0,10.0,05000US51820,51,820,D,Standard,RHUD50,2
+"Waynesboro city, Virginia",60.0,90.0,11.0,05000US51820,51,820,D,Standard,RHUD50,3 or more
+"Waynesboro city, Virginia",0.0,161.0,12.0,05000US51820,51,820,S,Standard,RHUD80,All
+"Waynesboro city, Virginia",0.0,161.0,13.0,05000US51820,51,820,D,Standard,RHUD80,0 or 1
+"Waynesboro city, Virginia",0.0,161.0,14.0,05000US51820,51,820,D,Standard,RHUD80,2
+"Waynesboro city, Virginia",0.0,161.0,15.0,05000US51820,51,820,D,Standard,RHUD80,3 or more
+"Waynesboro city, Virginia",0.0,161.0,16.0,05000US51820,51,820,S,Standard,Greater than RHUD80,All
+"Waynesboro city, Virginia",0.0,161.0,17.0,05000US51820,51,820,D,Standard,Greater than RHUD80,0 or 1
+"Waynesboro city, Virginia",0.0,161.0,18.0,05000US51820,51,820,D,Standard,Greater than RHUD80,2
+"Waynesboro city, Virginia",0.0,161.0,19.0,05000US51820,51,820,D,Standard,Greater than RHUD80,3 or more

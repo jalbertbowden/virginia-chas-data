@@ -1,0 +1,74 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Race,Cost_Burden
+"Fairfax County, Virginia",365095.0,2044.0,1.0,05000US51059,51,059,T,All,All,All
+"Fairfax County, Virginia",272625.0,2648.0,2.0,05000US51059,51,059,S,Owner,All,All
+"Fairfax County, Virginia",196885.0,1884.0,3.0,05000US51059,51,059,S,Owner,White,All
+"Fairfax County, Virginia",152545.0,1847.0,4.0,05000US51059,51,059,D,Owner,White,No cost burden
+"Fairfax County, Virginia",30540.0,1291.0,5.0,05000US51059,51,059,D,Owner,White,Moderate cost burden
+"Fairfax County, Virginia",13060.0,876.0,6.0,05000US51059,51,059,D,Owner,White,Severe cost burden
+"Fairfax County, Virginia",740.0,294.0,7.0,05000US51059,51,059,D,Owner,White,N/A
+"Fairfax County, Virginia",16925.0,1097.0,8.0,05000US51059,51,059,S,Owner,Black,All
+"Fairfax County, Virginia",9855.0,914.0,9.0,05000US51059,51,059,D,Owner,Black,No cost burden
+"Fairfax County, Virginia",4265.0,567.0,10.0,05000US51059,51,059,D,Owner,Black,Moderate cost burden
+"Fairfax County, Virginia",2745.0,534.0,11.0,05000US51059,51,059,D,Owner,Black,Severe cost burden
+"Fairfax County, Virginia",65.0,100.0,12.0,05000US51059,51,059,D,Owner,Black,N/A
+"Fairfax County, Virginia",35680.0,1148.0,13.0,05000US51059,51,059,S,Owner,Asian,All
+"Fairfax County, Virginia",19885.0,985.0,14.0,05000US51059,51,059,D,Owner,Asian,No cost burden
+"Fairfax County, Virginia",9490.0,925.0,15.0,05000US51059,51,059,D,Owner,Asian,Moderate cost burden
+"Fairfax County, Virginia",6040.0,660.0,16.0,05000US51059,51,059,D,Owner,Asian,Severe cost burden
+"Fairfax County, Virginia",265.0,200.0,17.0,05000US51059,51,059,D,Owner,Asian,N/A
+"Fairfax County, Virginia",370.0,104.0,18.0,05000US51059,51,059,S,Owner,American Indian,All
+"Fairfax County, Virginia",330.0,97.0,19.0,05000US51059,51,059,D,Owner,American Indian,No cost burden
+"Fairfax County, Virginia",25.0,29.0,20.0,05000US51059,51,059,D,Owner,American Indian,Moderate cost burden
+"Fairfax County, Virginia",20.0,24.0,21.0,05000US51059,51,059,D,Owner,American Indian,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,22.0,05000US51059,51,059,D,Owner,American Indian,N/A
+"Fairfax County, Virginia",60.0,66.0,23.0,05000US51059,51,059,S,Owner,Pacific Islander,All
+"Fairfax County, Virginia",60.0,66.0,24.0,05000US51059,51,059,D,Owner,Pacific Islander,No cost burden
+"Fairfax County, Virginia",0.0,161.0,25.0,05000US51059,51,059,D,Owner,Pacific Islander,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,26.0,05000US51059,51,059,D,Owner,Pacific Islander,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,27.0,05000US51059,51,059,D,Owner,Pacific Islander,N/A
+"Fairfax County, Virginia",20200.0,1275.0,28.0,05000US51059,51,059,S,Owner,Hispanic,All
+"Fairfax County, Virginia",9005.0,859.0,29.0,05000US51059,51,059,D,Owner,Hispanic,No cost burden
+"Fairfax County, Virginia",6100.0,702.0,30.0,05000US51059,51,059,D,Owner,Hispanic,Moderate cost burden
+"Fairfax County, Virginia",4975.0,808.0,31.0,05000US51059,51,059,D,Owner,Hispanic,Severe cost burden
+"Fairfax County, Virginia",120.0,85.0,32.0,05000US51059,51,059,D,Owner,Hispanic,N/A
+"Fairfax County, Virginia",2510.0,371.0,33.0,05000US51059,51,059,S,Owner,Other,All
+"Fairfax County, Virginia",1560.0,278.0,34.0,05000US51059,51,059,D,Owner,Other,No cost burden
+"Fairfax County, Virginia",580.0,210.0,35.0,05000US51059,51,059,D,Owner,Other,Moderate cost burden
+"Fairfax County, Virginia",365.0,187.0,36.0,05000US51059,51,059,D,Owner,Other,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,37.0,05000US51059,51,059,D,Owner,Other,N/A
+"Fairfax County, Virginia",92470.0,2867.0,38.0,05000US51059,51,059,S,Renter,All,All
+"Fairfax County, Virginia",47060.0,1967.0,39.0,05000US51059,51,059,S,Renter,White,All
+"Fairfax County, Virginia",27415.0,1474.0,40.0,05000US51059,51,059,D,Renter,White,No cost burden
+"Fairfax County, Virginia",10390.0,1072.0,41.0,05000US51059,51,059,D,Renter,White,Moderate cost burden
+"Fairfax County, Virginia",6830.0,663.0,42.0,05000US51059,51,059,D,Renter,White,Severe cost burden
+"Fairfax County, Virginia",2420.0,393.0,43.0,05000US51059,51,059,D,Renter,White,N/A
+"Fairfax County, Virginia",16060.0,1333.0,44.0,05000US51059,51,059,S,Renter,Black,All
+"Fairfax County, Virginia",8690.0,1061.0,45.0,05000US51059,51,059,D,Renter,Black,No cost burden
+"Fairfax County, Virginia",4055.0,739.0,46.0,05000US51059,51,059,D,Renter,Black,Moderate cost burden
+"Fairfax County, Virginia",2995.0,596.0,47.0,05000US51059,51,059,D,Renter,Black,Severe cost burden
+"Fairfax County, Virginia",320.0,214.0,48.0,05000US51059,51,059,D,Renter,Black,N/A
+"Fairfax County, Virginia",13150.0,1050.0,49.0,05000US51059,51,059,S,Renter,Asian,All
+"Fairfax County, Virginia",7165.0,725.0,50.0,05000US51059,51,059,D,Renter,Asian,No cost burden
+"Fairfax County, Virginia",2700.0,570.0,51.0,05000US51059,51,059,D,Renter,Asian,Moderate cost burden
+"Fairfax County, Virginia",2555.0,553.0,52.0,05000US51059,51,059,D,Renter,Asian,Severe cost burden
+"Fairfax County, Virginia",730.0,241.0,53.0,05000US51059,51,059,D,Renter,Asian,N/A
+"Fairfax County, Virginia",110.0,87.0,54.0,05000US51059,51,059,S,Renter,American Indian,All
+"Fairfax County, Virginia",55.0,46.0,55.0,05000US51059,51,059,D,Renter,American Indian,No cost burden
+"Fairfax County, Virginia",50.0,77.0,56.0,05000US51059,51,059,D,Renter,American Indian,Moderate cost burden
+"Fairfax County, Virginia",0.0,161.0,57.0,05000US51059,51,059,D,Renter,American Indian,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,58.0,05000US51059,51,059,D,Renter,American Indian,N/A
+"Fairfax County, Virginia",90.0,80.0,59.0,05000US51059,51,059,S,Renter,Pacific Islander,All
+"Fairfax County, Virginia",50.0,79.0,60.0,05000US51059,51,059,D,Renter,Pacific Islander,No cost burden
+"Fairfax County, Virginia",20.0,34.0,61.0,05000US51059,51,059,D,Renter,Pacific Islander,Moderate cost burden
+"Fairfax County, Virginia",25.0,48.0,62.0,05000US51059,51,059,D,Renter,Pacific Islander,Severe cost burden
+"Fairfax County, Virginia",0.0,161.0,63.0,05000US51059,51,059,D,Renter,Pacific Islander,N/A
+"Fairfax County, Virginia",14480.0,1266.0,64.0,05000US51059,51,059,S,Renter,Hispanic,All
+"Fairfax County, Virginia",6135.0,743.0,65.0,05000US51059,51,059,D,Renter,Hispanic,No cost burden
+"Fairfax County, Virginia",3690.0,745.0,66.0,05000US51059,51,059,D,Renter,Hispanic,Moderate cost burden
+"Fairfax County, Virginia",4150.0,906.0,67.0,05000US51059,51,059,D,Renter,Hispanic,Severe cost burden
+"Fairfax County, Virginia",500.0,229.0,68.0,05000US51059,51,059,D,Renter,Hispanic,N/A
+"Fairfax County, Virginia",1520.0,350.0,69.0,05000US51059,51,059,S,Renter,Other,All
+"Fairfax County, Virginia",625.0,203.0,70.0,05000US51059,51,059,D,Renter,Other,No cost burden
+"Fairfax County, Virginia",260.0,114.0,71.0,05000US51059,51,059,D,Renter,Other,Moderate cost burden
+"Fairfax County, Virginia",575.0,207.0,72.0,05000US51059,51,059,D,Renter,Other,Severe cost burden
+"Fairfax County, Virginia",55.0,75.0,73.0,05000US51059,51,059,D,Renter,Other,N/A

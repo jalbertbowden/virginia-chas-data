@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Henry County, Virginia",22955.0,567.0,1.0,05000US51089,51,089,T,All,All,All,All
+"Henry County, Virginia",17735.0,631.0,2.0,05000US51089,51,089,S,Owner,All,All,All
+"Henry County, Virginia",3395.0,530.0,3.0,05000US51089,51,089,S,Owner,Yes,All,All
+"Henry County, Virginia",635.0,250.0,4.0,05000US51089,51,089,S,Owner,Yes,"Family, 1 parent",All
+"Henry County, Virginia",600.0,247.0,5.0,05000US51089,51,089,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",35.0,44.0,6.0,05000US51089,51,089,D,Owner,Yes,"Family, 1 parent",5 or more
+"Henry County, Virginia",1395.0,342.0,7.0,05000US51089,51,089,S,Owner,Yes,"Family, 2 parents",All
+"Henry County, Virginia",1175.0,295.0,8.0,05000US51089,51,089,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",220.0,133.0,9.0,05000US51089,51,089,D,Owner,Yes,"Family, 2 parents",5 or more
+"Henry County, Virginia",1365.0,285.0,10.0,05000US51089,51,089,S,Owner,Yes,Non-family,All
+"Henry County, Virginia",1365.0,285.0,11.0,05000US51089,51,089,D,Owner,Yes,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,12.0,05000US51089,51,089,D,Owner,Yes,Non-family,5 or more
+"Henry County, Virginia",14290.0,700.0,13.0,05000US51089,51,089,S,Owner,No,All,All
+"Henry County, Virginia",1915.0,401.0,14.0,05000US51089,51,089,S,Owner,No,"Family, 1 parent",All
+"Henry County, Virginia",1735.0,377.0,15.0,05000US51089,51,089,D,Owner,No,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",180.0,161.0,16.0,05000US51089,51,089,D,Owner,No,"Family, 1 parent",5 or more
+"Henry County, Virginia",8725.0,658.0,17.0,05000US51089,51,089,S,Owner,No,"Family, 2 parents",All
+"Henry County, Virginia",8370.0,648.0,18.0,05000US51089,51,089,D,Owner,No,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",360.0,152.0,19.0,05000US51089,51,089,D,Owner,No,"Family, 2 parents",5 or more
+"Henry County, Virginia",3650.0,575.0,20.0,05000US51089,51,089,S,Owner,No,Non-family,All
+"Henry County, Virginia",3650.0,575.0,21.0,05000US51089,51,089,D,Owner,No,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,22.0,05000US51089,51,089,D,Owner,No,Non-family,5 or more
+"Henry County, Virginia",50.0,60.0,23.0,05000US51089,51,089,S,Owner,N/A,All,All
+"Henry County, Virginia",0.0,161.0,24.0,05000US51089,51,089,S,Owner,N/A,"Family, 1 parent",All
+"Henry County, Virginia",0.0,161.0,25.0,05000US51089,51,089,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",0.0,161.0,26.0,05000US51089,51,089,D,Owner,N/A,"Family, 1 parent",5 or more
+"Henry County, Virginia",20.0,34.0,27.0,05000US51089,51,089,S,Owner,N/A,"Family, 2 parents",All
+"Henry County, Virginia",20.0,34.0,28.0,05000US51089,51,089,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",0.0,161.0,29.0,05000US51089,51,089,D,Owner,N/A,"Family, 2 parents",5 or more
+"Henry County, Virginia",30.0,53.0,30.0,05000US51089,51,089,S,Owner,N/A,Non-family,All
+"Henry County, Virginia",30.0,53.0,31.0,05000US51089,51,089,D,Owner,N/A,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,32.0,05000US51089,51,089,D,Owner,N/A,Non-family,5 or more
+"Henry County, Virginia",5220.0,647.0,33.0,05000US51089,51,089,S,Renter,All,All,All
+"Henry County, Virginia",1830.0,408.0,34.0,05000US51089,51,089,S,Renter,Yes,All,All
+"Henry County, Virginia",740.0,301.0,35.0,05000US51089,51,089,S,Renter,Yes,"Family, 1 parent",All
+"Henry County, Virginia",480.0,215.0,36.0,05000US51089,51,089,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",260.0,204.0,37.0,05000US51089,51,089,D,Renter,Yes,"Family, 1 parent",5 or more
+"Henry County, Virginia",165.0,125.0,38.0,05000US51089,51,089,S,Renter,Yes,"Family, 2 parents",All
+"Henry County, Virginia",165.0,125.0,39.0,05000US51089,51,089,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",0.0,161.0,40.0,05000US51089,51,089,D,Renter,Yes,"Family, 2 parents",5 or more
+"Henry County, Virginia",930.0,308.0,41.0,05000US51089,51,089,S,Renter,Yes,Non-family,All
+"Henry County, Virginia",930.0,308.0,42.0,05000US51089,51,089,D,Renter,Yes,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,43.0,05000US51089,51,089,D,Renter,Yes,Non-family,5 or more
+"Henry County, Virginia",2490.0,465.0,44.0,05000US51089,51,089,S,Renter,No,All,All
+"Henry County, Virginia",875.0,273.0,45.0,05000US51089,51,089,S,Renter,No,"Family, 1 parent",All
+"Henry County, Virginia",840.0,264.0,46.0,05000US51089,51,089,D,Renter,No,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",40.0,61.0,47.0,05000US51089,51,089,D,Renter,No,"Family, 1 parent",5 or more
+"Henry County, Virginia",755.0,260.0,48.0,05000US51089,51,089,S,Renter,No,"Family, 2 parents",All
+"Henry County, Virginia",695.0,252.0,49.0,05000US51089,51,089,D,Renter,No,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",60.0,63.0,50.0,05000US51089,51,089,D,Renter,No,"Family, 2 parents",5 or more
+"Henry County, Virginia",860.0,292.0,51.0,05000US51089,51,089,S,Renter,No,Non-family,All
+"Henry County, Virginia",860.0,292.0,52.0,05000US51089,51,089,D,Renter,No,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,53.0,05000US51089,51,089,D,Renter,No,Non-family,5 or more
+"Henry County, Virginia",895.0,314.0,54.0,05000US51089,51,089,S,Renter,N/A,All,All
+"Henry County, Virginia",150.0,114.0,55.0,05000US51089,51,089,S,Renter,N/A,"Family, 1 parent",All
+"Henry County, Virginia",150.0,114.0,56.0,05000US51089,51,089,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Henry County, Virginia",0.0,161.0,57.0,05000US51089,51,089,D,Renter,N/A,"Family, 1 parent",5 or more
+"Henry County, Virginia",365.0,180.0,58.0,05000US51089,51,089,S,Renter,N/A,"Family, 2 parents",All
+"Henry County, Virginia",265.0,139.0,59.0,05000US51089,51,089,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Henry County, Virginia",100.0,120.0,60.0,05000US51089,51,089,D,Renter,N/A,"Family, 2 parents",5 or more
+"Henry County, Virginia",385.0,185.0,61.0,05000US51089,51,089,S,Renter,N/A,Non-family,All
+"Henry County, Virginia",385.0,185.0,62.0,05000US51089,51,089,D,Renter,N/A,Non-family,4 or fewer
+"Henry County, Virginia",0.0,161.0,63.0,05000US51089,51,089,D,Renter,N/A,Non-family,5 or more

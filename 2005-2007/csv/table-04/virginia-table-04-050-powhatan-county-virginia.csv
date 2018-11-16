@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Powhatan County, Virginia",8075.0,327.0,1.0,05000US51145,51,145,T,All,All,All,All
+"Powhatan County, Virginia",7290.0,406.0,2.0,05000US51145,51,145,S,Owner,All,All,All
+"Powhatan County, Virginia",1280.0,277.0,3.0,05000US51145,51,145,S,Owner,Yes,All,All
+"Powhatan County, Virginia",10.0,32.0,4.0,05000US51145,51,145,S,Owner,Yes,"Family, 1 parent",All
+"Powhatan County, Virginia",10.0,32.0,5.0,05000US51145,51,145,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,6.0,05000US51145,51,145,D,Owner,Yes,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",1220.0,275.0,7.0,05000US51145,51,145,S,Owner,Yes,"Family, 2 parents",All
+"Powhatan County, Virginia",1065.0,259.0,8.0,05000US51145,51,145,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",155.0,103.0,9.0,05000US51145,51,145,D,Owner,Yes,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",50.0,86.0,10.0,05000US51145,51,145,S,Owner,Yes,Non-family,All
+"Powhatan County, Virginia",50.0,86.0,11.0,05000US51145,51,145,D,Owner,Yes,Non-family,4 or fewer
+"Powhatan County, Virginia",0.0,161.0,12.0,05000US51145,51,145,D,Owner,Yes,Non-family,5 or more
+"Powhatan County, Virginia",6010.0,439.0,13.0,05000US51145,51,145,S,Owner,No,All,All
+"Powhatan County, Virginia",45.0,65.0,14.0,05000US51145,51,145,S,Owner,No,"Family, 1 parent",All
+"Powhatan County, Virginia",40.0,62.0,15.0,05000US51145,51,145,D,Owner,No,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",4.0,10.0,16.0,05000US51145,51,145,D,Owner,No,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",5610.0,446.0,17.0,05000US51145,51,145,S,Owner,No,"Family, 2 parents",All
+"Powhatan County, Virginia",5015.0,437.0,18.0,05000US51145,51,145,D,Owner,No,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",595.0,226.0,19.0,05000US51145,51,145,D,Owner,No,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",355.0,214.0,20.0,05000US51145,51,145,S,Owner,No,Non-family,All
+"Powhatan County, Virginia",355.0,214.0,21.0,05000US51145,51,145,D,Owner,No,Non-family,4 or fewer
+"Powhatan County, Virginia",4.0,11.0,22.0,05000US51145,51,145,D,Owner,No,Non-family,5 or more
+"Powhatan County, Virginia",0.0,161.0,23.0,05000US51145,51,145,S,Owner,N/A,All,All
+"Powhatan County, Virginia",0.0,161.0,24.0,05000US51145,51,145,S,Owner,N/A,"Family, 1 parent",All
+"Powhatan County, Virginia",0.0,161.0,25.0,05000US51145,51,145,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,26.0,05000US51145,51,145,D,Owner,N/A,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",0.0,161.0,27.0,05000US51145,51,145,S,Owner,N/A,"Family, 2 parents",All
+"Powhatan County, Virginia",0.0,161.0,28.0,05000US51145,51,145,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,29.0,05000US51145,51,145,D,Owner,N/A,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",0.0,161.0,30.0,05000US51145,51,145,S,Owner,N/A,Non-family,All
+"Powhatan County, Virginia",0.0,161.0,31.0,05000US51145,51,145,D,Owner,N/A,Non-family,4 or fewer
+"Powhatan County, Virginia",0.0,161.0,32.0,05000US51145,51,145,D,Owner,N/A,Non-family,5 or more
+"Powhatan County, Virginia",785.0,287.0,33.0,05000US51145,51,145,S,Renter,All,All,All
+"Powhatan County, Virginia",215.0,167.0,34.0,05000US51145,51,145,S,Renter,Yes,All,All
+"Powhatan County, Virginia",10.0,22.0,35.0,05000US51145,51,145,S,Renter,Yes,"Family, 1 parent",All
+"Powhatan County, Virginia",10.0,22.0,36.0,05000US51145,51,145,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,37.0,05000US51145,51,145,D,Renter,Yes,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",195.0,169.0,38.0,05000US51145,51,145,S,Renter,Yes,"Family, 2 parents",All
+"Powhatan County, Virginia",125.0,156.0,39.0,05000US51145,51,145,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",70.0,101.0,40.0,05000US51145,51,145,D,Renter,Yes,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",4.0,44.0,41.0,05000US51145,51,145,S,Renter,Yes,Non-family,All
+"Powhatan County, Virginia",4.0,22.0,42.0,05000US51145,51,145,D,Renter,Yes,Non-family,4 or fewer
+"Powhatan County, Virginia",4.0,21.0,43.0,05000US51145,51,145,D,Renter,Yes,Non-family,5 or more
+"Powhatan County, Virginia",335.0,155.0,44.0,05000US51145,51,145,S,Renter,No,All,All
+"Powhatan County, Virginia",4.0,13.0,45.0,05000US51145,51,145,S,Renter,No,"Family, 1 parent",All
+"Powhatan County, Virginia",4.0,13.0,46.0,05000US51145,51,145,D,Renter,No,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,47.0,05000US51145,51,145,D,Renter,No,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",280.0,141.0,48.0,05000US51145,51,145,S,Renter,No,"Family, 2 parents",All
+"Powhatan County, Virginia",265.0,139.0,49.0,05000US51145,51,145,D,Renter,No,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",15.0,27.0,50.0,05000US51145,51,145,D,Renter,No,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",50.0,65.0,51.0,05000US51145,51,145,S,Renter,No,Non-family,All
+"Powhatan County, Virginia",50.0,65.0,52.0,05000US51145,51,145,D,Renter,No,Non-family,4 or fewer
+"Powhatan County, Virginia",0.0,161.0,53.0,05000US51145,51,145,D,Renter,No,Non-family,5 or more
+"Powhatan County, Virginia",235.0,151.0,54.0,05000US51145,51,145,S,Renter,N/A,All,All
+"Powhatan County, Virginia",4.0,8.0,55.0,05000US51145,51,145,S,Renter,N/A,"Family, 1 parent",All
+"Powhatan County, Virginia",4.0,8.0,56.0,05000US51145,51,145,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Powhatan County, Virginia",0.0,161.0,57.0,05000US51145,51,145,D,Renter,N/A,"Family, 1 parent",5 or more
+"Powhatan County, Virginia",230.0,148.0,58.0,05000US51145,51,145,S,Renter,N/A,"Family, 2 parents",All
+"Powhatan County, Virginia",215.0,142.0,59.0,05000US51145,51,145,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Powhatan County, Virginia",15.0,30.0,60.0,05000US51145,51,145,D,Renter,N/A,"Family, 2 parents",5 or more
+"Powhatan County, Virginia",4.0,18.0,61.0,05000US51145,51,145,S,Renter,N/A,Non-family,All
+"Powhatan County, Virginia",4.0,18.0,62.0,05000US51145,51,145,D,Renter,N/A,Non-family,4 or fewer
+"Powhatan County, Virginia",0.0,161.0,63.0,05000US51145,51,145,D,Renter,N/A,Non-family,5 or more

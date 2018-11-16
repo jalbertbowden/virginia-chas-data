@@ -1,0 +1,88 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income
+"Alexandria city, Virginia",62310.0,993.0,1.0,05000US51510,51,510,T,All,All,All
+"Alexandria city, Virginia",29620.0,1046.0,2.0,05000US51510,51,510,S,Owner,All,All
+"Alexandria city, Virginia",8595.0,783.0,3.0,05000US51510,51,510,S,Owner,Yes,All
+"Alexandria city, Virginia",730.0,230.0,4.0,05000US51510,51,510,D,Owner,Yes,<=20% AMI
+"Alexandria city, Virginia",445.0,169.0,5.0,05000US51510,51,510,D,Owner,Yes,20.1-30% AMI
+"Alexandria city, Virginia",540.0,180.0,6.0,05000US51510,51,510,D,Owner,Yes,30.1-40% AMI
+"Alexandria city, Virginia",340.0,156.0,7.0,05000US51510,51,510,D,Owner,Yes,40.1-50% AMI
+"Alexandria city, Virginia",490.0,202.0,8.0,05000US51510,51,510,D,Owner,Yes,50.1-60% AMI
+"Alexandria city, Virginia",390.0,164.0,9.0,05000US51510,51,510,D,Owner,Yes,60.1-65% AMI
+"Alexandria city, Virginia",960.0,263.0,10.0,05000US51510,51,510,D,Owner,Yes,65.1-80% AMI
+"Alexandria city, Virginia",1005.0,329.0,11.0,05000US51510,51,510,D,Owner,Yes,80.1-95% AMI
+"Alexandria city, Virginia",240.0,115.0,12.0,05000US51510,51,510,D,Owner,Yes,95.1-100% AMI
+"Alexandria city, Virginia",920.0,290.0,13.0,05000US51510,51,510,D,Owner,Yes,100.1-115% AMI
+"Alexandria city, Virginia",270.0,128.0,14.0,05000US51510,51,510,D,Owner,Yes,115.1-120% AMI
+"Alexandria city, Virginia",770.0,248.0,15.0,05000US51510,51,510,D,Owner,Yes,120.1-140% AMI
+"Alexandria city, Virginia",1490.0,320.0,16.0,05000US51510,51,510,D,Owner,Yes,>140% AMI
+"Alexandria city, Virginia",20970.0,979.0,17.0,05000US51510,51,510,S,Owner,No,All
+"Alexandria city, Virginia",0.0,161.0,18.0,05000US51510,51,510,D,Owner,No,<=20% AMI
+"Alexandria city, Virginia",105.0,111.0,19.0,05000US51510,51,510,D,Owner,No,20.1-30% AMI
+"Alexandria city, Virginia",290.0,197.0,20.0,05000US51510,51,510,D,Owner,No,30.1-40% AMI
+"Alexandria city, Virginia",215.0,101.0,21.0,05000US51510,51,510,D,Owner,No,40.1-50% AMI
+"Alexandria city, Virginia",260.0,146.0,22.0,05000US51510,51,510,D,Owner,No,50.1-60% AMI
+"Alexandria city, Virginia",340.0,134.0,23.0,05000US51510,51,510,D,Owner,No,60.1-65% AMI
+"Alexandria city, Virginia",695.0,207.0,24.0,05000US51510,51,510,D,Owner,No,65.1-80% AMI
+"Alexandria city, Virginia",995.0,279.0,25.0,05000US51510,51,510,D,Owner,No,80.1-95% AMI
+"Alexandria city, Virginia",305.0,156.0,26.0,05000US51510,51,510,D,Owner,No,95.1-100% AMI
+"Alexandria city, Virginia",1185.0,276.0,27.0,05000US51510,51,510,D,Owner,No,100.1-115% AMI
+"Alexandria city, Virginia",370.0,150.0,28.0,05000US51510,51,510,D,Owner,No,115.1-120% AMI
+"Alexandria city, Virginia",1940.0,412.0,29.0,05000US51510,51,510,D,Owner,No,120.1-140% AMI
+"Alexandria city, Virginia",14275.0,816.0,30.0,05000US51510,51,510,D,Owner,No,>140% AMI
+"Alexandria city, Virginia",55.0,54.0,31.0,05000US51510,51,510,S,Owner,N/A,All
+"Alexandria city, Virginia",55.0,54.0,32.0,05000US51510,51,510,D,Owner,N/A,<=20% AMI
+"Alexandria city, Virginia",0.0,161.0,33.0,05000US51510,51,510,D,Owner,N/A,20.1-30% AMI
+"Alexandria city, Virginia",0.0,161.0,34.0,05000US51510,51,510,D,Owner,N/A,30.1-40% AMI
+"Alexandria city, Virginia",0.0,161.0,35.0,05000US51510,51,510,D,Owner,N/A,40.1-50% AMI
+"Alexandria city, Virginia",0.0,161.0,36.0,05000US51510,51,510,D,Owner,N/A,50.1-60% AMI
+"Alexandria city, Virginia",0.0,161.0,37.0,05000US51510,51,510,D,Owner,N/A,60.1-65% AMI
+"Alexandria city, Virginia",0.0,161.0,38.0,05000US51510,51,510,D,Owner,N/A,65.1-80% AMI
+"Alexandria city, Virginia",0.0,161.0,39.0,05000US51510,51,510,D,Owner,N/A,80.1-95% AMI
+"Alexandria city, Virginia",0.0,161.0,40.0,05000US51510,51,510,D,Owner,N/A,95.1-100% AMI
+"Alexandria city, Virginia",0.0,161.0,41.0,05000US51510,51,510,D,Owner,N/A,100.1-115% AMI
+"Alexandria city, Virginia",0.0,161.0,42.0,05000US51510,51,510,D,Owner,N/A,115.1-120% AMI
+"Alexandria city, Virginia",0.0,161.0,43.0,05000US51510,51,510,D,Owner,N/A,120.1-140% AMI
+"Alexandria city, Virginia",0.0,161.0,44.0,05000US51510,51,510,D,Owner,N/A,>140% AMI
+"Alexandria city, Virginia",32690.0,1290.0,45.0,05000US51510,51,510,S,Renter,All,All
+"Alexandria city, Virginia",13315.0,1121.0,46.0,05000US51510,51,510,S,Renter,Yes,All
+"Alexandria city, Virginia",2185.0,467.0,47.0,05000US51510,51,510,D,Renter,Yes,<=20% AMI
+"Alexandria city, Virginia",1910.0,421.0,48.0,05000US51510,51,510,D,Renter,Yes,20.1-30% AMI
+"Alexandria city, Virginia",1865.0,475.0,49.0,05000US51510,51,510,D,Renter,Yes,30.1-40% AMI
+"Alexandria city, Virginia",2775.0,576.0,50.0,05000US51510,51,510,D,Renter,Yes,40.1-50% AMI
+"Alexandria city, Virginia",1635.0,399.0,51.0,05000US51510,51,510,D,Renter,Yes,50.1-60% AMI
+"Alexandria city, Virginia",580.0,228.0,52.0,05000US51510,51,510,D,Renter,Yes,60.1-65% AMI
+"Alexandria city, Virginia",1275.0,313.0,53.0,05000US51510,51,510,D,Renter,Yes,65.1-80% AMI
+"Alexandria city, Virginia",485.0,229.0,54.0,05000US51510,51,510,D,Renter,Yes,80.1-95% AMI
+"Alexandria city, Virginia",140.0,110.0,55.0,05000US51510,51,510,D,Renter,Yes,95.1-100% AMI
+"Alexandria city, Virginia",225.0,116.0,56.0,05000US51510,51,510,D,Renter,Yes,100.1-115% AMI
+"Alexandria city, Virginia",10.0,17.0,57.0,05000US51510,51,510,D,Renter,Yes,115.1-120% AMI
+"Alexandria city, Virginia",90.0,64.0,58.0,05000US51510,51,510,D,Renter,Yes,120.1-140% AMI
+"Alexandria city, Virginia",135.0,96.0,59.0,05000US51510,51,510,D,Renter,Yes,>140% AMI
+"Alexandria city, Virginia",18355.0,1259.0,60.0,05000US51510,51,510,S,Renter,No,All
+"Alexandria city, Virginia",580.0,357.0,61.0,05000US51510,51,510,D,Renter,No,<=20% AMI
+"Alexandria city, Virginia",250.0,200.0,62.0,05000US51510,51,510,D,Renter,No,20.1-30% AMI
+"Alexandria city, Virginia",190.0,199.0,63.0,05000US51510,51,510,D,Renter,No,30.1-40% AMI
+"Alexandria city, Virginia",250.0,210.0,64.0,05000US51510,51,510,D,Renter,No,40.1-50% AMI
+"Alexandria city, Virginia",540.0,182.0,65.0,05000US51510,51,510,D,Renter,No,50.1-60% AMI
+"Alexandria city, Virginia",780.0,248.0,66.0,05000US51510,51,510,D,Renter,No,60.1-65% AMI
+"Alexandria city, Virginia",2155.0,430.0,67.0,05000US51510,51,510,D,Renter,No,65.1-80% AMI
+"Alexandria city, Virginia",2570.0,484.0,68.0,05000US51510,51,510,D,Renter,No,80.1-95% AMI
+"Alexandria city, Virginia",800.0,216.0,69.0,05000US51510,51,510,D,Renter,No,95.1-100% AMI
+"Alexandria city, Virginia",2105.0,493.0,70.0,05000US51510,51,510,D,Renter,No,100.1-115% AMI
+"Alexandria city, Virginia",590.0,215.0,71.0,05000US51510,51,510,D,Renter,No,115.1-120% AMI
+"Alexandria city, Virginia",1920.0,430.0,72.0,05000US51510,51,510,D,Renter,No,120.1-140% AMI
+"Alexandria city, Virginia",5625.0,783.0,73.0,05000US51510,51,510,D,Renter,No,>140% AMI
+"Alexandria city, Virginia",1020.0,303.0,74.0,05000US51510,51,510,S,Renter,N/A,All
+"Alexandria city, Virginia",450.0,244.0,75.0,05000US51510,51,510,D,Renter,N/A,<=20% AMI
+"Alexandria city, Virginia",20.0,34.0,76.0,05000US51510,51,510,D,Renter,N/A,20.1-30% AMI
+"Alexandria city, Virginia",25.0,40.0,77.0,05000US51510,51,510,D,Renter,N/A,30.1-40% AMI
+"Alexandria city, Virginia",20.0,33.0,78.0,05000US51510,51,510,D,Renter,N/A,40.1-50% AMI
+"Alexandria city, Virginia",65.0,68.0,79.0,05000US51510,51,510,D,Renter,N/A,50.1-60% AMI
+"Alexandria city, Virginia",70.0,100.0,80.0,05000US51510,51,510,D,Renter,N/A,60.1-65% AMI
+"Alexandria city, Virginia",35.0,43.0,81.0,05000US51510,51,510,D,Renter,N/A,65.1-80% AMI
+"Alexandria city, Virginia",60.0,70.0,82.0,05000US51510,51,510,D,Renter,N/A,80.1-95% AMI
+"Alexandria city, Virginia",20.0,32.0,83.0,05000US51510,51,510,D,Renter,N/A,95.1-100% AMI
+"Alexandria city, Virginia",100.0,77.0,84.0,05000US51510,51,510,D,Renter,N/A,100.1-115% AMI
+"Alexandria city, Virginia",0.0,161.0,85.0,05000US51510,51,510,D,Renter,N/A,115.1-120% AMI
+"Alexandria city, Virginia",45.0,61.0,86.0,05000US51510,51,510,D,Renter,N/A,120.1-140% AMI
+"Alexandria city, Virginia",110.0,86.0,87.0,05000US51510,51,510,D,Renter,N/A,>140% AMI

@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Richmond city, Virginia",3370.0,581.0,1.0,05000US51760,51,760,T,All,All,All
+"Richmond city, Virginia",140.0,111.0,2.0,05000US51760,51,760,S,Substandard,All,All
+"Richmond city, Virginia",3230.0,567.0,3.0,05000US51760,51,760,S,Standard,All,All
+"Richmond city, Virginia",145.0,133.0,4.0,05000US51760,51,760,S,Standard,RHUD30,All
+"Richmond city, Virginia",0.0,161.0,5.0,05000US51760,51,760,D,Standard,RHUD30,0 or 1
+"Richmond city, Virginia",70.0,101.0,6.0,05000US51760,51,760,D,Standard,RHUD30,2
+"Richmond city, Virginia",70.0,85.0,7.0,05000US51760,51,760,D,Standard,RHUD30,3 or more
+"Richmond city, Virginia",2420.0,472.0,8.0,05000US51760,51,760,S,Standard,RHUD50,All
+"Richmond city, Virginia",495.0,231.0,9.0,05000US51760,51,760,D,Standard,RHUD50,0 or 1
+"Richmond city, Virginia",1675.0,440.0,10.0,05000US51760,51,760,D,Standard,RHUD50,2
+"Richmond city, Virginia",250.0,169.0,11.0,05000US51760,51,760,D,Standard,RHUD50,3 or more
+"Richmond city, Virginia",585.0,255.0,12.0,05000US51760,51,760,S,Standard,RHUD80,All
+"Richmond city, Virginia",245.0,186.0,13.0,05000US51760,51,760,D,Standard,RHUD80,0 or 1
+"Richmond city, Virginia",205.0,151.0,14.0,05000US51760,51,760,D,Standard,RHUD80,2
+"Richmond city, Virginia",135.0,131.0,15.0,05000US51760,51,760,D,Standard,RHUD80,3 or more
+"Richmond city, Virginia",80.0,95.0,16.0,05000US51760,51,760,S,Standard,Greater than RHUD80,All
+"Richmond city, Virginia",0.0,161.0,17.0,05000US51760,51,760,D,Standard,Greater than RHUD80,0 or 1
+"Richmond city, Virginia",35.0,57.0,18.0,05000US51760,51,760,D,Standard,Greater than RHUD80,2
+"Richmond city, Virginia",45.0,76.0,19.0,05000US51760,51,760,D,Standard,Greater than RHUD80,3 or more

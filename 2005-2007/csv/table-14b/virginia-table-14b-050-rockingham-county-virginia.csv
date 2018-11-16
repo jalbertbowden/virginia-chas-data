@@ -1,0 +1,20 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Substandard_Housing,Affordability,Bedrooms
+"Rockingham County, Virginia",155.0,100.0,1.0,05000US51165,51,165,T,All,All,All
+"Rockingham County, Virginia",25.0,45.0,2.0,05000US51165,51,165,S,Substandard,All,All
+"Rockingham County, Virginia",125.0,100.0,3.0,05000US51165,51,165,S,Standard,All,All
+"Rockingham County, Virginia",45.0,57.0,4.0,05000US51165,51,165,S,Standard,RHUD30,All
+"Rockingham County, Virginia",0.0,161.0,5.0,05000US51165,51,165,D,Standard,RHUD30,0 or 1
+"Rockingham County, Virginia",45.0,57.0,6.0,05000US51165,51,165,D,Standard,RHUD30,2
+"Rockingham County, Virginia",0.0,161.0,7.0,05000US51165,51,165,D,Standard,RHUD30,3 or more
+"Rockingham County, Virginia",35.0,37.0,8.0,05000US51165,51,165,S,Standard,RHUD50,All
+"Rockingham County, Virginia",4.0,161.0,9.0,05000US51165,51,165,D,Standard,RHUD50,0 or 1
+"Rockingham County, Virginia",30.0,36.0,10.0,05000US51165,51,165,D,Standard,RHUD50,2
+"Rockingham County, Virginia",0.0,161.0,11.0,05000US51165,51,165,D,Standard,RHUD50,3 or more
+"Rockingham County, Virginia",45.0,75.0,12.0,05000US51165,51,165,S,Standard,RHUD80,All
+"Rockingham County, Virginia",0.0,161.0,13.0,05000US51165,51,165,D,Standard,RHUD80,0 or 1
+"Rockingham County, Virginia",0.0,161.0,14.0,05000US51165,51,165,D,Standard,RHUD80,2
+"Rockingham County, Virginia",45.0,75.0,15.0,05000US51165,51,165,D,Standard,RHUD80,3 or more
+"Rockingham County, Virginia",0.0,161.0,16.0,05000US51165,51,165,S,Standard,Greater than RHUD80,All
+"Rockingham County, Virginia",0.0,161.0,17.0,05000US51165,51,165,D,Standard,Greater than RHUD80,0 or 1
+"Rockingham County, Virginia",0.0,161.0,18.0,05000US51165,51,165,D,Standard,Greater than RHUD80,2
+"Rockingham County, Virginia",0.0,161.0,19.0,05000US51165,51,165,D,Standard,Greater than RHUD80,3 or more

@@ -1,0 +1,64 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Type,Household_Size
+"Danville city, Virginia",19970.0,546.0,1.0,05000US51590,51,590,T,All,All,All,All
+"Danville city, Virginia",11100.0,546.0,2.0,05000US51590,51,590,S,Owner,All,All,All
+"Danville city, Virginia",2405.0,375.0,3.0,05000US51590,51,590,S,Owner,Yes,All,All
+"Danville city, Virginia",540.0,224.0,4.0,05000US51590,51,590,S,Owner,Yes,"Family, 1 parent",All
+"Danville city, Virginia",505.0,223.0,5.0,05000US51590,51,590,D,Owner,Yes,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",30.0,39.0,6.0,05000US51590,51,590,D,Owner,Yes,"Family, 1 parent",5 or more
+"Danville city, Virginia",675.0,196.0,7.0,05000US51590,51,590,S,Owner,Yes,"Family, 2 parents",All
+"Danville city, Virginia",620.0,189.0,8.0,05000US51590,51,590,D,Owner,Yes,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",55.0,58.0,9.0,05000US51590,51,590,D,Owner,Yes,"Family, 2 parents",5 or more
+"Danville city, Virginia",1190.0,290.0,10.0,05000US51590,51,590,S,Owner,Yes,Non-family,All
+"Danville city, Virginia",1190.0,290.0,11.0,05000US51590,51,590,D,Owner,Yes,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,12.0,05000US51590,51,590,D,Owner,Yes,Non-family,5 or more
+"Danville city, Virginia",8625.0,563.0,13.0,05000US51590,51,590,S,Owner,No,All,All
+"Danville city, Virginia",1205.0,289.0,14.0,05000US51590,51,590,S,Owner,No,"Family, 1 parent",All
+"Danville city, Virginia",1110.0,274.0,15.0,05000US51590,51,590,D,Owner,No,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",95.0,75.0,16.0,05000US51590,51,590,D,Owner,No,"Family, 1 parent",5 or more
+"Danville city, Virginia",4885.0,452.0,17.0,05000US51590,51,590,S,Owner,No,"Family, 2 parents",All
+"Danville city, Virginia",4570.0,436.0,18.0,05000US51590,51,590,D,Owner,No,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",315.0,157.0,19.0,05000US51590,51,590,D,Owner,No,"Family, 2 parents",5 or more
+"Danville city, Virginia",2530.0,394.0,20.0,05000US51590,51,590,S,Owner,No,Non-family,All
+"Danville city, Virginia",2530.0,394.0,21.0,05000US51590,51,590,D,Owner,No,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,22.0,05000US51590,51,590,D,Owner,No,Non-family,5 or more
+"Danville city, Virginia",75.0,84.0,23.0,05000US51590,51,590,S,Owner,N/A,All,All
+"Danville city, Virginia",0.0,161.0,24.0,05000US51590,51,590,S,Owner,N/A,"Family, 1 parent",All
+"Danville city, Virginia",0.0,161.0,25.0,05000US51590,51,590,D,Owner,N/A,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",0.0,161.0,26.0,05000US51590,51,590,D,Owner,N/A,"Family, 1 parent",5 or more
+"Danville city, Virginia",50.0,81.0,27.0,05000US51590,51,590,S,Owner,N/A,"Family, 2 parents",All
+"Danville city, Virginia",50.0,81.0,28.0,05000US51590,51,590,D,Owner,N/A,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",0.0,161.0,29.0,05000US51590,51,590,D,Owner,N/A,"Family, 2 parents",5 or more
+"Danville city, Virginia",25.0,31.0,30.0,05000US51590,51,590,S,Owner,N/A,Non-family,All
+"Danville city, Virginia",25.0,31.0,31.0,05000US51590,51,590,D,Owner,N/A,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,32.0,05000US51590,51,590,D,Owner,N/A,Non-family,5 or more
+"Danville city, Virginia",8870.0,658.0,33.0,05000US51590,51,590,S,Renter,All,All,All
+"Danville city, Virginia",4160.0,593.0,34.0,05000US51590,51,590,S,Renter,Yes,All,All
+"Danville city, Virginia",1505.0,309.0,35.0,05000US51590,51,590,S,Renter,Yes,"Family, 1 parent",All
+"Danville city, Virginia",1200.0,274.0,36.0,05000US51590,51,590,D,Renter,Yes,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",305.0,168.0,37.0,05000US51590,51,590,D,Renter,Yes,"Family, 1 parent",5 or more
+"Danville city, Virginia",425.0,194.0,38.0,05000US51590,51,590,S,Renter,Yes,"Family, 2 parents",All
+"Danville city, Virginia",295.0,149.0,39.0,05000US51590,51,590,D,Renter,Yes,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",135.0,111.0,40.0,05000US51590,51,590,D,Renter,Yes,"Family, 2 parents",5 or more
+"Danville city, Virginia",2230.0,436.0,41.0,05000US51590,51,590,S,Renter,Yes,Non-family,All
+"Danville city, Virginia",2230.0,436.0,42.0,05000US51590,51,590,D,Renter,Yes,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,43.0,05000US51590,51,590,D,Renter,Yes,Non-family,5 or more
+"Danville city, Virginia",3930.0,562.0,44.0,05000US51590,51,590,S,Renter,No,All,All
+"Danville city, Virginia",1380.0,430.0,45.0,05000US51590,51,590,S,Renter,No,"Family, 1 parent",All
+"Danville city, Virginia",1290.0,410.0,46.0,05000US51590,51,590,D,Renter,No,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",90.0,72.0,47.0,05000US51590,51,590,D,Renter,No,"Family, 1 parent",5 or more
+"Danville city, Virginia",820.0,259.0,48.0,05000US51590,51,590,S,Renter,No,"Family, 2 parents",All
+"Danville city, Virginia",600.0,226.0,49.0,05000US51590,51,590,D,Renter,No,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",220.0,120.0,50.0,05000US51590,51,590,D,Renter,No,"Family, 2 parents",5 or more
+"Danville city, Virginia",1730.0,338.0,51.0,05000US51590,51,590,S,Renter,No,Non-family,All
+"Danville city, Virginia",1730.0,338.0,52.0,05000US51590,51,590,D,Renter,No,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,53.0,05000US51590,51,590,D,Renter,No,Non-family,5 or more
+"Danville city, Virginia",780.0,244.0,54.0,05000US51590,51,590,S,Renter,N/A,All,All
+"Danville city, Virginia",325.0,179.0,55.0,05000US51590,51,590,S,Renter,N/A,"Family, 1 parent",All
+"Danville city, Virginia",315.0,176.0,56.0,05000US51590,51,590,D,Renter,N/A,"Family, 1 parent",4 or fewer
+"Danville city, Virginia",15.0,23.0,57.0,05000US51590,51,590,D,Renter,N/A,"Family, 1 parent",5 or more
+"Danville city, Virginia",140.0,87.0,58.0,05000US51590,51,590,S,Renter,N/A,"Family, 2 parents",All
+"Danville city, Virginia",140.0,87.0,59.0,05000US51590,51,590,D,Renter,N/A,"Family, 2 parents",4 or fewer
+"Danville city, Virginia",0.0,161.0,60.0,05000US51590,51,590,D,Renter,N/A,"Family, 2 parents",5 or more
+"Danville city, Virginia",315.0,142.0,61.0,05000US51590,51,590,S,Renter,N/A,Non-family,All
+"Danville city, Virginia",315.0,142.0,62.0,05000US51590,51,590,D,Renter,N/A,Non-family,4 or fewer
+"Danville city, Virginia",0.0,161.0,63.0,05000US51590,51,590,D,Renter,N/A,Non-family,5 or more

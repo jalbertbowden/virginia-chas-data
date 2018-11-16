@@ -1,0 +1,130 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Housing_Problems,Household_Income,Elderly_Status
+"Prince George County, Virginia",10530.0,398.0,1.0,05000US51149,51,149,T,All,All,All,All
+"Prince George County, Virginia",7530.0,490.0,2.0,05000US51149,51,149,S,Owner,All,All,All
+"Prince George County, Virginia",1545.0,352.0,3.0,05000US51149,51,149,S,Owner,yes,All,All
+"Prince George County, Virginia",245.0,113.0,4.0,05000US51149,51,149,S,Owner,yes,30% AMI or less,All
+"Prince George County, Virginia",80.0,64.0,5.0,05000US51149,51,149,D,Owner,yes,30% AMI or less,Elderly
+"Prince George County, Virginia",30.0,37.0,6.0,05000US51149,51,149,D,Owner,yes,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",135.0,86.0,7.0,05000US51149,51,149,D,Owner,yes,30% AMI or less,Non-elderly
+"Prince George County, Virginia",305.0,212.0,8.0,05000US51149,51,149,S,Owner,yes,30.1-50% AMI,All
+"Prince George County, Virginia",150.0,184.0,9.0,05000US51149,51,149,D,Owner,yes,30.1-50% AMI,Elderly
+"Prince George County, Virginia",20.0,37.0,10.0,05000US51149,51,149,D,Owner,yes,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",135.0,118.0,11.0,05000US51149,51,149,D,Owner,yes,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",410.0,214.0,12.0,05000US51149,51,149,S,Owner,yes,50.1-80% AMI,All
+"Prince George County, Virginia",95.0,75.0,13.0,05000US51149,51,149,D,Owner,yes,50.1-80% AMI,Elderly
+"Prince George County, Virginia",40.0,49.0,14.0,05000US51149,51,149,D,Owner,yes,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",280.0,187.0,15.0,05000US51149,51,149,D,Owner,yes,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",85.0,79.0,16.0,05000US51149,51,149,S,Owner,yes,80.1-95% AMI,All
+"Prince George County, Virginia",0.0,161.0,17.0,05000US51149,51,149,D,Owner,yes,80.1-95% AMI,Elderly
+"Prince George County, Virginia",25.0,47.0,18.0,05000US51149,51,149,D,Owner,yes,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",55.0,64.0,19.0,05000US51149,51,149,D,Owner,yes,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",500.0,198.0,20.0,05000US51149,51,149,S,Owner,yes,95.1% AMI and above,All
+"Prince George County, Virginia",0.0,161.0,21.0,05000US51149,51,149,D,Owner,yes,95.1% AMI and above,Elderly
+"Prince George County, Virginia",0.0,161.0,22.0,05000US51149,51,149,D,Owner,yes,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",500.0,198.0,23.0,05000US51149,51,149,D,Owner,yes,95.1% AMI and above,Non-elderly
+"Prince George County, Virginia",5925.0,473.0,24.0,05000US51149,51,149,S,Owner,no,All,All
+"Prince George County, Virginia",20.0,37.0,25.0,05000US51149,51,149,S,Owner,no,30% AMI or less,All
+"Prince George County, Virginia",0.0,161.0,26.0,05000US51149,51,149,D,Owner,no,30% AMI or less,Elderly
+"Prince George County, Virginia",20.0,37.0,27.0,05000US51149,51,149,D,Owner,no,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,28.0,05000US51149,51,149,D,Owner,no,30% AMI or less,Non-elderly
+"Prince George County, Virginia",335.0,178.0,29.0,05000US51149,51,149,S,Owner,no,30.1-50% AMI,All
+"Prince George County, Virginia",95.0,66.0,30.0,05000US51149,51,149,D,Owner,no,30.1-50% AMI,Elderly
+"Prince George County, Virginia",155.0,91.0,31.0,05000US51149,51,149,D,Owner,no,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",85.0,120.0,32.0,05000US51149,51,149,D,Owner,no,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",820.0,255.0,33.0,05000US51149,51,149,S,Owner,no,50.1-80% AMI,All
+"Prince George County, Virginia",165.0,80.0,34.0,05000US51149,51,149,D,Owner,no,50.1-80% AMI,Elderly
+"Prince George County, Virginia",130.0,100.0,35.0,05000US51149,51,149,D,Owner,no,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",525.0,238.0,36.0,05000US51149,51,149,D,Owner,no,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",465.0,157.0,37.0,05000US51149,51,149,S,Owner,no,80.1-95% AMI,All
+"Prince George County, Virginia",60.0,44.0,38.0,05000US51149,51,149,D,Owner,no,80.1-95% AMI,Elderly
+"Prince George County, Virginia",10.0,15.0,39.0,05000US51149,51,149,D,Owner,no,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",395.0,154.0,40.0,05000US51149,51,149,D,Owner,no,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",4285.0,436.0,41.0,05000US51149,51,149,S,Owner,no,95.1% AMI and above,All
+"Prince George County, Virginia",745.0,177.0,42.0,05000US51149,51,149,D,Owner,no,95.1% AMI and above,Elderly
+"Prince George County, Virginia",205.0,118.0,43.0,05000US51149,51,149,D,Owner,no,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",3335.0,439.0,44.0,05000US51149,51,149,D,Owner,no,95.1% AMI and above,Non-elderly
+"Prince George County, Virginia",60.0,95.0,45.0,05000US51149,51,149,S,Owner,N/A,All,All
+"Prince George County, Virginia",60.0,95.0,46.0,05000US51149,51,149,S,Owner,N/A,30% AMI or less,All
+"Prince George County, Virginia",0.0,161.0,47.0,05000US51149,51,149,D,Owner,N/A,30% AMI or less,Elderly
+"Prince George County, Virginia",0.0,161.0,48.0,05000US51149,51,149,D,Owner,N/A,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",60.0,95.0,49.0,05000US51149,51,149,D,Owner,N/A,30% AMI or less,Non-elderly
+"Prince George County, Virginia",0.0,161.0,50.0,05000US51149,51,149,S,Owner,N/A,30.1-50% AMI,All
+"Prince George County, Virginia",0.0,161.0,51.0,05000US51149,51,149,D,Owner,N/A,30.1-50% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,52.0,05000US51149,51,149,D,Owner,N/A,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,53.0,05000US51149,51,149,D,Owner,N/A,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",0.0,161.0,54.0,05000US51149,51,149,S,Owner,N/A,50.1-80% AMI,All
+"Prince George County, Virginia",0.0,161.0,55.0,05000US51149,51,149,D,Owner,N/A,50.1-80% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,56.0,05000US51149,51,149,D,Owner,N/A,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,57.0,05000US51149,51,149,D,Owner,N/A,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",0.0,161.0,58.0,05000US51149,51,149,S,Owner,N/A,80.1-95% AMI,All
+"Prince George County, Virginia",0.0,161.0,59.0,05000US51149,51,149,D,Owner,N/A,80.1-95% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,60.0,05000US51149,51,149,D,Owner,N/A,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,61.0,05000US51149,51,149,D,Owner,N/A,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",0.0,161.0,62.0,05000US51149,51,149,S,Owner,N/A,95.1% AMI and above,All
+"Prince George County, Virginia",0.0,161.0,63.0,05000US51149,51,149,D,Owner,N/A,95.1% AMI and above,Elderly
+"Prince George County, Virginia",0.0,161.0,64.0,05000US51149,51,149,D,Owner,N/A,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,65.0,05000US51149,51,149,D,Owner,N/A,95.1% AMI and above,Non-elderly
+"Prince George County, Virginia",3000.0,547.0,66.0,05000US51149,51,149,S,Renter,All,All,All
+"Prince George County, Virginia",615.0,253.0,67.0,05000US51149,51,149,S,Renter,Yes,All,All
+"Prince George County, Virginia",205.0,160.0,68.0,05000US51149,51,149,S,Renter,Yes,30% AMI or less,All
+"Prince George County, Virginia",15.0,29.0,69.0,05000US51149,51,149,D,Renter,Yes,30% AMI or less,Elderly
+"Prince George County, Virginia",15.0,21.0,70.0,05000US51149,51,149,D,Renter,Yes,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",175.0,161.0,71.0,05000US51149,51,149,D,Renter,Yes,30% AMI or less,Non-elderly
+"Prince George County, Virginia",210.0,182.0,72.0,05000US51149,51,149,S,Renter,Yes,30.1-50% AMI,All
+"Prince George County, Virginia",30.0,48.0,73.0,05000US51149,51,149,D,Renter,Yes,30.1-50% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,74.0,05000US51149,51,149,D,Renter,Yes,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",180.0,173.0,75.0,05000US51149,51,149,D,Renter,Yes,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",130.0,101.0,76.0,05000US51149,51,149,S,Renter,Yes,50.1-80% AMI,All
+"Prince George County, Virginia",15.0,24.0,77.0,05000US51149,51,149,D,Renter,Yes,50.1-80% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,78.0,05000US51149,51,149,D,Renter,Yes,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",120.0,99.0,79.0,05000US51149,51,149,D,Renter,Yes,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",25.0,41.0,80.0,05000US51149,51,149,S,Renter,Yes,80.1-95% AMI,All
+"Prince George County, Virginia",0.0,161.0,81.0,05000US51149,51,149,D,Renter,Yes,80.1-95% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,82.0,05000US51149,51,149,D,Renter,Yes,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",25.0,41.0,83.0,05000US51149,51,149,D,Renter,Yes,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",45.0,85.0,84.0,05000US51149,51,149,S,Renter,Yes,95.1% AMI and above,All
+"Prince George County, Virginia",0.0,161.0,85.0,05000US51149,51,149,D,Renter,Yes,95.1% AMI and above,Elderly
+"Prince George County, Virginia",0.0,161.0,86.0,05000US51149,51,149,D,Renter,Yes,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",45.0,85.0,87.0,05000US51149,51,149,D,Renter,Yes,95.1% AMI and above,Non-elderly
+"Prince George County, Virginia",1535.0,472.0,88.0,05000US51149,51,149,S,Renter,No,All,All
+"Prince George County, Virginia",0.0,161.0,89.0,05000US51149,51,149,S,Renter,No,30% AMI or less,All
+"Prince George County, Virginia",0.0,161.0,90.0,05000US51149,51,149,D,Renter,No,30% AMI or less,Elderly
+"Prince George County, Virginia",0.0,161.0,91.0,05000US51149,51,149,D,Renter,No,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",0.0,161.0,92.0,05000US51149,51,149,D,Renter,No,30% AMI or less,Non-elderly
+"Prince George County, Virginia",195.0,228.0,93.0,05000US51149,51,149,S,Renter,No,30.1-50% AMI,All
+"Prince George County, Virginia",0.0,161.0,94.0,05000US51149,51,149,D,Renter,No,30.1-50% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,95.0,05000US51149,51,149,D,Renter,No,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",195.0,228.0,96.0,05000US51149,51,149,D,Renter,No,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",590.0,263.0,97.0,05000US51149,51,149,S,Renter,No,50.1-80% AMI,All
+"Prince George County, Virginia",25.0,43.0,98.0,05000US51149,51,149,D,Renter,No,50.1-80% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,99.0,05000US51149,51,149,D,Renter,No,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",565.0,265.0,100.0,05000US51149,51,149,D,Renter,No,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",190.0,132.0,101.0,05000US51149,51,149,S,Renter,No,80.1-95% AMI,All
+"Prince George County, Virginia",0.0,161.0,102.0,05000US51149,51,149,D,Renter,No,80.1-95% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,103.0,05000US51149,51,149,D,Renter,No,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",190.0,132.0,104.0,05000US51149,51,149,D,Renter,No,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",560.0,294.0,105.0,05000US51149,51,149,S,Renter,No,95.1% AMI and above,All
+"Prince George County, Virginia",0.0,161.0,106.0,05000US51149,51,149,D,Renter,No,95.1% AMI and above,Elderly
+"Prince George County, Virginia",0.0,161.0,107.0,05000US51149,51,149,D,Renter,No,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",560.0,294.0,108.0,05000US51149,51,149,D,Renter,No,95.1% AMI and above,Non-elderly
+"Prince George County, Virginia",855.0,300.0,109.0,05000US51149,51,149,S,Renter,N/A,All,All
+"Prince George County, Virginia",80.0,88.0,110.0,05000US51149,51,149,S,Renter,N/A,30% AMI or less,All
+"Prince George County, Virginia",10.0,16.0,111.0,05000US51149,51,149,D,Renter,N/A,30% AMI or less,Elderly
+"Prince George County, Virginia",10.0,22.0,112.0,05000US51149,51,149,D,Renter,N/A,30% AMI or less,Extra-elderly
+"Prince George County, Virginia",60.0,86.0,113.0,05000US51149,51,149,D,Renter,N/A,30% AMI or less,Non-elderly
+"Prince George County, Virginia",85.0,101.0,114.0,05000US51149,51,149,S,Renter,N/A,30.1-50% AMI,All
+"Prince George County, Virginia",0.0,161.0,115.0,05000US51149,51,149,D,Renter,N/A,30.1-50% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,116.0,05000US51149,51,149,D,Renter,N/A,30.1-50% AMI,Extra-elderly
+"Prince George County, Virginia",85.0,101.0,117.0,05000US51149,51,149,D,Renter,N/A,30.1-50% AMI,Non-elderly
+"Prince George County, Virginia",110.0,84.0,118.0,05000US51149,51,149,S,Renter,N/A,50.1-80% AMI,All
+"Prince George County, Virginia",0.0,161.0,119.0,05000US51149,51,149,D,Renter,N/A,50.1-80% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,120.0,05000US51149,51,149,D,Renter,N/A,50.1-80% AMI,Extra-elderly
+"Prince George County, Virginia",110.0,84.0,121.0,05000US51149,51,149,D,Renter,N/A,50.1-80% AMI,Non-elderly
+"Prince George County, Virginia",105.0,121.0,122.0,05000US51149,51,149,S,Renter,N/A,80.1-95% AMI,All
+"Prince George County, Virginia",0.0,161.0,123.0,05000US51149,51,149,D,Renter,N/A,80.1-95% AMI,Elderly
+"Prince George County, Virginia",0.0,161.0,124.0,05000US51149,51,149,D,Renter,N/A,80.1-95% AMI,Extra-elderly
+"Prince George County, Virginia",105.0,121.0,125.0,05000US51149,51,149,D,Renter,N/A,80.1-95% AMI,Non-elderly
+"Prince George County, Virginia",465.0,251.0,126.0,05000US51149,51,149,S,Renter,N/A,95.1% AMI and above,All
+"Prince George County, Virginia",0.0,161.0,127.0,05000US51149,51,149,D,Renter,N/A,95.1% AMI and above,Elderly
+"Prince George County, Virginia",0.0,161.0,128.0,05000US51149,51,149,D,Renter,N/A,95.1% AMI and above,Extra-elderly
+"Prince George County, Virginia",465.0,251.0,129.0,05000US51149,51,149,D,Renter,N/A,95.1% AMI and above,Non-elderly

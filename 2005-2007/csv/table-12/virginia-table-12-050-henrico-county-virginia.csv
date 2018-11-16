@@ -1,0 +1,214 @@
+name,estimate,margin_of_error,order,geoid,st,cnty,Line_Type,Tenure,Year_Structure_Built,Household_Income,Cost_Burden
+"Henrico County, Virginia",116620.0,1288.0,1.0,05000US51087,51,087,T,All,All,All,All
+"Henrico County, Virginia",78365.0,1269.0,2.0,05000US51087,51,087,S,Owner,All,All,All
+"Henrico County, Virginia",9750.0,660.0,3.0,05000US51087,51,087,S,Owner,2000+,All,All
+"Henrico County, Virginia",690.0,230.0,4.0,05000US51087,51,087,S,Owner,2000+,<=50% AMI,All
+"Henrico County, Virginia",70.0,69.0,5.0,05000US51087,51,087,D,Owner,2000+,<=50% AMI,No cost burden
+"Henrico County, Virginia",110.0,107.0,6.0,05000US51087,51,087,D,Owner,2000+,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",510.0,194.0,7.0,05000US51087,51,087,D,Owner,2000+,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,8.0,05000US51087,51,087,D,Owner,2000+,<=50% AMI,N/A
+"Henrico County, Virginia",665.0,212.0,9.0,05000US51087,51,087,S,Owner,2000+,50.1-80% AMI,All
+"Henrico County, Virginia",105.0,65.0,10.0,05000US51087,51,087,D,Owner,2000+,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",375.0,162.0,11.0,05000US51087,51,087,D,Owner,2000+,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",190.0,94.0,12.0,05000US51087,51,087,D,Owner,2000+,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,13.0,05000US51087,51,087,D,Owner,2000+,50.1-80% AMI,N/A
+"Henrico County, Virginia",2030.0,444.0,14.0,05000US51087,51,087,S,Owner,2000+,80.1-120% AMI,All
+"Henrico County, Virginia",980.0,253.0,15.0,05000US51087,51,087,D,Owner,2000+,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",920.0,329.0,16.0,05000US51087,51,087,D,Owner,2000+,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",130.0,103.0,17.0,05000US51087,51,087,D,Owner,2000+,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,18.0,05000US51087,51,087,D,Owner,2000+,80.1-120% AMI,N/A
+"Henrico County, Virginia",6360.0,488.0,19.0,05000US51087,51,087,S,Owner,2000+,>120% AMI,All
+"Henrico County, Virginia",5715.0,464.0,20.0,05000US51087,51,087,D,Owner,2000+,>120% AMI,No cost burden
+"Henrico County, Virginia",620.0,172.0,21.0,05000US51087,51,087,D,Owner,2000+,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",30.0,36.0,22.0,05000US51087,51,087,D,Owner,2000+,>120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,23.0,05000US51087,51,087,D,Owner,2000+,>120% AMI,N/A
+"Henrico County, Virginia",30075.0,1087.0,24.0,05000US51087,51,087,S,Owner,1980 to 1999,All,All
+"Henrico County, Virginia",1645.0,416.0,25.0,05000US51087,51,087,S,Owner,1980 to 1999,<=50% AMI,All
+"Henrico County, Virginia",245.0,148.0,26.0,05000US51087,51,087,D,Owner,1980 to 1999,<=50% AMI,No cost burden
+"Henrico County, Virginia",260.0,116.0,27.0,05000US51087,51,087,D,Owner,1980 to 1999,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",1070.0,394.0,28.0,05000US51087,51,087,D,Owner,1980 to 1999,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",70.0,68.0,29.0,05000US51087,51,087,D,Owner,1980 to 1999,<=50% AMI,N/A
+"Henrico County, Virginia",3685.0,602.0,30.0,05000US51087,51,087,S,Owner,1980 to 1999,50.1-80% AMI,All
+"Henrico County, Virginia",1025.0,271.0,31.0,05000US51087,51,087,D,Owner,1980 to 1999,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",2155.0,459.0,32.0,05000US51087,51,087,D,Owner,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",500.0,160.0,33.0,05000US51087,51,087,D,Owner,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,34.0,05000US51087,51,087,D,Owner,1980 to 1999,50.1-80% AMI,N/A
+"Henrico County, Virginia",6135.0,644.0,35.0,05000US51087,51,087,S,Owner,1980 to 1999,80.1-120% AMI,All
+"Henrico County, Virginia",4215.0,543.0,36.0,05000US51087,51,087,D,Owner,1980 to 1999,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",1650.0,323.0,37.0,05000US51087,51,087,D,Owner,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",270.0,118.0,38.0,05000US51087,51,087,D,Owner,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,39.0,05000US51087,51,087,D,Owner,1980 to 1999,80.1-120% AMI,N/A
+"Henrico County, Virginia",18610.0,909.0,40.0,05000US51087,51,087,S,Owner,1980 to 1999,>120% AMI,All
+"Henrico County, Virginia",17360.0,907.0,41.0,05000US51087,51,087,D,Owner,1980 to 1999,>120% AMI,No cost burden
+"Henrico County, Virginia",1125.0,258.0,42.0,05000US51087,51,087,D,Owner,1980 to 1999,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",125.0,75.0,43.0,05000US51087,51,087,D,Owner,1980 to 1999,>120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,44.0,05000US51087,51,087,D,Owner,1980 to 1999,>120% AMI,N/A
+"Henrico County, Virginia",19345.0,911.0,45.0,05000US51087,51,087,S,Owner,1960 to 1979,All,All
+"Henrico County, Virginia",2380.0,384.0,46.0,05000US51087,51,087,S,Owner,1960 to 1979,<=50% AMI,All
+"Henrico County, Virginia",580.0,219.0,47.0,05000US51087,51,087,D,Owner,1960 to 1979,<=50% AMI,No cost burden
+"Henrico County, Virginia",790.0,243.0,48.0,05000US51087,51,087,D,Owner,1960 to 1979,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",935.0,254.0,49.0,05000US51087,51,087,D,Owner,1960 to 1979,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",75.0,101.0,50.0,05000US51087,51,087,D,Owner,1960 to 1979,<=50% AMI,N/A
+"Henrico County, Virginia",3500.0,512.0,51.0,05000US51087,51,087,S,Owner,1960 to 1979,50.1-80% AMI,All
+"Henrico County, Virginia",1795.0,338.0,52.0,05000US51087,51,087,D,Owner,1960 to 1979,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",1310.0,312.0,53.0,05000US51087,51,087,D,Owner,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",395.0,187.0,54.0,05000US51087,51,087,D,Owner,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,55.0,05000US51087,51,087,D,Owner,1960 to 1979,50.1-80% AMI,N/A
+"Henrico County, Virginia",4870.0,501.0,56.0,05000US51087,51,087,S,Owner,1960 to 1979,80.1-120% AMI,All
+"Henrico County, Virginia",3835.0,416.0,57.0,05000US51087,51,087,D,Owner,1960 to 1979,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",955.0,296.0,58.0,05000US51087,51,087,D,Owner,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",85.0,72.0,59.0,05000US51087,51,087,D,Owner,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,60.0,05000US51087,51,087,D,Owner,1960 to 1979,80.1-120% AMI,N/A
+"Henrico County, Virginia",8595.0,660.0,61.0,05000US51087,51,087,S,Owner,1960 to 1979,>120% AMI,All
+"Henrico County, Virginia",8190.0,655.0,62.0,05000US51087,51,087,D,Owner,1960 to 1979,>120% AMI,No cost burden
+"Henrico County, Virginia",385.0,138.0,63.0,05000US51087,51,087,D,Owner,1960 to 1979,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",20.0,32.0,64.0,05000US51087,51,087,D,Owner,1960 to 1979,>120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,65.0,05000US51087,51,087,D,Owner,1960 to 1979,>120% AMI,N/A
+"Henrico County, Virginia",16595.0,999.0,66.0,05000US51087,51,087,S,Owner,1940 to 1959,All,All
+"Henrico County, Virginia",2750.0,417.0,67.0,05000US51087,51,087,S,Owner,1940 to 1959,<=50% AMI,All
+"Henrico County, Virginia",950.0,231.0,68.0,05000US51087,51,087,D,Owner,1940 to 1959,<=50% AMI,No cost burden
+"Henrico County, Virginia",770.0,175.0,69.0,05000US51087,51,087,D,Owner,1940 to 1959,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",910.0,294.0,70.0,05000US51087,51,087,D,Owner,1940 to 1959,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",120.0,95.0,71.0,05000US51087,51,087,D,Owner,1940 to 1959,<=50% AMI,N/A
+"Henrico County, Virginia",3585.0,544.0,72.0,05000US51087,51,087,S,Owner,1940 to 1959,50.1-80% AMI,All
+"Henrico County, Virginia",1735.0,287.0,73.0,05000US51087,51,087,D,Owner,1940 to 1959,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",1490.0,388.0,74.0,05000US51087,51,087,D,Owner,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",360.0,168.0,75.0,05000US51087,51,087,D,Owner,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,76.0,05000US51087,51,087,D,Owner,1940 to 1959,50.1-80% AMI,N/A
+"Henrico County, Virginia",4535.0,522.0,77.0,05000US51087,51,087,S,Owner,1940 to 1959,80.1-120% AMI,All
+"Henrico County, Virginia",3790.0,492.0,78.0,05000US51087,51,087,D,Owner,1940 to 1959,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",675.0,205.0,79.0,05000US51087,51,087,D,Owner,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",75.0,52.0,80.0,05000US51087,51,087,D,Owner,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,81.0,05000US51087,51,087,D,Owner,1940 to 1959,80.1-120% AMI,N/A
+"Henrico County, Virginia",5725.0,599.0,82.0,05000US51087,51,087,S,Owner,1940 to 1959,>120% AMI,All
+"Henrico County, Virginia",5570.0,593.0,83.0,05000US51087,51,087,D,Owner,1940 to 1959,>120% AMI,No cost burden
+"Henrico County, Virginia",155.0,84.0,84.0,05000US51087,51,087,D,Owner,1940 to 1959,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,85.0,05000US51087,51,087,D,Owner,1940 to 1959,>120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,86.0,05000US51087,51,087,D,Owner,1940 to 1959,>120% AMI,N/A
+"Henrico County, Virginia",2600.0,431.0,87.0,05000US51087,51,087,S,Owner,1939-,All,All
+"Henrico County, Virginia",605.0,211.0,88.0,05000US51087,51,087,S,Owner,1939-,<=50% AMI,All
+"Henrico County, Virginia",260.0,131.0,89.0,05000US51087,51,087,D,Owner,1939-,<=50% AMI,No cost burden
+"Henrico County, Virginia",170.0,132.0,90.0,05000US51087,51,087,D,Owner,1939-,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",175.0,104.0,91.0,05000US51087,51,087,D,Owner,1939-,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,92.0,05000US51087,51,087,D,Owner,1939-,<=50% AMI,N/A
+"Henrico County, Virginia",590.0,201.0,93.0,05000US51087,51,087,S,Owner,1939-,50.1-80% AMI,All
+"Henrico County, Virginia",285.0,126.0,94.0,05000US51087,51,087,D,Owner,1939-,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",280.0,162.0,95.0,05000US51087,51,087,D,Owner,1939-,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",20.0,35.0,96.0,05000US51087,51,087,D,Owner,1939-,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,97.0,05000US51087,51,087,D,Owner,1939-,50.1-80% AMI,N/A
+"Henrico County, Virginia",450.0,165.0,98.0,05000US51087,51,087,S,Owner,1939-,80.1-120% AMI,All
+"Henrico County, Virginia",390.0,148.0,99.0,05000US51087,51,087,D,Owner,1939-,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",60.0,56.0,100.0,05000US51087,51,087,D,Owner,1939-,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,101.0,05000US51087,51,087,D,Owner,1939-,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,102.0,05000US51087,51,087,D,Owner,1939-,80.1-120% AMI,N/A
+"Henrico County, Virginia",955.0,231.0,103.0,05000US51087,51,087,S,Owner,1939-,>120% AMI,All
+"Henrico County, Virginia",925.0,225.0,104.0,05000US51087,51,087,D,Owner,1939-,>120% AMI,No cost burden
+"Henrico County, Virginia",35.0,41.0,105.0,05000US51087,51,087,D,Owner,1939-,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,106.0,05000US51087,51,087,D,Owner,1939-,>120% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,107.0,05000US51087,51,087,D,Owner,1939-,>120% AMI,N/A
+"Henrico County, Virginia",38255.0,1520.0,108.0,05000US51087,51,087,S,Renter,All,All,All
+"Henrico County, Virginia",4630.0,510.0,109.0,05000US51087,51,087,S,Renter,2000+,All,All
+"Henrico County, Virginia",1675.0,354.0,110.0,05000US51087,51,087,S,Renter,2000+,<=50% AMI,All
+"Henrico County, Virginia",190.0,118.0,111.0,05000US51087,51,087,D,Renter,2000+,<=50% AMI,No cost burden
+"Henrico County, Virginia",380.0,176.0,112.0,05000US51087,51,087,D,Renter,2000+,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",905.0,274.0,113.0,05000US51087,51,087,D,Renter,2000+,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",200.0,149.0,114.0,05000US51087,51,087,D,Renter,2000+,<=50% AMI,N/A
+"Henrico County, Virginia",1040.0,305.0,115.0,05000US51087,51,087,S,Renter,2000+,50.1-80% AMI,All
+"Henrico County, Virginia",560.0,229.0,116.0,05000US51087,51,087,D,Renter,2000+,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",335.0,184.0,117.0,05000US51087,51,087,D,Renter,2000+,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",75.0,73.0,118.0,05000US51087,51,087,D,Renter,2000+,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",70.0,117.0,119.0,05000US51087,51,087,D,Renter,2000+,50.1-80% AMI,N/A
+"Henrico County, Virginia",800.0,240.0,120.0,05000US51087,51,087,S,Renter,2000+,80.1-120% AMI,All
+"Henrico County, Virginia",715.0,232.0,121.0,05000US51087,51,087,D,Renter,2000+,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",15.0,29.0,122.0,05000US51087,51,087,D,Renter,2000+,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",15.0,25.0,123.0,05000US51087,51,087,D,Renter,2000+,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",55.0,92.0,124.0,05000US51087,51,087,D,Renter,2000+,80.1-120% AMI,N/A
+"Henrico County, Virginia",1120.0,277.0,125.0,05000US51087,51,087,S,Renter,2000+,>120% AMI,All
+"Henrico County, Virginia",1025.0,278.0,126.0,05000US51087,51,087,D,Renter,2000+,>120% AMI,No cost burden
+"Henrico County, Virginia",35.0,43.0,127.0,05000US51087,51,087,D,Renter,2000+,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,128.0,05000US51087,51,087,D,Renter,2000+,>120% AMI,Severe cost burden
+"Henrico County, Virginia",60.0,82.0,129.0,05000US51087,51,087,D,Renter,2000+,>120% AMI,N/A
+"Henrico County, Virginia",13555.0,988.0,130.0,05000US51087,51,087,S,Renter,1980 to 1999,All,All
+"Henrico County, Virginia",4435.0,600.0,131.0,05000US51087,51,087,S,Renter,1980 to 1999,<=50% AMI,All
+"Henrico County, Virginia",450.0,240.0,132.0,05000US51087,51,087,D,Renter,1980 to 1999,<=50% AMI,No cost burden
+"Henrico County, Virginia",1470.0,394.0,133.0,05000US51087,51,087,D,Renter,1980 to 1999,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",2120.0,471.0,134.0,05000US51087,51,087,D,Renter,1980 to 1999,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",395.0,196.0,135.0,05000US51087,51,087,D,Renter,1980 to 1999,<=50% AMI,N/A
+"Henrico County, Virginia",3335.0,591.0,136.0,05000US51087,51,087,S,Renter,1980 to 1999,50.1-80% AMI,All
+"Henrico County, Virginia",1580.0,315.0,137.0,05000US51087,51,087,D,Renter,1980 to 1999,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",1650.0,439.0,138.0,05000US51087,51,087,D,Renter,1980 to 1999,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",65.0,65.0,139.0,05000US51087,51,087,D,Renter,1980 to 1999,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",40.0,47.0,140.0,05000US51087,51,087,D,Renter,1980 to 1999,50.1-80% AMI,N/A
+"Henrico County, Virginia",3035.0,616.0,141.0,05000US51087,51,087,S,Renter,1980 to 1999,80.1-120% AMI,All
+"Henrico County, Virginia",2920.0,621.0,142.0,05000US51087,51,087,D,Renter,1980 to 1999,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",75.0,60.0,143.0,05000US51087,51,087,D,Renter,1980 to 1999,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",20.0,35.0,144.0,05000US51087,51,087,D,Renter,1980 to 1999,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",20.0,36.0,145.0,05000US51087,51,087,D,Renter,1980 to 1999,80.1-120% AMI,N/A
+"Henrico County, Virginia",2755.0,507.0,146.0,05000US51087,51,087,S,Renter,1980 to 1999,>120% AMI,All
+"Henrico County, Virginia",2605.0,506.0,147.0,05000US51087,51,087,D,Renter,1980 to 1999,>120% AMI,No cost burden
+"Henrico County, Virginia",80.0,34.0,148.0,05000US51087,51,087,D,Renter,1980 to 1999,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",20.0,35.0,149.0,05000US51087,51,087,D,Renter,1980 to 1999,>120% AMI,Severe cost burden
+"Henrico County, Virginia",50.0,48.0,150.0,05000US51087,51,087,D,Renter,1980 to 1999,>120% AMI,N/A
+"Henrico County, Virginia",14305.0,1037.0,151.0,05000US51087,51,087,S,Renter,1960 to 1979,All,All
+"Henrico County, Virginia",5230.0,557.0,152.0,05000US51087,51,087,S,Renter,1960 to 1979,<=50% AMI,All
+"Henrico County, Virginia",625.0,232.0,153.0,05000US51087,51,087,D,Renter,1960 to 1979,<=50% AMI,No cost burden
+"Henrico County, Virginia",1990.0,492.0,154.0,05000US51087,51,087,D,Renter,1960 to 1979,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",2275.0,409.0,155.0,05000US51087,51,087,D,Renter,1960 to 1979,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",340.0,185.0,156.0,05000US51087,51,087,D,Renter,1960 to 1979,<=50% AMI,N/A
+"Henrico County, Virginia",3785.0,630.0,157.0,05000US51087,51,087,S,Renter,1960 to 1979,50.1-80% AMI,All
+"Henrico County, Virginia",2335.0,481.0,158.0,05000US51087,51,087,D,Renter,1960 to 1979,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",1330.0,399.0,159.0,05000US51087,51,087,D,Renter,1960 to 1979,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",115.0,76.0,160.0,05000US51087,51,087,D,Renter,1960 to 1979,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",0.0,161.0,161.0,05000US51087,51,087,D,Renter,1960 to 1979,50.1-80% AMI,N/A
+"Henrico County, Virginia",3120.0,516.0,162.0,05000US51087,51,087,S,Renter,1960 to 1979,80.1-120% AMI,All
+"Henrico County, Virginia",2800.0,502.0,163.0,05000US51087,51,087,D,Renter,1960 to 1979,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",250.0,148.0,164.0,05000US51087,51,087,D,Renter,1960 to 1979,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",50.0,43.0,165.0,05000US51087,51,087,D,Renter,1960 to 1979,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",20.0,34.0,166.0,05000US51087,51,087,D,Renter,1960 to 1979,80.1-120% AMI,N/A
+"Henrico County, Virginia",2175.0,521.0,167.0,05000US51087,51,087,S,Renter,1960 to 1979,>120% AMI,All
+"Henrico County, Virginia",2000.0,525.0,168.0,05000US51087,51,087,D,Renter,1960 to 1979,>120% AMI,No cost burden
+"Henrico County, Virginia",75.0,54.0,169.0,05000US51087,51,087,D,Renter,1960 to 1979,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",30.0,38.0,170.0,05000US51087,51,087,D,Renter,1960 to 1979,>120% AMI,Severe cost burden
+"Henrico County, Virginia",70.0,60.0,171.0,05000US51087,51,087,D,Renter,1960 to 1979,>120% AMI,N/A
+"Henrico County, Virginia",5160.0,702.0,172.0,05000US51087,51,087,S,Renter,1940 to 1959,All,All
+"Henrico County, Virginia",1835.0,366.0,173.0,05000US51087,51,087,S,Renter,1940 to 1959,<=50% AMI,All
+"Henrico County, Virginia",165.0,152.0,174.0,05000US51087,51,087,D,Renter,1940 to 1959,<=50% AMI,No cost burden
+"Henrico County, Virginia",435.0,208.0,175.0,05000US51087,51,087,D,Renter,1940 to 1959,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",1005.0,322.0,176.0,05000US51087,51,087,D,Renter,1940 to 1959,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",225.0,109.0,177.0,05000US51087,51,087,D,Renter,1940 to 1959,<=50% AMI,N/A
+"Henrico County, Virginia",1390.0,416.0,178.0,05000US51087,51,087,S,Renter,1940 to 1959,50.1-80% AMI,All
+"Henrico County, Virginia",790.0,313.0,179.0,05000US51087,51,087,D,Renter,1940 to 1959,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",530.0,241.0,180.0,05000US51087,51,087,D,Renter,1940 to 1959,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",35.0,39.0,181.0,05000US51087,51,087,D,Renter,1940 to 1959,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",35.0,45.0,182.0,05000US51087,51,087,D,Renter,1940 to 1959,50.1-80% AMI,N/A
+"Henrico County, Virginia",1220.0,348.0,183.0,05000US51087,51,087,S,Renter,1940 to 1959,80.1-120% AMI,All
+"Henrico County, Virginia",1065.0,340.0,184.0,05000US51087,51,087,D,Renter,1940 to 1959,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",105.0,91.0,185.0,05000US51087,51,087,D,Renter,1940 to 1959,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,186.0,05000US51087,51,087,D,Renter,1940 to 1959,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",50.0,53.0,187.0,05000US51087,51,087,D,Renter,1940 to 1959,80.1-120% AMI,N/A
+"Henrico County, Virginia",715.0,299.0,188.0,05000US51087,51,087,S,Renter,1940 to 1959,>120% AMI,All
+"Henrico County, Virginia",700.0,292.0,189.0,05000US51087,51,087,D,Renter,1940 to 1959,>120% AMI,No cost burden
+"Henrico County, Virginia",0.0,161.0,190.0,05000US51087,51,087,D,Renter,1940 to 1959,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,191.0,05000US51087,51,087,D,Renter,1940 to 1959,>120% AMI,Severe cost burden
+"Henrico County, Virginia",15.0,24.0,192.0,05000US51087,51,087,D,Renter,1940 to 1959,>120% AMI,N/A
+"Henrico County, Virginia",600.0,278.0,193.0,05000US51087,51,087,S,Renter,1939-,All,All
+"Henrico County, Virginia",150.0,125.0,194.0,05000US51087,51,087,S,Renter,1939-,<=50% AMI,All
+"Henrico County, Virginia",75.0,107.0,195.0,05000US51087,51,087,D,Renter,1939-,<=50% AMI,No cost burden
+"Henrico County, Virginia",20.0,37.0,196.0,05000US51087,51,087,D,Renter,1939-,<=50% AMI,Moderate cost burden
+"Henrico County, Virginia",35.0,40.0,197.0,05000US51087,51,087,D,Renter,1939-,<=50% AMI,Severe cost burden
+"Henrico County, Virginia",20.0,36.0,198.0,05000US51087,51,087,D,Renter,1939-,<=50% AMI,N/A
+"Henrico County, Virginia",210.0,165.0,199.0,05000US51087,51,087,S,Renter,1939-,50.1-80% AMI,All
+"Henrico County, Virginia",160.0,157.0,200.0,05000US51087,51,087,D,Renter,1939-,50.1-80% AMI,No cost burden
+"Henrico County, Virginia",35.0,41.0,201.0,05000US51087,51,087,D,Renter,1939-,50.1-80% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,202.0,05000US51087,51,087,D,Renter,1939-,50.1-80% AMI,Severe cost burden
+"Henrico County, Virginia",15.0,24.0,203.0,05000US51087,51,087,D,Renter,1939-,50.1-80% AMI,N/A
+"Henrico County, Virginia",135.0,77.0,204.0,05000US51087,51,087,S,Renter,1939-,80.1-120% AMI,All
+"Henrico County, Virginia",95.0,65.0,205.0,05000US51087,51,087,D,Renter,1939-,80.1-120% AMI,No cost burden
+"Henrico County, Virginia",15.0,30.0,206.0,05000US51087,51,087,D,Renter,1939-,80.1-120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,207.0,05000US51087,51,087,D,Renter,1939-,80.1-120% AMI,Severe cost burden
+"Henrico County, Virginia",20.0,36.0,208.0,05000US51087,51,087,D,Renter,1939-,80.1-120% AMI,N/A
+"Henrico County, Virginia",115.0,127.0,209.0,05000US51087,51,087,S,Renter,1939-,>120% AMI,All
+"Henrico County, Virginia",90.0,123.0,210.0,05000US51087,51,087,D,Renter,1939-,>120% AMI,No cost burden
+"Henrico County, Virginia",0.0,161.0,211.0,05000US51087,51,087,D,Renter,1939-,>120% AMI,Moderate cost burden
+"Henrico County, Virginia",0.0,161.0,212.0,05000US51087,51,087,D,Renter,1939-,>120% AMI,Severe cost burden
+"Henrico County, Virginia",25.0,43.0,213.0,05000US51087,51,087,D,Renter,1939-,>120% AMI,N/A
